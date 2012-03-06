@@ -1,0 +1,1876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "Aktuelle Version"
+
+msgid "Downloading update file:"
+msgstr "Herunterladen der Aktualisierungsdatei:"
+
+msgid "Unzipping file:"
+msgstr "Entpacken der Datei:"
+
+msgid "Copying old files:"
+msgstr "Kopieren alter Dateien:"
+
+msgid "Removing new files:"
+msgstr "Löschen neuer Dateien:"
+
+msgid "Executing SQL:"
+msgstr "Ausführen der SQL-Skripte:"
+
+msgid "Executing additional actions:"
+msgstr "Ausführen zusätzlicher Schritte:"
+
+msgid "Cleaning all the mess:"
+msgstr "Aufräumen:"
+
+msgid "Contact"
+msgstr "Kontaktieren"
+
+msgid "My account"
+msgstr "Mein Konto"
+
+msgid "Logout"
+msgstr "Ausloggen"
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Log in"
+msgstr "Einloggen"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Select a category"
+msgstr "Wählen Sie eine Kategorie"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Item"
+msgstr "Anzeige"
+
+msgid "Category"
+msgstr "Kategorien"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Add new photo"
+msgstr "Neues Foto hinzufügen"
+
+msgid "Location"
+msgstr "Ort"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Bundesland"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "City area"
+msgstr "Bezirk"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "City Area"
+msgstr "Bezirk"
+
+msgid "Name"
+msgstr "Namen"
+
+msgid "Mark as"
+msgstr "Markieren als"
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Comment"
+msgstr "Kommentieren"
+
+msgid "Apply"
+msgstr "Bestätigen"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Diese Aktion kann nicht rückgängig gemacht werden. Soll sie dennoch durchgeführt werden?"
+
+msgid "Current password"
+msgstr "Aktuelles Passwort"
+
+msgid "New pasword"
+msgstr "Neues Passwort"
+
+msgid "Repeat new pasword"
+msgstr "Neues Passwort wiederholen"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Remember me"
+msgstr "Angemeldet bleiben"
+
+msgid "Cell phone"
+msgstr "Handy"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Webseite"
+
+msgid "Passwords don't match"
+msgstr "Passwörter stimmen nicht überein"
+
+msgid "Create"
+msgstr "Erstellen"
+
+msgid "The categories have been deleted"
+msgstr "Die Kategorien wurden gelöscht"
+
+msgid "no action defined"
+msgstr "keine Aktion definiert"
+
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Checking for update files."
+msgstr "Suche nach Update-Dateien."
+
+msgid "File downloaded correctly"
+msgstr "Datei korrekt heruntergeladen"
+
+msgid "Missing filename"
+msgstr "Fehlende Dateinamen"
+
+msgid "Removing temp-directory"
+msgstr "temp-Verzeichnis entfernen"
+
+msgid "Archiving is sucessful!"
+msgstr "Die Archivierung ist erfolgreich!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Fehler, es konnte keine zip-Datei erstellt werden!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Entpacken fehlgeschlagen"
+
+msgid "Filename incorrect"
+msgstr "Dateiname nicht korrekt"
+
+msgid "Files removed"
+msgstr "Dateien entfernt"
+
+msgid "No files to remove"
+msgstr "Keine dateien zu entfernen"
+
+msgid "There were problems copying files"
+msgstr "Es gab Probleme beim Kopieren von Dateien"
+
+msgid "Nothing to copy"
+msgstr "Nichts zu kopieren"
+
+msgid "Files copied"
+msgstr "Dateien kopiert"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql ausgef&uuml;hrt"
+
+msgid "No SQL to execute"
+msgstr "Kein SQL zum ausf&uuml;ren"
+
+msgid "Custom actions executed"
+msgstr "Benutzerdefinierte Aktionen ausgeführt"
+
+msgid "No action to execute"
+msgstr "Keine Aktion, die ausgeführt werden könnte."
+
+msgid "Checking for update files"
+msgstr "Suchen nach update dateien"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Es gab Probleme beim Kopieren von Dateien. Vielleicht ist die Datei-berechtigungen werden nicht korrekt eingestellt"
+
+msgid "Tables updated correctly"
+msgstr "Tabellen korrekt aktualisiert"
+
+msgid "No tables update to execute"
+msgstr "Keine Tabellen zum Aktualisieren vorhanden"
+
+msgid "View comments"
+msgstr "Kommentare ansehen"
+
+msgid "View media"
+msgstr "Medien ansehen"
+
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+msgid "Unmark as premium"
+msgstr "PREMIUM-Markierung aufheben"
+
+msgid "Mark as premium"
+msgstr "Als PREMIUM markieren"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds Admin Konsole Einloggen"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Forgot your password?"
+msgstr "Passwort vergessen?"
+
+msgid "Back to"
+msgstr "Zurück zu"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Bitte geben Sie Ihren Benutzernamen und Ihre E-Mail-Adresse"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Sie erhalten ein neues Passwort per Email"
+
+msgid "Get new password"
+msgstr "Neues Passwort"
+
+msgid "Thank you for using"
+msgstr "Danke f&uuml;r das Nutzen von"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Admin Konsole"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s ist erhältlich!"
+
+msgid "Please upgrade now"
+msgstr "Bitte aktualisieren Sie jetzt"
+
+msgid "Visit website"
+msgstr "Besuch die Webseite"
+
+msgid "Hi"
+msgstr "Hallo"
+
+msgid "Your profile"
+msgstr "Ihr Profil"
+
+msgid "Log Out"
+msgstr "Abmelden"
+
+msgid "Admins"
+msgstr "Administratoren"
+
+msgid "Add new admin"
+msgstr "Admin hinzufügen"
+
+msgid "Real name"
+msgstr "Wirklicher Name"
+
+msgid "required"
+msgstr "erforderlich"
+
+msgid "User name"
+msgstr "Benutzername"
+
+msgid "Edit admin"
+msgstr "Admin ändern"
+
+msgid "New password"
+msgstr "Neues Passwort"
+
+msgid "Re-type new password"
+msgstr "Passwort wiederholen"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Lassen Sie dieses Feld frei, wenn Sie Ihr Passwort nicht ändern möchten"
+
+msgid "Processing"
+msgstr "Bearbeitung"
+
+msgid "Show _MENU_ entries"
+msgstr "Zeige _MENU_ Eintr&auml;ge"
+
+msgid "No matching records found"
+msgstr "Keine passenden Einträge gefunden"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Zeige _START_ bis _END_ aus _TOTAL_ Eintr&auml;ge"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Zeige 0 bis 0 von 0 Einträgen an"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "gefiltert aus _MAX_ gesamten Eintr&auml;gen"
+
+msgid "First"
+msgstr "Erste"
+
+msgid "Previous"
+msgstr "Zurück"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Last"
+msgstr "Letzte"
+
+msgid "Show"
+msgstr "Zeige"
+
+msgid "entries"
+msgstr "Eintragungen"
+
+msgid "Bulk actions"
+msgstr "Massenaktionen"
+
+msgid "Dashboard"
+msgstr "Übersicht"
+
+msgid "Theme package"
+msgstr "Theme-Paket"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Um das Verzeichnis unter UNIX beschreibbar zu machen, f&uuml;hren Sie dieses Kommando aus der Shell aus."
+
+msgid "Dashboard - Add New Widget"
+msgstr "Übersicht - Widget hinzufügen"
+
+msgid "Create widget in %s"
+msgstr "Erstellen Widget in %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Beschreibung (nur für interne Zwecke)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML-Code für Widget"
+
+msgid "Publish widget"
+msgstr "Widget veröffentlichen"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Sicher, dass Sie abbrechen wollen?"
+
+msgid "Appearance"
+msgstr "Aufmachung"
+
+msgid "Add a new theme"
+msgstr "Design hinzufügen"
+
+msgid "Current theme"
+msgstr "Derzeitiges Design"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Available themes"
+msgstr "Vorhandenen Designs"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Add HTML widget"
+msgstr "HTML-Widget hinzufügen"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Expirations days"
+msgstr "Ablauf nach Tagen"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = läuft nicht ab)"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Disable"
+msgstr "Deaktivieren"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Enable"
+msgstr "Aktivieren"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Ung&uuml;ltige OpenSourceClassifieds-Anfrage"
+
+msgid "Edit comment"
+msgstr "Kommentar bearbeiten"
+
+msgid "Add a comment"
+msgstr "Kommentar hinzufügen"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "You have to write a title."
+msgstr "Sie m&uuml;ssen einen Titel angeben."
+
+msgid "You have to write a comment."
+msgstr "Sie m&uuml;ssen einen Kommentar schreiben."
+
+msgid "Author's name can not be empty."
+msgstr "Autorenname kann nicht leer bleiben."
+
+msgid "Author's email can not be empty."
+msgstr "Verkäufer E-Mail darf nicht leer sein."
+
+msgid "Edit a comment on item:"
+msgstr "Kommentar über Anzeige ändern"
+
+msgid "View"
+msgstr "Ansicht"
+
+msgid "Edit user"
+msgstr "Benutzer &auml;ndern"
+
+msgid "Author's e-mail"
+msgstr "Autoren-E-Mail"
+
+msgid "Status"
+msgstr "Zustand"
+
+msgid "De-activate"
+msgstr "Deaktivieren"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Manage Comments"
+msgstr "Kommentare verwalten"
+
+msgid "Edit email/alert"
+msgstr "E-Mail/Benachrichtigung ändern"
+
+msgid "Add an email/alert"
+msgstr "E-Mail/Benachrichtigung hinzufügen"
+
+msgid "Emails & Alerts"
+msgstr "E-Mails &amp; Warnungen"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Interner Name (zur bessern Identifizierung der E-Mail/Benachrichtigung)"
+
+msgid "Emails & alerts"
+msgstr "E-Mails &amp; Benachrichtigungen"
+
+msgid "Items"
+msgstr "Anzeigen"
+
+msgid "Manage items"
+msgstr "Anzeigen verwalten"
+
+msgid "Add new item"
+msgstr "Anzeigen hinzufügen"
+
+msgid "Manage media"
+msgstr "Medien verwalten"
+
+msgid "Manage categories"
+msgstr "Kategorien verwalten"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Manage pages"
+msgstr "Seiten verwalten"
+
+msgid "Create page"
+msgstr "Seite erstellen"
+
+msgid "Manage emails & alerts"
+msgstr "E-Mails &amp; Benachrichtigungen verwalten"
+
+msgid "Manage themes"
+msgstr "Designs verwalten"
+
+msgid "Add or remove widgets"
+msgstr "Widget hinzuf&uuml;gen oder l&ouml;schen"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Manage plugins"
+msgstr "Plugins verwalten"
+
+msgid "Add new plugin"
+msgstr "Neues Plugin hinzufügen"
+
+msgid "Languages"
+msgstr "Sprachen"
+
+msgid "Manage languages"
+msgstr "Sprachen verwalten"
+
+msgid "Add a language"
+msgstr "Sprache hinzufügen"
+
+msgid "General settings"
+msgstr "Grundeinstellungen"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Locations"
+msgstr "Standorte"
+
+msgid "Permalinks"
+msgstr "Permalinks"
+
+msgid "Spam and bots"
+msgstr "Spam und Bots"
+
+msgid "Currencies"
+msgstr "Währungen"
+
+msgid "Mail Server"
+msgstr "Mail-Server"
+
+msgid "Media"
+msgstr "Medien"
+
+msgid "Cron system"
+msgstr "Cron system"
+
+msgid "Tools"
+msgstr "Werkzeuge"
+
+msgid "Import data"
+msgstr "Daten importieren"
+
+msgid "Backup data"
+msgstr "Daten sichern"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds aktualisieren"
+
+msgid "Regenerate thumbnails"
+msgstr "Thumbnails neu erstellen"
+
+msgid "Manage users"
+msgstr "Benutzer verwalten"
+
+msgid "Add new user"
+msgstr "Benutzer hinzufügen"
+
+msgid "Administrators"
+msgstr "Administratoren"
+
+msgid "List administrators"
+msgstr "Administratoren verwalten"
+
+msgid "Add new administrator"
+msgstr "Administrator hinzufügen"
+
+msgid "Edit Your Profile"
+msgstr "Profil ändern"
+
+msgid "New item"
+msgstr "Neue Anzeige "
+
+msgid "Edit item"
+msgstr "Anzeige ändern"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "Item posted by"
+msgstr "Anzeige erstellt von"
+
+msgid "Non-registered user"
+msgstr "Nicht registrierter Benutzer"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "General information"
+msgstr "Allgemeine Information"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Diese Aktion kann nicht r&uuml;ckg&auml;ngig gemacht werden. M&ouml;chten Sie fortfahren?"
+
+msgid "Add item"
+msgstr "Anzeige hinzufügen"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Dupliziert"
+
+msgid "Misclassified"
+msgstr "Falsch klassifiziert"
+
+msgid "Offensive"
+msgstr "Anstößig"
+
+msgid "Expired"
+msgstr "Abgelaufen"
+
+msgid "Language package"
+msgstr "Sprach-Paket"
+
+msgid "Short name"
+msgstr "Kurzbezeichnung"
+
+msgid "Currency format"
+msgstr "Währungs-Format"
+
+msgid "Date format"
+msgstr "Datumsformat"
+
+msgid "Stopwords"
+msgstr "Stoppwörter"
+
+msgid "Enabled for the public website"
+msgstr "Aktiviert für die öffentliche Website"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Aktiviert für das Backoffice (OC-admin)"
+
+msgid "Disable (website)"
+msgstr "Deaktivieren (Webseite)"
+
+msgid "Disable (oc-admin)"
+msgstr "Deaktivieren (oc-admin)"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Enabled (website)"
+msgstr "Aktivieren (Webseite)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Aktivieren (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Massenaktion"
+
+msgid "Enable (Website)"
+msgstr "Aktivieren (Webseite)"
+
+msgid "Disable (Website)"
+msgstr "Deaktivieren (Webseite)"
+
+msgid "Enable (oc-admin)"
+msgstr "Aktivieren (oc-admin)"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Welches der folgenden Elemente möchten Sie in der Übersicht sehen"
+
+msgid "Latest items"
+msgstr "Neueste Anzeigen"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Latest comments"
+msgstr "Letzte Kommentare"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Aktuelle Nachrichten aus OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Anzeigen nach Kategorien"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Noch keine hochgeladenen Anzeigen vorhanden"
+
+msgid "Number of items"
+msgstr "Anzahl der Anzeigen"
+
+msgid "Number of public users"
+msgstr "Anzahl der öffentlichen Benutzer"
+
+msgid "Number of administrators"
+msgstr "Anzahl der Administratoren"
+
+msgid "Commented on item"
+msgstr "Kommentar zu Anzeige"
+
+msgid "There aren't any comments yet"
+msgstr "Noch keine Kommentare"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "Attached to"
+msgstr "Verbunden mit"
+
+msgid "Edit page"
+msgstr "Seite bearbeiten"
+
+msgid "Add page"
+msgstr "Seite hinzufügen"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Interner Name (zur bessern Identifizierung)"
+
+msgid "Add a new plugin"
+msgstr "Hinzufügen eines neuen Plugins"
+
+msgid "Plugin package"
+msgstr "Plugin-Paket"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Der Plugin-Ordner %s hat keine Schreibrechte"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds kann keine Plugins aus dem Administrationsbereich hochladen"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Bitte laden Sie das Plugin-Paket mittels FTP oder SSH auf den Server oder setzen Sie für den entsprechenden Ordner die Schreibrechte"
+
+msgid "Preset categories"
+msgstr "Voreingestellte Kategorien"
+
+msgid "Check all"
+msgstr "Alles auswählen"
+
+msgid "Uncheck all"
+msgstr "Auswahl für alle aufheben"
+
+msgid "Configure"
+msgstr "Konfigurieren"
+
+msgid "There's a new version. You should update!"
+msgstr "Es gibt eine neue Version. Sie sollten zu aktualisieren!"
+
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+msgid "Install"
+msgstr "Installieren"
+
+msgid "Create currency"
+msgstr "Währung erstellen"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "It should be a three-character code"
+msgstr "Es sollte ein 3-Buchstaben-Code sein."
+
+msgid "Comments settings"
+msgstr "Kommentareinstellungen"
+
+msgid "Comments enabled"
+msgstr "Kommentare aktiviert"
+
+msgid "Moderate comments"
+msgstr "Kommentare freischalten"
+
+msgid "Notifications"
+msgstr "Meldungen"
+
+msgid "Contact settings"
+msgstr "Kontakteinstellungen"
+
+msgid "Attachment enabled"
+msgstr "Anhänge aktiviert"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Einige OpenSourceClassifieds-Fuktionen benötigen einen Cron Job. Setzen Sie den Haken, wenn Ihr Anbieter dies nicht anbietet. Setzen Sie keinen Haken, wenn Sie den Cron Job manuell anlegen möchten. Ziehen Sie nötigenfalls die Beschreibung zur Hilfe, um mehr über das OpenSourceClassifieds-Cron-System zu erfahren."
+
+msgid "Edit currency"
+msgstr "Währung ändern"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Einmal erstellt, kann es nicht mehr modifiziert werden."
+
+msgid "Page title"
+msgstr "Seitentitel"
+
+msgid "Page description"
+msgstr "Seitenbeschreibung"
+
+msgid "Admin e-mail"
+msgstr "Admin E-Mail"
+
+msgid "Default language"
+msgstr "Standard-Sprache"
+
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+msgid "Default currency"
+msgstr "Standard-Währung"
+
+msgid "Week starts on"
+msgstr "Woche beginnt am"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Time format"
+msgstr "Zeitformat"
+
+msgid "Number of items in the RSS"
+msgstr "Anzahl der Anzeigen im RSS-Feed"
+
+msgid "Only allow registered users to post items"
+msgstr "Nur registrierten Benutzern ist es erlaubt, Anzeigen aufzugeben"
+
+msgid "Notify admin of new items"
+msgstr "Admin über neue Anzeige informieren"
+
+msgid "Notify admin of contact items"
+msgstr "Admin über kontaktierte Anzeigen informieren"
+
+msgid "Notify admin of share"
+msgstr "Benachrichtige Admin über Veröffentlichungen"
+
+msgid "Optional fields"
+msgstr "Optionale Felder"
+
+msgid "Enable price"
+msgstr "Preis aktivieren"
+
+msgid "Enable images"
+msgstr "Fotos aktivieren"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "View more"
+msgstr "Zeige mehr"
+
+msgid "Countries"
+msgstr "Länder"
+
+msgid "Add new"
+msgstr "Neuen hinzufügen"
+
+msgid "Regions"
+msgstr "Bundesländer"
+
+msgid "Cities"
+msgstr "Orte"
+
+msgid "Add new country"
+msgstr "Neues Land hinzufügen "
+
+msgid "Country code"
+msgstr "Ländercode"
+
+msgid "Country code should have two characters"
+msgstr "Ländercode muss aus zwei Buchstaben bestehen"
+
+msgid "Edit country"
+msgstr "Land ändern"
+
+msgid "Add new region"
+msgstr "Bundesland hinzufügen"
+
+msgid "Edit region"
+msgstr "Bundesland ändern"
+
+msgid "Add new city"
+msgstr "Stadt hinzufügen"
+
+msgid "Edit city"
+msgstr "Stadt bearbeiten"
+
+msgid "Mail server"
+msgstr "Mailserver"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Server type"
+msgstr "Server-Typ"
+
+msgid "Custom Server"
+msgstr "Eigener SMTP-Server"
+
+msgid "GMail Server"
+msgstr "Googlemail-Server"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "Server port"
+msgstr "Port des Servers"
+
+msgid "Encryption"
+msgstr "Verschlüsselung"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Optionen: blank, ssl oder tls"
+
+msgid "Enable SMTP authentication"
+msgstr "SMTP-Authentisierung ermöglichen"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Media settings"
+msgstr "Medieneinstellungen"
+
+msgid "Configure media"
+msgstr "Konfiguriere Medien"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Bitte setzen Sie die bevorzugten Gr&ouml;&szlig;en für alle Bilder auf der Webseite. (Format: Breite x H&ouml;he, z.B. 640x480)"
+
+msgid "Restrictions"
+msgstr "Beschränkungen"
+
+msgid "Maximum size, in KB"
+msgstr "Maximale Größe, in KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Erlaubte Formate von Anhängen (z.B.: png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Abmessungen"
+
+msgid "Thumbnail dimensions"
+msgstr "Thumbnail-Abmessungen"
+
+msgid "Preview dimensions"
+msgstr "Vorschau-Abmessungen"
+
+msgid "Normal dimensions"
+msgstr "Normale Abmessungen"
+
+msgid "Keep original image"
+msgstr "Originalfoto behalten"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Das Originalfoto bedarf mehr Speicherplatz. Diese Option stellt sicher, dass die Qualität der Datei unverändert bleibt. Bitte seien Sie vorsichtig mit dieser Option."
+
+msgid "Permalinks settings"
+msgstr "Permalinks-Einstellungen"
+
+msgid "Friendly urls"
+msgstr "Freundliche URLs"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "Standardm&auml;&szlig;ig nutzt OpenSourceClassifieds Web-URLs, die Fragezeichen und viele Zahlen verwenden. Allerdings bietet Ihnen OpenSourceClassifieds auch freundliche URLs. Dies kann die Ästhetik, Benutzung und zukunftsgerichtete Kompatibilit&auml;t Ihres Links verbessern."
+
+msgid "Enable friendly urls"
+msgstr "Aktiviere suchmaschinenfreundliche URLs"
+
+msgid ".htaccess file"
+msgstr ". htaccess Datei"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Modul <em>mod_rewrite</em> wurde auf diesem Server gefunden."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Fehler! Die .htaccess-Datei konnte nicht auf Ihren Server geschrieben werden. Bitte erstellen Sie die Datei .htaccess im root-Verzeichnis Ihrer OpenSourceClassifieds-Installation mit folgendem Inhalt."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr ".htaccess-Datei besteht bereits. Bitte stellen Sie sicher, dass die .htaccess-Datei folgenden Inhalt hat."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Wir haben eine .htaccess-Datei im root-Verzeichnis Ihrer OpenSourceClassifieds-Installation erstellt."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Inhalt der .htaccess datei sollte wie folgt aussehen:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Derzeitiger Inhalt Ihrer .htaccess-Datei"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet Schlüssel (wie Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Wenn das feld leer ist, weil die Akismet-Dienst deaktiviert ist"
+
+msgid "Get your free key at"
+msgstr "Erhalte freien Schlüssel bei"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Sollte dieses Feld leer sein, ist reCAPTCHA deaktiviert."
+
+msgid "Get your free keys at"
+msgstr "Erhalte freien Schlüssel bei"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA privater Schlüssel"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA öffentlicher Schlüssel"
+
+msgid "Users settings"
+msgstr "Benutzereinstellungen"
+
+msgid "User validation enabled"
+msgstr "Benutzerbestätigung aktiviert"
+
+msgid "User registration enabled"
+msgstr "Benutzer-Registrierung aktiviert"
+
+msgid "Backup"
+msgstr "Sicherungskopie"
+
+msgid "You're offline! Please check your connection"
+msgstr "Sie sind offline! Bitte überprüfen Sie Ihre Verbindung"
+
+msgid "Requested URL not found"
+msgstr "Angeforderte URL nicht gefunden"
+
+msgid "Internal server error"
+msgstr "Interner Server-Fehler"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Fehler! Das Parsen von JSON ist fehlgeschlagen"
+
+msgid "Request timeout"
+msgstr "Anfrage-Timeout"
+
+msgid "Unknown error"
+msgstr "Unbekannter Fehler"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Sicherungskopie OpenSourceClassifieds"
+
+msgid "Backup folder"
+msgstr "Backup-Ordner"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "In diesem Ordner werden Ihre Sicherungen abgelegt. Wir empfehlen hierzu einen nicht-&ouml;ffentlichen Ordner. Für weitere Informationen lesen Sie bitte die OpenSourceClassifieds-Dokumentation"
+
+msgid "Back up database"
+msgstr "Datenbank sichern"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Sicherungskopie OpenSourceClassifieds Installation"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Hier können Sie Ihre Thumbnails und Vorschau-Bilder erstellen. Dies ist hilfreich, wenn Sie Ihr Design geändert haben und Bilder nicht richtig angezeigt werden. Überprüfen Sie die Bild-Größen, die in den Einstellungen/Medien definiert sind."
+
+msgid "Data"
+msgstr "Daten"
+
+msgid "Upgrade"
+msgstr "Aktualisieren"
+
+msgid "Re-type the password"
+msgstr "Passwort wiederholen"
+
+msgid "Additional information"
+msgstr "Weitere Informationen"
+
+msgid "Activate user"
+msgstr "Benutzer aktivieren"
+
+msgid "Deactivate user"
+msgstr "Benutzer deaktivieren"
+
+msgid "Update Date"
+msgstr "Datum aktualisieren"
+
+msgid "Add a new user"
+msgstr "Neuen Benutzer anlegen"
+
+msgid "Admin mail system"
+msgstr "Admin mail system"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Dem Plugin %s fehlt die index.php-Datei %s"
+
+msgid "Enter your e-mail"
+msgstr "E-Mail-Adresse eingeben"
+
+msgid "Select a country..."
+msgstr "Land auswählen..."
+
+msgid "Select a region..."
+msgstr "Wählen Sie ein Bundesland"
+
+msgid "Select a city..."
+msgstr "Wählen Sie eine Stadt"
+
+msgid "No results"
+msgstr "Kein Ergebnis"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "User Description"
+msgstr "Benutzer Beschreibung"
+
+msgid "Check with seller"
+msgstr "Überprüfen Sie mit Verkäufer"
+
+msgid "Free"
+msgstr "Kostenlos"
+
+msgid "Newly listed"
+msgstr "Kürzlich hinzugefügt"
+
+msgid "Lower price first"
+msgstr "Niedrigster Preis zuerst"
+
+msgid "Higher price first"
+msgstr "Höchster Preis zuerst"
+
+msgid "Manage your items"
+msgstr "Verwalten Sie Ihre Anzeigen"
+
+msgid "Manage your alerts"
+msgstr "Benachrichtigungen verwalten"
+
+msgid "%s in"
+msgstr "%s in"
+
+msgid "There's no description available in your language"
+msgstr "Es ist keine Beschreibung in Ihrer Sprache erhältlich"
+
+msgid "Change password"
+msgstr "Passwort &auml;ndern"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Die Aktion kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie fortfahren möchten?"
+
+msgid "User type"
+msgstr "Benutzer Typ"
+
+msgid "Invalid email address"
+msgstr "Ungültige E-Mail-Adresse"
+
+msgid "Latest items added"
+msgstr "Die neusten Anzeigen wurden hinzugefügt"
+
+msgid "Latest items added in"
+msgstr "Die neusten Anzeigen wurden hinzugefügt zu"
+
+msgid "Type your new password"
+msgstr "Neues Passwort eingeben"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Diese Aktion kann nicht rückgängig gemacht werden, möchten Sie fortfahren?"
+
+msgid "It's a registered user"
+msgstr "Ist ein registrierter Benutzer"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Das Übersetzungsverzeichnis ist nicht beschreibbar auf Ihrem Server, daher können Sie keine Übersetzungen aus Ihrem Administrationsverzeichnis hochladen, bitte machen Sie das Verzeichnis beschreibbar"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Um das Verzeichnis unter UNIX beschreibbar zu machen, führen Sie das Kommando in der shell aus"
+
+msgid "new"
+msgstr "neu"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Zur Zeit können keine News abgeholt werde, versuchen Sie es bitte später"
+
+msgid "View page"
+msgstr "Seite ansehen"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Anzahl der Kommentare eines Benutzers, die freigeschaltet werden müssen, bevor die Kommentare automatisch freigeschaltet werden (0: keine automatische Freischaltung)"
+
+msgid "Enable reCAPTCHA"
+msgstr "Aktiviere reCaptcha"
+
+msgid "Enable item validation by users"
+msgstr "Anzeigen durch Benutzer selbst bestätigen lassen"
+
+msgid "Logged users don't need to validate items"
+msgstr "Eingeloggte User benötigen keine Freischaltung"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Bitte geben Sie Ihre e-mail Server Konfiguration ein"
+
+msgid "Users enabled"
+msgstr "Benutzer aktiviert"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Hier können Sie ein Backup von der OpenSourceClassifieds Installation erstellen. Warnung: Wenn Sie kein Verzeichnis angeben, werden die Backup Dateien in das Root Verzeichnis Ihrer Installation gelegt"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Hier können Sie Ihre Datenbank ändern, indem Sie Daten hinzufügen, verändern oder entfernen. Normalerweise werden Länder, Bundesländer oder Städte importiert"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Zufriedene User mit einfacherm auto-upgrade: Done!"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Description: needs to be longer"
+msgstr "Beschreibung: Muss länger sein"
+
+msgid "Choose one category"
+msgstr "Wählen Sie eine Kategorie"
+
+msgid "Currency: make your selection"
+msgstr "Währung: Treffen Sie Ihre Auswahl"
+
+msgid "Photo: must be %s"
+msgstr "Foto: soll sein %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Name: Mindestens 3 Zeichen eingeben"
+
+msgid "Name: no more than 35 characters"
+msgstr "Name: Nicht mehr als 35 Zeichen"
+
+msgid "Email: this field is required"
+msgstr "Email: Dieses Feld ist erforderlich"
+
+msgid "Select a region"
+msgstr "Wählen Sie ein Bundesland"
+
+msgid "Select a city"
+msgstr "Wählen Sie eine Stadt"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Stadt: Bitte geben Sie mindestens 3 Zeichen ein"
+
+msgid "Company"
+msgstr "Unternehmen"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "%S befindet sich im Wartungsmodus. Wir bitten um Ihr Verständnis."
+
+msgid "Error removing file: %s"
+msgstr "Fehler beim Löschen der Datei: %s"
+
+msgid "Some error ocurred"
+msgstr "Ein Fehler ist aufgetreten"
+
+msgid "Order saved"
+msgstr "Reihenfolge gespeichert"
+
+msgid "Error while deleting"
+msgstr "Fehler beim Löschen"
+
+msgid "Error while updating."
+msgstr "Fehler beim Aktualisieren"
+
+msgid "Saved"
+msgstr "Gespeichert"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Herzlichen Glückwunsch, Ihre OpenSourceClassifieds-Installation wurde aktualisiert"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Ihre OpenSourceClassifieds-Installation wurde aktualisiert, aber einige temporäre Dateien konnten nicht gelöscht werden. Bitte löschen Sie das \\\"oc-temp\\\"-Verzeichnis von Hand"
+
+msgid "Problems upgrading the database"
+msgstr "Fehler beim Aktualisieren der Datenbank"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Fehler beim Kopieren der Dateien. Prüfen Sie, ob die Zugriffsrechte richtig gesetzt sind"
+
+msgid "Download failed"
+msgstr "Fehler beim Herunterladen"
+
+msgid "Missing download URL"
+msgstr "Fehlende URL zum Herunterladen"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Nicht alle Dateien konnten gelöscht werden. Das ist kein fataler Fehler, deshalb wurde die Aktualisierung fortgesetzt. Bitte löschen Sie folgende Dateien (OpenSourceClassifieds ist bereits aktuell, aber die Performance kann dadurch verbessert werden)"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Die Datenbank konnte nicht aktualisiert werden. Folgende Abfragen waren fehlerhaft"
+
+msgid "Clear"
+msgstr "Löschen"
+
+msgid "Forums"
+msgstr "Forum"
+
+msgid "Add new theme"
+msgstr "Neues Design erstellen"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Das Design-Verzeichnis \\\"%s\\\" ist schreibgeschützt, OpenSourceClassifieds kann keine Designs aus dem Administrationsbereich hochladen. Kopieren Sie die Dateien per SSH oder FTP oder entfernen Sie den Schreibschutz."
+
+msgid "Ajax error, try again."
+msgstr "\\\"Ajax\\\"-Fehler. Bitte versuchen Sie es erneut."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "Warnung: Es werden auch alle Anzeigen in dieser Kategorie gelöscht. Die Aktion kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Ziehen Sie die Kategorien mit der Maus in die gewünschte Reihenfolge. Klicken Sie auf den Bearbeitungs-Link zum Ändern einer Kategorie."
+
+msgid "Add new category"
+msgstr "Kategorie hinzufügen"
+
+msgid "Categories settings"
+msgstr "Kategorieeinstellungen"
+
+msgid "Selectable parent categories"
+msgstr "Wählbare übergeordnete Kategorien"
+
+msgid "ACTIVE"
+msgstr "AKTIV"
+
+msgid "INACTIVE"
+msgstr "INAKTIV"
+
+msgid "ENABLED"
+msgstr "FREIGEGEBEN"
+
+msgid "DISABLED"
+msgstr "GESPERRT"
+
+msgid "Last Searches"
+msgstr "Letzte Suchanfragen"
+
+msgid "Maintenance mode"
+msgstr "Wartungsmodus"
+
+msgid "Reports"
+msgstr "Berichte"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Anzahl der Anzeigen vom selben Benutzer, die geprüft werden sollen, bevor sie veröffentlicht werden (0: immer Prüfen)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Sekunden, die ein Benutzer vor der Veröffentlichung der nächsten Anzeige warten muss (0: keine Wartezeit)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Nur registrierten Benutzern erlauben, den Verkäufer zu kontaktieren"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Maximale Anzahl Bilder pro Anzeige (0: unbegrenzt)"
+
+msgid "Download more languages at %s"
+msgstr "Herunterladen weiterer Sprachpakete unter %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Diese Aktion kann nicht rückgängig gemacht werden. Deinstallieren von Plugins kann zu einem Datenverlust führen. Möchten Sie fortfahren?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Anzahl der Kommentare pro Seite. Sie können die Anzahl der Kommentare auf der Detailseite einer Anzeige begrenzen. Die anderen Kommentare werden dann durch Blättern angezeigt (0: immer alle Kommentare anzeigen)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Nur registrierten Benutzern erlauben, Kommentare zu schreiben"
+
+msgid "Number of recent items displayed at home"
+msgstr "Anzahl der auf der Startseite dargestellten neuen Anzeigen"
+
+msgid "Save latest searches"
+msgstr "Letzte Suchanfragen speichern"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds kann die letzten Suchanfragen Ihrer Benutzer speichern. So sehen Sie, wonach häufig gesucht wird und können diese Anzeigen besonders hervorheben."
+
+msgid "Keep last searches"
+msgstr "Letzte Suchanfragen speichern"
+
+msgid "One hour"
+msgstr "Eine Stunde"
+
+msgid "One day"
+msgstr "Einen Tag"
+
+msgid "One week"
+msgstr "Eine Woche"
+
+msgid "Forever (never delete)"
+msgstr "Immer (nie löschen)"
+
+msgid "Keep last 1000 searches"
+msgstr "Die letzten 10000 Suchanfragen speichern"
+
+msgid "Number of files to keep"
+msgstr "Anzahl der zu speichernden Dateien"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Das Speichern der Suchanfragen kann sehr viele Daten erzeugen. Sie sollten deshalb alte Suchanfragen löschen. Sie können eine Stunde, einen Tag oder eine Woche alte Anfragen löschen, Sie können die Anzahl angeben, oder Sie können Sie für immer speichern."
+
+msgid "Last 10 days"
+msgstr "Letzte 10 Tage"
+
+msgid "Last 10 weeks"
+msgstr "Letzte 10 Wochen"
+
+msgid "Last 10 months"
+msgstr "Letzte 10 Monate"
+
+msgid "There're no statistics yet"
+msgstr "Es gibt noch keine Statistik"
+
+msgid "Latest comments on the web"
+msgstr "Die neusten Kommentare auf der Webseite"
+
+msgid "New items"
+msgstr "Neue Anzeigen"
+
+msgid "Total number of items' views"
+msgstr "Zugriffe auf Anzeigen"
+
+msgid "Latest items on the web"
+msgstr "Die neusten Anzeigen im Netz"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Views"
+msgstr "Zugriffe"
+
+msgid "Total number of reports"
+msgstr "Anzahl der Berichte"
+
+msgid "Repeated"
+msgstr "Wiederholt"
+
+msgid "Bad category"
+msgstr "Falsche Kategorie"
+
+msgid "Latest users on the web"
+msgstr "Letzte Besucher Ihrer Seiten"
+
+msgid "Avg. items per user"
+msgstr "Durchschn. Anzeigen pro Benutzer"
+
+msgid "items per user"
+msgstr "Anzeigen pro Benutzer"
+
+msgid "New users"
+msgstr "Neue Benutzer"
+
+msgid "Users per country"
+msgstr "Benutzer pro Land"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Users per region"
+msgstr "Benutzer pro Bundesland"
+
+msgid "Theme"
+msgstr "Design"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Im Wartungsmodus können Besucher Ihre Seiten nicht sehen. Sie sollten ihn nur einschalten, wenn Sie wichtige Änderungen an Ihren Seiten vornehmen möchten. Sie schalten den Wartungsmodus mit der folgenden Schaltfläche um"
+
+msgid "Maintenance mode is:"
+msgstr "Wartungsmodus ist:"
+
+msgid "ON"
+msgstr "EIN"
+
+msgid "OFF"
+msgstr "AUS"
+
+msgid "Disable maintenance mode"
+msgstr "Wartungsmodus sperren"
+
+msgid "Enable maintenance mode"
+msgstr "Wartungsmodus verfügbar machen"
+
+msgid "Checking for updates"
+msgstr "Suchen nach Aktualisierungen"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Herzlichen Glückwunsch, Ihre Plugin-Installation ist aktuell"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Herzlichen Glückwunsch, Ihre OpenSourceClassifieds-Installation ist aktuell"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Ihre OpenSourceClassifieds-Installation wird aktualisiert (das kann einige Zeit dauern):"
+
+msgid "Enable user"
+msgstr "Benutzer freigeben"
+
+msgid "Disable user"
+msgstr "Benutzer sperren"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds » Es sind Fehler aufgetreten"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Die Datenbankstruktur konnte nicht aktualisiert werden. Folgende Abfragen waren fehlerhaft:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Diese Fehlermeldungen könnten unwichtig oder falsch sein. Wenn Sie sicher sind, dass das so ist, können Sie <a href=\\\"%s\\\">mit der Aktualisierung fortfahren</a>. Oder aber Sie <a href=\\\"http://forums.opensourceclassifieds.org/\\\">fragen in unserem Forum</a>."
+
+msgid "Name: this field is required"
+msgstr "Name: Mussfeld"
+
+msgid "Message: this field is required"
+msgstr "Nachricht: Mussfeld"
+
+msgid "City area: no more than 50 characters"
+msgstr "Stadtgebiet: Maximallänge 50 Zeichen"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Adresse: Mindestlänge 3 Zeichen"
+
+msgid "Address: no more than 100 characters"
+msgstr "Adresse: Maximallänge 100 Zeichen"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Sie haben die maximale Anzahl an Bildern für eine Anzeige erreicht"
+
+msgid "Your name: this field is required"
+msgstr "Ihr Name: Mussfeld"
+
+msgid "Friend's name: this field is required"
+msgstr "Name des Freundes: Mussfeld"
+
+msgid "Friend's email: this field is required"
+msgstr "eMail-Adresse des Freundes: Mussfeld"
+
+msgid "Invalid friend's email address"
+msgstr "Die eMail-Adresse des Freundes ist ungültig"
+
+msgid "Name: no more than 50 characters"
+msgstr "Name: Die Maximallänge ist 50 Zeichen"
+
+msgid "Password: this field is required"
+msgstr "Passwort: Mussfeld"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Passwort: Die Mindestlänge ist 5 Zeichen"
+
+msgid "No file selected"
+msgstr "Keine Datei ausgewählt"
+
+msgid "Choose File"
+msgstr "Wählen Sie eine Datei aus"
+
+msgid "The website is currently under maintenance mode"
+msgstr "Diese Seiten befinden sich derzeit im Wartungsmodus"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Sie haben bereits ein Feld mit diesem Namen definiert"
+
+msgid "The custom field have been deleted"
+msgstr "Das benutzerdefinierte Feld wurde gelöscht"
+
+msgid "Unmark as spam"
+msgstr "Nicht als Spam markieren"
+
+msgid "Mark as spam"
+msgstr "Als Spam markieren"
+
+msgid "Field's name"
+msgstr "Feldbezeichnung"
+
+msgid "This field is required"
+msgstr "Dieses Feld muss ausgefüllt werden"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Wählen Sie die Kategorien, auf die Sie diese Attribute anwenden möchten"
+
+msgid "Advanced options"
+msgstr "Erweiterte Einstellungen"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "Eindeutiger Name (nur alphanumerische Zeichen: a-z0-9_-)"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "Warnung: Es werden auch alle Informationen über dieses Feld gelöscht. Die Aktion kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?"
+
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+msgid "Add new field"
+msgstr "Neues Feld hinzufügen"
+
+msgid "Add new custom field"
+msgstr "Benutzerdefiniertes Feld hinzufügen"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "You don't have any custom fields yet"
+msgstr "Sie haben noch keine benutzerdefinierten Felder"
+
+msgid "Manage custom fields"
+msgstr "Benutzerdefinierte Felder verwalten"
+
+msgid "County"
+msgstr "Land"
+
+msgid "Show filters"
+msgstr "Filter anzeigen"
+
+msgid "Title and Description"
+msgstr "Titel und Beschreibung"
+
+msgid "Premium"
+msgstr "PREMIUM"
+
+msgid "ALL"
+msgstr "Alle"
+
+msgid "Reset filters"
+msgstr "Filter zurücksetzen"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "Wählen Sie die Kategorien, auf die Sie die Attribute anwenden möchten (klicken Sie auf die Namen, um die Details zu sehen)"
+
+msgid "Watermark settings"
+msgstr "Wasserzeicheneinstellungen"
+
+msgid "Watermark color"
+msgstr "Wasserzeichen Farbe"
+
+msgid "Watermark text"
+msgstr "Wasserzeichen Text"
+
+msgid "Watermark place"
+msgstr "Wasserzeichen Position"
+
+msgid "Centre"
+msgstr "Zentriert"
+
+msgid "Top Left"
+msgstr "Oben Links"
+
+msgid "Top Right"
+msgstr "Oben Rechts"
+
+msgid "Bottom Left"
+msgstr "Unten Links"
+
+msgid "Bottom Right"
+msgstr "Unten Rechts"
+
+msgid "Watermark image"
+msgstr "Wasserzeichen Bild"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "Beachten Sie, dass OpenSourceClassifieds die Größe des Wasserzeichens nicht prüft"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Sie sollten unbedingt die Option 'Originalbild speichern' aktivieren, wenn Sie Wasserzeichen verwenden möchten."
+
+msgid "New version to update:"
+msgstr "Neue Version verfügbar:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "Ihre OpenSourceClassifieds-Installation kann automatisch aktualisiert werden. Bitte sichern Sie vorher Ihre Datenbank und das Verzeichnis \\\"oc-content\\\". Wenn Sie OpenSourceClassifieds manuell aktualisieren möchten, finden Sie dazu Informationen unter %s"
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Ihre OpenSourceClassifieds-Installation kann nicht automatisch aktualisiert werden, weil es schreibgeschützte Dateien oder Verzeichnisse gibt. Sie können den Schreibschutz per Kommandozeile oder FTP-Client entfernen. Welche Möglichkeiten Sie haben richtet sich nach Ihrem Provider, daher können wir keine genaue Anleitung dafür geben. Sie können auch das OpenSourceClassifieds-Update-Paket herunterladen, auspacken und die Dateien auf Ihrem Server ersetzen."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "Eine Kategorie mit der ID %d existiert nicht"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "Die Kategorie und ihre Unterkategorien wurden aktiviert"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "Die Kategorie und ihre Unterkategorien wurden deaktiviert"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "Sie dürfen diese Kategorie nicht aktivieren, weil die übergeordnete Kategorie deaktiviert ist"
+
+msgid "The subcategory has been enabled"
+msgstr "Die Unterkategorie wurde aktiviert"
+
+msgid "The subcategory has been disabled"
+msgstr "Die Unterkategorie wurde deaktiviert"
+
+msgid "Category updated correctly"
+msgstr "Die Kategorie wurde erfolgreich aktualisiert"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "Die Kategorie wurde erfolgreich aktualisiert, aber einige Bezeichnungen waren leer"
+
+msgid "Sorry, at least a title is needed"
+msgstr "Mindestens eine Bezeichnung ist erforderlich"
+
+msgid "Error while updating"
+msgstr "Fehler beim Aktualisieren"
+
+msgid "Test email"
+msgstr "E-Mail testen"
+
+msgid "Email sent successfully"
+msgstr "E-Mail wurde erfolgreich versendet"
+
+msgid "An error has occurred while sending email"
+msgstr "Fehler beim Versenden der E-Mail"
+
+msgid "Field's type"
+msgstr "Feldtyp"
+
+msgid "Field's options (separated by commas)"
+msgstr "Feldoptionen (durch Kommas getrennt)"
+
+msgid "Options (separeted by commas)"
+msgstr "Optionen (durch Kommas getrennt)"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "Dateianhänge beim Kontaktieren des Verkäufers erlauben"
+
+msgid "Number of decimals"
+msgstr "Anzahl der Dezimalstellen"
+
+msgid "Decimal point"
+msgstr "Dezimalzeichen"
+
+msgid "Thousands separator"
+msgstr "Tausender-Trennzeichen"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Notify admin when there's a new comment"
+msgstr "Admin über neue Kommentare informieren"
+
+msgid "Notify user when there's a new comment"
+msgstr "Benutzer über neue Kommentare informieren"
+
+msgid "Timezone"
+msgstr "Zeitzone"
+
+msgid "Select a timezone..."
+msgstr "Wählen Sie eine Zeitzone..."
+
+msgid "Number of item displayed in search results"
+msgstr "Anzahl der Anzeigen im Suchergebnis"
+
+msgid "Use a POP before SMTP"
+msgstr "POP vor SMTP verwenden"
+
+msgid "not found"
+msgstr "nicht gefunden"
+
+msgid "Test configuration"
+msgstr "Konfiguration testen"
+
+msgid "The email will be sent to contact email"
+msgstr "Die E-Mail wird an den Kontakt versendet"
+
+msgid "Send email"
+msgstr "E-Mail versenden"
+
+msgid "Use imagick instead of GD"
+msgstr "Imagick anstatt GD verwenden"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "Sie ist schneller und verbraucht weniger Ressourcen als die GD-Bibliothek"
+
+msgid "Freetype library is required. How to"
+msgstr "Die \\\"Freetype\\\"-Bibliothek wird benötigt."
+
+msgid "install/configure"
+msgstr "So wird sie installiert/konfiguriert"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Warnung: Das Module REWRITE wurde auf dem Server nicht gefunden. Es wurde entweder nicht aktiviert oder Sie verwenden PHP als CGI (oder fastCGI). Falls das Modul REWRITE nicht vorhanden ist, können Sie immer noch \\\"freundliche\\\" URLs verwenden, wenn die Option AcceptPathInfo in Ihrer Apache-Konfiguration gesetzt ist (was normaler Weise der Fall ist). \\\"Index.php\\\" wird dann als Teil der URL ausgegeben (z. B. http://www.beispiel.de/index.php/freundliche/url)."
+
+msgid "Notify admin when a new user registers"
+msgstr "Admin über neue Benutzer informieren"
+
+msgid "Price: no more than 50 characters"
+msgstr "Preis: Nicht mehr als 50 Zeichen"
+

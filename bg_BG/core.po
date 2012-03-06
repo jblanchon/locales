@@ -1,0 +1,1480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "no action defined"
+msgstr "Няма определено действие"
+
+msgid "Contact form"
+msgstr "Формуляр за връзка"
+
+msgid "Contact"
+msgstr "Връзка"
+
+msgid "My account"
+msgstr "Моят профил"
+
+msgid "Logout"
+msgstr "Изход"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Парола"
+
+msgid "Log in"
+msgstr "Влез"
+
+msgid "Language"
+msgstr "Език"
+
+msgid "Search"
+msgstr "Търси"
+
+msgid "Item"
+msgstr "Обява"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Photos"
+msgstr "Снимки"
+
+msgid "optional"
+msgstr "незадължително"
+
+msgid "Add new photo"
+msgstr "Добави снимка"
+
+msgid "Location"
+msgstr "Местоположение"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Your new password is \"%s\""
+msgstr "Вашата нова парола е \"%s"
+
+msgid "Recover your password"
+msgstr "Възстанови парола"
+
+msgid "OpenSourceClassifieds application"
+msgstr "OpenSourceClassifieds приложение"
+
+msgid "OpenSourceClassifieds administrator"
+msgstr "OpenSourceClassifieds администратор"
+
+msgid "%s has been added as a new country"
+msgstr "%s е добавена като нова страна"
+
+msgid "%s has been edited"
+msgstr "%s е редактирано"
+
+msgid "%s has been deleted"
+msgstr "%s е изтрито"
+
+msgid "%s has been added as a new region"
+msgstr "%s е добавен като нов регион"
+
+msgid "%s has been added as a new city"
+msgstr "%s е добавен като нов град"
+
+msgid "No currencies have been deleted"
+msgstr "Няма изтрити валути"
+
+msgid "One currency has been deleted"
+msgstr "Една валута е изтрита"
+
+msgid "%s currencies have been deleted"
+msgstr "%s валути са изтрити"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s е добавен като регион на %s"
+
+msgid "Backup made correctly"
+msgstr "Backup е направен успешно"
+
+msgid "Archiving successful!"
+msgstr "Архивирането е успешно!"
+
+msgid "Error, couldn't create a zip file!"
+msgstr "Грешка, не може да се създаде zip файл!"
+
+msgid "Checking for update files."
+msgstr "Проверка на файлове за актуализация"
+
+msgid "File downloaded correctly"
+msgstr "Файлът е свален"
+
+msgid "Missing filename"
+msgstr "Липсва име на файл"
+
+msgid "Removing temp-directory"
+msgstr "Премахване на temp директорията"
+
+msgid "Archiving is sucessful!"
+msgstr "Архивирането е успешно!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Грешка, не може да се създаде zip файл!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Разархивирането е неуспешно"
+
+msgid "Filename incorrect"
+msgstr "Неправилно име на файл"
+
+msgid "Error removing file:"
+msgstr "Грешка в изтриването на файл:"
+
+msgid "Files removed"
+msgstr "Файловете са изтрити"
+
+msgid "No files to remove"
+msgstr "Няма файлове за изтриване"
+
+msgid "There were problems copying files"
+msgstr "Възникнаха проблеми при копиране на файловете"
+
+msgid "Nothing to copy"
+msgstr "Няма нищо за копиране"
+
+msgid "Files copied"
+msgstr "Файловете са копирани"
+
+msgid "upgrade.sql executed"
+msgstr "Актуализацията на .sql е изпълнено"
+
+msgid "No SQL to execute"
+msgstr "Няма SQL за изпълнение"
+
+msgid "Custom actions executed"
+msgstr "Потребителските действия са изпълнени"
+
+msgid "No action to execute"
+msgstr "Няма действие за изпълнение"
+
+msgid "Update"
+msgstr "Актуализация"
+
+msgid "Checking for update files"
+msgstr "Проверка на файлове за актуализация"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Възникнаха грешки при копиране на файловете. Може би правата не са правилно зададени."
+
+msgid "Tables updated correctly"
+msgstr "Таблиците са актуализирани правилно"
+
+msgid "No tables update to execute"
+msgstr "Няма актуализация на таблици за изпълнение"
+
+msgid "User id isn't in the correct format"
+msgstr "Потребителското ID не е в правилния формат"
+
+msgid "Any user has been activated"
+msgstr "Всички потребители са активирани"
+
+msgid "One user has been activated"
+msgstr "Един потребител е активиран"
+
+msgid "%s users have been activated"
+msgstr "%s потребители са активирани"
+
+msgid "Any user has been deactivated"
+msgstr "Всички потребители са деактивирани"
+
+msgid "One user has been deactivated"
+msgstr "Един потребител е деактивиран"
+
+msgid "%s users have been deactivated"
+msgstr "%s потребители са деактивирани"
+
+msgid "Any user has been deleted"
+msgstr "Всички потребители са изтрити"
+
+msgid "One user has been deleted"
+msgstr "Един потребител е изтрит"
+
+msgid "%s users have been deleted"
+msgstr "%s потребители са изтрити"
+
+msgid "View comments"
+msgstr "Прегледай коментарите"
+
+msgid "View media"
+msgstr "Прегледай медиа"
+
+msgid "Deactivate"
+msgstr "Деактивирай"
+
+msgid "Activate"
+msgstr "Активирай"
+
+msgid "Unmark as premium"
+msgstr "Отмаркирай като премиум"
+
+msgid "Mark as premium"
+msgstr "Маркирай като премиум"
+
+msgid "Edit"
+msgstr "Редактиране"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Това действие е необратимо. Наистина ли желаете да продължите?"
+
+msgid "Delete"
+msgstr "Изтрий"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "Вход към OpenSourceClassifieds администраторски панел"
+
+msgid "Username"
+msgstr "Потребителско име"
+
+msgid "Remember me"
+msgstr "Запомни ме"
+
+msgid "Forgot your password?"
+msgstr "Забравена парола?"
+
+msgid "Back to"
+msgstr "Обратно"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Моля, въведи име или email адрес"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Ще получите нова парола чрез email"
+
+msgid "Get new password"
+msgstr "Поискай нова парола"
+
+msgid "Thank you for using"
+msgstr "Благодаря ви, че използвахте"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Feedback"
+msgstr "Вашият коментар"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds администраторски панел"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s е налична!"
+
+msgid "Please upgrade now"
+msgstr "Моля, обновете сега"
+
+msgid "Visit website"
+msgstr "Посети уебсайт"
+
+msgid "Hi"
+msgstr "Здравей"
+
+msgid "Your profile"
+msgstr "Вашият профил"
+
+msgid "Log Out"
+msgstr "Излез"
+
+msgid "Admins"
+msgstr "Администратори"
+
+msgid "Add new admin"
+msgstr "Добави администратор"
+
+msgid "Real name"
+msgstr "Собствено име"
+
+msgid "required"
+msgstr "задължително"
+
+msgid "User name"
+msgstr "Потребителско име"
+
+msgid "Create"
+msgstr "Създай"
+
+msgid "Edit admin"
+msgstr "Редактирай администратор"
+
+msgid "Current password"
+msgstr "Сегашна парола"
+
+msgid "New password"
+msgstr "Нова парола"
+
+msgid "Re-type new password"
+msgstr "Повтори новата парола"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Остави полето празно ако не желаеш да промениш паролата"
+
+msgid "Processing"
+msgstr "Обработване"
+
+msgid "Show _MENU_ entries"
+msgstr "Покажи _MENU_ събития"
+
+msgid "No matching records found"
+msgstr "Няма открити съответстващи записи"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Покажи _START_ to _END_ of _TOTAL_ събития"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Покажи 0 до 0 от 0 събития"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "филтрирано от _MAX_ събития общо"
+
+msgid "First"
+msgstr "Първа"
+
+msgid "Previous"
+msgstr "Предходна"
+
+msgid "Next"
+msgstr "Следваща"
+
+msgid "Last"
+msgstr "Последна"
+
+msgid "Show"
+msgstr "Покажи"
+
+msgid "entries"
+msgstr "събития"
+
+msgid "Bulk actions"
+msgstr "Обем от действия"
+
+msgid "Apply"
+msgstr "Приложи"
+
+msgid "Dashboard"
+msgstr "Табло"
+
+msgid "Add new page"
+msgstr "Добави страница"
+
+msgid "Theme package"
+msgstr "Пакет с тема"
+
+msgid "Upload"
+msgstr "Качване"
+
+msgid "The theme folder"
+msgstr "Папката с теми"
+
+msgid "is not writable on your server,"
+msgstr "не може да бъде записана на вашият сървър"
+
+msgid "can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "не мога да кача темите от администраторския панел. Моля, копирай пакета с темата, ползвайки FTP или SSH, или направете папката с теми записваема"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "За да направиш директорията записваема под UNIX изпълнете следната команда"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Табло - Добави джаджа"
+
+msgid "Create widget in %s"
+msgstr "Създай джаджа в %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Описание (само за вътрешни цели)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML код на джаджата"
+
+msgid "Publish widget"
+msgstr "Публикувай джаджа"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Наистина ли желаеш да отмениш?"
+
+msgid "Appearance"
+msgstr "Облик"
+
+msgid "City"
+msgstr "Град"
+
+msgid "City area"
+msgstr "Квартал"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Cancel"
+msgstr "Отмени"
+
+msgid "City Area"
+msgstr "Квартал"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Comments"
+msgstr "Коментари"
+
+msgid "Title"
+msgstr "Заглавие"
+
+msgid "Comment"
+msgstr "Коментар"
+
+msgid "Add a new theme"
+msgstr "Добави тема"
+
+msgid "Current theme"
+msgstr "Сегашна тема"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Available themes"
+msgstr "Налични теми"
+
+msgid "Preview"
+msgstr "Преглед"
+
+msgid "Cell phone"
+msgstr "GSM"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Website"
+msgstr "Уебсайт"
+
+msgid "Widgets"
+msgstr "Джаджи"
+
+msgid "Add HTML widget"
+msgstr "Добави HTML джаджа"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Parent category"
+msgstr "Предходна категория"
+
+msgid "- No parent -"
+msgstr "- Няма предходна -"
+
+msgid "Expirations days"
+msgstr "Срок на изтичане"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = няма срок на изтичане)"
+
+msgid "Position (order in relation to other categories)"
+msgstr "Позиция (подреждане във връзка с другите категории)"
+
+msgid "Enabled"
+msgstr "Разреши"
+
+msgid "Save"
+msgstr "Запази"
+
+msgid "Disable"
+msgstr "Забрани"
+
+msgid "View subcategories"
+msgstr "Виж подкатегориите"
+
+msgid "WARNING: This will also delete the items under that category. This action can't be undone. Are you sure you want to continue?"
+msgstr "ВНИМАНИЕ: Това ще изтрие обявите под тази категория. Това действие е необратимо. Наистина ли желаете да продължите?"
+
+msgid "Parent"
+msgstr "Предходен"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Enable"
+msgstr "Разреши"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Невалидна OpenSourceClassifieds заявка"
+
+msgid "Edit comment"
+msgstr "Редактирай коментар"
+
+msgid "Add a comment"
+msgstr "Добави коментар"
+
+msgid "Add"
+msgstr "Добави"
+
+msgid "You have to write a title."
+msgstr "Трябва да напишете заглавие."
+
+msgid "You have to write a comment."
+msgstr "Трябва да напишете коментар."
+
+msgid "Author's name can not be empty."
+msgstr "Името на автора не може да бъде празно."
+
+msgid "Author's email can not be empty."
+msgstr "Email-а на автора не може да бъде празно"
+
+msgid "Edit a comment on item:"
+msgstr "Редактирай коментар по обява:"
+
+msgid "View"
+msgstr "Виж"
+
+msgid "It's a registered user."
+msgstr "Регистриран потребител"
+
+msgid "Edit user"
+msgstr "Редактирай потребител"
+
+msgid "Author's e-mail"
+msgstr "Email на автора"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "De-activate"
+msgstr "Деактивирай"
+
+msgid "on"
+msgstr "на"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Manage Comments"
+msgstr "Администрирай коментари"
+
+msgid "Edit email/alert"
+msgstr "Редактирай email известие"
+
+msgid "Add an email/alert"
+msgstr "Добави email известие"
+
+msgid "Emails & Alerts"
+msgstr "Email-и и известия"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Вътрешно име (име, лесно идентифициращо този email/известяване)"
+
+msgid "Emails & alerts"
+msgstr "Email-и и известия"
+
+msgid "Items"
+msgstr "Обяви"
+
+msgid "Manage items"
+msgstr "Администрирай обяви"
+
+msgid "Add new item"
+msgstr "Добави обява"
+
+msgid "Manage media"
+msgstr "Администрирай медиа"
+
+msgid "Manage categories"
+msgstr "Администрирай категории"
+
+msgid "Add a new category"
+msgstr "Добави категория"
+
+msgid "Pages"
+msgstr "Страници"
+
+msgid "Manage pages"
+msgstr "Администрирай страници"
+
+msgid "Create page"
+msgstr "Създай страница"
+
+msgid "Manage emails & alerts"
+msgstr "Администрирай email-и и известия"
+
+msgid "Manage themes"
+msgstr "Администрирай теми"
+
+msgid "Add or remove widgets"
+msgstr "Добави или премахни джаджа"
+
+msgid "Plugins"
+msgstr "Добавки"
+
+msgid "Manage plugins"
+msgstr "Администрирай добавки"
+
+msgid "Add new plugin"
+msgstr "Добави добавка"
+
+msgid "Languages"
+msgstr "Езици"
+
+msgid "Manage languages"
+msgstr "Администрирай езици"
+
+msgid "Add a language"
+msgstr "Добави език"
+
+msgid "General settings"
+msgstr "Главни настройки"
+
+msgid "Users"
+msgstr "Потребители"
+
+msgid "Locations"
+msgstr "Места"
+
+msgid "Permalinks"
+msgstr "Постоянни връзки"
+
+msgid "Spam and bots"
+msgstr "Спам и ботове"
+
+msgid "Currencies"
+msgstr "Валути"
+
+msgid "Mail Server"
+msgstr "Mail сървър"
+
+msgid "Media"
+msgstr "Медиа"
+
+msgid "Cron system"
+msgstr "Cron система"
+
+msgid "Tools"
+msgstr "Инструменти"
+
+msgid "Import data"
+msgstr "Внасяне на данни"
+
+msgid "Backup data"
+msgstr "Backup data"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Актуализирай OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Регенерирай миниатюри"
+
+msgid "Manage users"
+msgstr "Администрирай потребители"
+
+msgid "Add new user"
+msgstr "Добави потребител"
+
+msgid "Administrators"
+msgstr "Администратори"
+
+msgid "List administrators"
+msgstr "Списък с администратори"
+
+msgid "Add new administrator"
+msgstr "Добави администратор"
+
+msgid "Edit Your Profile"
+msgstr "Редактирай профил"
+
+msgid "Tests"
+msgstr "Тестове"
+
+msgid "Database"
+msgstr "База данни"
+
+msgid "New item"
+msgstr "Нова обява"
+
+msgid "Edit item"
+msgstr "Редактирай обява"
+
+msgid "User"
+msgstr "Потребител"
+
+msgid "Item posted by"
+msgstr "Обява добавена от"
+
+msgid "Non-registered user"
+msgstr "Нерегистриран потребител"
+
+msgid "E-Mail"
+msgstr "Email"
+
+msgid "General information"
+msgstr "Главна информация"
+
+msgid "Remove"
+msgstr "Премахни"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Това действие е необратимо. Наистина ли желаете да продължите?"
+
+msgid "Add item"
+msgstr "Добави обява"
+
+msgid "Count"
+msgstr "Брой"
+
+msgid "Filter by"
+msgstr "Филтрирай по"
+
+msgid "All"
+msgstr "Всичко"
+
+msgid "Pending"
+msgstr "Висящ"
+
+msgid "Spam"
+msgstr "Спам"
+
+msgid "Duplicated"
+msgstr "Дублиран"
+
+msgid "Misclassified"
+msgstr "Несистематизиран"
+
+msgid "Offensive"
+msgstr "Обиден"
+
+msgid "Expired"
+msgstr "Изтекла"
+
+msgid "Language package"
+msgstr "Езиков пакет"
+
+msgid "The translations folder"
+msgstr "Папката с преводи"
+
+msgid "is not writable on your server, this"
+msgstr "не може да бъде записана на вашият сървър, това"
+
+msgid "can't upload translations from the administration panel. Please make the translation folder writable"
+msgstr "не може да се качат преводите от администраторския панел. Моля, променете папката с преводите записваема"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "За да направиш директорията записваема под UNIX изпълнете следната команда"
+
+msgid "Short name"
+msgstr "Кратко име"
+
+msgid "Currency format"
+msgstr "Валутен формат"
+
+msgid "Date format"
+msgstr "Формат на дата"
+
+msgid "Stopwords"
+msgstr "Стоп думи"
+
+msgid "Enabled for the public website"
+msgstr "Разреши за публичен достъп"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Разреши за служебен достъп (oc-admin)"
+
+msgid "Disable (website)"
+msgstr "Забрани (публичен достъп)"
+
+msgid "Disable (oc-admin)"
+msgstr "Забрани (oc-admin)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Enabled (website)"
+msgstr "Разреши (публичен достъп)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Разреши (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Обем от действия"
+
+msgid "Enable (Website)"
+msgstr "Разреши (публичен достъп)"
+
+msgid "Disable (Website)"
+msgstr "Забрани (публичен достъп)"
+
+msgid "Enable (oc-admin)"
+msgstr "Разреши (oc-admin)"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Кое от изброените неща желаете да виждате на таблото"
+
+msgid "Latest items"
+msgstr "Последни обяви"
+
+msgid "Statistics"
+msgstr "Статистики"
+
+msgid "Latest comments"
+msgstr "Последни коментари"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Последни новини от OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Обяви по категория"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Няма все още добавени обяви"
+
+msgid "Number of items"
+msgstr "Брой обяви"
+
+msgid "Number of public users"
+msgstr "Брой потребители"
+
+msgid "Number of administrators"
+msgstr "Брой администратори"
+
+msgid "Commented on item"
+msgstr "Коментари по обява"
+
+msgid "There aren't any comments yet"
+msgstr "Все още няма коментари"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later."
+msgstr "Невъзможно получаване на новини от OSCIass. Моля, опитайте по-късно."
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Attached to"
+msgstr "Прикрепен към"
+
+msgid "Edit page"
+msgstr "Редактирай страница"
+
+msgid "Add page"
+msgstr "Добави страница"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Вътрешно име (име, лесно идентифициращо тази страница)"
+
+msgid "Add a new plugin"
+msgstr "Добави добавка"
+
+msgid "Plugin package"
+msgstr "Пакет добавка"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Папката с добавките %s  не може да бъде записана на вашия сървър"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds не поже да качи добавки от администраторския панел"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Моля, копирайте добавката, използвайки FTP или SSH, или направете папката с добавките записваема"
+
+msgid "Select the categories where you want to apply these attributes:"
+msgstr "Изберете категориите, където искате да приложите тези атрибути:"
+
+msgid "Preset categories"
+msgstr "Пренастройте категориите"
+
+msgid "Check all"
+msgstr "Маркирай всичко"
+
+msgid "Uncheck all"
+msgstr "Отмаркирай всичко"
+
+msgid "Configure"
+msgstr "Конфигурирай"
+
+msgid "There's a new version. You should update!"
+msgstr "Има нова версия. Трябва да обновиш!"
+
+msgid "Uninstall"
+msgstr "Деинсталирай"
+
+msgid "Install"
+msgstr "Инсталирай"
+
+msgid "Add currency"
+msgstr "Добави валута"
+
+msgid "Create currency"
+msgstr "Добави валута"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "It should be a three-character code"
+msgstr "Кодът трябва да бъде три-буквен"
+
+msgid "Comments settings"
+msgstr "Настройки за коментари"
+
+msgid "Comments enabled"
+msgstr "Разреши коментари"
+
+msgid "Moderate comments"
+msgstr "Модерирай коментари"
+
+msgid "Notifications"
+msgstr "Известия"
+
+msgid "Notify when there's a new comment"
+msgstr "Извести, когато има нов коментар"
+
+msgid "Contact settings"
+msgstr "Настройка за връзка"
+
+msgid "Attachment enabled"
+msgstr "Прикачванията разрешени"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Авто-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Някои OpenSourceClassifieds функционалности изискват Cron, за да работят. Проверете дали вашият хост не е в състояние да ги изпълнява. Махнете отметката, ако искате да настроите Cron ръчно. Прочетете ръководството, за да знаете повече за Cron системата на OpenSourceClassifieds."
+
+msgid "Edit currency"
+msgstr "Редактирай валута"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Веднъж създадено, не може да бъде променяно"
+
+msgid "General Settings"
+msgstr "Главни настройки"
+
+msgid "Page title"
+msgstr "Заглавие на страницата"
+
+msgid "Page description"
+msgstr "Описание на страницата"
+
+msgid "Admin e-mail"
+msgstr "Администраторски e-mail"
+
+msgid "Default language"
+msgstr "Език по подразбиране"
+
+msgid "Custom"
+msgstr "Потребителски"
+
+msgid "Default currency"
+msgstr "Валута по подразбиране"
+
+msgid "Week starts on"
+msgstr "Седмицата започва в"
+
+msgid "Sunday"
+msgstr "Неделя"
+
+msgid "Monday"
+msgstr "Понеделник"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Wednesday"
+msgstr "Сряда"
+
+msgid "Thursday"
+msgstr "Четвъртък"
+
+msgid "Friday"
+msgstr "Петък"
+
+msgid "Saturday"
+msgstr "Събота"
+
+msgid "Time format"
+msgstr "Формат на времето"
+
+msgid "Number of items in the RSS"
+msgstr "Брой обяви в RSS"
+
+msgid "Items settings"
+msgstr "Настройки обяви"
+
+msgid "Enabled reCAPTCHA"
+msgstr "reCAPTCHA активирана"
+
+msgid "Item validation by users"
+msgstr "Потвърждение на обява от потребителите"
+
+msgid "Only allow registered users to post items"
+msgstr "Само регистрирани потребители могат да публикуват обяви"
+
+msgid "Notify admin of new items"
+msgstr "Извести администратора за нови обяви"
+
+msgid "Notify admin of contact items"
+msgstr "Извести администратора за връзка по обява"
+
+msgid "Notify admin of share"
+msgstr "Извести администратора за споделяне"
+
+msgid "Optional fields"
+msgstr "Незадължителни полета"
+
+msgid "Enable price"
+msgstr "Разреши цена"
+
+msgid "Enable images"
+msgstr "Разреши снимки"
+
+msgid "Close"
+msgstr "Затвори"
+
+msgid "View more"
+msgstr "Виж повече"
+
+msgid "Countries"
+msgstr "Страни"
+
+msgid "Add new"
+msgstr "Добави"
+
+msgid "Regions"
+msgstr "Региони"
+
+msgid "Cities"
+msgstr "Градове"
+
+msgid "Add new country"
+msgstr "Добави страна"
+
+msgid "Country code"
+msgstr "Код на страната"
+
+msgid "Country code should have two characters"
+msgstr "Кодът на страната трябва да има 2 букви"
+
+msgid "Edit country"
+msgstr "Редактирай страна"
+
+msgid "Add new region"
+msgstr "Добави регион"
+
+msgid "Edit region"
+msgstr "Редактирай регион"
+
+msgid "Add new city"
+msgstr "Добави град"
+
+msgid "Edit city"
+msgstr "Редактирай град"
+
+msgid "Mail server settings"
+msgstr "Настройки на mail сървъра"
+
+msgid "Mail server"
+msgstr "Mail сървър"
+
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgid "Server type"
+msgstr "Тип на сървъра"
+
+msgid "Custom Server"
+msgstr "Потребителски сървър"
+
+msgid "GMail Server"
+msgstr "GMail сървър"
+
+msgid "Hostname"
+msgstr "Име на хост"
+
+msgid "Server port"
+msgstr "Сървърен порт"
+
+msgid "Encryption"
+msgstr "Криптиране"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Опции: празно, ssl или tls"
+
+msgid "Enable SMTP authentication"
+msgstr "Активирай SMTP авторизация"
+
+msgid "Help"
+msgstr "Помощ"
+
+msgid "Enter your e-mail server configuration."
+msgstr "Въведи e-mail сървърната конфигурация"
+
+msgid "Media settings"
+msgstr "Настройки за коментари"
+
+msgid "Configure media"
+msgstr "Конфигурирай медиа"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Моля, изберете предпочитаните размери за всички изображения на уебсайта. (формат: ДЪЛЖИНАхВИСОЧИНА, пример: 640x480))"
+
+msgid "Restrictions"
+msgstr "Ограничения"
+
+msgid "Maximum size, in KB"
+msgstr "Максимален размер, в KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Позволени файлови разширения"
+
+msgid "Dimensions"
+msgstr "Размери"
+
+msgid "Thumbnail dimensions"
+msgstr "Размери на миниатюра"
+
+msgid "Preview dimensions"
+msgstr "Прегледай размери"
+
+msgid "Normal dimensions"
+msgstr "Нормални размери"
+
+msgid "Keep original image"
+msgstr "Да се съхранява оригиналното изображение"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Съхраняването на оригиналните изображения изисква допълнително място за съхранение. Тази опция гарантира, че първоначалното качество на файла ще бъде непроменено. Бъдете внимателни, когато използвате тази опция."
+
+msgid "Permalinks settings"
+msgstr "Настройки на постоянните връзки"
+
+msgid "Friendly urls"
+msgstr "Приятелски връзки"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "По подразбиране OSCIass използва връзки, които съдържат въпросителни знаци и много числа в тях. Обаче, OSCIass ви предлага приятелски връзки. Това може да подобри естетиката, използването, и последвала съвместимост на връзките ви"
+
+msgid "Enable friendly urls"
+msgstr "Разреши приятелски връзки"
+
+msgid ".htaccess file"
+msgstr ".htaccess файл"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Модулът <em>mod_rewrite</em> не беше открит на сървъра"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "ВНИМАНИЕ! Модулът за презаписване не беше открит на сървъра. Това означава, че вие не сте го разрешили или управлявате PHP като CGI (или fastCGI). В случай, че нямате mod_rewrite, можете все още да използвате приятелски връзки, ако опцията за AllowPathInfo е в конфигурацията на вашето Apache (ние не можем да знаем дали той е активиран или не, но обикновено е). Index.php ще се появи като част от вашата връзка (т.е. http:Momexample.com/index.phpinicefur1)."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Грешка. Не можем да запишем файлът .htaccess на вашият сървър. Моля, създайте файл с разширение .htaccess в главната директория с инталираната OSCIass със следното съдържание"
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Файлът .htaccess вече съществува. Моля, проверете дали този файл има следното съдържание."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Създадохме .htaccess файл в root директория на вашата OpenSourceClassifieds инсталация."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Съдържанието на .htaccess файла трябва да изглежда така:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Сегашното съдържание на вашия .htaccess файл:"
+
+msgid "Spam and bots settings"
+msgstr "Настройки за спам и ботове"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet ключ (същия като Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Ако полето е празно, тогава услугата на Akishmet е изключена"
+
+msgid "Get your free key at"
+msgstr "Вземи безплатен ключ на"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Ако полето е празно, тогава услугата на reCAPTCHA е изключена"
+
+msgid "Get your free keys at"
+msgstr "Вземи безплатни ключoве на"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA личен ключ"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA публичен ключ"
+
+msgid "Users settings"
+msgstr "Потребителски настройки"
+
+msgid "User functionality enabled"
+msgstr "Потребителски функции активирани"
+
+msgid "User validation enabled"
+msgstr "Разреши потвърждаване от потребителя"
+
+msgid "User registration enabled"
+msgstr "Разреши регистрацията на потребители"
+
+msgid "Database test"
+msgstr "Тест на база данни"
+
+msgid "Test Your installation with fake data"
+msgstr "Тествайте инсталацията с фалшиви данни"
+
+msgid "Add Fake Data"
+msgstr "Добави фалшиви данни"
+
+msgid "Delete Fake Data"
+msgstr "Изтрии фалшивите данни"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "You're offline! Please check your connection"
+msgstr "Извън линия сте! Моля, проверете връзката"
+
+msgid "Requested URL not found"
+msgstr "Търсенета страница не беше открита"
+
+msgid "Internal server error"
+msgstr "Вътрешна сървърна грешка"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Грешка. Търсената заявка JSON е неуспешна"
+
+msgid "Request timeout"
+msgstr "Времето за заявка изтече"
+
+msgid "Unknown error"
+msgstr "Неизвестна грешка"
+
+msgid "Backing up data... please wait"
+msgstr "Данните се архивират... моля, изчакайте"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Backup OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: Backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Можете да направите резервно копие на OSCIass тук. ВНИМАНИЕ: Backup файловете ще бъдат създадени в главната директория с инсталацията на OSCIass"
+
+msgid "Backup folder"
+msgstr "Backup папка"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Това е папката, в която вашите резервни копия ще бъдат създадени. Препоръчваме ви да изберете пътека без публичен достъп. За повече информация, моля, следвайте документацията на OSCIass'"
+
+msgid "Back up database"
+msgstr "Backup базата данни"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Backup OpenSourceClassifieds инсталация"
+
+msgid "Regenerate images"
+msgstr "Регенерирай изображенията"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Може да регенерирате миниатюрите и предварителните прегледи на изображения тук. Полезно е ако сте променили темата и изображенията не се показват правилно. Моля, проверете настройките за големина дефинирани в Настройки/Медиа"
+
+msgid "Import"
+msgstr "Внеси"
+
+msgid "You can modify your database to add, remove or modify its data here. It\\'s usually used to import countries, regions and cities"
+msgstr "Може да промените вашата база данни като добавите, премахнете или промените нейното съдържание тук. Обикновено се ползва при внасяне на страни, региони и градове."
+
+msgid "Data"
+msgstr "Дата"
+
+msgid "Checking for update (installed version:"
+msgstr "Проверка за актуализация (инсталирана версия:"
+
+msgid "HORRAY! Your plugin installation is up to date! (current version:"
+msgstr "Ура! Вашата инсталирана добавка е актуализирана! (текуща версия:"
+
+msgid "current version:"
+msgstr "текуща версия"
+
+msgid "Downloading update file:"
+msgstr "Сваля се актуализиращ файл"
+
+msgid "Unzipping file:"
+msgstr "Разархивира се файл"
+
+msgid "Copying old files:"
+msgstr "Копират се стари файлове"
+
+msgid "Removing new files:"
+msgstr "Изтриват се нови файлове"
+
+msgid "Executing SQL:"
+msgstr "SQL изпълнение:"
+
+msgid "Executing additional actions:"
+msgstr "Изпълнение на допълнителни действия"
+
+msgid "Cleanning all the mesh:"
+msgstr "Изчистване на докладите"
+
+msgid "Satisfaying user with awesome and easy auto-upgrade: Done!"
+msgstr "Задоволяне на потребител с чудесна и лесна автоматична актуализация: готово!"
+
+msgid "Upgrade"
+msgstr "Актуализирай"
+
+msgid "Checking for updates (installed version:"
+msgstr "Проверка за актуализация (инсталирана версия:"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date! (current version:"
+msgstr "Поздравления! Вашата OpenSourceClassifieds инсталация е актуална! (настояща версия:"
+
+msgid "Copying new files:"
+msgstr "Копират се нови файлове"
+
+msgid "Removing old files:"
+msgstr "Изтриват се стари файлове"
+
+msgid "Cleaning all the mess:"
+msgstr "Изчистване на докладите:"
+
+msgid "Awesome and easy auto-upgrade: done!"
+msgstr "Чудесна и лесна автоматична актуализация: завършено!"
+
+msgid "Re-type the password"
+msgstr "Повтори парола"
+
+msgid "Passwords don't match."
+msgstr "Паролите не съвпадат"
+
+msgid "Additional information"
+msgstr "Допълнителна информация"
+
+msgid "Activate user"
+msgstr "Активирай потребител"
+
+msgid "Deactivate user"
+msgstr "Деактивирай потребител"
+
+msgid "Update Date"
+msgstr "Актуализирай дата"
+
+msgid "Add a new user"
+msgstr "Добави потребител"
+
+msgid "You can freely obtain a developer key after signing up on this URL:"
+msgstr "Можете да получите безплатен ключ от разработчика, регистрирайки се на следния адрес"
+
+msgid "Admin mail system"
+msgstr "Администраторска mail система"
+
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again. (reCAPTCHA said:"
+msgstr "ReCAPTCHA не е въведена правилно. Върнете се и опитайте отново. (reCAPCTHA казва:"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Добавката %s липсва в index.php файл %s"
+
+msgid "Plugin %s is missing its main file"
+msgstr "Добавката %s й липсва главния файл"
+
+msgid "Enter your e-mail"
+msgstr "Въведи e-mail"
+
+msgid "Select a country..."
+msgstr "Избери страна..."
+
+msgid "Select a region..."
+msgstr "Избери регион..."
+
+msgid "Select a city..."
+msgstr "Избери град..."
+
+msgid "No results"
+msgstr "Няма резултати"
+
+msgid "You have to select a region"
+msgstr "Трябва да избереш регион"
+
+msgid "You have to select a city"
+msgstr "Трябва да избереш град"
+
+msgid "You have to enter a city"
+msgstr "Трябва да въведеш град"
+
+msgid "You have to enter a name"
+msgstr "Трябва да въведеш име"
+
+msgid "You have to enter an e-mail"
+msgstr "Трябва да въведеш e-mail"
+
+msgid "Body"
+msgstr "Тяло"
+
+msgid "User Description"
+msgstr "Потребителско описание"
+
+msgid "Check with seller"
+msgstr "Въпроси към продавача"
+
+msgid "Free"
+msgstr "Договаряне"
+
+msgid "Newly listed"
+msgstr "Новодобавени"
+
+msgid "Lower price first"
+msgstr "Първо по най-ниска цена"
+
+msgid "Higher price first"
+msgstr "Първо по най-висока цена"
+
+msgid "Manage your items"
+msgstr "Администрирай обявите"
+
+msgid "Manage your alerts"
+msgstr "Администрирай известията"
+
+msgid "%s in"
+msgstr "%s в"
+
+msgid "There's no description available in your language"
+msgstr "Няма достъпно описание на вашия език"
+

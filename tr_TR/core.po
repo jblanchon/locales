@@ -1,0 +1,1708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "şuanki sürüm:"
+
+msgid "Downloading update file:"
+msgstr "Güncelleştirme dosyası indiriliyor:"
+
+msgid "Unzipping file:"
+msgstr "Zipten çıkarılıyor:"
+
+msgid "Copying old files:"
+msgstr "Eski dosyalar kopyalanıyor:"
+
+msgid "Removing new files:"
+msgstr "Yeni dosyalar siliniyor:"
+
+msgid "Executing SQL:"
+msgstr "Yürütülen SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Ek eylemler yürütülüyor:"
+
+msgid "Cleaning all the mess:"
+msgstr "Karışıklık temizleniyor:"
+
+msgid "Contact"
+msgstr "İletişim"
+
+msgid "Search"
+msgstr "Arama"
+
+msgid "Dashboard"
+msgstr "Gösterge paneli"
+
+msgid "My account"
+msgstr "Hesabım"
+
+msgid "Logout"
+msgstr "Çıkış yap"
+
+msgid "E-mail"
+msgstr "E-posta"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+msgid "Log in"
+msgstr "Giriş yap"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Select a category"
+msgstr "Kategori seç"
+
+msgid "Item"
+msgstr "İlan"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Photos"
+msgstr "Fotoğraflar"
+
+msgid "Add new photo"
+msgstr "Yeni fotoğraf ekle"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "City area"
+msgstr "Şehir bölgesi"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "Cancel"
+msgstr "Vazgeç"
+
+msgid "City Area"
+msgstr "Şehir alanı"
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "İşlem henüz tamamlanmamış. Devam etmek istediğinize emin misiniz?"
+
+msgid "Current password"
+msgstr "Şuanki şifreniz"
+
+msgid "New password"
+msgstr "Yeni şifre"
+
+msgid "New pasword"
+msgstr "Yeni şifre"
+
+msgid "Repeat new pasword"
+msgstr "Yeni şifreni tekrar gir"
+
+msgid "Change password"
+msgstr "Şifreni değiştir"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Bu işlem henüz sona ermedi. Devam etmek istiyor musunuz?"
+
+msgid "Activate"
+msgstr "Aktif"
+
+msgid "User type"
+msgstr "Kullanıcı tipi"
+
+msgid "Cell phone"
+msgstr "Cep telefonu"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Passwords don't match"
+msgstr "Şifreler uyuşmuyor"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "The categories have been deleted"
+msgstr "Kategoriler kaldırıldı"
+
+msgid "The category has been enabled"
+msgstr "Kategori aktif edildi."
+
+msgid "The category has been disabled"
+msgstr "Kategori devre dışı bırakıldı"
+
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr "Sayfa problemi var. Kategori için ID oluşturulmamış"
+
+msgid "Invalid email address"
+msgstr "Geçersiz e-posta adresi"
+
+msgid "no action defined"
+msgstr "Eylem tanımlanmamış"
+
+msgid "Contact form"
+msgstr "İletişim Formu"
+
+msgid "Administrator"
+msgstr "Yönetici"
+
+msgid "Latest items added"
+msgstr "Son ilanlar eklendi"
+
+msgid "Latest items added in"
+msgstr "Son ilanlar bunun içinde eklendi"
+
+msgid "Checking for update files."
+msgstr "Güncelleştirme dosyaları denetleniyor."
+
+msgid "File downloaded correctly"
+msgstr "Dosya başarıyla indi"
+
+msgid "Missing filename"
+msgstr "Unutulan dosya ismi"
+
+msgid "Removing temp-directory"
+msgstr "Temp-klasörü kaldırılıyor"
+
+msgid "Archiving is sucessful!"
+msgstr "Arşivleme başarılı!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Hata, zip dosyası oluşturulamıyor"
+
+msgid "OK"
+msgstr "TAMAM"
+
+msgid "Unzip failed"
+msgstr "Zipten çıkarma işlemi başarısız"
+
+msgid "Filename incorrect"
+msgstr "Dosya ismi doğru değil"
+
+msgid "Files removed"
+msgstr "Dosyalar silindi"
+
+msgid "No files to remove"
+msgstr "Silinmek üzere dosya yok"
+
+msgid "There were problems copying files"
+msgstr "Dosyalar kopyalanırken hatalar oluştu"
+
+msgid "Nothing to copy"
+msgstr "Kopyalanacak birşey yok"
+
+msgid "Files copied"
+msgstr "Dosyalar kopyalandı"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql yürültüldü"
+
+msgid "No SQL to execute"
+msgstr "Yürütülecek SQL sorgusu yok"
+
+msgid "Custom actions executed"
+msgstr "Özel eylemler yürütüldü"
+
+msgid "No action to execute"
+msgstr "Yürütülecek eylem yok"
+
+msgid "Checking for update files"
+msgstr "Güncelleme dosyaları denetleniyor"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Dosyalar kopyalanırken hata oluştu. Belki dosya izinleri doğru verilmemiş"
+
+msgid "Tables updated correctly"
+msgstr "Tablolar başarıyla güncelleştirildi"
+
+msgid "No tables update to execute"
+msgstr "Güncelleştirmeyi yürütmek için tablo yok"
+
+msgid "View comments"
+msgstr "Yorumları görüntüle"
+
+msgid "View media"
+msgstr "Mediaları göster"
+
+msgid "Deactivate"
+msgstr "Etkinsizleştir"
+
+msgid "Unmark as premium"
+msgstr "Premium işaretini kaldır"
+
+msgid "Mark as premium"
+msgstr "Premium olarak işaretle"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds yönetici panel girişi"
+
+msgid "Type your new password"
+msgstr "Yeni şifrenizi yazınız"
+
+msgid "Back to"
+msgstr "Geri dön"
+
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+msgid "Forgot your password?"
+msgstr "Şifreni mi unuttun?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Lütfen kullanıcı adı ve e-mail adresinizi giriniz"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Email ile yeni bir şifre alacaksın"
+
+msgid "Get new password"
+msgstr "Yeni şifre edin"
+
+msgid "Thank you for using"
+msgstr "Kullandığınız için teşekkür ederiz"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Belgeleme"
+
+msgid "Feedback"
+msgstr "Geri bildiri"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Yönetici Paneli"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s kullanılabilir durumda"
+
+msgid "Please upgrade now"
+msgstr "Lütfen şimdi yükseltin"
+
+msgid "Visit website"
+msgstr "Websiteyi ziyaret et"
+
+msgid "Hi"
+msgstr "Merhaba"
+
+msgid "Your profile"
+msgstr "Senin profilin"
+
+msgid "Log Out"
+msgstr "Çıkış yap"
+
+msgid "Admins"
+msgstr "Yöneticiler"
+
+msgid "Add new admin"
+msgstr "Yeni yönetici ekle"
+
+msgid "Real name"
+msgstr "Gerçek isim"
+
+msgid "required"
+msgstr "gerekli"
+
+msgid "User name"
+msgstr "Kullanıcı ismi"
+
+msgid "Edit admin"
+msgstr "Yöneticiyi düzenle"
+
+msgid "Re-type new password"
+msgstr "Şifreyi yeniden yazınız"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Şifreni değiştirmek istemiyorsan boş bırak"
+
+msgid "Processing"
+msgstr "İşleniyor"
+
+msgid "Show _MENU_ entries"
+msgstr "_MENU_ girdilerini göster"
+
+msgid "No matching records found"
+msgstr "Eşleşen kayıt bulunamadı"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "_START_ - _END_   / _TOTAL_  girdi görüntüleniyor"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 girdinin 0 dan 0 a şekilde gösteriliyor"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "_MAX_ toplam girdilerden filtrelendi"
+
+msgid "First"
+msgstr "İlk"
+
+msgid "Previous"
+msgstr "Önceki"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "Last"
+msgstr "Son"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "entries"
+msgstr "girdiler"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Bu işlem geri alınamaz. Devam etmek istiyor musunuz?"
+
+msgid "Bulk actions"
+msgstr "Toptan eylemler"
+
+msgid "Appearance"
+msgstr "Görünüm"
+
+msgid "Theme package"
+msgstr "Tema paketi"
+
+msgid "Upload"
+msgstr "Yükle"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Dizinleri yazılabilir yapmak için Unix ortamında yürütülebilen shell komutu"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Gösterge Paneli - Yeni bir Widget ekle"
+
+msgid "Create widget in %s"
+msgstr "%s içinde widget oluştur"
+
+msgid "Description (only for internal purposes)"
+msgstr "Açıklama (Sadece iç amaçlar için)"
+
+msgid "HTML Code for the Widget"
+msgstr "Widget için Html Kodu"
+
+msgid "Publish widget"
+msgstr "Widgeti yayınla"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Vazgeçmek istediğinize emin misiniz?"
+
+msgid "Add a new theme"
+msgstr "Yeni bir tema ekle"
+
+msgid "Current theme"
+msgstr "Şuanki tema"
+
+msgid "Author"
+msgstr "Yazar"
+
+msgid "Available themes"
+msgstr "Mevcut temalar"
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Add HTML widget"
+msgstr "HTML Widget ekle"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Expirations days"
+msgstr "Sona erme günü"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = bitiş değil)"
+
+msgid "Enabled"
+msgstr "Etkin"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Disable"
+msgstr "Devre dışı"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Enable"
+msgstr "Etkin"
+
+msgid "Edit comment"
+msgstr "Yorumu düzenle"
+
+msgid "Add a comment"
+msgstr "Bir yorum ekle"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "You have to write a title."
+msgstr "Bir başlık yazmak zorundasınız"
+
+msgid "You have to write a comment."
+msgstr "Bir yorum yazmak zorundasınız."
+
+msgid "Author's name can not be empty."
+msgstr "Yazarın ismi boş bırakılamaz."
+
+msgid "Author's email can not be empty."
+msgstr "Yazın emaili boş olamaz"
+
+msgid "Edit a comment on item:"
+msgstr "İlandaki yorumu düzenle:"
+
+msgid "View"
+msgstr "Görüntüle"
+
+msgid "It's a registered user"
+msgstr "O bir kayıtlı üye"
+
+msgid "Edit user"
+msgstr "Kullanıcı düzenle"
+
+msgid "Author's e-mail"
+msgstr "Yazarın e-maili"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "De-activate"
+msgstr "Pasif yap"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Manage Comments"
+msgstr "Yorumları Yönet"
+
+msgid "Edit email/alert"
+msgstr "Email uyarılarını düzenle"
+
+msgid "Add an email/alert"
+msgstr "Email uyarısı ekle"
+
+msgid "Emails & Alerts"
+msgstr "Email ve Uyarılar"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "İç isim (email/uyarı için kolay isim)"
+
+msgid "Emails & alerts"
+msgstr "Email & Uyarılar"
+
+msgid "Items"
+msgstr "İlanlar"
+
+msgid "Manage items"
+msgstr "İlanları yönet"
+
+msgid "Add new item"
+msgstr "Yeni bir ilan ekle"
+
+msgid "Manage media"
+msgstr "Medyayı yönet"
+
+msgid "Manage categories"
+msgstr "Kategorileri yönet"
+
+msgid "Pages"
+msgstr "Sayfalar"
+
+msgid "Manage pages"
+msgstr "Sayfaları yönet"
+
+msgid "Create page"
+msgstr "Sayfa oluştur"
+
+msgid "Manage emails & alerts"
+msgstr "Email & uyarıları yönet"
+
+msgid "Manage themes"
+msgstr "Temaları yönet"
+
+msgid "Add or remove widgets"
+msgstr "Widgets ekle veya sil"
+
+msgid "Plugins"
+msgstr "Eklentiler"
+
+msgid "Manage plugins"
+msgstr "Eklentileri yönet"
+
+msgid "Add new plugin"
+msgstr "Yeni bir eklenti ekle"
+
+msgid "Languages"
+msgstr "Diller"
+
+msgid "Manage languages"
+msgstr "Dilleri yönet"
+
+msgid "Add a language"
+msgstr "Yeni bir dil ekle"
+
+msgid "General settings"
+msgstr "Genel ayarlar"
+
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgid "Locations"
+msgstr "Yerleri"
+
+msgid "Permalinks"
+msgstr "Kalıcı link"
+
+msgid "Spam and bots"
+msgstr "Spam ve botlar"
+
+msgid "Currencies"
+msgstr "Para Birimleri"
+
+msgid "Mail Server"
+msgstr "Mail Sunucusu"
+
+msgid "Media"
+msgstr "Medya"
+
+msgid "Cron system"
+msgstr "Zamanlanmış Görev Sistemi"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Import data"
+msgstr "Veri içeri al"
+
+msgid "Backup data"
+msgstr "Yedek al"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds güncelleştir"
+
+msgid "Regenerate thumbnails"
+msgstr "Küçük resimleri tekrar oluştur"
+
+msgid "Manage users"
+msgstr "Üyeleri yönet"
+
+msgid "Add new user"
+msgstr "Yeni kullanıcı ekle"
+
+msgid "Administrators"
+msgstr "Yöneticiler"
+
+msgid "List administrators"
+msgstr "Yöneticileri listele"
+
+msgid "Add new administrator"
+msgstr "Yeni bir yönetici ekle"
+
+msgid "Edit Your Profile"
+msgstr "Profilini düzenle"
+
+msgid "New item"
+msgstr "Yeni ilan"
+
+msgid "Edit item"
+msgstr "İlanı düzenle"
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "Item posted by"
+msgstr "İlan tarafınca gönderildi"
+
+msgid "Non-registered user"
+msgstr "Ziyaretçi"
+
+msgid "E-Mail"
+msgstr "E-Posta"
+
+msgid "General information"
+msgstr "Genel bilgiler"
+
+msgid "optional"
+msgstr "isteğe bağlı"
+
+msgid "Add item"
+msgstr "İlan ekle"
+
+msgid "Count"
+msgstr "Say"
+
+msgid "Filter by"
+msgstr "filtrelendi"
+
+msgid "All"
+msgstr "Hepsi"
+
+msgid "Pending"
+msgstr "Bekliyor"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Çoğaltılamaz"
+
+msgid "Misclassified"
+msgstr "Sınıflandırılmamış"
+
+msgid "Offensive"
+msgstr "Saldırgan"
+
+msgid "Expired"
+msgstr "Süresi doldu"
+
+msgid "Language package"
+msgstr "Dil paketi"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Çeviri klasörü yazılabilir değil dolayısıyla dil dosyalarınızı admin panelinden yükleyemezsiniz. Lütfen dil klasörünü yazılabilir yapın."
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "UNIX platformunda dizinleri yazılabilir yapmak için shell den şu komutu yürütün:"
+
+msgid "Short name"
+msgstr "Kısa isim"
+
+msgid "Currency format"
+msgstr "Şuanki format"
+
+msgid "Date format"
+msgstr "Tarih formatı"
+
+msgid "Stopwords"
+msgstr "Duraksama sözcükleri"
+
+msgid "Enabled for the public website"
+msgstr "Halk için siteyi etkinleştir"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Yöneticiler için siteyi etkinleştir"
+
+msgid "Disable (website)"
+msgstr "Etkinsizleştir (website)"
+
+msgid "Disable (oc-admin)"
+msgstr "Etkinsizleştir (oc-admin)"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Enabled (website)"
+msgstr "Etkinleştirildi (website)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Etkinleştirildi (oc-admins)"
+
+msgid "Bulk Actions"
+msgstr "Toptan Eylemler"
+
+msgid "Enable (Website)"
+msgstr "Etkinleştir (Website)"
+
+msgid "Disable (Website)"
+msgstr "Devre dışı (Website)"
+
+msgid "Enable (oc-admin)"
+msgstr "Etkinleştir (oc-admin)"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Hangisini gösterge panelinde görmek istersin ?"
+
+msgid "Latest items"
+msgstr "Son ilanlar"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Latest comments"
+msgstr "Son yorumlar"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "OpenSourceClassifiedsdaki son haberler"
+
+msgid "Items by category"
+msgstr "Kategoriye göre ilanlar"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Henüz yüklenmiş ilan yok"
+
+msgid "Number of items"
+msgstr "İlanın numarası"
+
+msgid "Number of public users"
+msgstr "Kullanıcı sayısı"
+
+msgid "Number of administrators"
+msgstr "Yönetici numarası"
+
+msgid "Commented on item"
+msgstr "İlandaki yorumlar"
+
+msgid "There aren't any comments yet"
+msgstr "Henüz yorum yok"
+
+msgid "new"
+msgstr "yeni"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "OpenSourceClassifieds üzerinden haberler alınamadı. Lütfen daha sonra deneyiniz"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "Attached to"
+msgstr "Buna ekli"
+
+msgid "Edit page"
+msgstr "Sayfayı düzenle"
+
+msgid "Add page"
+msgstr "Sayfa ekle"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "İç isim (bu sayfayı belirlemek için isim)"
+
+msgid "View page"
+msgstr "Sayfayı görüntüle"
+
+msgid "Add a new plugin"
+msgstr "Yeni eklenti ekle"
+
+msgid "Plugin package"
+msgstr "Eklenti paketi"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Eklenti paneli olan %s yazılabilir değil"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds yönetici panelinde eklenti yükleyemez"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Lütfen eklenti paketlerini FTP yada SSH kullanarak kopyalayın ya da klasörü yazılabilir yapın"
+
+msgid "Select the categories where you want to apply these attributes"
+msgstr "Özniteliklerin uygulanacağı kategorileri seçiniz"
+
+msgid "Preset categories"
+msgstr "Öncü kategoriler"
+
+msgid "Check all"
+msgstr "Hepsini işaretle"
+
+msgid "Uncheck all"
+msgstr "Hiçbirini seç"
+
+msgid "Configure"
+msgstr "Yapılandırma"
+
+msgid "There's a new version. You should update!"
+msgstr "Yeni bir sürüm var. Güncelleştirmelisin!"
+
+msgid "Uninstall"
+msgstr "Kaldır"
+
+msgid "Install"
+msgstr "Yükle"
+
+msgid "Create currency"
+msgstr "Para birimi oluştur"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "It should be a three-character code"
+msgstr "Üç karakter kodlu olmalı"
+
+msgid "Comments settings"
+msgstr "Yorum seçenekleri"
+
+msgid "Comments enabled"
+msgstr "Yorumlar açık"
+
+msgid "Moderate comments"
+msgstr "Yönetici onaylı yorumlar"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Aynı yazarların yorum sayısı kontrol edilmelidir (0 herzaman moderasyon gerekir)"
+
+msgid "Notifications"
+msgstr "Bildirimler"
+
+msgid "Notify when there's a new comment"
+msgstr "Yeni bir yorum olduğunda uyar"
+
+msgid "Contact settings"
+msgstr "İletişim ayarları"
+
+msgid "Attachment enabled"
+msgstr "Ekler açık"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Otomatik İşlemler- Cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Bazı OpenSourceClassifieds fonksiyonları işlenmek için Cron gerekli. Hostunuzu denetleyin.  Eğer manuel olarak cron yapmak istiyorsanız uncheck yapın."
+
+msgid "Edit currency"
+msgstr "Para birimini düzenle"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Bir kere oluşturuldu, düzenlenemiyor"
+
+msgid "Page title"
+msgstr "Sayfa başlığı"
+
+msgid "Page description"
+msgstr "Sayfa açıklaması"
+
+msgid "Admin e-mail"
+msgstr "Yöneticinin e-postası"
+
+msgid "Default language"
+msgstr "Varsayılan dil"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "Default currency"
+msgstr "Varsayılan para birimi"
+
+msgid "Week starts on"
+msgstr "Haftanın başlangıç günü"
+
+msgid "Sunday"
+msgstr "Pazar"
+
+msgid "Monday"
+msgstr "Pazartesi"
+
+msgid "Tuesday"
+msgstr "Salı"
+
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+msgid "Thursday"
+msgstr "Perşembe"
+
+msgid "Friday"
+msgstr "Cuma"
+
+msgid "Saturday"
+msgstr "Cumartesi"
+
+msgid "Time format"
+msgstr "Zaman formatı"
+
+msgid "Number of items in the RSS"
+msgstr "RSS deki ilan sayısı"
+
+msgid "Enable reCAPTCHA"
+msgstr "ReCAPTCHAyı etkinleştir"
+
+msgid "Enable item validation by users"
+msgstr "İlan doğrulamasını üyeler tarafından yapılmasını etkinleştir"
+
+msgid "Logged users don't need to validate items"
+msgstr "Oturum açmış üyelerin ilanlarını onaylamasına gerek yok"
+
+msgid "Only allow registered users to post items"
+msgstr "Sadece üyeler ilan gönderebilir"
+
+msgid "Notify admin of new items"
+msgstr "Yeni ilanlarda yöneticiyi haberdar et"
+
+msgid "Notify admin of contact items"
+msgstr "İlan iletişimlerinde yöneticiyi haberdar et"
+
+msgid "Notify admin of share"
+msgstr "Paylaşımlarda yöneticiyi bilgilendir"
+
+msgid "Optional fields"
+msgstr "İsteğe bağlı alanlar"
+
+msgid "Enable price"
+msgstr "Fiyatı etkinleştir"
+
+msgid "Enable images"
+msgstr "Resimleri etkinleştir"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "View more"
+msgstr "Fazlasına gözat"
+
+msgid "Countries"
+msgstr "Ülkeler"
+
+msgid "Add new"
+msgstr "Yeni ekle"
+
+msgid "Regions"
+msgstr "Bölgeler"
+
+msgid "Cities"
+msgstr "Şehirler"
+
+msgid "Add new country"
+msgstr "Yeni şehir ekle"
+
+msgid "Country code"
+msgstr "Ülke kodu"
+
+msgid "Country code should have two characters"
+msgstr "Ülke kodu 2 karakterden oluşmalı"
+
+msgid "Edit country"
+msgstr "Ülkeyi düzenle"
+
+msgid "Add new region"
+msgstr "Yeni bölge ekle"
+
+msgid "Edit region"
+msgstr "Bölgeyi düzenle"
+
+msgid "Add new city"
+msgstr "Yeni şehir ekle"
+
+msgid "Edit city"
+msgstr "Şehiri düzenle"
+
+msgid "Mail server"
+msgstr "Posta sunucusu"
+
+msgid "Configuration"
+msgstr "Yapılandırma"
+
+msgid "Server type"
+msgstr "Sunucu türü"
+
+msgid "Custom Server"
+msgstr "Özel Sunucu"
+
+msgid "GMail Server"
+msgstr "GMail Sunucusu"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "Server port"
+msgstr "Sunucu portu"
+
+msgid "Encryption"
+msgstr "Şifreleme"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Seçenekler: boş, ssl yada tls"
+
+msgid "Enable SMTP authentication"
+msgstr "SMTP kimlik doğrulamasını etkinleştir"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Email sunucu konfirgasyonunu giriniz"
+
+msgid "Media settings"
+msgstr "Medya ayarları"
+
+msgid "Configure media"
+msgstr "Medyayı yapılandır"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Lütfen resimler için tercih edilen boyutları giriniz (format: GenişlikXyükseklik örn: 640x480)"
+
+msgid "Restrictions"
+msgstr "Kısıtlamalar"
+
+msgid "Maximum size, in KB"
+msgstr "Maksimum boyut (kb şeklinde)"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "İzin verilen uzantılar (örn: png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Boyutlar"
+
+msgid "Thumbnail dimensions"
+msgstr "Küçük resim boyutları"
+
+msgid "Preview dimensions"
+msgstr "Boyutları görüntüle"
+
+msgid "Normal dimensions"
+msgstr "Normal boyutlar"
+
+msgid "Keep original image"
+msgstr "Resmin orjinalini sakla"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Orjinal resim dosyalarını saklamak fazladan depolama gerektirir. Bu seçenek resimleri değiştirmeden depolamayı sağlar. Bu seçeneği kullanırken dikkatli olun."
+
+msgid "Permalinks settings"
+msgstr "Kalıcı bağlantı ayarları"
+
+msgid "Friendly urls"
+msgstr "Arkadaş canlısı bağlantılar"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "OpenSourceClassifieds size samimi url sunuyor. Bu bağlantıların estetik, kullanışlılık ve ileriye uyumluluk artırabilir"
+
+msgid "Enable friendly urls"
+msgstr "Seoyu etkinleştir"
+
+msgid ".htaccess file"
+msgstr ".htaccess dosyası"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Modül <em>mod_rewrite</em> sunucuda yüklü"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Uyarı! Rewrite modülü sunucuda bulunamadı. Bu demek oluyorki etkin değil yada siz PHPyi CGI gibi (yada fastCGI) şeklinde kullanıyorsunuz. Bu durumda sizin mod_rewrite komutunuz olmadığı için arkadaş canlısı adresleri AllowPathInfo seçeneği ile Apache konfigirasyonu sayesinde (Açıkmı bilmiyoruz fakat genelde açık olur)  yapacağız. Şu şekilde olacak index.php adresiniz:(örn: http://siteniz.com/index.php/nice/url)"
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Hata. Sunucunuzda .htaccess dosyanıza yazamıyoruz. Lütfen .htaccess dosyanızı istenildiği gibi manuel olarak sunucuya yükleyiniz."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr ".htaccess dosyası zaten var. Lütfen .htccasess dosyasının içeriğini denetleyiniz."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr ".htaccess dosyasını OpenSourceClassifieds dizininde oluşturduk"
+
+msgid "Content of .htaccess file should look like this:"
+msgstr ".htaccess dosyası şu şekilde olmalı:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Şuanki .htaccess dosyası şöyle:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akisment anahtarı (wordpress.comdaki gibi)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Bu alan boş çünkü Akismet servisi etkin değil"
+
+msgid "Get your free key at"
+msgstr "Bedava ürün anahtarınızı şuradan alın"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Bu alan boş çünkü reCAPTCHA servisi etkin değil"
+
+msgid "Get your free keys at"
+msgstr "Bedava ürün anahtarınızı şuradan alın"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA private anahtarı"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA public anahtarı"
+
+msgid "Users settings"
+msgstr "Kullanıcı ayarları"
+
+msgid "Users enabled"
+msgstr "Kullanıcılar etkin"
+
+msgid "User validation enabled"
+msgstr "Kullanıcı doğrulama etkin"
+
+msgid "User registration enabled"
+msgstr "Üye alımı etkileştirildi"
+
+msgid "Backup"
+msgstr "Yedek"
+
+msgid "You're offline! Please check your connection"
+msgstr "Çevirimdışısınız! Lütfen bağlantınızı kontrol edin"
+
+msgid "Requested URL not found"
+msgstr "Talep edilen URL bulunamadı"
+
+msgid "Internal server error"
+msgstr "İç sunucu hatası"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Hata, JSON ayrıştırma isteği başarısız oldu"
+
+msgid "Request timeout"
+msgstr "İstek zaman aşımına uğradı"
+
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds yedekle"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Buradan OpenSourceClassifiedsınızın yedeğini alabilirsiniz. Dikkat: eğer özel bir yedek klasörünüz yok ise, yedek dosyaları ana dizine oluşturulacak."
+
+msgid "Backup folder"
+msgstr "Klasörü yedekle"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Bu klasörde yedeklerin oluşturulabilir. Herkese gösterilmeyen bir dizin olmasını öneriyoruz. Daha fazlası için lütfen OSclass belgelerine bakın"
+
+msgid "Back up database"
+msgstr "Veritabanı yedeği"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "OpenSourceClassifieds yükleme yedeği"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Buradan küçük resim ve önizleme resmi yaratabilirsin. Eğer temanı vb değiştirdiysen yararlı olabilir. Lütfen belirnenen dosya boyutlarını media ayarlarından kontrol ediniz."
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Veritabanına eklemek için değiştirebilirsin, silebilirsin yada buradan yapabilirsin. Bu genellikle ülke, bölge ve şehir içeri alırken kullanılır."
+
+msgid "Data"
+msgstr "Veri"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Tatmin edici kullanıcı ile mükemmel ve kolay otomatik güncelleştirme: Tamamlandı!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Geçersiz OpenSourceClassifieds isteği"
+
+msgid "Upgrade"
+msgstr "Güncelleştirme"
+
+msgid "Re-type the password"
+msgstr "Şifrenizi tekrar yazın"
+
+msgid "Additional information"
+msgstr "Ek bilgi"
+
+msgid "Activate user"
+msgstr "Kullanıcıyı etkinleştir"
+
+msgid "Deactivate user"
+msgstr "Kullanıcıyı devre dışı bırak"
+
+msgid "Update Date"
+msgstr "Güncelleştirme tarihi"
+
+msgid "Add a new user"
+msgstr "Yeni kullanıcı ekle"
+
+msgid "Anonymous"
+msgstr "İsimsiz"
+
+msgid "Admin mail system"
+msgstr "Yönetici posta sistemi"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Eklendi %s index.php dosyasında eksik %s"
+
+msgid "Plugin %s is missing its main file"
+msgstr "%s eklentisi ana dosyada eksik"
+
+msgid "Enter your e-mail"
+msgstr "E-posta adresini gir"
+
+msgid "Select a country..."
+msgstr "Ülkeni seç.."
+
+msgid "Select a region..."
+msgstr "Bölgeni seç.."
+
+msgid "Select a city..."
+msgstr "Şehirini seç.."
+
+msgid "No results"
+msgstr "Sonuç yok"
+
+msgid "Description: needs to be longer"
+msgstr "Açıklama: daha uzun gerekli"
+
+msgid "Title: this field is required"
+msgstr "Başlık: bu boşluk gerekli"
+
+msgid "Title: enter at least 9 characters"
+msgstr "Başlık: en az 9 karakter girilmeli"
+
+msgid "Title: no more than 80 characters"
+msgstr "Başlık: 80 karakterden fazla girilmemeli"
+
+msgid "Description: this field is required"
+msgstr "Açıklama: Bu alan gerekli"
+
+msgid "Description: no more than 5000 characters"
+msgstr "Açıklama: 5000 karakteri geçmemeli"
+
+msgid "Choose one category"
+msgstr "Bir kategori seçiniz"
+
+msgid "Price: enter a valid number"
+msgstr "Fiyat: sayı şeklinde giriniz"
+
+msgid "Price: no more than 15 characters"
+msgstr "Fiyat: 15 karakterden fazla olmamalı"
+
+msgid "Currency: make your selection"
+msgstr "Para birimi: seçiminizi yapın"
+
+msgid "Photo: must be %s"
+msgstr "Fotoğraf: %s olmalı"
+
+msgid "Name: enter at least 3 characters"
+msgstr "İsim: 3 karakterden az olmamalı"
+
+msgid "Name: no more than 35 characters"
+msgstr "İsim: 35 karakterden fazla olmamalı"
+
+msgid "Email: this field is required"
+msgstr "Email: bu alan gerekli"
+
+msgid "Select a region"
+msgstr "Bir bölge seçin"
+
+msgid "Select a city"
+msgstr "Bir şehir seçin"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Şehir alanı: 3 karakterden az olmamalı"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Bu işlemin geri dönüşü yok. Bunu yapmak istediğinizden emin misiniz?"
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Body"
+msgstr "Gövde"
+
+msgid "User Description"
+msgstr "Kullanıcı açıklaması"
+
+msgid "Company"
+msgstr "Şirket"
+
+msgid "Check with seller"
+msgstr "Satıcıyla kontrol et"
+
+msgid "Newly listed"
+msgstr "Önce yeni ilanlar"
+
+msgid "Lower price first"
+msgstr "Önce düşük fiyatlı ilanlar"
+
+msgid "Higher price first"
+msgstr "Önce yüksek fiyatlı ilanlar"
+
+msgid "Manage your items"
+msgstr "İlanlarını yönet"
+
+msgid "Manage your alerts"
+msgstr "Uyarılarını yönet"
+
+msgid "%s in"
+msgstr "%s içinde"
+
+msgid "There's no description available in your language"
+msgstr "Diline ait açıklama yok"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Verdiğimiz rahatsızlıktan ötürü özür dileriz. % s bakım modu altında."
+
+msgid "Your website is currently under maintenance mode"
+msgstr "Web siteniz Bakım modunda şu anda"
+
+msgid "Error removing file: %s"
+msgstr "Hata dosyasını kaldırma:% s"
+
+msgid "Some error ocurred"
+msgstr "Bazı hatalar oluştu"
+
+msgid "Order saved"
+msgstr "Kaydedilmiş sipariş"
+
+msgid "The subcategories has been enabled"
+msgstr "Alt kategorileri etkinleştir"
+
+msgid "The subcategories has been disabled"
+msgstr "Alt kategorileri devre dışı bırak"
+
+msgid "Error: %s"
+msgstr "Hata:% s"
+
+msgid "Error while deleting"
+msgstr "Silinirken hata oluştu"
+
+msgid "All titles are required"
+msgstr "Tüm başlıklar gerekli"
+
+msgid "Error while updating."
+msgstr "Güncelleme sırasında hata oluştu"
+
+msgid "Saved"
+msgstr "Kaydedilmiş"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Başarılı! OpenSourceClassifieds kurulum güncellendi"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Hemen hemen her şey iyiydi! OpenSourceClassifieds kurulum güncelleme sırasında bazı hatalar oluştu.  \\\"oc-temp\\\" klasörüne silin."
+
+msgid "Problems upgrading the database"
+msgstr "Veritabanı yükseltme Sorunları"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Dosya kopyalama Sorunu. Belki izinler doğru değil"
+
+msgid "Download failed"
+msgstr "Yükleme başarısız oldu"
+
+msgid "Missing download URL"
+msgstr "Yükleme URL Eksik"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Bazı dosyaları kaldırırken hata oluştu, çok önemli hata olmadığından kurulum devam etti. Aşağıdaki dosyaları (Zaten OpenSourceClassifieds yükseltilmiş, ancak en fazla performans sağlamak için) çıkarın"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Veritabanı güncelleme sırasında bazı hatalar oldu. Aşağıdaki sorgular başarısız oldu."
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Forums"
+msgstr "Forumlar"
+
+msgid "Add new theme"
+msgstr "Yeni tema ekle"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Tema klasörü% s sunucunuzda yazılabilir değil, <span class=\\\"OpenSourceClassifieds\\\"> OpenSourceClassifieds yönetim panelinden temaları yükleyemiyorum </ span>. FTP veya SSH kullanarak tema paketi kopyalayın, veya söz konusu tema klasörü yazılabilir yapın."
+
+msgid "Ajax error, try again."
+msgstr "Ajax hatası, tekrar deneyin."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "UYARI: Bu kategori altında öğeleri siler. Bu eylem geri alınamaz. Devam etmek istediğinizden emin misiniz?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Sürükle ve onları istediğiniz şekilde yeniden düzenlemek için kategorilere bırakın.Kategoriyi düzenlemek için düzenle bağlantısını tıklayın."
+
+msgid "Add new category"
+msgstr "Yeni kategori ekle"
+
+msgid "Categories settings"
+msgstr "Kategori ayarları"
+
+msgid "Selectable parent categories"
+msgstr "Seçilebilir ana kategoriler"
+
+msgid "ACTIVE"
+msgstr "AKTİF"
+
+msgid "INACTIVE"
+msgstr "PASİF"
+
+msgid "ENABLED"
+msgstr "ETKİN"
+
+msgid "DISABLED"
+msgstr "DEVRE DIŞI"
+
+msgid "Last Searches"
+msgstr "Son aramalar"
+
+msgid "Maintenance mode"
+msgstr "Bakım modu"
+
+msgid "Reports"
+msgstr "Raporlar"
+
+msgid "Disabled"
+msgstr "Devre dışı"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Aynı yazarların öğe sayısı kontrol edilmelidir (0 herzaman moderasyon gerekir)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Kullanıcı başka bir öğe yayımlamadan önce beklemesi gereken saniye (0 beklemesiz)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Sadece kayıtlı kullanıcılar satıcıyla iletişim kurabilir."
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Öğe başına görüntü sayısı (sınırsız için 0)"
+
+msgid "Download more languages at %s"
+msgstr "% S daha fazla dil indirin"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Bu eylem geri alınamaz. Eklentileri kaldırma veri kaybına neden olabilir. Devam etmek istediğinizden emin misiniz?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Sayfa başına yorum sayısı. Bu öğenin ayrıntı sayfasında gösterilen yorumların sayısını sınırlayabilir. Diğer yorumlar sayfalama sistemi ile gösterilecek. (Aynı anda tüm yorumları göster için 0)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Sadece kayıtlı kullanıcılar yorum gönderebilir."
+
+msgid "Number of recent items displayed at home"
+msgstr "Anasayfada gösterilen yeni ürünler sayısı"
+
+msgid "Save latest searches"
+msgstr "Son aramaları kaydedin"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds sitenizde kullanıcıların son aramaları kayıt edebilir. Kullanıcılar için bir fikir ya da \\\"sıcak konular\\\" olarak sitede onlara gösterebilir."
+
+msgid "Keep last searches"
+msgstr "Son aramaları saklayın"
+
+msgid "One hour"
+msgstr "Bir saat"
+
+msgid "One day"
+msgstr "Bir gün"
+
+msgid "One week"
+msgstr "Bir hafta"
+
+msgid "Forever (never delete)"
+msgstr "Sürekli (asla silme)"
+
+msgid "Keep last 1000 searches"
+msgstr "Son 1000 aramayı saklayın"
+
+msgid "Number of files to keep"
+msgstr "Saklamak için dosya sayısı"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Son arama işlevi çok veri oluşturabilir. Bu, bu verileri temizleme önerilir."
+
+msgid "Last 10 days"
+msgstr "Son 10 gün"
+
+msgid "Last 10 weeks"
+msgstr "Son 10 hafta"
+
+msgid "Last 10 months"
+msgstr "Son 10 ay"
+
+msgid "There're no statistics yet"
+msgstr "Henüz istatistik yok"
+
+msgid "Latest comments on the web"
+msgstr "Son yorumlar"
+
+msgid "New items"
+msgstr "Yeni ürün"
+
+msgid "Total number of items' views"
+msgstr "Ürün görüntüleme sayısı"
+
+msgid "Latest items on the web"
+msgstr "Son ürünler"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Inactive"
+msgstr "Pasif"
+
+msgid "Views"
+msgstr "Görüntüleme"
+
+msgid "Total number of reports"
+msgstr "Toplam rapor sayısı"
+
+msgid "Repeated"
+msgstr "Tekrarlanan"
+
+msgid "Bad category"
+msgstr "Kötü kategori"
+
+msgid "Latest users on the web"
+msgstr "Son kullanıcılar"
+
+msgid "Avg. items per user"
+msgstr "Ort. Kullanıcı başına ürün"
+
+msgid "items per user"
+msgstr "Kullanıcı başına ürün"
+
+msgid "New users"
+msgstr "Yeni kullanıcılar"
+
+msgid "Users per country"
+msgstr "Ülke başına Kullanıcılar"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Users per region"
+msgstr "Bölgelere göre Kullanıcılar"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Bakım modunda iken, kullanıcılar web sitesine erişemez. Web sitenizde bazı değişiklikler yapmak gerekirse yararlıdır. AÇIK / KAPALI bakım moduna geçiş yapmak için aşağıdaki düğmeyi kullanın"
+
+msgid "Maintenance mode is:"
+msgstr "Bakım modu:"
+
+msgid "ON"
+msgstr "AÇIK"
+
+msgid "OFF"
+msgstr "KAPALI"
+
+msgid "Disable maintenance mode"
+msgstr "Bakım modu devre dışı bırakın"
+
+msgid "Enable maintenance mode"
+msgstr "Bakım modunu etkinleştirme"
+
+msgid "Checking for updates"
+msgstr "Güncellemeler kontrol ediliyor"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Yupigu! Sizin eklenti güncel!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Tebrikler! Sizin OpenSourceClassifieds yüklemesi güncel!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Lütfen OpenSourceClassifieds yükleme yükseltme (bu biraz sürebilir):"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "OpenSourceClassifieds kurulum otomatik olarak yükseltilebilir. , Sizin OpenSourceClassifieds yükseltmeye çalışmadan önce veri tabanı ve klasör oc-content yedekleme alın. Ayrıca, yükseltme paketini indirmek OpenSourceClassifieds yükseltmek için sıkıştırılmış paket üzerinde olanlar ile sunucunuzdaki dosyaları değiştirebilirsiniz."
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 666 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Sizin OpenSourceClassifieds kurulum otomatik olarak yükseltilemez. Dosya ve klasörlerin yazılabilir olması gerekir. Daha fazla bilgi sağlayamaz böylece komut \\\"chmod-R 666 *\\\" (tırnak işaretleri olmadan) veya bir FTP istemcisi ile SSH ile 644 izinleri uygulamak olabilir, bu programa bağlıdır."
+
+msgid "Enable user"
+msgstr "Kullanıcı etkinleştirme"
+
+msgid "Disable user"
+msgstr "kullanıcı devre dışı bırakma"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds »bazı hatalar var"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Veritabanı yapısı güncelleştirme bazı sorunlarla karşılaştı.Aşağıdaki sorgular başarısız oldu:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Bu hatalar, yanlış pozitif hataları olabilir. Bu durumda olduğundan emin iseniz, <a href=\\\"%s\\\">güncelle</a>, yada <a href=\\\"http://forums.opensourceclassifieds.org/\\\">forumdaki sorlara bak</a>."
+
+msgid "Name: this field is required"
+msgstr "İsim: Bu alan gereklidir"
+
+msgid "Message: this field is required"
+msgstr "Mesaj: Bu alan gereklidir"
+
+msgid "City area: no more than 50 characters"
+msgstr "Şehir alanı: en fazla 50 karakter"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Adres: en az 3 karakter girin"
+
+msgid "Address: no more than 100 characters"
+msgstr "Adres: en fazla 100 karakter"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Üzgünüz, reklam başına görüntü sayısına ulaştınız"
+
+msgid "Your name: this field is required"
+msgstr "Adınız: Bu alan gereklidir"
+
+msgid "Friend's name: this field is required"
+msgstr "Arkadaşınızın Adı Soyadı: Bu alan gereklidir"
+
+msgid "Friend's email: this field is required"
+msgstr "Arkadaşınızın E-posta: Bu ​​alan gereklidir"
+
+msgid "Invalid friend's email address"
+msgstr "Geçersiz arkadaşınızın e-posta adresi"
+
+msgid "Name: no more than 50 characters"
+msgstr "İsim: en fazla 50 karakter"
+
+msgid "Password: this field is required"
+msgstr "Şifre: Bu alan gereklidir"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Şifre: en az 5 karakter girin"
+

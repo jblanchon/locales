@@ -1,0 +1,910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+msgid "The Recaptcha code is wrong"
+msgstr "Не правильный код подтверждения"
+
+msgid "You have to introduce a correct e-mail"
+msgstr "Вы должны ввести правильный e-mail"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "Ваше письмо было отправлено! Спасибо Вам за интерес к нашему сайту."
+
+msgid "Users not enabled"
+msgstr "Пользователи не активированы"
+
+msgid "Only registered users are allowed to post items"
+msgstr "Только зарегистрированные пользователи могут размещать объявления"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "К сожалению, у нас нет объявлений с таким идентификатором"
+
+msgid "Great! We've just updated your item"
+msgstr "Отлично! Мы только что обновили ваше предложение"
+
+msgid "The item has been validated"
+msgstr "Предложение утверждено"
+
+msgid "The item can't be validated"
+msgstr "Невозможно проверить объявление"
+
+msgid "The item has already been validated"
+msgstr "Предложение утверждено"
+
+msgid "Your item has been deleted"
+msgstr "Ваше предложение удалено"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "Предложение, которое вы пытаетесь удалить не может быть удалено"
+
+msgid "The selected photo couldn't be deleted, the url doesn't exist"
+msgstr "Невозможно удалить выбранную фотографию, URL не существует"
+
+msgid "The item doesn't exist"
+msgstr "Предложение не существует"
+
+msgid "The item doesn't belong to you"
+msgstr "Предложение не принадлежит вам"
+
+msgid "The selected photo has been successfully deleted"
+msgstr "Выбранная фотография успешно удалена"
+
+msgid "The selected photo couldn't be deleted"
+msgstr "Выбранные фотографии не удалены"
+
+msgid "Thanks! That's very helpful"
+msgstr "Спасибо! Это очень полезно"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "Мы сожалеем, но срок предложения истек. Вы не можете связаться с продавцом"
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "Мы только что отправили на e-mail продавцу"
+
+msgid "Sorry, we could not save your comment. Try again later"
+msgstr "К сожалению, мы не смогли сохранить ваш комментарий. Попробуйте еще ​​раз позже"
+
+msgid "Your comment is awaiting moderation"
+msgstr "Ваш комментарий ожидает модерации"
+
+msgid "Your comment has been approved"
+msgstr "Ваш комментарий утвержден"
+
+msgid "Please fill the required fields (name, email)"
+msgstr "Пожалуйста, заполните обязательные поля (имя, e-mail)"
+
+msgid "Please type a comment"
+msgstr "Пожалуйста, введите комментарий"
+
+msgid "Your comment has been marked as spam"
+msgstr "Ваш комментарий был помечен как спам"
+
+msgid "This item doesn't exist"
+msgstr "Данное предложение не существует"
+
+msgid "The comment doesn't exist"
+msgstr "Комментарий не существует"
+
+msgid "The comment is not active, you cannot delete it"
+msgstr "Комментарии не активен, вы не можете удалить его"
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "Предложение не подтверждено. Пожалуйста, проверьте его, для показа его остальным пользователям"
+
+msgid "This item hasn't been validated"
+msgstr "Данное предложение не подтверждено"
+
+msgid "The username doesn't exist"
+msgstr "Имя пользователя не существует"
+
+msgid "The user has not been validated yet"
+msgstr "Пользователь еще не подтвержден"
+
+msgid "The password is incorrect"
+msgstr "Неправильный пароль"
+
+msgid "We have sent you an email with the instructions to reset your password"
+msgstr "Мы отправили вам письмо с инструкциями по смене пароля"
+
+msgid "Sorry, the link is not valid"
+msgstr "К сожалению, ссылка не действительна"
+
+msgid "The password has been changed"
+msgstr "Пароль успешно изменен"
+
+msgid "Error, the password don't match"
+msgstr "Ошибка, пароли не совпадают"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "Пользователь создан. На ваш e-mail отправлено письмо с активацией"
+
+msgid "Your account has been created successfully"
+msgstr "Ваш аккаунт был успешно создан"
+
+msgid "The specified e-mail is already in use"
+msgstr "Указанный e-mail уже используется"
+
+msgid "The reCAPTCHA was not introduced correctly"
+msgstr "Код подтверждения был введен не правильно"
+
+msgid "Your account has been validated"
+msgstr "Ваш аккаунт проверен"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "Ссылка не действительна. Извините за неудобства!"
+
+msgid "Your email has been changed successfully"
+msgstr "Ваш e-mail был успешно изменен"
+
+msgid "Your profile has been updated successfully"
+msgstr "Ваш профиль был успешно изменен"
+
+msgid "The specified e-mail is not valid"
+msgstr "Указанный адрес электронной почты не действителен"
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "Мы послали вам письмо по электронной почте. Следуйте инструкциям для проверки изменений"
+
+msgid "We tried to sent you an e-mail, but it failed. Please, contact the administrator"
+msgstr "Не удалось отправить Вам письмо. Пожалуйста, обратитесь к администратору"
+
+msgid "Current password doesn't match"
+msgstr "Текущие пароли не совпадают"
+
+msgid "Passwords can't be empty"
+msgstr "Пароль не может быть пустым"
+
+msgid "Password has been changed"
+msgstr "Пароль изменен"
+
+msgid "Email invalid"
+msgstr "Недействительный e-mail "
+
+msgid "Username invalid"
+msgstr "Имя пользователя недействительно"
+
+msgid "Password invalid"
+msgstr "Не правильный пароль"
+
+msgid "Email already in use"
+msgstr "Этот e-mail уже используется"
+
+msgid "Username already in use"
+msgstr "Имя пользователя уже используется"
+
+msgid "The admin has been added"
+msgstr "Администратор успешно добавлен"
+
+msgid "There have been an error adding a new admin"
+msgstr "Возникла ошибка при добавлении нового администратора"
+
+msgid "There is no admin admin with this id"
+msgstr "Не существует администратора с указанным id "
+
+msgid "This admin doesn't exist"
+msgstr "Админ не существует"
+
+msgid "Existing email"
+msgstr "Существующий email"
+
+msgid "Existing username"
+msgstr "Существующее имя пользователя"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "Невозможно обновить пароль. Пароли не совпадают"
+
+msgid "The admin has been updated"
+msgstr "Админ обновлен"
+
+msgid "The admin id isn't in the correct format"
+msgstr "ID админа имеет неверный формат"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "Операция не была завершена. Вы пытаетесь удалить себя!"
+
+msgid "The admin has been deleted correctly"
+msgstr "Админ корректно удален"
+
+msgid "The admin couldn't be deleted"
+msgstr "Невозможно удалить администратора"
+
+msgid "The theme folder is not writable"
+msgstr "Папка с темами не имеет прав на запись"
+
+msgid "The theme has been installed correctly"
+msgstr "Тема установлена успешно"
+
+msgid "The zip file is not valid"
+msgstr "Неверный формат zip файла"
+
+msgid "There was a problem adding the theme"
+msgstr "Возникли проблемы с добовлением темы"
+
+msgid "Widget removed correctly"
+msgstr "Виджет успешно удален"
+
+msgid "Widget added correctly"
+msgstr "Виджет успешно добавлен"
+
+msgid "Theme activated correctly"
+msgstr "Тема успешно активирована"
+
+msgid "The comments have been deleted"
+msgstr "Комментарии успешно удалены"
+
+msgid "The comments have been approved"
+msgstr "Комментарии утверждены"
+
+msgid "The comments have been disapproved"
+msgstr "Комментарии были отклонены"
+
+msgid "The comment has been approved"
+msgstr "Комментарий утверждены"
+
+msgid "The comment has been disapproved"
+msgstr "Комментарий отклонен"
+
+msgid "Great! We just updated your comment"
+msgstr "Отлично! Мы только что обновили ваш комментарий"
+
+msgid "The comment have been deleted"
+msgstr "Комментарий был удален"
+
+msgid "The email/alert has been updated"
+msgstr "email/оповещения обновлены"
+
+msgid "You can't repeat internal name"
+msgstr "Вы не можете повторить имя"
+
+msgid "The email couldn't be updated, at least one title should not be empty"
+msgstr "email не может быть обновлен, поля не могут быть пустыми"
+
+msgid "The item has been deleted"
+msgstr "Предложение удалено"
+
+msgid "The item couldn't be deleted"
+msgstr "Предложение не может быть удалено"
+
+msgid "The item has been activated"
+msgstr "Предложение активировано"
+
+msgid "The item has been deactivated"
+msgstr "Предложение отключено"
+
+msgid "Changes have been applied"
+msgstr "Изменения применены"
+
+msgid "Changes saved correctly"
+msgstr "Изменения успешно сохранены"
+
+msgid "Resource deleted"
+msgstr "Ресурс удален"
+
+msgid "A new item has been added"
+msgstr "Новое предложение добавлено"
+
+msgid "The translation folder is not writable"
+msgstr "Папка перевода не имеет прав на запись"
+
+msgid "The language has been installed correctly"
+msgstr "Язык успешно установлен"
+
+msgid "There was a problem adding the language"
+msgstr "Возникла проблема при добавлении языка"
+
+msgid "Language id isn't in the correct format"
+msgstr "ID языка в не правильном формате"
+
+msgid "Language id doesn't exist"
+msgstr "ID языка не существует"
+
+msgid "Language name can't be empty"
+msgstr "Название языка не может быть пустым"
+
+msgid "Language short name can't be empty"
+msgstr "Краткое название языка не может быть пустым"
+
+msgid "Language description can't be empty"
+msgstr "Описание языка не может быть пустым"
+
+msgid "%s has been updated"
+msgstr "%s успешно обновлен"
+
+msgid "The language has been enabled for the public website"
+msgstr "Язык включен для главной страницы сайта"
+
+msgid "The language has been disabled for the public website"
+msgstr "Язык отключен для главной страницы сайт"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "Язык был включен для панели администратора (oc-admin)"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "Язык отключен для бэк-офиса (oc-admin)"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "Возникла проблема при обновлении языка. ID языка потерян"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "Выбранные языки включены для сайта"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "Возникла проблема при обновлении языков. ID языков утеряны"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "Выбранные языки отключены для сайта"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "Выбранные языки включены для бэк-офиса (oc-admin)"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "Выбранные языки отключены для бэк-офиса (oc-admin)"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "Каталог \\\"%s\\\" не удален"
+
+msgid "Directory \"%s\" has been successfully removed"
+msgstr "Каталог \\\"%s\\\" успешно удален"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "Каталог \\\"%s\\\" не может быть удален, потому что это язык по умолчанию. Установите сначала другой язык по умолчанию и попробуйте еще раз"
+
+msgid "That username does not exist"
+msgstr "Это имя пользователя не существует"
+
+msgid "A new password has been sent to your e-mail"
+msgstr "Новый пароль отправлен на ваш e-mail"
+
+msgid "The page has been updated"
+msgstr "Страница обновлена"
+
+msgid "The page couldn't be updated, at least one title should not be empty"
+msgstr "Страница не может быть обновлена, по крайней мере один заголовок не должен быть пустым"
+
+msgid "You have to set an internal name"
+msgstr "Вы должны определить внутреннее имя"
+
+msgid "The page has been added"
+msgstr "Страница добавлена"
+
+msgid "The page couldn't be added, at least one title should not be empty"
+msgstr "Страница не может быть добавлена, по крайней мере один заголовок не должен быть пустым"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "Ой! Это имя уже используется. Мы не выполнить сделанные изменения"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "Одна страница не может быть удален, потому что она нестираемая"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "страницу не удалось удалить, поскольку это нестираемая"
+
+msgid "One page couldn't be deleted"
+msgstr "Страница не удалена"
+
+msgid "pages couldn't be deleted"
+msgstr "страницы не удалены"
+
+msgid "One page has been deleted correctly"
+msgstr "Страница успешно далена"
+
+msgid "pages have been deleted correctly"
+msgstr "страницы успешно удалены"
+
+msgid "The plugin folder is not writable"
+msgstr "Расширения папки плагинов не имеют прав на запись"
+
+msgid "The plugin has been uploaded correctly"
+msgstr "Плагин успешно загружен"
+
+msgid "There was a problem adding the plugin"
+msgstr "Возникла проблема добавления плагина"
+
+msgid "Plugin installed"
+msgstr "Плагин установлен"
+
+msgid "Plugin uninstalled"
+msgstr "Плагин удален"
+
+msgid "No plugin selected"
+msgstr "Нет выбранных плагинов"
+
+msgid "Configuration was saved"
+msgstr "Конфигурация сохранена"
+
+msgid "Items' settings have been updated"
+msgstr "Настройки предложений успешно обнавлены"
+
+msgid "Comments' settings have been updated"
+msgstr "Настройки комментариев успешно обнавлены"
+
+msgid "Users' settings have been updated"
+msgstr "Настройки пользователей успешно обнавлены"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Akismet и reCAPTCHA успешно обнавлены"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "Ошибка: код валюты имеет неверный формат"
+
+msgid "New currency has been added"
+msgstr "Новая валюта добавлена"
+
+msgid "Error: currency couldn't be added"
+msgstr "Ошибка: валюта не добавлена"
+
+msgid "Error: the currency doesn't exist"
+msgstr "Ошибка: валюта не существует"
+
+msgid "Currency has been updated"
+msgstr "Валюта была обновлена"
+
+msgid "Mail server type is incorrect"
+msgstr "Неверный тип почтового сервера"
+
+msgid "Mail server configuration has changed"
+msgstr "Конфигурация почтового сервера изменена"
+
+msgid "Media config has been updated"
+msgstr "Конфигурация медиа обновлена"
+
+msgid "Contact configuration has been updated"
+msgstr "Конфигурация контактов обновлена"
+
+msgid "Cron config has been updated"
+msgstr "Настройки Cron успешно обновлены"
+
+msgid "General settings have been updated"
+msgstr "Главные настройки обновлены"
+
+msgid "Import complete"
+msgstr "Импорт завершен"
+
+msgid "There was a problem importing data to the database"
+msgstr "Возникла проблема импорта данных в базу данных"
+
+msgid "Re-generation complete"
+msgstr "Регенерация завершена"
+
+msgid "Path is empty"
+msgstr "Путь пуст"
+
+msgid "There are no tables to back up"
+msgstr "Нет таблиц для резервного копирования"
+
+msgid "The folder is not writable"
+msgstr "Папка не имеет прав на запись"
+
+msgid "Backup has been done properly"
+msgstr "Резервное копирование выполнено без ошибок"
+
+msgid "Archiving successful!"
+msgstr "Архивирование выполнено!"
+
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "Ошибка, файл zip не создан в указанном каталоге"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "Пользователь создан. Мы отправили письмо для активации учетной записи"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "Извините, но email уже используется"
+
+msgid "The user has been updated and activated"
+msgstr "Пользователь создан и активирован"
+
+msgid "The user has been updated"
+msgstr "Пользователь обновлен"
+
+msgid "User id isn't in the correct format"
+msgstr "ID пользователя имеет неверный формат"
+
+msgid "No user has been activated"
+msgstr "Нет пользователей для активации"
+
+msgid "One user has been activated"
+msgstr "Пользователь активирован"
+
+msgid "%s users have been activated"
+msgstr "%s пользователи успешно активировано"
+
+msgid "No user has been deactivated"
+msgstr "Нет отключенных пользователей"
+
+msgid "One user has been deactivated"
+msgstr "Один отключенный пользователь"
+
+msgid "%s users have been deactivated"
+msgstr "%s отключенных пользователей"
+
+msgid "No user has been deleted"
+msgstr "Нет удаленных пользователей"
+
+msgid "One user has been deleted"
+msgstr "Удаленный пользователь"
+
+msgid "%s users have been deleted"
+msgstr "%s удаленных пользователей"
+
+msgid "There has been some errors sending the message"
+msgstr "Возникли ошибки при отправке сообщеня"
+
+msgid "Invalid email address"
+msgstr "Неправильный email"
+
+msgid "One of the files you tried to upload exceeds the maximum size"
+msgstr "Один из файлов, которые вы попытались загрузить превышает максимальный размер"
+
+msgid "The file you tried to upload does not have an allowed extension"
+msgstr "Файл, который вы попытались загрузить не имеет неверное расширение"
+
+msgid "Error: Plugin already installed"
+msgstr "Ошибка: Плагин уже установлен"
+
+msgid "%s has been added as a new country"
+msgstr "%s страна добавлена"
+
+msgid "%s already was in the database"
+msgstr "%s уже находился в базе данных"
+
+msgid "%s has been edited"
+msgstr "%s отредактировано"
+
+msgid "%s has been deleted"
+msgstr "%s удалена"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "%s не может быть удален, некоторые элементы, содержащиеся в ней"
+
+msgid "%s has been added as a new region"
+msgstr "%s область добавлена"
+
+msgid "%s has been added as a new city"
+msgstr "%s город добавлен"
+
+msgid "No currencies have been deleted"
+msgstr "Список валют удален"
+
+msgid "One currency has been deleted"
+msgstr "Валюта удалена"
+
+msgid "%s currencies have been deleted"
+msgstr "%s выбранная валюта удалена"
+
+msgid "%s cannot be added"
+msgstr "%s не добавлен"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s добавлена как область к %s"
+
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+msgid "INACTIVE"
+msgstr "НЕАКТИВНЫЙ"
+
+msgid "DISABLED"
+msgstr "ОТКЛЮЧЕН"
+
+msgid "Check your inbox to verify your email address"
+msgstr "Проверьте ваш почтовый ящик, для подтверждения вашего адреса"
+
+msgid "Your item has been published"
+msgstr "Ваше объявление было опубликовано"
+
+msgid "You can't contact the seller, only registered users can"
+msgstr "Вы не можете связаться с продавцом, могут только зарегистрированные пользователи"
+
+msgid "You must be logged in to delete a comment"
+msgstr "Вы должны войти в систему чтобы удалить комментарий"
+
+msgid "The comment was not added by you, you cannot delete it"
+msgstr "Комментарий не был добавлен, вы не можете удалить его"
+
+msgid "The comment has been deleted"
+msgstr "Комментарий был удален"
+
+msgid "The item has been suspended"
+msgstr "Объявление приостановлено"
+
+msgid "The user has been suspended"
+msgstr "Действия пользователя были приостановлены "
+
+msgid "This should never happens"
+msgstr "Это никогда не должно случится"
+
+msgid "We were not able to identify you given the information provided"
+msgstr "Мы были не в состоянии определить вас с учетом предоставленной информации"
+
+msgid "The recaptcha code is wrong"
+msgstr "Неправильный код ReCaptcha"
+
+msgid "The email is not valid"
+msgstr "Неправильный email"
+
+msgid "Your account has already been validated"
+msgstr "Ваша учетная запись уже подтверждена"
+
+msgid "Alert activated"
+msgstr "Оповещение активировано"
+
+msgid "Ops! There was a problem trying to activate alert. Please contact the administrator"
+msgstr "Ой! Возникла проблема при попытке активировать предупреждение. Пожалуйста, свяжитесь с администратором"
+
+msgid "Unsubscribed correctly"
+msgstr "Вы успешно отписались"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator"
+msgstr "Ой! Возникла проблема при попытке отменить подписку. Пожалуйста, свяжитесь с администратором"
+
+msgid "Real Name invalid"
+msgstr "Неверное имя"
+
+msgid "Categories' settings have been updated"
+msgstr "Настройки иатегорий успешно обновлены"
+
+msgid "The comment has been enabled"
+msgstr "Комментарий включен"
+
+msgid "The comment has been disabled"
+msgstr "Комментарий отключен"
+
+msgid "The item has been enabled"
+msgstr "Предложение успешно включено"
+
+msgid "The item has been disabled"
+msgstr "Предложение отключено"
+
+msgid "The item has been unmarked as"
+msgstr "Предложение отмечено как"
+
+msgid "The item hasn't been unmarked as"
+msgstr "Предложение не было отмечено как"
+
+msgid "The language can't be disabled because it's the default language. You can change modify it in General Settings"
+msgstr "Язык по умолчанию невозможно отключить. Вы можете изменять его в общих настройках"
+
+msgid "There was a fatal error and the plugin was not installed.<br />Error: \"%s\" Line: %s<br/>File: %s"
+msgstr "Возникла фатальная ошибка и плагин не установлен.<br />Ошибка: \\\"%s\\\" Строка: %s<br/>Файл: %s"
+
+msgid "Country has been edited"
+msgstr "Страна отредактирована"
+
+msgid "There were some problems editing the country"
+msgstr "Возникли проблемы с редактированием страны"
+
+msgid "%s could not be deleted because it's the default currency"
+msgstr "%s невозможно удалить, потому что это основная валюта"
+
+msgid "Settings have been updated"
+msgstr "Настройки успешно обновлены"
+
+msgid "Could not connect with the database. Error: %s"
+msgstr "Не удалось установить соединение с базой данных. Ошибка: %s"
+
+msgid "Could not select the database. Error: %s"
+msgstr "Не удалось выбрать базу данных. Ошибка: %s"
+
+msgid "Maintenance mode is ON"
+msgstr "Режим обслуживания включен"
+
+msgid "Maintenance mode is OFF"
+msgstr "Режим обслуживания выключен"
+
+msgid "No user has been enabled"
+msgstr "Нет включенных пользователей"
+
+msgid "One user has been enabled"
+msgstr "Пользователь включен"
+
+msgid "%s users have been enabled"
+msgstr "%s пользователей включено"
+
+msgid "No user has been disabled"
+msgstr "Нет отключенных пользователей"
+
+msgid "One user has been disabled"
+msgstr "Пользователь отключен"
+
+msgid "%s users have been disabled"
+msgstr "%s отключенных пользователей"
+
+msgid "Image with incorrect extension."
+msgstr "Изображение с неправильным расширением."
+
+msgid "Images too big. Max. size"
+msgstr "Изображения слишком большое. Максимальный размер"
+
+msgid "Title too short."
+msgstr "Заголовок слишком короткий."
+
+msgid "Title too long."
+msgstr "Заголовок слишком длинный."
+
+msgid "Description too short."
+msgstr "Описание слишком короткое."
+
+msgid "Description too long."
+msgstr "Описание слишком длиное."
+
+msgid "Category invalid."
+msgstr "Неверная категория."
+
+msgid "Price must be number."
+msgstr "Стоимость должна быть числом."
+
+msgid "Price too long."
+msgstr "Стоимость слишком длиная."
+
+msgid "Name too long."
+msgstr "Имя слишком длиное."
+
+msgid "Email invalid."
+msgstr "Неверный Email."
+
+msgid "Municipality too short."
+msgstr "Municipality too short."
+
+msgid "Municipality too long."
+msgstr "Municipality too long."
+
+msgid "Address too short."
+msgstr "Адрес слишком короткий."
+
+msgid "Address too long."
+msgstr "Адрес слишком длиный."
+
+msgid "Too fast. You should wait a little to publish your ad."
+msgstr "Слишком быстро. Необходимо подождать немного, для публикации объявления."
+
+msgid "We just send your message to %s"
+msgstr "Мы отправили сообщение %s"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Извините, у вас уже есть одно поле с таким названием"
+
+msgid "User registration is not enabled"
+msgstr "Регистрация пользователя не включено"
+
+msgid "No file was uploaded"
+msgstr "Файл не загружен"
+
+msgid "Widget updated correctly"
+msgstr "Виджет успешно обновлен"
+
+msgid "Widget cannot be updated correctly"
+msgstr "Виджет не обновлен"
+
+msgid "New custom field added"
+msgstr "Новое поле добавлено"
+
+msgid "The language can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "Язык нельзя отключить, он выбран по умолчанию. Вы можете изменить язык по умолчанию в разделе общие настройки, а потом отключить его"
+
+msgid "There was an error creating .maintenance file, please create it manually at the root folder"
+msgstr "Возникла ошибка при создании .maintenance файла, пожалуйста, создайте ее вручную в корневой папке"
+
+msgid "There was an error removing .maintenance file, please remove it manually from the root folder"
+msgstr "Возникла ошибка при удалении .maintenance файла, пожалуйста, удалите его вручную из корневой папки"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "Логотип успешно загружен"
+
+msgid "An error has occurred, please try again"
+msgstr "Произошла ошибка, попробуйте еще раз"
+
+msgid "The logo image has been removed"
+msgstr "Логотип удален"
+
+msgid "Image not found"
+msgstr "Фотография не найдена."
+
+msgid "Country too short."
+msgstr "Название страны слишком короткое"
+
+msgid "Country too long."
+msgstr "Название страны слишком длиное"
+
+msgid "Region too short."
+msgstr "Название области слишком короткое."
+
+msgid "Region too long."
+msgstr "Название области слишком длиное."
+
+msgid "City too short."
+msgstr "Название города слишком короткое."
+
+msgid "City too long."
+msgstr "Название города слишком длиное."
+
+msgid "%s field is required."
+msgstr "%s поля обезательны."
+
+msgid "Users are not enabled"
+msgstr "Пользователь не включен"
+
+msgid "Password cannot be blank"
+msgstr "Поле пароля не должно быть пустым"
+
+msgid "The password cannot be empty"
+msgstr "Пароль не может быть пустым"
+
+msgid "This action cannot be done because is a demo site"
+msgstr "Эта операция не будет выполнена, потому что это демонстрационный сайт"
+
+msgid "Name can not be empty"
+msgstr "Поле имя не может быть пустым"
+
+msgid "%d item has been enabled"
+msgstr "Предложение %d включено"
+
+msgid "%d item has been disabled"
+msgstr "Предложение %d выключено"
+
+msgid "%d item has been activated"
+msgstr "Предложение %d успешно активировано"
+
+msgid "%d item has been deactivated"
+msgstr "%d предложение отключено"
+
+msgid "%d item has been marked as premium"
+msgstr "%d предложение отмечено как премиум"
+
+msgid "%d change has been made"
+msgstr "%d изменения успешно внесены"
+
+msgid "%d item has been marked as spam"
+msgstr "%d предложение отмечено как спам"
+
+msgid "%d change have been made"
+msgstr "%d изменения успешно внесены"
+
+msgid "%d item has been deleted"
+msgstr "%d предложение успешно удалено"
+
+msgid "You have to set a different internal name"
+msgstr "Вы должны установить разные названия"
+
+msgid "Plugin enabled"
+msgstr "Плагин включен"
+
+msgid "Error: Plugin already enabled"
+msgstr "Ошибка: плагин уже включен"
+
+msgid "Plugin disabled"
+msgstr "Плагин отключен"
+
+msgid "%s could not be deleted because this currency still in use"
+msgstr "%s нельзя удалить это валюта все еще используется"
+
+msgid "Number of items in the RSS must be integer"
+msgstr "Количество предложений в RSS должно быть целым числом"
+
+msgid "Number of recent items displayed at home must be integer"
+msgstr "Количество последних отображаемых предложений на главной, должно быть целым"
+
+msgid "The user has been created successfully"
+msgstr "Пользователь успешно создан"
+
+msgid "Sorry, the password cannot be empty"
+msgstr "Извините, пароль не может быть пустым"
+
+msgid "Sorry, passwords don't match"
+msgstr "Извините, пароли не совпадают"
+

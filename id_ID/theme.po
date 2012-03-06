@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Anda telah berhasil berlangganan notifikasi"
+
+msgid "There was a problem with the alert"
+msgstr "Terdapat masalah dengan notifikasi"
+
+msgid "Subscribe to this search"
+msgstr "Berlangganan ke pencarian ini"
+
+msgid "Subscribe now"
+msgstr "Berlangganan sekarang"
+
+msgid "Contact with us"
+msgstr "Kontak kami"
+
+msgid "Subject"
+msgstr "Judul"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "Your name"
+msgstr "Nama anda"
+
+msgid "Your e-mail address"
+msgstr "Alamat e-mail anda"
+
+msgid "Send"
+msgstr "Kirim"
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Website ini bangga menggunakan <a title=\\\"OpenSourceClassifieds web\\\" href=\\\"http://www.opensourceclassifieds.org/\\\"open source classified</a> software <strong>OpenSourceClassifieds</strong>"
+
+msgid "Publish an item"
+msgstr "Publish item"
+
+msgid "Edit your item"
+msgstr "Edit item anda"
+
+msgid "Send to a friend"
+msgstr "Kirim ke teman"
+
+msgid "Contact seller"
+msgstr "Kontak penjual"
+
+msgid "page"
+msgstr "halaman"
+
+msgid "Show all items"
+msgstr "Tampilkan semua item"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Recover your password"
+msgstr "Memulihkan password anda"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Create a new account"
+msgstr "Buat akun baru"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Manage my items"
+msgstr "Mengelola item"
+
+msgid "Manage my alerts"
+msgstr "Mengelola alert"
+
+msgid "Update my profile"
+msgstr "Update profil"
+
+msgid "Change my email"
+msgstr "Ganti email"
+
+msgid "Change my password"
+msgstr "Ganti password"
+
+msgid "Recover my password"
+msgstr "Mengembalikan password"
+
+msgid "Hi %s"
+msgstr "Hai %"
+
+msgid "My account"
+msgstr "Akun ku"
+
+msgid "Logout"
+msgstr "Keluar"
+
+msgid "Register for a free account"
+msgstr "Daftar gratis"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Remember me"
+msgstr "Ingatkan saya"
+
+msgid "Log in"
+msgstr "Masuk"
+
+msgid "Forgot password?"
+msgstr "Lupa password?"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Publish your ad for free"
+msgstr "Memuat iklan gratis"
+
+msgid "ie. PHP Programmer"
+msgstr "Cari disini"
+
+msgid "To (seller)"
+msgstr "Kepada (penjual)"
+
+msgid "Item"
+msgstr "Barang"
+
+msgid "Phone number"
+msgstr "Nomer telepon"
+
+msgid "Send message"
+msgstr "Kirim pesan"
+
+msgid "Update your item"
+msgstr "Update item anda"
+
+msgid "General Information"
+msgstr "Informasi Umum"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Photos"
+msgstr "Foto"
+
+msgid "Add new photo"
+msgstr "Tambah foto baru"
+
+msgid "Location"
+msgstr "Lokasi"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Region"
+msgstr "Regional"
+
+msgid "City"
+msgstr "Kota"
+
+msgid "City area"
+msgstr "Kota area"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "Update"
+msgstr "memperbarui"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Item Location"
+msgstr "Lokasi item"
+
+msgid "City Area"
+msgstr "Kota Area"
+
+msgid "Seller's information"
+msgstr "Informasi Penjual"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Show e-mail on the item page"
+msgstr "Tampilkan e-mail dihalaman item"
+
+msgid "Publish"
+msgstr "Tampilkan"
+
+msgid "Your friend's name"
+msgstr "Nama teman anda"
+
+msgid "Your friend's e-mail address"
+msgstr "Alamat e-mail teman anda"
+
+msgid "Mark as"
+msgstr "Tandai sebagai"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "kesalahan klasifikasi"
+
+msgid "duplicated"
+msgstr "digandakan"
+
+msgid "expired"
+msgstr "kadaluarsa"
+
+msgid "offensive"
+msgstr "serangan"
+
+msgid "Share"
+msgstr "Membagi"
+
+msgid "Useful information"
+msgstr "Informasi yang berguna"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Hindari penipuan dengan bertransaksi langsung atau membayar dengan PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Jangan pernah membayar dengan Western Union, MoneyGram atau layanan pembayaran sejenis"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Jangan membeli atau menjual di luar negara Anda. Jangan menerima cek kasir dari luar negara Anda"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Situs ini tidak pernah terlibat dalam transaksi apapun, dan tidak menangani pembayaran, pengiriman, transaksi jaminan, memberikan layanan, atau menawarkan \"perlindungan pembeli\" atau \"sertifikasi penjual\""
+
+msgid "Comments"
+msgstr "Komentar"
+
+msgid "by"
+msgstr "oleh"
+
+msgid "Delete your comment"
+msgstr "Hapus komentar anda"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Tinggalkan komentar Anda (spam dan pesan ofensif akan dihapus)"
+
+msgid "Your e-mail"
+msgstr "E-mail anda"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Contact publisher"
+msgstr "Hubungi penerbit"
+
+msgid "Tel"
+msgstr "Telepon"
+
+msgid "Your name (optional)"
+msgstr "Nama anda (opsional)"
+
+msgid "Enter the words above"
+msgstr "Masukkan kata-kata di atas"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Latest Items"
+msgstr "Produk Terbaru"
+
+msgid "No Latest Items"
+msgstr "Tidak ada produk baru"
+
+msgid "See all offers"
+msgstr "Lihat semua penawaran"
+
+msgid "Search results"
+msgstr "Hasil pencarian"
+
+msgid "Sort by"
+msgstr "Urut berdasarkan"
+
+msgid "There are no results matching \"%s\""
+msgstr "Tidak ada hasil yang cocok \"%s\""
+
+msgid "Your search"
+msgstr "Pencarian anda"
+
+msgid "Show only"
+msgstr "Hanya menampilkan"
+
+msgid "Show only items with pictures"
+msgstr "Hanya menampilkan item dengan gambar"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Maks"
+
+msgid "Apply"
+msgstr "Terapkan"
+
+msgid "Selected"
+msgstr "Dipilih"
+
+msgid "Nothing selected, input was"
+msgstr "Tidak ada yang dipilih, Input"
+
+msgid "User account manager"
+msgstr "mengelola akun user"
+
+msgid "Your alerts"
+msgstr "Notifikasi anda"
+
+msgid "You do not have any alerts yet"
+msgstr "Anda belum memiliki notifkasi"
+
+msgid "Alert"
+msgstr "Notifikasi"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Apakah Anda yakin ingin melanjutkan?"
+
+msgid "Delete this alert"
+msgstr "Hapus notifikasi ini"
+
+msgid "Publication date"
+msgstr "Tanggal publikasi"
+
+msgid "Change your e-mail"
+msgstr "Ganti e-mail anda"
+
+msgid "Current e-mail"
+msgstr "e-mail sekarang"
+
+msgid "New e-mail"
+msgstr "E-mail baru"
+
+msgid "Change your password"
+msgstr "Ganti password anda"
+
+msgid "Current password"
+msgstr "Password sekarang"
+
+msgid "New password"
+msgstr "Password baru"
+
+msgid "Repeat new password"
+msgstr "Ketik ulang password baru"
+
+msgid "Items from %s"
+msgstr "Item dari %s"
+
+msgid "No items have been added yet"
+msgstr "Belum ada item yang ditambah"
+
+msgid "New pasword"
+msgstr "Password baru"
+
+msgid "Repeat new pasword"
+msgstr "Ketik ulang password baru"
+
+msgid "Change password"
+msgstr "Ganti password"
+
+msgid "Your items"
+msgstr "Item anda"
+
+msgid "Post a new item"
+msgstr "Tulis item baru"
+
+msgid "You don't have any items yet"
+msgstr "Anda belum memiliki item"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Anda yakin mau melanjutkan?"
+
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+msgid "Access to your account"
+msgstr "Akses ke akun anda"
+
+msgid "Update your profile"
+msgstr "Perbarui profil anda"
+
+msgid "Modify e-mail"
+msgstr "Memodifikasi e-mail"
+
+msgid "Modify password"
+msgstr "Memodifikasi password"
+
+msgid "User type"
+msgstr "Jenis Pengguna"
+
+msgid "Cell phone"
+msgstr "Telepon selular"
+
+msgid "Phone"
+msgstr "telepon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Send me a new password"
+msgstr "Kirim saya password baru"
+
+msgid "Register an account for free"
+msgstr "Daftar akun gratis"
+
+msgid "Re-type password"
+msgstr "Ketik ulang password"
+
+msgid "Passwords don't match"
+msgstr "Password tidak cocok"
+
+msgid "Create"
+msgstr "membuat"
+
+msgid "Invalid email address"
+msgstr "alama email salah"
+
+msgid "Upload"
+msgstr "Unggah"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Untuk membuat sebuah direktori dapat ditulis di bawah UNIX, eksekusi perintah ini dari shell"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Modern theme"
+msgstr "Tema Modern"
+
+msgid "Settings theme"
+msgstr "Seting tema"
+
+msgid "Image"
+msgstr "Gambar"
+
+msgid "Published date"
+msgstr "Tanggal diterbitkan"
+
+msgid "Modified date"
+msgstr "Tanggal dimodifikasi"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Ukuran logo yang cocok 600x100"
+
+msgid "Note: There is a logo if you upload a logo image will be replaced"
+msgstr "Catatan: Jika anda mengunggah logo, logo telah ada akan diganti "
+
+msgid "Logo image"
+msgstr "Logo gambar"
+
+msgid "Remove logo"
+msgstr "Hapus gambar"
+
+msgid "Has not uploaded any logo image"
+msgstr "Belum ada logo gambar yang diunggah"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Folder gambar %s tidak dapat ditulis di server anda"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds tidak dapat mengunggah logo gambar dari panel administrasi"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Mohon folder gambar dikondisikan dapat ditulis"
+

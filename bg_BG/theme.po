@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Страницата не е намерена"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Успешно се абонирахте за уведомителни съобщения"
+
+msgid "There was a problem with the alert"
+msgstr "Възникна грешка при уведомяването"
+
+msgid "Subscribe to this search"
+msgstr "Абонирайте се към това търсене"
+
+msgid "Subscribe now!"
+msgstr "Абонирайте се сега"
+
+msgid "Contact with us"
+msgstr "Свържете се с нас"
+
+msgid "Subject"
+msgstr "Заглавие"
+
+msgid "Message"
+msgstr "Съобщение"
+
+msgid "Your name"
+msgstr "Вашето име"
+
+msgid "(optional)"
+msgstr "(незадължително)"
+
+msgid "Your e-mail address"
+msgstr "Вашият e-mail адрес"
+
+msgid "Send"
+msgstr "Изпрати"
+
+msgid "Contact"
+msgstr "Връзка"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Този уебсайт използва <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">софтуер за обяви с отворен код</a> <strong>OpenSourceClassifieds</strong>"
+
+msgid "Hi %s"
+msgstr "Здравей %s"
+
+msgid "My account"
+msgstr "Моят профил"
+
+msgid "Logout"
+msgstr "Изход"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "Register for a free account"
+msgstr "Регистрирай профил безплатно"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Парола"
+
+msgid "Log in"
+msgstr "Влез"
+
+msgid "Forgot password?"
+msgstr "Забравена парола?"
+
+msgid "Language"
+msgstr "Език"
+
+msgid "Publish your ad for free"
+msgstr "Публикувай обява безплатно"
+
+msgid "ie. PHP Programmer"
+msgstr "например PHP програмист"
+
+msgid "Select a category"
+msgstr "Избери категория"
+
+msgid "Search"
+msgstr "Търси"
+
+msgid "Contact seller"
+msgstr "Връзка с продавача"
+
+msgid "To (seller)"
+msgstr "До (продавач)"
+
+msgid "Item"
+msgstr "Обява"
+
+msgid "Phone number"
+msgstr "Телефонен номер"
+
+msgid "Send message"
+msgstr "Изпрати съобщение"
+
+msgid "Update your item"
+msgstr "Актуализирай обявата"
+
+msgid "General Information"
+msgstr "Главна информация"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Photos"
+msgstr "Снимки"
+
+msgid "optional"
+msgstr "незадължително"
+
+msgid "Add new photo"
+msgstr "Добави снимка"
+
+msgid "Location"
+msgstr "Местоположение"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Recover your password"
+msgstr "Възстанови парола"
+
+msgid "Update"
+msgstr "Актуализирай"
+
+msgid "Activate"
+msgstr "Активирай"
+
+msgid "Edit"
+msgstr "Редактирай"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Това действие е необратимо. Наистина ли желаете да продължите?"
+
+msgid "Delete"
+msgstr "Изтрий"
+
+msgid "Remember me"
+msgstr "Запомни ме"
+
+msgid "Create"
+msgstr "Създай"
+
+msgid "Current password"
+msgstr "Сегашна парола"
+
+msgid "Apply"
+msgstr "Приложи"
+
+msgid "City"
+msgstr "Град"
+
+msgid "City area"
+msgstr "Квартал"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Cancel"
+msgstr "Откажи"
+
+msgid "Publish an item"
+msgstr "Публикувай обява"
+
+msgid "Item Location"
+msgstr "Регион на обявата"
+
+msgid "City Area"
+msgstr "Квартал"
+
+msgid "Seller's information"
+msgstr "Информация за продавача"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Show e-mail on the item page"
+msgstr "Покажи email-a на обявата"
+
+msgid "Publish"
+msgstr "Публикувай"
+
+msgid "Send to a friend"
+msgstr "Изпрати на приятел"
+
+msgid "Your friend's name"
+msgstr "Името на твоя приятел"
+
+msgid "Your friend's e-mail address"
+msgstr "Mail-a на твоя приятел"
+
+msgid "Mark as"
+msgstr "Маркирай като"
+
+msgid "spam"
+msgstr "спам"
+
+msgid "misclassified"
+msgstr "несистематизиран"
+
+msgid "duplicated"
+msgstr "дублиран"
+
+msgid "expired"
+msgstr "изтекла"
+
+msgid "offensive"
+msgstr "обидна"
+
+msgid "Share"
+msgstr "Сподели"
+
+msgid "Useful information"
+msgstr "Полезна информация"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Избегни измамниците като действате локално или плащате чрез PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Никога не плащайте чрез Western Union, Moneygram или други анонимни услуги за разплащане"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Не купувайте или продавайте извън страната. Не приемайте чекове извън страната"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Този сайт никога не взима страна по сделката и не обслужва плащания, доставка, гаранционни сделки, осигурява доверителни сметки и да предлога \"защита на купувача\" или \"сертифициране на продавача"
+
+msgid "Comments"
+msgstr "Коментари"
+
+msgid "by"
+msgstr "от"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Напиши коментар (спам и обидни съобщения ще бъдат премахнати)"
+
+msgid "Your e-mail"
+msgstr "Вашият email"
+
+msgid "Title"
+msgstr "Заглавие"
+
+msgid "Comment"
+msgstr "Коментирай"
+
+msgid "Contact publisher"
+msgstr "Връзка с продавача"
+
+msgid "Tel"
+msgstr "GSM"
+
+msgid "Your name (optional)"
+msgstr "Вашето име (незадължително)"
+
+msgid "Latest Items"
+msgstr "Последни обяви"
+
+msgid "No Latest Items"
+msgstr "Няма последни обяви"
+
+msgid "See all offers"
+msgstr "Виж всички обяви"
+
+msgid "Search results"
+msgstr "Резултати от търсенето"
+
+msgid "Sort by"
+msgstr "Сортирай по"
+
+msgid "There are no results matching \"%s\""
+msgstr "Няма резултати отговарящи на \"%s"
+
+msgid "Your search"
+msgstr "Вашето търсене"
+
+msgid "Show only"
+msgstr "Покажи само"
+
+msgid "Show only items with pictures"
+msgstr "Покажи само обяви със снимки"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Selected"
+msgstr "Избрани"
+
+msgid "Nothing selected, input was"
+msgstr "Няма избрано, въведено беше"
+
+msgid "User account manager"
+msgstr "Мениджър на потребителския акаунт"
+
+msgid "Your alerts"
+msgstr "Твоите известия"
+
+msgid "You do not have any alerts yet"
+msgstr "Нямате все още известия"
+
+msgid "Alert"
+msgstr "Известие"
+
+msgid "Delete this alert"
+msgstr "Изтрий това известие"
+
+msgid "Publication date"
+msgstr "Дата на публикуване"
+
+msgid "Change your e-mail"
+msgstr "Смени email"
+
+msgid "Current e-mail"
+msgstr "Сегашен email"
+
+msgid "New e-mail"
+msgstr "Нов email"
+
+msgid "Change your password"
+msgstr "Смени парола"
+
+msgid "New pasword"
+msgstr "Нова парола"
+
+msgid "Repeat new pasword"
+msgstr "Повтори парола"
+
+msgid "Items from %s"
+msgstr "Обяви от %s"
+
+msgid "No items have been added yet"
+msgstr "Няма все още добавени обяви"
+
+msgid "Your items"
+msgstr "Вашите обяви"
+
+msgid "Post a new item"
+msgstr "Публикувай обява"
+
+msgid "You don't have any items yet"
+msgstr "Нямате все още добавени обяви"
+
+msgid "Access to your account"
+msgstr "Достъп до профила"
+
+msgid "Update your profile"
+msgstr "Актуализирай профила"
+
+msgid "Modify e-mail"
+msgstr "Смени email"
+
+msgid "Modify password"
+msgstr "Смени парола"
+
+msgid "Cell phone"
+msgstr "GSM"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Website"
+msgstr "Уебсайт"
+
+msgid "Send me a new password"
+msgstr "Изпрати ми нова парола"
+
+msgid "Register an account for free"
+msgstr "Регистрирай профил безплатно"
+
+msgid "Re-type password"
+msgstr "Повтори парола"
+
+msgid "Passwords don't match"
+msgstr "Паролите не съвпадат"
+

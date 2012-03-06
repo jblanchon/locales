@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Sie haben die Benachrichtigung erfolgreich abonniert"
+
+msgid "There was a problem with the alert"
+msgstr "Fehler beim Abonnieren der Benachrichtigung"
+
+msgid "Subscribe to this search"
+msgstr "Abonnieren Sie diese Suche"
+
+msgid "Subject"
+msgstr "Betrifft"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Your name"
+msgstr "Ihr Name"
+
+msgid "Your e-mail address"
+msgstr "Ihre E-Mail Adresse"
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "Contact"
+msgstr "Kontaktieren"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Diese Internetseite benutzt die <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">Open-Source-Kleinanzeigen</a>-Software <strong>OpenSourceClassifieds</strong>"
+
+msgid "Hi %s"
+msgstr "Hallo %s"
+
+msgid "My account"
+msgstr "Mein Konto"
+
+msgid "Logout"
+msgstr "Ausloggen"
+
+msgid "Login"
+msgstr "Einloggen"
+
+msgid "Register for a free account"
+msgstr "Registrieren Sie sich für ein kostenloses Konto"
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Log in"
+msgstr "Einloggen"
+
+msgid "Forgot password?"
+msgstr "Passwort vergessen?"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Publish your ad for free"
+msgstr "kostenlos inserieren"
+
+msgid "ie. PHP Programmer"
+msgstr "z.B. PHP Programmierer"
+
+msgid "Select a category"
+msgstr "Wählen Sie eine Kategorie"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Contact seller"
+msgstr "Verkäufer kontaktieren"
+
+msgid "To (seller)"
+msgstr "An (Verkäufer)"
+
+msgid "Item"
+msgstr "Anzeige"
+
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgid "Send message"
+msgstr "Nachricht senden"
+
+msgid "Update your item"
+msgstr "Anzeige aktualisieren"
+
+msgid "General Information"
+msgstr "Allgemeine Informationen"
+
+msgid "Category"
+msgstr "Kategorien"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Add new photo"
+msgstr "Neues Foto hinzufügen"
+
+msgid "Location"
+msgstr "Ort"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Bundesland"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "City area"
+msgstr "Bezirk"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Publish an item"
+msgstr "Anzeige veröffentlichen"
+
+msgid "Item Location"
+msgstr "Artikelstandort"
+
+msgid "City Area"
+msgstr "Bezirk"
+
+msgid "Seller's information"
+msgstr "Verkäuferinformation"
+
+msgid "Name"
+msgstr "Namen"
+
+msgid "Show e-mail on the item page"
+msgstr "E-Mail auf Produktseite anzeigen"
+
+msgid "Publish"
+msgstr "Publizieren"
+
+msgid "Send to a friend"
+msgstr "An einen Freund senden"
+
+msgid "Your friend's name"
+msgstr "Der Name Ihres Freundes"
+
+msgid "Your friend's e-mail address"
+msgstr "Die E-Mail-Adresse Ihres Freundes"
+
+msgid "Mark as"
+msgstr "Markieren als"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "falsch klassifiziert"
+
+msgid "duplicated"
+msgstr "dupliziert"
+
+msgid "expired"
+msgstr "abgelaufen"
+
+msgid "offensive"
+msgstr "anstößig"
+
+msgid "Share"
+msgstr "teilen"
+
+msgid "Useful information"
+msgstr "Praktische Informationen"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Vermeiden Sie Betrug, indem Sie nur lokal kaufen oder mit Paypal bezahlen"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Bezahlen Sie niemals mit Western Union, Moneygram oder anderen anonymen Bezahldiensten"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Kaufen und bezahlen Sie nicht außerhalb Ihres Landes. Akzeptieren Sie keine Schecks aus anderen Ländern."
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Diese Seite wird nie an einer Transaktion beteiligt sein und weder Zahlungen, Lieferungen oder Garantie-Transaktionen verarbeiten noch Escrow-Dienstleistungen, \"Käuferschutz\" oder \"Verkäufer-Zertifizierungen\" anbieten."
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "by"
+msgstr "von"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Anzeige kommentieren (Spam oder anstößige Aussagen werden entfernt)"
+
+msgid "Your e-mail"
+msgstr "Ihre E-Mail"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Comment"
+msgstr "Kommentieren"
+
+msgid "Contact publisher"
+msgstr "Verkäufer kontaktieren"
+
+msgid "Tel"
+msgstr "Telefon"
+
+msgid "Latest Items"
+msgstr "Neueste Anzeigen"
+
+msgid "No Latest Items"
+msgstr "Kein Aktuelle Angebote"
+
+msgid "See all offers"
+msgstr "Alle Angebote"
+
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+msgid "Sort by"
+msgstr "Sortiert nach"
+
+msgid "There are no results matching \"%s\""
+msgstr "Zu \"%s\" gibt es keine passenden Ergenisse"
+
+msgid "Your search"
+msgstr "Ihre Suche"
+
+msgid "Show only"
+msgstr "Zeige nur"
+
+msgid "Show only items with pictures"
+msgstr "Zeige nur Produkte mit Bildern"
+
+msgid "Min"
+msgstr "mindestens"
+
+msgid "Max"
+msgstr "höchstens"
+
+msgid "Apply"
+msgstr "Bestätigen"
+
+msgid "Selected"
+msgstr "Ausgewählt"
+
+msgid "Nothing selected, input was"
+msgstr "Nichts ausgewählt, die Eingabe war"
+
+msgid "User account manager"
+msgstr "Benutzerkonto-Manager"
+
+msgid "Your alerts"
+msgstr "Ihre Benachrichtigungen"
+
+msgid "You do not have any alerts yet"
+msgstr "Sie haben momentan keine Benachrichtigungen"
+
+msgid "Alert"
+msgstr "Alarm"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Diese Aktion kann nicht rückgängig gemacht werden. Soll sie dennoch durchgeführt werden?"
+
+msgid "Delete this alert"
+msgstr "Diese Benachrichtigung löschen"
+
+msgid "Publication date"
+msgstr "Datum der Veröffentlichung"
+
+msgid "Change your e-mail"
+msgstr "Ändern Sie Ihre E-Mail"
+
+msgid "Current e-mail"
+msgstr "Aktuelle E-Mail"
+
+msgid "New e-mail"
+msgstr "Neue E-Mail"
+
+msgid "Change your password"
+msgstr "Ändern Sie Ihr Passwort"
+
+msgid "Current password"
+msgstr "Aktuelles Passwort"
+
+msgid "New pasword"
+msgstr "Neues Passwort"
+
+msgid "Repeat new pasword"
+msgstr "Neues Passwort wiederholen"
+
+msgid "Items from %s"
+msgstr "Produkte von %s"
+
+msgid "No items have been added yet"
+msgstr "Bisher sind keine Anzeigen hinzugefügt worden"
+
+msgid "Your items"
+msgstr "Ihre Anzeigen"
+
+msgid "Post a new item"
+msgstr "Anzeige aufgeben"
+
+msgid "You don't have any items yet"
+msgstr "Sie haben momentan keine Anzeigen"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Access to your account"
+msgstr "Zugang zu Ihrem Konto"
+
+msgid "Remember me"
+msgstr "Angemeldet bleiben"
+
+msgid "Update your profile"
+msgstr "Profil aktualisieren"
+
+msgid "Modify e-mail"
+msgstr "E-Mail-Adresse ändern"
+
+msgid "Modify password"
+msgstr "Ändern Sie das Passwort"
+
+msgid "Cell phone"
+msgstr "Handy"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Webseite"
+
+msgid "Recover your password"
+msgstr "Passwort wiederherstellen"
+
+msgid "Send me a new password"
+msgstr "Schickt mir ein neues Passwort"
+
+msgid "Register an account for free"
+msgstr "Registrieren Sie sich für ein kostenloses Konto"
+
+msgid "Re-type password"
+msgstr "Wiederhole Passwort"
+
+msgid "Passwords don't match"
+msgstr "Passwörter stimmen nicht überein"
+
+msgid "Create"
+msgstr "Erstellen"
+
+msgid "New password"
+msgstr "Neues Passwort"
+
+msgid "Dashboard"
+msgstr "Übersicht"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Um das Verzeichnis unter UNIX beschreibbar zu machen, f&uuml;hren Sie dieses Kommando aus der Shell aus."
+
+msgid "Latest items"
+msgstr "Neueste Anzeigen"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Subscribe now"
+msgstr "abonnieren"
+
+msgid "Edit your item"
+msgstr "Anzeige &auml;ndern"
+
+msgid "page"
+msgstr "Seite"
+
+msgid "Show all items"
+msgstr "Zeige alle Anzeigen"
+
+msgid "Create a new account"
+msgstr "Neues Konto er&ouml;ffnen"
+
+msgid "Manage my items"
+msgstr "Meine Anzeigen verwalten"
+
+msgid "Manage my alerts"
+msgstr "Meine Benachrichtigungen verwalten"
+
+msgid "Update my profile"
+msgstr "Mein Profil aktualisieren"
+
+msgid "Change my email"
+msgstr "Meine E-Mail-Adresse ändern"
+
+msgid "Change my password"
+msgstr "Mein Passwort ändern"
+
+msgid "Recover my password"
+msgstr "Mein Passwort wiederherstellen"
+
+msgid "Delete your comment"
+msgstr "Ihren Kommentar löschen"
+
+msgid "Enter the words above"
+msgstr "Bitte geben Sie die oben genannten Wörter ein"
+
+msgid "Repeat new password"
+msgstr "Neues Passwort wiederholen"
+
+msgid "Change password"
+msgstr "Passwort &auml;ndern"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Die Aktion kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie fortfahren möchten?"
+
+msgid "User type"
+msgstr "Benutzer Typ"
+
+msgid "Invalid email address"
+msgstr "Ungültige E-Mail-Adresse"
+
+msgid "Modern theme"
+msgstr "Modernes Design"
+
+msgid "Settings theme"
+msgstr "Design-Einstellungen"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Published date"
+msgstr "Veröffentlichungsdatum"
+
+msgid "Modified date"
+msgstr "Änderungsdatum"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Die bevorzugte Logo-Größe ist 600 x 100 Pixel"
+
+msgid "Logo image"
+msgstr "Logo"
+
+msgid "Remove logo"
+msgstr "Logo löschen"
+
+msgid "Has not uploaded any logo image"
+msgstr "Sie haben kein Logo hochgeladen"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Das Bilderverzeichnis %s auf Ihrem Server ist schreibgeschützt"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds kann kein Logo aus dem Administrationsbereich hochladen"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Bitte entfernen Sie den Schreibschutz für das angegebene Bilderverzeichnis"
+
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "No file selected"
+msgstr "Keine Datei ausgewählt"
+
+msgid "Choose File"
+msgstr "Wählen Sie eine Datei aus"
+
+msgid "Sponsored ad"
+msgstr "Gesponserte Anzeige"
+
+msgid "View item"
+msgstr "Anzeige ansehen"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Hinweis: Das hochgeladene Logo überschreibt das aktuelle Logo"
+
+msgid "The item is expired. You cannot contact the publisher."
+msgstr "Die Anzeige ist abgelaufen, Sie können den Verkäufer nicht kontaktieren"
+
+msgid "It's your own item, you cannot contact the publisher."
+msgstr "Sie haben diese Anzeige selbst aufgegeben und können deshalb den Verkäufer nicht kontaktieren"
+
+msgid "You must login or register a new free account in order to contact the advertiser"
+msgstr "Sie müssen sich erst anmelden oder ein kostenloses Konto erstellen bevor Sie den Verkäufer kontaktieren dürfen"
+
+msgid "%s's profile"
+msgstr "%ss Profil"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Vollständiger Name"
+

@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Puslapis nerastas"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Jūs sėkmingai užsiprenumeravote įspėjimus"
+
+msgid "There was a problem with the alert"
+msgstr "Iškilo poblema su įspėjimu"
+
+msgid "Subscribe to this search"
+msgstr "Užsiprenumeruoti šią paiešką"
+
+msgid "Subscribe now"
+msgstr "Užsiprenumeruoti dabar"
+
+msgid "Subject"
+msgstr "Tema"
+
+msgid "Message"
+msgstr "Žinutė"
+
+msgid "Your name"
+msgstr "Jūsų vardas"
+
+msgid "Your e-mail address"
+msgstr "Jūsų el. pašto adresas"
+
+msgid "Send"
+msgstr "Siųsti"
+
+msgid "Contact"
+msgstr "Kontaktai"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Šis tinklapis išdidžiai naudoja <a title=\"OpenSourceClassifieds tinklapis\" href=\"http://www.opensourceclassifieds.org/\">atviro kodo klasifikuotą</a> programinę įrangą <strong>OpenSourceClassifieds</strong>"
+
+msgid "Publish an item"
+msgstr "Publikuoti skelbimą"
+
+msgid "Edit your item"
+msgstr "Redaguoti jūsų skelbimą"
+
+msgid "Send to a friend"
+msgstr "Nusiųsti draugui"
+
+msgid "Contact seller"
+msgstr "Susisiekti su pardavėju"
+
+msgid "page"
+msgstr "puslapis"
+
+msgid "Show all items"
+msgstr "Rodyti visus skelbimus"
+
+msgid "Search"
+msgstr "Paieška"
+
+msgid "Recover your password"
+msgstr "Atgauti savo slaptažodį"
+
+msgid "Login"
+msgstr "Prisijungti"
+
+msgid "Create a new account"
+msgstr "Sukurti naują sąskaitą"
+
+msgid "Dashboard"
+msgstr "Darbastalis"
+
+msgid "Manage my items"
+msgstr "Mano skelbimų valdymas"
+
+msgid "Manage my alerts"
+msgstr "Mano įspėjimų valdymas"
+
+msgid "Update my profile"
+msgstr "Atnaujinti mano profilį"
+
+msgid "Change my email"
+msgstr "Pakeisti mano el. paštą"
+
+msgid "Change my password"
+msgstr "Pasikeisti slaptažodį"
+
+msgid "Recover my password"
+msgstr "Atgauti slaptažodį"
+
+msgid "Hi %s"
+msgstr "Sveiki %s"
+
+msgid "My account"
+msgstr "Jūsų sąskaita"
+
+msgid "Logout"
+msgstr "Atsijungti"
+
+msgid "Register for a free account"
+msgstr "Nemokama sąskaitos registracija"
+
+msgid "E-mail"
+msgstr "El. paštas"
+
+msgid "Password"
+msgstr "Slaptažodis"
+
+msgid "Remember me"
+msgstr "Atsiminti mane"
+
+msgid "Log in"
+msgstr "Prisijungti"
+
+msgid "Forgot password?"
+msgstr "Pamiršote slaptažodį?"
+
+msgid "Language"
+msgstr "Kalba"
+
+msgid "Publish your ad for free"
+msgstr "Publikuoti jūsų skelbimą nemokamai"
+
+msgid "ie. PHP Programmer"
+msgstr "pvz.: PHP Programuotojas"
+
+msgid "Select a category"
+msgstr "Pasirinkite kategoriją"
+
+msgid "To (seller)"
+msgstr "Kam (pardavėjui)"
+
+msgid "Item"
+msgstr "Skelbimas"
+
+msgid "Phone number"
+msgstr "Telefono numeris"
+
+msgid "Send message"
+msgstr "Siųsti žinutę"
+
+msgid "Update your item"
+msgstr "Atnaujinti jūsų skelbimą"
+
+msgid "General Information"
+msgstr "Pagrindinė informacija"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Price"
+msgstr "Kaina"
+
+msgid "Photos"
+msgstr "Nuotraukos"
+
+msgid "Add new photo"
+msgstr "Pridėti naują nuotrauką"
+
+msgid "Location"
+msgstr "Vietovė"
+
+msgid "Country"
+msgstr "Šalis"
+
+msgid "Region"
+msgstr "Regionas/Rajonas"
+
+msgid "City"
+msgstr "Miestas"
+
+msgid "City area"
+msgstr "Miesto rajonas"
+
+msgid "Address"
+msgstr "Adresas"
+
+msgid "Update"
+msgstr "Atnaujinti"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Item Location"
+msgstr "Skelbimo Vietovė"
+
+msgid "City Area"
+msgstr "Miesto rajonas"
+
+msgid "Seller's information"
+msgstr "Pardavėjo informacija"
+
+msgid "Name"
+msgstr "Vardas"
+
+msgid "Show e-mail on the item page"
+msgstr "Rodyti e-paštą skelbimo puslapyje"
+
+msgid "Publish"
+msgstr "Skelbti"
+
+msgid "Your friend's name"
+msgstr "Jūsų draugo vardas"
+
+msgid "Your friend's e-mail address"
+msgstr "Jūsų draugo e-pašto adresas"
+
+msgid "Mark as"
+msgstr "Žymėti kaip"
+
+msgid "spam"
+msgstr "šlamštas"
+
+msgid "misclassified"
+msgstr "neteisingai klasifikuotos"
+
+msgid "duplicated"
+msgstr "pasikartojantys"
+
+msgid "expired"
+msgstr "pasibaigę"
+
+msgid "offensive"
+msgstr "įžeidžiantis"
+
+msgid "Share"
+msgstr "Pasidalinti"
+
+msgid "Useful information"
+msgstr "Naudinga informacija"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Venkite sukčiavimo perkant lokaliai, ar mokant su PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Niekada nenaudokite Western Union, Moneygram ar kitų anoniminių mokėjimo paslaugų"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Nepirkite ir nepardavinėkite už jūsų šalies ribų. Nepriimkite čekių iš už jūsų šalies ribų."
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Šis tinklapis niekada nedalyvauja jokiose transakcijose ir nepalaiko mokėjimų, prekių pristatymo, prekių garantijų, sąlyginio deponavimo ir nesiūlo \"pirkėjo apsaugos\" arba \"pardavėjo sertifikavimo\""
+
+msgid "Comments"
+msgstr "Komentarai"
+
+msgid "by"
+msgstr "pagal"
+
+msgid "Delete your comment"
+msgstr "Ištrinti jūsų komentarą"
+
+msgid "Delete"
+msgstr "Ištrinti"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Palikti komentarą (šlamštas ar įžeidžianti žinutė bus pašalinta)"
+
+msgid "Your e-mail"
+msgstr "Jūsų e-paštas"
+
+msgid "Title"
+msgstr "Antraštė"
+
+msgid "Comment"
+msgstr "Komentaras"
+
+msgid "Contact publisher"
+msgstr "Susisiekti su skelbėju"
+
+msgid "Tel"
+msgstr "Telefonas"
+
+msgid "Your name (optional)"
+msgstr "Jūsų vardas (nebūtina)"
+
+msgid "Enter the words above"
+msgstr "Įveskite žodžius"
+
+msgid "Help"
+msgstr "Pagalba"
+
+msgid "Latest Items"
+msgstr "Naujausi skelbimai"
+
+msgid "No Latest Items"
+msgstr "Naujų skelbimų nėra"
+
+msgid "See all offers"
+msgstr "Žiūrėti visus pasiūlymus"
+
+msgid "Search results"
+msgstr "Paieškos rezultatai"
+
+msgid "Sort by"
+msgstr "Rikiuoti pagal"
+
+msgid "There are no results matching \"%s\""
+msgstr "Nėra rezultatų atitinkančių \"%s\""
+
+msgid "Your search"
+msgstr "Jūsų paieška"
+
+msgid "Show only"
+msgstr "Rodyti tik"
+
+msgid "Show only items with pictures"
+msgstr "Rodyti tik skelbimus su nuotraukomis"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Taikyti"
+
+msgid "Selected"
+msgstr "Pasirinktą"
+
+msgid "Nothing selected, input was"
+msgstr "Niekas nebuvo pažymėta, įvestis buvo"
+
+msgid "User account manager"
+msgstr "Vartotojo paskyros valdymo meniu"
+
+msgid "Your alerts"
+msgstr "Jūsų perspėjimai"
+
+msgid "You do not have any alerts yet"
+msgstr "Jūs dar neturite perspėjimų"
+
+msgid "Alert"
+msgstr "Perspėjimas"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Šis veiksmas negali būti įvygdytas. Ar jūs tikrai norite testi?"
+
+msgid "Delete this alert"
+msgstr "Ištrinti šį perspėjimą"
+
+msgid "Publication date"
+msgstr "Paskelbimo data"
+
+msgid "Change your e-mail"
+msgstr "Pakeisti jūsų e-paštą"
+
+msgid "Current e-mail"
+msgstr "Dabartinis e-paštas"
+
+msgid "New e-mail"
+msgstr "Naujas e-paštas"
+
+msgid "Change your password"
+msgstr "Keisti slaptažodį"
+
+msgid "Current password"
+msgstr "Dabartinis slaptažodis"
+
+msgid "New password"
+msgstr "Naujas slaptažodis"
+
+msgid "Repeat new password"
+msgstr "Pakartoti naują slaptažodį"
+
+msgid "Items from %s"
+msgstr "%s skelbimai"
+
+msgid "No items have been added yet"
+msgstr "Kol kas nebuvo pridėtas nei vienas skelbimas"
+
+msgid "New pasword"
+msgstr "Naujas slaptažodis"
+
+msgid "Repeat new pasword"
+msgstr "Pakartokite naują slaptažodį"
+
+msgid "Change password"
+msgstr "Pakeisti slaptažodį"
+
+msgid "Your items"
+msgstr "Jūsų skelbimai"
+
+msgid "Post a new item"
+msgstr "Skelbti naują skelbimą"
+
+msgid "You don't have any items yet"
+msgstr "Jūs dar neturite skelbimų"
+
+msgid "Edit"
+msgstr "Redaguoti"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Šis veiksmas negali būti baigtas. Ar jūs tikrai norite tęsti?"
+
+msgid "Activate"
+msgstr "Aktyvuoti"
+
+msgid "Access to your account"
+msgstr "Prisijunkite prie savo paskyros"
+
+msgid "Update your profile"
+msgstr "Atnaujinti jūsų profilį"
+
+msgid "Modify e-mail"
+msgstr "Keisti e-paštą"
+
+msgid "Modify password"
+msgstr "Keisti slaptažodį"
+
+msgid "User type"
+msgstr "Vartotojo tipas"
+
+msgid "Cell phone"
+msgstr "Mobilusis telefonas"
+
+msgid "Phone"
+msgstr "Telefonas"
+
+msgid "Website"
+msgstr "Tinklalapis"
+
+msgid "Send me a new password"
+msgstr "Siųsti man naują slaptažodį"
+
+msgid "Register an account for free"
+msgstr "Registruoti paskyrą, už dyką"
+
+msgid "Re-type password"
+msgstr "Pakartotinai įveskite slaptažodį"
+
+msgid "Passwords don't match"
+msgstr "Slaptažodžiai nesutampa"
+
+msgid "Create"
+msgstr "Sukurti"
+
+msgid "Invalid email address"
+msgstr "Neteisingas elektroninio pašto adresas"
+
+msgid "Upload"
+msgstr "Įkelti"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Kad suteiktumėte katalogui rašymo teises UNIX sistemoje įvykdykite šią komandą iš shell"
+
+msgid "optional"
+msgstr "neprivalomas"
+
+msgid "Modern theme"
+msgstr "Moderni tema"
+
+msgid "Settings theme"
+msgstr "Temos nustatymai"
+
+msgid "Image"
+msgstr "Paveikslėlis"
+
+msgid "Published date"
+msgstr "Paskelbimo data"
+
+msgid "Modified date"
+msgstr "Pakeitimo data"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Pageidaujamas logotipo dydis 600x100"
+
+msgid "Logo image"
+msgstr "Logotipo paveikslėlis"
+
+msgid "Remove logo"
+msgstr "Pašalinti logotipą"
+
+msgid "Has not uploaded any logo image"
+msgstr "Nėra įkelta jokio logotipo"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Paveikslėlio aplankalas serveryje %s nėra rašomas"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds negali įkelti logotipo iš administravimo skydelio"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Prašome įsitikinti, ar minėtas paveikslėlio aplankalas rašomas"
+
+msgid "Contact us"
+msgstr "Susisiekite su mumis"
+
+msgid "Error"
+msgstr "Klaida"
+
+msgid "No file selected"
+msgstr "Nepasirinktas joks failas"
+
+msgid "Choose File"
+msgstr "Pasirinkite Failą"
+
+msgid "Sponsored ad"
+msgstr "Rėmėjų skelbimas"
+
+msgid "View item"
+msgstr "Peržiūrėti skelbimą"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Pastaba: Naujo logo įkėlimas panaikins seną logo"
+

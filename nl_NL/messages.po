@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Passwords don't match"
+msgstr "Wachtwoorden komen niet overeen"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "Je email is succesvol opgestuurd. Bedankt dat je contact met ons opneemt!"
+
+msgid "Only registered users are allowed to post items"
+msgstr "Alleen geregistreerde gebruikers zijn toegestaan om artikelen te plaatsen"
+
+msgid "Users not allowed"
+msgstr "Gebruikers niet toegestaan"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "Sorry, er zijn geen artikelen gevonden met dit ID"
+
+msgid "Great! We've just updated your item"
+msgstr "Geweldig! We hebben net je artikel vernieuwd"
+
+msgid "The item has been validated"
+msgstr "Dit artikel is goedgekeurd"
+
+msgid "The item can't be validated"
+msgstr "Dit artikel kan niet worden goedgekeurd"
+
+msgid "The item has already been validated"
+msgstr "Dit artikel is al goedgekeurd"
+
+msgid "Your item has been deleted"
+msgstr "Je artikel is verwijderd"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "Het artikel dat je wilt verwijderen kan niet verwijderd worden"
+
+msgid "Thanks! That's very helpful"
+msgstr "Hartstikke bedankt! Dit is erg behulpzaam"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "Het spijt ons, maar dit artikel is verlopen. Je kan contact opnemen met de verkoper"
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "We hebben net een email naar de verkoper gestuurd"
+
+msgid "This item doesn't exist"
+msgstr "Dit artikel bestaat niet"
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "Dit artikel is niet goedgekeurd. Wij vragen je om het goed te keuren om het zo aan de andere gebruikers te tonen"
+
+msgid "This item hasn't been validated"
+msgstr "Dit artikel is niet goedgekeurd"
+
+msgid "The password is incorrect"
+msgstr "Het wachtwoord is onjuist"
+
+msgid "The username doesn't exist"
+msgstr "Deze gebruiker bestaat niet"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "De gebruiker is aangemaakt. Een activerings email is opgestuurd"
+
+msgid "Your account has been created successfully"
+msgstr "Je account is succesvol aangemaakt"
+
+msgid "The specified e-mail is already in use"
+msgstr "De opgegeven email wordt al gebruikt"
+
+msgid "Your account has been validated"
+msgstr "Je account is goedgekeurd"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "Deze link is niet meer geldig. Onze excuses voor het ongemak!"
+
+msgid "Your profile has been updated successfully"
+msgstr "Je profiel is succesvol bijgewerkt. "
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "We hebben je een email gestuurd. Volg de instructies om de aanpassingen goed te keuren"
+
+msgid "Your email has been changed successfully"
+msgstr "Je email adres is succesvol aangepast"
+
+msgid "Sorry, the link is not valid"
+msgstr "Sorry, de link is niet meer geldig"
+
+msgid "Current password doesn't match"
+msgstr "Het huidige wachtwoord komt niet overeen"
+
+msgid "Passwords can't be empty"
+msgstr "Wachtwoorden kunnen niet leeg zijn"
+
+msgid "Password has been changed"
+msgstr "Wachtwoord is aangepast"
+
+msgid "The admin has been added"
+msgstr "De admin is toegevoegd"
+
+msgid "There have been an error adding a new admin"
+msgstr "Er heeft zich een fout voorgedaan tijdens het toevoegen van een nieuwe admin"
+
+msgid "Existing username"
+msgstr "Bestaande gebruikersnaam"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "Het wachtwoord kon niet worden bijgewerkt. De wachtwoorden komen niet overeen"
+
+msgid "The admin has been updated"
+msgstr "De admin is bijgewerkt"
+
+msgid "The admin id isn't in the correct format"
+msgstr "De admin id staat niet in het goede formaat"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "De opdracht is niet uitgevoerd. Je probeert jezelf te verwijderen!"
+
+msgid "The admin has been deleted correctly"
+msgstr "De admin is succesvol verwijderd"
+
+msgid "The admin couldn't be deleted"
+msgstr "De admin kan niet verwijderd worden"
+
+msgid "The comments have been deleted"
+msgstr "De opmerkingen zijn verwijderd"
+
+msgid "The comments have been approved"
+msgstr "De opmerkingen zijn goedgekeurd"
+
+msgid "The comment has been approved"
+msgstr "De opmerking is goedgekeurd"
+
+msgid "Great! We just updated your comment"
+msgstr "Geweldig! We hebben je opmerking vernieuwd"
+
+msgid "The email/alert has been updated"
+msgstr "De email/melding is vernieuwd"
+
+msgid "You can't repeat internal name"
+msgstr "Je kan geen interne naam herhalen"
+
+msgid "The items have been activated"
+msgstr "De artikelen zijn geactiveerd"
+
+msgid "The items have been deactivated"
+msgstr "De artikelen zijn gedeactiveerd"
+
+msgid "The items have been marked as premium"
+msgstr "De artikelen zijn als Premium gemarkeerd"
+
+msgid "The changes have been made"
+msgstr "De aanpassingen zijn gemaakt"
+
+msgid "The item has been activated"
+msgstr "Het artikel is verwijderd"
+
+msgid "Changes have been applied"
+msgstr "De veranderingen zijn toegepast"
+
+msgid "A new item has been added"
+msgstr "Een nieuw artikel is toegevoegd"
+
+msgid "The language has been installed correctly"
+msgstr "De taal is succesvol geïnstalleerd"
+
+msgid "Language id isn't in the correct format"
+msgstr "Taal id is niet in het juiste formaat"
+
+msgid "Language id doesn't exist"
+msgstr "Taal id bestaat niet"
+
+msgid "Language name can't be empty"
+msgstr "De naam van de taal kan niet leeg zijn"
+
+msgid "Language short name can't be empty"
+msgstr "De afkorting van de taal kan niet leeg zijn"
+
+msgid "Language description can't be empty"
+msgstr "De omschrijving van de taal kan niet leeg zijn"
+
+msgid "%s has been updated"
+msgstr "%s is vernieuwd"
+
+msgid "The language has been enabled for the public website"
+msgstr "De taal is ingeschakeld voor de openbare website"
+
+msgid "The language has been disabled for the public website"
+msgstr "De taal is uitgeschakeld voor de openbare website"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "De taal is ingeschakeld voor de back-office (oc-admin)"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "De taal is uitgeschakeld voor de back-office (oc-admin)"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "Er heeft zich een probleem voorgedaan tijdens het vernieuwen van de taal. De taal-id is kwijtgeraakt"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "De geselecteerde talen zijn ingeschakeld voor de website"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "Er heeft zich een probleem voorgedaan tijdens het vernieuwen van de talen. De taal-id's zijn kwijtgeraakt"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "De geselecteerde talen zijn uitgeschakeld voor de website"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "De geselecteerde talen zijn ingeschakeld voor de back-office (oc-admin)"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "De geselecteerde talen zijn uitgeschakeld voor de back-office (oc-admin)"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "Map \"%s\" kon niet worden verwijderd"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "Map \"%s\" kon niet worden verwijderd aangezien het de standaard taal is. Stel eerst een andere taal als standaard taal in en probeer het dan nogmaals"
+
+msgid "That username does not exist"
+msgstr "Deze gebruikersnaam bestaat niet"
+
+msgid "The page has been updated"
+msgstr "De pagina is vernieuwd"
+
+msgid "You have to set an internal name"
+msgstr "Je moet een interne naam instellen"
+
+msgid "The page has been added"
+msgstr "De pagina is toegevoegd"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "Oeps! Deze interne naam is al in gebruik. We hebben geen veranderingen kunnen toepassen"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "Een pagina kan niet worden verwijderd aangezien deze onuitwisbaar is"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "pagina's konden niet worden verwijderd aangezien deze onuitwisbaar zijn"
+
+msgid "One page couldn't be deleted"
+msgstr "Één pagina kon niet worden verwijderd"
+
+msgid "pages couldn't be deleted"
+msgstr "pagina's konden niet worden verwijderd"
+
+msgid "One page has been deleted correctly"
+msgstr "Één pagina is succesvol verwijderd"
+
+msgid "pages have been deleted correctly"
+msgstr "pagina's zijn succesvol verwijderd"
+
+msgid "Plugin installed"
+msgstr "Plugin geïnstalleerd"
+
+msgid "Plugin uninstalled"
+msgstr "Plugin verwijderd"
+
+msgid "No plugin selected"
+msgstr "Geen Plugin geselecteerd"
+
+msgid "Configuration was saved"
+msgstr "Configuratie is bewaard"
+
+msgid "Items' settings have been updated"
+msgstr "De artikels instellingen zijn vernieuwd"
+
+msgid "Comments' settings have been updated"
+msgstr "De instellingen van de opmerking zijn vernieuwd"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Akismet en reCAPTCHA zijn vernieuwd"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "Foutmelding: de valuta code staat niet in het juiste formaat"
+
+msgid "New currency has been added"
+msgstr "Nieuwe valuta is toegevoegd"
+
+msgid "Error: currency couldn't be added"
+msgstr "Foutmelding: valuta kon niet worden toegevoegd"
+
+msgid "Error: the currency doesn't exist"
+msgstr "Foutmelding: de valuta bestaat niet"
+
+msgid "Currency has been updated"
+msgstr "Valuta is aangepast"
+
+msgid "Mail server type is incorrect"
+msgstr "Mail server type is onjuist"
+
+msgid "Mail server configuration has changed"
+msgstr "Mail server configuratie is vernieuwd"
+
+msgid "Media config has been updated"
+msgstr "Media configuratie is vernieuwd"
+
+msgid "Contact configuration has been updated"
+msgstr "Contact configuratie is vernieuwd"
+
+msgid "Cron config has been updated"
+msgstr "Cron configuratie is vernieuwd"
+
+msgid "General settings have been updated"
+msgstr "Algemene instellingen zijn vernieuwd"
+
+msgid "Re-generation complete"
+msgstr "Regeneratie uitgevoerd"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "De gebruiker is aangemaakt. We hebben een activerings email gestuurd"
+
+msgid "The user has been created and activated"
+msgstr "De gebruiker is aangemaakt en geactiveerd"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "Sorry, maar dit email adres is al in gebruik"
+
+msgid "The user has been updated and activated"
+msgstr "De gebruiker is vernieuwd en geactiveerd"
+
+msgid "The user has been updated"
+msgstr "De gebruiker is vernieuwd"
+
+msgid "We are very sorry but we could not deliver your message to your friend. Try again later"
+msgstr "Het spijt ons erg, maar we hebben je bericht niet naar je vriend kunnen sturen. Probeer het later nogmaals"
+
+msgid "%s has been added as a new country"
+msgstr "%s is toegevoegd als een nieuw land"
+
+msgid "%s has been edited"
+msgstr "%s is aangepast"
+
+msgid "%s has been deleted"
+msgstr "%s is verwijderd"
+
+msgid "%s has been added as a new region"
+msgstr "%s is toegevoegd als een nieuwe provincie"
+
+msgid "%s has been added as a new city"
+msgstr "%s is toegevoegd als een nieuwe stad"
+
+msgid "No currencies have been deleted"
+msgstr "Er zijn geen valuta's vewijderd"
+
+msgid "One currency has been deleted"
+msgstr "Één valuta is verwijderd"
+
+msgid "%s currencies have been deleted"
+msgstr "%s valuta's zijn verwijderd"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s is toegevoegd als provincie van %s"
+
+msgid "Archiving successful!"
+msgstr "Archivering succesvol!"
+
+msgid "User id isn't in the correct format"
+msgstr "Gebruikers id staat niet in het juiste formaat"
+
+msgid "One user has been activated"
+msgstr "Één gebruiker is geactiveerd"
+
+msgid "%s users have been activated"
+msgstr "%s gebruikers zijn geactiveerd"
+
+msgid "One user has been deactivated"
+msgstr "Één gebruiker is gedeactiveerd"
+
+msgid "%s users have been deactivated"
+msgstr "%s gebruikers zijn gedeactiveerd"
+
+msgid "One user has been deleted"
+msgstr "Één gebruiker is verwijderd"
+
+msgid "%s users have been deleted"
+msgstr "%s gebruikers zijn verwijderd"
+
+msgid "The Recaptcha code is wrong"
+msgstr "De reCAPTCHA code is fout"
+
+msgid "You have to introduce a correct e-mail"
+msgstr "Uw emailadres is niet correct"
+
+msgid "Users not enabled"
+msgstr "Niet actieve gebruikers"
+
+msgid "The selected photo couldn't be deleted, the url doesn't exist"
+msgstr "De geselecteerde afbeelding kan niet worden verwijderd, de URL bestaat niet"
+
+msgid "The item doesn't exist"
+msgstr "Het item bestaat niet"
+
+msgid "The item doesn't belong to you"
+msgstr "Het item is niet van u"
+
+msgid "The selected photo has been successfully deleted"
+msgstr "De geselecteerde afbeelding is correct verwijderd"
+
+msgid "The selected photo couldn't be deleted"
+msgstr "De geselecteerde afbeelding kon niet worden verwijderd"
+
+msgid "Sorry, we could not save your comment. Try again later"
+msgstr "Sorry, uw reactie kon niet worden opgeslagen. Probeer het later opnieuw"
+
+msgid "Your comment is awaiting moderation"
+msgstr "Uw reactie wacht op verificatie"
+
+msgid "Your comment has been approved"
+msgstr "Uw reactie is geaccordeerd"
+
+msgid "Please fill the required fields (name, email)"
+msgstr "Vul de benodigde velden in (naam, email)"
+
+msgid "Please type a comment"
+msgstr "Voer uw reactie in"
+
+msgid "Your comment has been marked as spam"
+msgstr "Uw reactie is beoordeeld als spam"
+
+msgid "The comment doesn't exist"
+msgstr "De reactie bestaat niet"
+
+msgid "The comment is not active, you cannot delete it"
+msgstr "De reactie is niet actief, u kunt deze niet verwijderen"
+
+msgid "The user has not been validated yet"
+msgstr "De gebruiker is nog niet gevalideerd"
+
+msgid "We have sent you an email with the instructions to reset your password"
+msgstr "We hebben u een email gestuurd met de instructies om uw wachtwoord te resetten"
+
+msgid "The password has been changed"
+msgstr "Het wachtword is veranderd"
+
+msgid "Error, the password don't match"
+msgstr "Foutmelding: de wachtwoorden zijn niet identiek"
+
+msgid "The reCAPTCHA was not introduced correctly"
+msgstr "De reCAPTCHA is niet correct ingevoerd"
+
+msgid "The specified e-mail is not valid"
+msgstr "Het emailadres is niet correct"
+
+msgid "We tried to sent you an e-mail, but it failed. Please, contact the administrator"
+msgstr "We probeerden u een email te sturen maar dit is niet gelukt. Neem contact op met de systeembeheerder"
+
+msgid "Email invalid"
+msgstr "Emailadres is niet correct"
+
+msgid "Username invalid"
+msgstr "Gebruikersnaam is niet correct"
+
+msgid "Password invalid"
+msgstr "Wachtwoord is niet correct"
+
+msgid "Email already in use"
+msgstr "Emailadres is reeds in gebruik"
+
+msgid "Username already in use"
+msgstr "Gebruikersnaam is reeds in gebruik"
+
+msgid "There is no admin admin with this id"
+msgstr "Er is geen admin admin met dit id"
+
+msgid "This admin doesn't exist"
+msgstr "Deze admin bestaat niet"
+
+msgid "Existing email"
+msgstr "Bestaande email"
+
+msgid "The theme folder is not writable"
+msgstr "De thema map heeft geen schrijfrechten"
+
+msgid "The theme has been installed correctly"
+msgstr "Het thema is correct geinstalleerd"
+
+msgid "The zip file is not valid"
+msgstr "De zipfile is niet correct"
+
+msgid "There was a problem adding the theme"
+msgstr "Er is een fout ontstaan tijdens het toevoegen van het thema"
+
+msgid "Widget removed correctly"
+msgstr "Widget correct verwijderd"
+
+msgid "Widget added correctly"
+msgstr "Widget correct toegevoegd"
+
+msgid "Theme activated correctly"
+msgstr "Thema correct geactiveerd"
+
+msgid "The comments have been disapproved"
+msgstr "De reacties zijn afgekeurd"
+
+msgid "The comment has been disapproved"
+msgstr "De reactie is afgekeurd"
+
+msgid "The comment have been deleted"
+msgstr "De reactie is verwijderd"
+
+msgid "The email couldn't be updated, at least one title should not be empty"
+msgstr "De email kan niet worden gewijzigd, voer tenminste een titel in"
+
+msgid "The item has been deleted"
+msgstr "Het items is verwijderd"
+
+msgid "The item couldn't be deleted"
+msgstr "Het item kan niet verwijderd worden."
+
+msgid "The item has been deactivated"
+msgstr "Het item is uitgeschakeld"
+
+msgid "Changes saved correctly"
+msgstr "Wijzigingen correct opgeslagen"
+
+msgid "Resource deleted"
+msgstr "Bron verwijderd"
+
+msgid "The translation folder is not writable"
+msgstr "De taal map heeft geen schrijfrechten"
+
+msgid "There was a problem adding the language"
+msgstr "Er was een probleem met het toevoegen van de taal"
+
+msgid "Directory \"%s\" has been successfully removed"
+msgstr "Map \\\"%s\\\" is verwijderd"
+
+msgid "A new password has been sent to your e-mail"
+msgstr "Er is een nieuw wachtwoord naar uw emailadres gestuurd"
+
+msgid "The page couldn't be updated, at least one title should not be empty"
+msgstr "De pagina kon niet worden geupdate, voer tenminste een titel in"
+
+msgid "The page couldn't be added, at least one title should not be empty"
+msgstr "De pagina kan niet worden toegevoegd, voer tenminste een titel in"
+
+msgid "The plugin folder is not writable"
+msgstr "De plugin folder heeft geen schrijfrechten"
+
+msgid "The plugin has been uploaded correctly"
+msgstr "De pluging is correct geupload"
+
+msgid "There was a problem adding the plugin"
+msgstr "Er was een foutmelding met het toevoegen van de plugin"
+
+msgid "Users' settings have been updated"
+msgstr "Gebruikersinstellingen zijn gewijzigd"
+
+msgid "Import complete"
+msgstr "Importeren gereed"
+
+msgid "There was a problem importing data to the database"
+msgstr "Foutmelding tijdens importeren van de database"
+
+msgid "Path is empty"
+msgstr "Path is leeg"
+
+msgid "There are no tables to back up"
+msgstr "Er zijn geen tabellen om te backuppen"
+
+msgid "The folder is not writable"
+msgstr "De map heeft geen schrijfrechten"
+
+msgid "Backup has been done properly"
+msgstr "Backup is correct uitgevoerd"
+
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "Foutmedling, de zipfile is niet in de juiste map geplaatst"
+
+msgid "No user has been activated"
+msgstr "Er is geen gebruiker geactiveerd"
+
+msgid "No user has been deactivated"
+msgstr "Er is geen gebruiker uitgeschakeld"
+
+msgid "No user has been deleted"
+msgstr "Er is geen gebruiker verwijderd"
+
+msgid "There has been some errors sending the message"
+msgstr "Er zijn foutmeldingen tijdens het versturen van het bericht ontstaan"
+
+msgid "Invalid email address"
+msgstr "Ongeldig emailadres"
+
+msgid "One of the files you tried to upload exceeds the maximum size"
+msgstr "Een van de bestanden die u probeert te uploaden is groter dan de toegestane limiet"
+
+msgid "The file you tried to upload does not have an allowed extension"
+msgstr "Het bestand dat u wilt uploaden heeft niet de juiste extensie"
+
+msgid "Error: Plugin already installed"
+msgstr "Foutmelding: de plugin is al geinstalleerd"
+
+msgid "%s already was in the database"
+msgstr "%s is reeds in de database aanwezig"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "%s kan niet worden verwijderd, er bevinden zich nog items in"
+
+msgid "%s cannot be added"
+msgstr "%s kan niet worden toegevoegd"
+
+msgid "Error: %s"
+msgstr "Foutmelding: %s"
+
+msgid "INACTIVE"
+msgstr "Inactief"
+
+msgid "DISABLED"
+msgstr "Uitgeschakeld"
+
+msgid "Check your inbox to verify your email address"
+msgstr "Controleer uw email om uw emailadres te verifieren"
+
+msgid "Your item has been published"
+msgstr "Uw item is gepubliceerd"
+
+msgid "You can't contact the seller, only registered users can"
+msgstr "U kunt geen contact opnemen met de adverteerder, dat kunnen alleen geregistreerde gebruikers"
+
+msgid "You must be logged in to delete a comment"
+msgstr "U moet ingelogd zijn om een reactie te kunnen verwijderen"
+
+msgid "The comment was not added by you, you cannot delete it"
+msgstr "De reactie is niet door u gegeven. U kunt deze reactie niet verwijderen"
+
+msgid "The comment has been deleted"
+msgstr "De reactie is verwijderd"
+
+msgid "The item has been suspended"
+msgstr "Het item is verboden"
+
+msgid "The user has been suspended"
+msgstr "De gebruiker is verboden"
+
+msgid "This should never happens"
+msgstr "Dit hoort niet te gebeuren"
+
+msgid "We were not able to identify you given the information provided"
+msgstr "We zijn niet in staat om u te identificeren op basis van de verstrekte informatie"
+
+msgid "The recaptcha code is wrong"
+msgstr "de reCAPTCHA code is niet correct"
+
+msgid "The email is not valid"
+msgstr "Het emailadres is niet correct"
+
+msgid "Your account has already been validated"
+msgstr "Uw account is al gevalideerd"
+
+msgid "Alert activated"
+msgstr "Melding geactiveerd"
+
+msgid "Ops! There was a problem trying to activate alert. Please contact the administrator"
+msgstr "Er is een foutmelding ontstaan tijdens het activeren van de melding. Neem contact op met de systeembeheerder"
+
+msgid "Unsubscribed correctly"
+msgstr "Correct afgemeld"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator"
+msgstr "Er is een foutmelding ontstaan tijdens het afmelden. Neem contact op met de systeembeheerder"
+
+msgid "Real Name invalid"
+msgstr "Uw naam is niet correct"
+
+msgid "Categories' settings have been updated"
+msgstr "Categorie instellingen zijn geactualiseerd"
+
+msgid "The comment has been enabled"
+msgstr "De reactie is ingeschakeld"
+
+msgid "The comment has been disabled"
+msgstr "De reactie is uitgeschakeld"
+
+msgid "The items have been enabled"
+msgstr "De items zijn ingeschakeld"
+
+msgid "The items have been disabled"
+msgstr "De items zijn uitgeschakeld"
+
+msgid "The item has been enabled"
+msgstr "Het item is insgeschakeld"
+
+msgid "The item has been disabled"
+msgstr "Het item is verwijderd"
+
+msgid "The item has been unmarked as"
+msgstr "Het item is uitgechakeld vanwege"
+
+msgid "The item hasn't been unmarked as"
+msgstr "Het item is niet uitgeschakeld vanwege"
+
+msgid "The language can't be disabled because it's the default language. You can change modify it in General Settings"
+msgstr "De taal kan niet uitgeschakeld worden omdat het de standaard taal is. Wijzig deze instelling in Algemene instellingen"
+
+msgid "Some language can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "Sommige talen kunnen niet uitgeschakeld worden om het de standaard taal is. Wijzig deze instelling in Algmene instellingen"
+
+msgid "There was a fatal error and the plugin was not installed.<br />Error: \"%s\" Line: %s<br/>File: %s"
+msgstr "Er is een fatale fout opgetreden. De plugin is niet geinstalleerd. <br>Fout: \\\"%s\\\" Line: %s<br>Bestand: %s"
+
+msgid "Country has been edited"
+msgstr "Land is gewijzigd"
+
+msgid "There were some problems editing the country"
+msgstr "Er waren foutmeldingen tijdens het wijzigen van het land"
+
+msgid "%s could not be deleted because it's the default currency"
+msgstr "%s kon niet worden verwijderd omdat het de standaard valuta is"
+
+msgid "Settings have been updated"
+msgstr "Instellingen zijn gewijzigd"
+
+msgid "Could not connect with the database. Error: %s"
+msgstr "Er is geen erbinding met de database mogelijk. Foutmelding: %s"
+
+msgid "Could not select the database. Error: %s"
+msgstr "Database kan niet geselecteerd worden. Foutmelding: %s"
+
+msgid "Maintenance mode is ON"
+msgstr "Onderhoudsmodus actief"
+
+msgid "There were an error creating .maintenance file, please create it manually at the root folder"
+msgstr "Er is een foutmelding tijdens het maken van het .onderhouds bestand, plaats het bestand in de rootmap van OpenSourceClassifieds"
+
+msgid "Maintenance mode is OFF"
+msgstr "Onderhoudsmodus is uitgeschakeld"
+
+msgid "There were an error removing .maintenance file, please remove it manually from the root folder"
+msgstr "Er is een foutmelding tijdens het verwijderen van het .onderhouds bestand, verwijder het bestand uit de rootmap van OpenSourceClassifieds "
+
+msgid "No user has been enabled"
+msgstr "Er is geen gebruiker actief"
+
+msgid "One user has been enabled"
+msgstr "Er is een gebruiker actief"
+
+msgid "%s users have been enabled"
+msgstr "%s gebruikers zijn actief"
+
+msgid "No user has been disabled"
+msgstr "Er is geen gebruiker uitgeschakeld"
+
+msgid "One user has been disabled"
+msgstr "Er is een gebruiker uitgeschakeld"
+
+msgid "%s users have been disabled"
+msgstr "%s gebruikers zijn uitgeschakeld"
+
+msgid "Image with incorrect extension."
+msgstr "Afbeelding met foutieve extensie"
+
+msgid "Images too big. Max. size"
+msgstr "Afbeeldingen te groot. Maximum grootte"
+
+msgid "Title too short."
+msgstr "Titel te kort"
+
+msgid "Title too long."
+msgstr "Titel te lang"
+
+msgid "Description too short."
+msgstr "Omschrijven te kort"
+
+msgid "Description too long."
+msgstr "Omschrijving te lang"
+
+msgid "Category invalid."
+msgstr "Categorie foutief"
+
+msgid "Price must be number."
+msgstr "Prijs moet een getal zijn"
+
+msgid "Price too long."
+msgstr "Prijs te lang"
+
+msgid "Name too long."
+msgstr "Naam te lang"
+
+msgid "Email invalid."
+msgstr "Email niet correct"
+
+msgid "Location not selected."
+msgstr "Locatie niet geselecteerd"
+
+msgid "Municipality too short."
+msgstr "Municipality te kort"
+
+msgid "Municipality too long."
+msgstr "Municipality te lang"
+
+msgid "Address too short."
+msgstr "Adres te kort"
+
+msgid "Address too long."
+msgstr "Adres te lang"
+
+msgid "Too fast. You should wait a little to publish your ad."
+msgstr "Te snel. Even geduld om uw advertentie te publiceren"
+
+msgid "We just send your message to %s"
+msgstr "We hebben uw bericht verstuurd aan %s"
+

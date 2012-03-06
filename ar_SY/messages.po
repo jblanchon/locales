@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "The Recaptcha code is wrong"
+msgstr "قمت بإدخال كود خاطىء"
+
+msgid "You have to introduce a correct e-mail"
+msgstr "يجب استخدام عنوان بريد إلكتروني صالح"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr ".تم إرسال بريدك الإلكتروني بشكل صحيح. نشكرك على الاتصال بنا"
+
+msgid "Users not enabled"
+msgstr "المستخدمين غير مفعلين"
+
+msgid "Only registered users are allowed to post items"
+msgstr "يسمح فقط للمستخدمين المسجلين بنشر الإعلانات"
+
+msgid "Users not allowed"
+msgstr "غير مسموح للمستخدمين"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "عذراَ, ولكن ليس لدينا أي إعلان بهذا المعرف"
+
+msgid "Great! We've just updated your item"
+msgstr "عظيم! لقد قمنا بتحديث إعلانك"
+
+msgid "The item has been validated"
+msgstr "تم التحقق من صحة هذا الإعلان"
+
+msgid "The item can't be validated"
+msgstr "لا يمكن التحقق من صحة هذا الإعلان"
+
+msgid "The item has already been validated"
+msgstr "تم بالفعل التحقق من صحة الإعلان"
+
+msgid "Your item has been deleted"
+msgstr "تم حذف إعلانك"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "لم يتسنى حذف الإعلان الذي تحاول حذفه"
+
+msgid "The selected photo couldn't be deleted, the url doesn't exist"
+msgstr "!!! لا يمكن حذف الصورة المحددة. لم يتم إنشاء رابط لها"
+
+msgid "The item doesn't exist"
+msgstr "لم يتم إنشاء الإعلان"
+
+msgid "The item doesn't belong to you"
+msgstr "الإعلان لا ينتمي إليك"
+
+msgid "The selected photo has been successfully deleted"
+msgstr "تم حذف الصور المحددة بنجاح"
+
+msgid "The selected photo couldn't be deleted"
+msgstr "لا يمكن حذف الصور المحددة"
+
+msgid "Thanks! That's very helpful"
+msgstr "شكرا! إن ذلك مفيداَ جداَ"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "نحن آسفون ، ولكن انتهت مدة صلاحية هذا الإعلان. و لا يمكنك الاتصال بالناشر"
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "لقد أرسلنا بريد إلكتروني إلى الناشر"
+
+msgid "Sorry, we could not save your comment. Try again later"
+msgstr "نحن أسفون. ولكن لم نستطيع حفظ تعليقك. الرجاء المحاولة لاحقاَ"
+
+msgid "Your comment is awaiting moderation"
+msgstr "تعليقك ينتظر التحقق من صلاحيته"
+
+msgid "Your comment has been approved"
+msgstr "تم التأكد من صلاحية تعليقك"
+
+msgid "Please fill the required fields (name, email)"
+msgstr "( الرجاء ملىء الحقول المطلوبة ( الإسم, عنوان البريد الإلكتروني "
+
+msgid "Please type a comment"
+msgstr "الرجاء كتابة تعليق"
+
+msgid "Your comment has been marked as spam"
+msgstr "للأسف تم وضع تعليقك في قائمة البريد المزعج"
+
+msgid "This item doesn't exist"
+msgstr "لا وجود لهذا الإعلان"
+
+msgid "The comment doesn't exist"
+msgstr "لم يتم إنشاء التعليق"
+
+msgid "The comment is not active, you cannot delete it"
+msgstr "التعليق غير مفعل. لا يمكنك القيام بحذفه"
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "لم يتم التحقق من صحة هذا الإعلان. يرجى التحقق من صحة ذلك, من أجل إظهاره لبقية المستخدمين"
+
+msgid "This item hasn't been validated"
+msgstr "لم يتم التحقق من صحة هذا الإعلان"
+
+msgid "The username doesn't exist"
+msgstr "اسم المستخدم غير موجود"
+
+msgid "The user has not been validated yet"
+msgstr "لم يتم التحقق من صحة المستخدم بعد"
+
+msgid "The password is incorrect"
+msgstr "كلمة المرور غير صحيحة"
+
+msgid "We have sent you an email with the instructions to reset your password"
+msgstr "لقد قمنا بإرسال بريد إلكتروني لك مع التعليمات حول كيقية استعادة كلمة السر"
+
+msgid "Sorry, the link is not valid"
+msgstr "عذرا ، الرابط غير صالح"
+
+msgid "The password has been changed"
+msgstr "تم تغيير كلمة السر"
+
+msgid "Error, the password don't match"
+msgstr "خطأ!. كلمة السر غير صالحة"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "تم إنشاء المستخدم. تم ارسال بريد الكتروني لتنشيط حسابك"
+
+msgid "Your account has been created successfully"
+msgstr "لقد تم إنشاء حسابك بنجاح"
+
+msgid "The specified e-mail is already in use"
+msgstr "عنوان البريد الإلكتروني قيد الاستخدام"
+
+msgid "The reCAPTCHA was not introduced correctly"
+msgstr "لم يتم إدخال الكود بشكل صحيح"
+
+msgid "Your account has been validated"
+msgstr "تم التحقق من حسابك"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "!الرابط غير صالح بعد الآن. نأسف للإزعاج"
+
+msgid "Your email has been changed successfully"
+msgstr "تم تغيير بريدك الإلكتروني بنجاح"
+
+msgid "Your profile has been updated successfully"
+msgstr "تم تحديث ملفك الشخصي بنجاح"
+
+msgid "The specified e-mail is not valid"
+msgstr "عنوان البريد الإلكتروني المستخدم غير صالح"
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "لقد أرسلنا لك بريد إلكتروني. اتبع التعليمات للتحقق من صحة التغييرات"
+
+msgid "We tried to sent you an e-mail, but it failed. Please, contact the administrator"
+msgstr "لم نستطيع الاتصال بك بواسطة البريد الإلكتروني. الرجاء الاتصال بمشرف الموقع"
+
+msgid "Current password doesn't match"
+msgstr "كلمة المرور الحالية لا تتطابق"
+
+msgid "Passwords can't be empty"
+msgstr "كلمات السر لا يمكن أن تكون فارغة"
+
+msgid "Passwords don't match"
+msgstr "كلمات المرور لا تتطابق"
+
+msgid "Password has been changed"
+msgstr "تم تغيير كلمة المرور"
+
+msgid "Email invalid"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+msgid "Username invalid"
+msgstr "اسم المستخدم غير صالح"
+
+msgid "Password invalid"
+msgstr "كلمة السرغير صالحة"
+
+msgid "Email already in use"
+msgstr "عنوان البريد الإلكتروني قيد الإستخدام"
+
+msgid "Username already in use"
+msgstr "اسم المستخدم قيد الإستخدام"
+
+msgid "The admin has been added"
+msgstr "تمت إضافة المشرف"
+
+msgid "There have been an error adding a new admin"
+msgstr "هناك خطأ في إضافة مشرف جديد"
+
+msgid "There is no admin admin with this id"
+msgstr "لا يوجد مشرف بذلك المعرف"
+
+msgid "This admin doesn't exist"
+msgstr "لا يوجد مشرف"
+
+msgid "Existing email"
+msgstr "عنوان البريد الإلكتروني الحالي"
+
+msgid "Existing username"
+msgstr "اسم المستخدم الحالي"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "لا يمكن تغير كلمة المرور. كلمات المرور لا تتطابق"
+
+msgid "The admin has been updated"
+msgstr "تم تحديث المشرف"
+
+msgid "The admin id isn't in the correct format"
+msgstr "تنسيق معرف المشرف غير صالح"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "!لم يتم إكمال العملية. أنت تحاول إزالة نفسك"
+
+msgid "The admin has been deleted correctly"
+msgstr "تم حذف المشرف بشكل صحيح"
+
+msgid "The admin couldn't be deleted"
+msgstr "لا يمكن حذف المشرف"
+
+msgid "The theme folder is not writable"
+msgstr "مجلد المواضيع غير قابل للكتابة فيه"
+
+msgid "The theme has been installed correctly"
+msgstr "تم تثبيت الموضوع بشكل صحيح"
+
+msgid "The zip file is not valid"
+msgstr "الملف المضغوط غير صالح"
+
+msgid "There was a problem adding the theme"
+msgstr "هناك مشكلة في إضافة الموضوع"
+
+msgid "Widget removed correctly"
+msgstr "تم حذف الكادجيت"
+
+msgid "Widget added correctly"
+msgstr "تم إضافة الكادجيت بشكل صحيح"
+
+msgid "Theme activated correctly"
+msgstr "تم تفعيل الموضوع بشكل صحيح"
+
+msgid "The comments have been deleted"
+msgstr "تم حذف التعليقات"
+
+msgid "The comments have been approved"
+msgstr "تمت الموافقة على هذه التعليقات"
+
+msgid "The comments have been disapproved"
+msgstr "لم يتم المصادقة على هذه التعليقات"
+
+msgid "The comment has been approved"
+msgstr "تمت الموافقة على هذا التعليق"
+
+msgid "The comment has been disapproved"
+msgstr "لم تتم الموافقة على التعليق"
+
+msgid "Great! We just updated your comment"
+msgstr "عظيم! قمنا بتحديث تعليقك فقط"
+
+msgid "The comment have been deleted"
+msgstr "تم حذف التعليق"
+
+msgid "The email/alert has been updated"
+msgstr "تم تحديث البريد الالكتروني / الإعلام"
+
+msgid "You can't repeat internal name"
+msgstr "لا يمكنك تكرار الاسم الداخلي"
+
+msgid "The email couldn't be updated, at least one title should not be empty"
+msgstr "لا يمكن تحديث عنوان البريد الإلكتروني. لا يجب ترك عنوان واحد على الأقل فارغاَ"
+
+msgid "The items have been activated"
+msgstr "تم تفعيل الإعلانات"
+
+msgid "The items have been deactivated"
+msgstr "تم تعطيل الإعلانات"
+
+msgid "The items have been marked as premium"
+msgstr "تم تحديد هذه الإعلانات كإعلانات استثنائية"
+
+msgid "The changes have been made"
+msgstr "تم تنفيذ التغييرات"
+
+msgid "The item has been deleted"
+msgstr "تم حذف الإعلان"
+
+msgid "The item couldn't be deleted"
+msgstr "لا يمكن حذف الإعلان"
+
+msgid "The item has been activated"
+msgstr "تم تفعيل هذا الإعلان"
+
+msgid "The item has been deactivated"
+msgstr "تم تعطيل هذا الإعلان"
+
+msgid "Changes have been applied"
+msgstr "تم تطبيق التغييرات"
+
+msgid "Changes saved correctly"
+msgstr "تم حفظ التغيرات بشكل صحيح"
+
+msgid "Resource deleted"
+msgstr "تم حذف المراجع"
+
+msgid "A new item has been added"
+msgstr "تمت إضافة إعلان جديد"
+
+msgid "The translation folder is not writable"
+msgstr "مجلد القواميس غير قابل للكتابة"
+
+msgid "The language has been installed correctly"
+msgstr "تم تثبيت اللغة بشكل صحيح"
+
+msgid "There was a problem adding the language"
+msgstr "هناك مشكلة في إضافة اللغة"
+
+msgid "Language id isn't in the correct format"
+msgstr "تنسيق معرف اللغة غير صالح"
+
+msgid "Language id doesn't exist"
+msgstr "معرف اللغة غير موجود"
+
+msgid "Language name can't be empty"
+msgstr "اسم اللغة لا يمكن أن يكون فارغاَ"
+
+msgid "Language short name can't be empty"
+msgstr "الاسم القصير للغة لا يمكن أن يكون فارغاَ"
+
+msgid "Language description can't be empty"
+msgstr "وصف اللغة لا يمكن أن يكون فارغاَ"
+
+msgid "%s has been updated"
+msgstr "%s تم تحديث ال"
+
+msgid "The language has been enabled for the public website"
+msgstr "تم تفعيل اللغة للموقع العام"
+
+msgid "The language has been disabled for the public website"
+msgstr "تم تعطيل اللغة للموقع العام"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "تم تمكين اللغة للوحة الإدارة"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "لقد تم تعطيل اللغة للوحة الإدارة"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "هناك مشكلة في تحديث اللغة. تم فقدان معرف اللغة"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "تم تمكين اللغات المحددة للموقع"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "هناك مشكلة في تحديث اللغات. تم فقدان معرفات اللغات"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "تم تعطيل اللغات المحددة للموقع العام"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "تم تفعيل اللغات المحددة للوحة الإدارة"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "تم تعطيل اللغات المحددة للوحة الإدارة"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "\"%s\" لا يمكن حذف المجلد"
+
+msgid "Directory \"%s\" has been successfully removed"
+msgstr "بشكل صحيح \"%s\" تم حذف المجلد"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "لأنه مجلد اللغة الافتراضية. قم بتعيين لغة أخرى كافتراضية ثم حاول مرة أخرى \"%s\" لا يمكن حذف المجلد"
+
+msgid "That username does not exist"
+msgstr "اسم المستخدم غير موجود"
+
+msgid "A new password has been sent to your e-mail"
+msgstr "تم إرسال كلمة المرور الجديدة إلى بريدك الإلكتروني"
+
+msgid "The page has been updated"
+msgstr "تم تحديث الصفحة"
+
+msgid "The page couldn't be updated, at least one title should not be empty"
+msgstr "لا يمكن تحديث الصفحة. لا يجب ترك عنوان واحد على الأقل فارغاَ"
+
+msgid "You have to set an internal name"
+msgstr "عليك إدخال اسم داخلي"
+
+msgid "The page has been added"
+msgstr "تمت إضافة الصفحة"
+
+msgid "The page couldn't be added, at least one title should not be empty"
+msgstr "لا يمكن إضافة الصفحة. لا يجب ترك عنوان واحد على الأقل فارغاَ"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "عفوا! هذا الاسم الداخلي قيد الاستخدام. لا يمكن إجراء التغييرات"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "لا يمكن حذف الصفحة لأنها محمية"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "لا يمكن حذف الصفحات لأنها محمية"
+
+msgid "One page couldn't be deleted"
+msgstr "لا يمكن حذف صفحة واحدة"
+
+msgid "pages couldn't be deleted"
+msgstr "لا يمكن حذف الصفحات"
+
+msgid "One page has been deleted correctly"
+msgstr "تم حذف صفحة واحدة بشكل صحيح"
+
+msgid "pages have been deleted correctly"
+msgstr "تم حذف الصفحات بشكل صحيح"
+
+msgid "The plugin folder is not writable"
+msgstr "مجلد الإضافات غير قابل للكتابة"
+
+msgid "The plugin has been uploaded correctly"
+msgstr "تم تحميل الإضافة بشكل صحيح"
+
+msgid "There was a problem adding the plugin"
+msgstr "هناك مشكلة في إضافة التطبيق المصغر "
+
+msgid "Plugin installed"
+msgstr "تم تثبيت البرنامج المصغر"
+
+msgid "Plugin uninstalled"
+msgstr "تم إلغاء تثبيت البرنامج المصغر"
+
+msgid "No plugin selected"
+msgstr "لم يتم تحديد برنامج مصغر"
+
+msgid "Configuration was saved"
+msgstr "تم حفظ الإعدادات"
+
+msgid "Items' settings have been updated"
+msgstr "تم تحديث إعدادات الإعلانات"
+
+msgid "Comments' settings have been updated"
+msgstr "تم تحديث إعدادات التعليقات"
+
+msgid "Users' settings have been updated"
+msgstr "تم تحديث إعدادات المستخدمين"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Akismet  و reCAPTCHA تم تحديث"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "خطأ : تنسيق كود العملة ليس صالحاَ"
+
+msgid "New currency has been added"
+msgstr "تمت إضافة عملة جديدة"
+
+msgid "Error: currency couldn't be added"
+msgstr "خطأ : لا يمكن إضافة العملة"
+
+msgid "Error: the currency doesn't exist"
+msgstr "خطأ : لا وجود للعملة"
+
+msgid "Currency has been updated"
+msgstr "تم تحديث العملة"
+
+msgid "Mail server type is incorrect"
+msgstr "نوع سيرفر البريد غير صحيح"
+
+msgid "Mail server configuration has changed"
+msgstr "تم تعديل تكوين سيرفر البريد"
+
+msgid "Media config has been updated"
+msgstr "تم تحديث إعدادات وسائط الميديا"
+
+msgid "Contact configuration has been updated"
+msgstr "تم تحديث إعدادات جهات الاتصال"
+
+msgid "Cron config has been updated"
+msgstr "تم تحديث إعدادات نظام كرون"
+
+msgid "General settings have been updated"
+msgstr "تم تحديث الإعدادات العامة"
+
+msgid "Import complete"
+msgstr "تم عملية الإستيراد"
+
+msgid "There was a problem importing data to the database"
+msgstr "هناك مشكلة في عملية تصدير البيانات إلى قاعدة البيانات"
+
+msgid "Re-generation complete"
+msgstr "تم إستكمال عملية إعادة الإنشاء"
+
+msgid "Path is empty"
+msgstr "المسار فارغ"
+
+msgid "There are no tables to back up"
+msgstr "لا يوجد جداول لإجراء نسخ احتياطي لها"
+
+msgid "The folder is not writable"
+msgstr "المجلد غير قابل للكتابة"
+
+msgid "Backup has been done properly"
+msgstr "تمت عملية النسخ الاحتياطي بشكل صحيح"
+
+msgid "Archiving successful!"
+msgstr "!تمت عملية الأرشفة بشكل صحيح"
+
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "خطأ, لم يتم إنشاء ملف مضغوط في المجلد المحدد"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "تم إنشاء المستخدم. و قد أرسلنا كود التفعيل بالبريد الإلكتروني"
+
+msgid "The user has been created and activated"
+msgstr "تم إنشاء المستخدم وتفعيله"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "عذرا ، ولكن عنوان البريد الإلكتروني هذا قيد الاستخدام"
+
+msgid "The user has been updated and activated"
+msgstr "تم تحديث وتنشيط المستخدم"
+
+msgid "The user has been updated"
+msgstr "تم تحديث المستخدم"
+
+msgid "User id isn't in the correct format"
+msgstr "تنسيق معرف المستخدم ليس صالحاَ"
+
+msgid "No user has been activated"
+msgstr "لم يتم تفعيل أي مستخدم"
+
+msgid "One user has been activated"
+msgstr "تم تنشيط مستخدم واحد"
+
+msgid "%s users have been activated"
+msgstr "%s تم تنشيط المستخدمين"
+
+msgid "No user has been deactivated"
+msgstr "لم يتم تعطيل أي مستخدم"
+
+msgid "One user has been deactivated"
+msgstr "مستخدم واحد تم تعطيله"
+
+msgid "%s users have been deactivated"
+msgstr "%s تم تعطيل المستخدمين"
+
+msgid "No user has been deleted"
+msgstr "لم يتم حذف أي مستخدم"
+
+msgid "One user has been deleted"
+msgstr "تم حذف مستخدم واحد"
+
+msgid "%s users have been deleted"
+msgstr "%s تم حذف المستخدمين"
+
+msgid "We are very sorry but we could not deliver your message to your friend. Try again later"
+msgstr "نحن أسفون جداَ, و لكننا لم نستطع ايصال رسالتك لصديقك. حاول مرة أخرى في وقت لاحق"
+
+msgid "There has been some errors sending the message"
+msgstr "هناك بعض المشاكل في عملية إرسال الرسالة"
+
+msgid "Invalid email address"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+msgid "One of the files you tried to upload exceeds the maximum size"
+msgstr "أحد الملفات التي تحاول تحميلها يتجاوز الحجم المسموح"
+
+msgid "The file you tried to upload does not have an allowed extension"
+msgstr "الملف الذي تحاول تحميله غير مسموح به"
+
+msgid "Error: Plugin already installed"
+msgstr "خطأ: البرنامج المصغر تم تثبيته سابقاً"
+
+msgid "%s has been added as a new country"
+msgstr "تمت إضافتها كدولة جديدة %s"
+
+msgid "%s already was in the database"
+msgstr "موجودة في قاعدة البيانات %s"
+
+msgid "%s has been edited"
+msgstr "تم تحريرها %s"
+
+msgid "%s has been deleted"
+msgstr "تم حذفها %s"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "لا يمكن حذفها. هناك بعض الإعلانات موجودة فيها %s"
+
+msgid "%s has been added as a new region"
+msgstr "تمت إضافتها كمحافظة جديدة %s"
+
+msgid "%s has been added as a new city"
+msgstr "تمت إضافتها كمدينة جديدة %s"
+
+msgid "No currencies have been deleted"
+msgstr "لم يتم حذف اي من العملات"
+
+msgid "One currency has been deleted"
+msgstr "تم حذف عملة واحدة"
+
+msgid "%s currencies have been deleted"
+msgstr "%s تم حذف العملات"
+
+msgid "%s cannot be added"
+msgstr "لا يمكن حذفها %s"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s تمت إضافتها كمنطقة تابعة ل %s"
+
+msgid "Error: %s"
+msgstr "%s : خطأ"
+
+msgid "INACTIVE"
+msgstr "تعطيل"
+
+msgid "DISABLED"
+msgstr "معطل"
+
+msgid "Check your inbox to verify your email address"
+msgstr "تحقق من صندوق بريدك الإلكتروني للتأكد من عنوانك"
+
+msgid "Your item has been published"
+msgstr "تم نشر إعلانك"
+
+msgid "You can't contact the seller, only registered users can"
+msgstr "لا تستطيع الإتصال بناشر الإعلان, مسموح فقط للمستخدمين المسجلين"
+
+msgid "You must be logged in to delete a comment"
+msgstr "يجب عليك القيام بتسجيل الدخول لتتمكن من حذف التعليق"
+
+msgid "The comment was not added by you, you cannot delete it"
+msgstr "لم يتم إضافة التعليق من قبلك, لذلك لا يمكنك حذفه"
+
+msgid "The comment has been deleted"
+msgstr "تم حذف التعليق"
+
+msgid "The item has been suspended"
+msgstr "تم تعليق (إيقاف) الإعلان"
+
+msgid "The user has been suspended"
+msgstr "تم تعليق (إيقاف) المستخدم"
+
+msgid "This should never happens"
+msgstr "لا يجب حدوث ذلك"
+
+msgid "We were not able to identify you given the information provided"
+msgstr " لم نتمكن من التعرف عليك بواسطة المعلومات المقدمة من قبلك"
+
+msgid "The recaptcha code is wrong"
+msgstr "قمت بكتابة كود خاطئ"
+
+msgid "The email is not valid"
+msgstr "لم يتم التحقق من صحة البريد الإلكتروني"
+
+msgid "Your account has already been validated"
+msgstr "تم تفعيل حسابك مسبقاَ"
+
+msgid "Alert activated"
+msgstr "التنبيهات مفعلة"
+
+msgid "Ops! There was a problem trying to activate alert. Please contact the administrator"
+msgstr "هناك مشكلة تحاول تفعيل التنبيهات. الرجاء الاتصال بالمشرف"
+
+msgid "Unsubscribed correctly"
+msgstr "تم إلغاء إشتراكك بشكل صحيح"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator"
+msgstr "هناك مشكلة تحاول إلغاء إشتراكك. الرجاء الاتصال بالمشرف"
+
+msgid "Real Name invalid"
+msgstr "الإسم الحقيقي غير صحيح"
+
+msgid "Categories' settings have been updated"
+msgstr "تم تحديث إعدادات الفئات"
+
+msgid "The comment has been enabled"
+msgstr "تم تفعيل التعليق"
+
+msgid "The comment has been disabled"
+msgstr "تم تعطيل التعليق"
+
+msgid "The items have been enabled"
+msgstr "تم تقعيل الإعلانات"
+
+msgid "The items have been disabled"
+msgstr "تم تعطيل الإعلانات"
+
+msgid "The item has been enabled"
+msgstr "تم تفعيل الإعلان"
+
+msgid "The item has been disabled"
+msgstr "تم تعطيل الإعلان"
+
+msgid "The item has been unmarked as"
+msgstr "هذا الإعلان لا يحمل علامة عليه ك"
+
+msgid "The item hasn't been unmarked as"
+msgstr "لم يتم وضع علامة على الإعلان ك"
+
+msgid "The language can't be disabled because it's the default language. You can change modify it in General Settings"
+msgstr "لا يمكن تعطيل اللغة لأنها اللغة الإفتراضية. يمكنك تغييرها أو تعديلها في الإعدادات العامة"
+
+msgid "Some language can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr " لا يمكن تعطيل اللغة لأنها اللغة الإفتراضية. يمكنك تغيير اللغة الإفتراضية في الإعدادات العامة لتتمكن من تعطيلها"
+
+msgid "There was a fatal error and the plugin was not installed.<br />Error: \"%s\" Line: %s<br/>File: %s"
+msgstr "There was a fatal error and the plugin was not installed.<br>Error: \\\"%s\\\" Line: %s<br>File: %s"
+
+msgid "Country has been edited"
+msgstr "تم تعديل البلد"
+
+msgid "There were some problems editing the country"
+msgstr "هناك بعض المشاكل في تحرير البلد"
+
+msgid "%s could not be deleted because it's the default currency"
+msgstr "لأنها العملة الإفتراضية %s لا يمكن حذف "
+
+msgid "Settings have been updated"
+msgstr "تم تحديث الإعدادات"
+
+msgid "Could not connect with the database. Error: %s"
+msgstr "%s :لا يمكن الإتصال بقاعدة البيانات. خطأ "
+
+msgid "Could not select the database. Error: %s"
+msgstr "%s :لا يمكن إختيار قاعدة البيانات. خطأ"
+
+msgid "Maintenance mode is ON"
+msgstr "وضع الصيانة قيد التفعيل"
+
+msgid "There were an error creating .maintenance file, please create it manually at the root folder"
+msgstr " هناك خطأ في إنشاء ملف الصيانة. الرجاء إنشاؤه يدوياَ في مجلد الجذر الأساسي للبرنامج"
+
+msgid "Maintenance mode is OFF"
+msgstr "وضع الصيانة غير مفعل"
+
+msgid "There were an error removing .maintenance file, please remove it manually from the root folder"
+msgstr "هناك خطأ في حذف ملف الصيانة. الرجاء حذفه يدوياَ من مجلد الجذر الأساسي للبرنامج"
+
+msgid "No user has been enabled"
+msgstr "لم يتم تفعيل إي مستخدم"
+
+msgid "One user has been enabled"
+msgstr "تم تفعبل مستخدم واحد"
+
+msgid "%s users have been enabled"
+msgstr "مستخدمين %s تم تفعيل"
+
+msgid "No user has been disabled"
+msgstr "لم يتم تعطيل إي مستخدم"
+
+msgid "One user has been disabled"
+msgstr "تم تعطيل مستخدم واحد"
+
+msgid "%s users have been disabled"
+msgstr "مستخدمين %s تم تعطيل"
+
+msgid "Image with incorrect extension."
+msgstr "تنسيق الصورة غير صالح"
+
+msgid "Images too big. Max. size"
+msgstr "الصورة كبيرة جداَ. الحجم الإعظمي"
+
+msgid "Title too short."
+msgstr "العنوان قصير جداَ"
+
+msgid "Title too long."
+msgstr "العنوان طويل جداَ"
+
+msgid "Description too short."
+msgstr "الوصف قصير جداَ"
+
+msgid "Description too long."
+msgstr "الوصف طويل جداَ"
+
+msgid "Category invalid."
+msgstr "فئة غير صالحة"
+
+msgid "Price must be number."
+msgstr "السعر يجب أن يكون رقم"
+
+msgid "Price too long."
+msgstr "السعر طويل جداَ"
+
+msgid "Name too long."
+msgstr "الإسم طويل جداَ"
+
+msgid "Email invalid."
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+msgid "Location not selected."
+msgstr "لم يتم تحديد الموقع"
+
+msgid "Municipality too short."
+msgstr "الحي قصير جداَ"
+
+msgid "Municipality too long."
+msgstr "الحي طويل جداَ"
+
+msgid "Address too short."
+msgstr "العنوان قصير جداَ"
+
+msgid "Address too long."
+msgstr "العنوان طويل جداَ"
+
+msgid "Too fast. You should wait a little to publish your ad."
+msgstr "سرعة عالية. يجب عليك الإنتظار قليلاَ لتتمكن من نشر إعلان أخر"
+
+msgid "We just send your message to %s"
+msgstr "%s منذ برهة قمنا بإرسال رسالتك إلى"
+

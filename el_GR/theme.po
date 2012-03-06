@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Η σελίδα δεν βρέθηκε"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Έχετε εγγραφεί επιτυχώς για την ειδοποίηση"
+
+msgid "There was a problem with the alert"
+msgstr "Εμφανίστηκε ένα πρόβλημα στην ειδοποίηση"
+
+msgid "Subscribe to this search"
+msgstr "Εγγραφή στην αναζήτηση"
+
+msgid "Subscribe now"
+msgstr "Εγγραφη τωρα"
+
+msgid "Subject"
+msgstr "Θέμα"
+
+msgid "Message"
+msgstr "Μήνυμα"
+
+msgid "Your name"
+msgstr "Το όνομά σας"
+
+msgid "Your e-mail address"
+msgstr "Η διεύθυνση e-mail σας"
+
+msgid "Send"
+msgstr "Αποστολη"
+
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Η ιστοσελίδα χρησιμοποιεί το <a title=\\\"OpenSourceClassifieds web\\\" href=\\\"http://www.opensourceclassifieds.org/\\\">ανοιχτού κώδικα για αγγελίες</a> λογισμικό <strong>OpenSourceClassifieds</strong>"
+
+msgid "Publish an item"
+msgstr "Δημιοσίευση ενός αντικειμένου"
+
+msgid "Edit your item"
+msgstr "Επεξεργασία του αντικειμένου σας"
+
+msgid "Send to a friend"
+msgstr "Αποστολή σε ένα φίλο"
+
+msgid "Contact seller"
+msgstr "Επικοινωνία με τον πωλητή"
+
+msgid "page"
+msgstr "σελίδα"
+
+msgid "Show all items"
+msgstr "Προβολή όλων των αντικειμένων"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Recover your password"
+msgstr "Ανάκτηση του κωδικού πρόσβασης"
+
+msgid "Login"
+msgstr "Είσοδος"
+
+msgid "Create a new account"
+msgstr "Δημιουργία ενός νέου λογαριασμού"
+
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+msgid "Manage my items"
+msgstr "Διαχείριση των αντικειμένων μου"
+
+msgid "Manage my alerts"
+msgstr "Διαχείριση των ειδοποιήσεών μου"
+
+msgid "Update my profile"
+msgstr "Ενημέρωση του προφίλ μου"
+
+msgid "Change my email"
+msgstr "Αλλαγή του e-mail μου"
+
+msgid "Change my password"
+msgstr "Αλλαγή του κωδικού μου πρόσβασης"
+
+msgid "Recover my password"
+msgstr "Ανάκτηση του κωδικού μου πρόσβασης"
+
+msgid "Hi %s"
+msgstr "Γειά %s"
+
+msgid "My account"
+msgstr "Ο λογαριασμός μου"
+
+msgid "Logout"
+msgstr "Έξοδος"
+
+msgid "Register for a free account"
+msgstr "Εγγραφή με ένα δωρεάν λογαριασμό"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Κωδικός"
+
+msgid "Remember me"
+msgstr "Παραμείνετε συνδεδεμένος"
+
+msgid "Log in"
+msgstr "Είσοδος"
+
+msgid "Forgot password?"
+msgstr "Ξεχάσατε τον κωδικό πρόσβασης"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Publish your ad for free"
+msgstr "Δημοσιεύστε την αγγελία σας δωρεάν"
+
+msgid "ie. PHP Programmer"
+msgstr "π.χ. γκαρσονιέρα"
+
+msgid "To (seller)"
+msgstr "Προς (πωλητή"
+
+msgid "Item"
+msgstr "Αντικείμενο"
+
+msgid "Phone number"
+msgstr "Αριθμός τηλεφώνου"
+
+msgid "Send message"
+msgstr "Αποστολή μηνύματος"
+
+msgid "Update your item"
+msgstr "Ενημέρωση του αντικειμένου"
+
+msgid "General Information"
+msgstr "Γενικές πληροφορίες"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "Photos"
+msgstr "Εικόνες"
+
+msgid "Add new photo"
+msgstr "Προσθήκη νέας εικόνας"
+
+msgid "Location"
+msgstr "Τοποθεσία"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Region"
+msgstr "Περιοχή"
+
+msgid "City"
+msgstr "Πόλη"
+
+msgid "City area"
+msgstr "Περιοχή στην πόλη"
+
+msgid "Address"
+msgstr "Διεύθυνση"
+
+msgid "Update"
+msgstr "Ενημέρωση"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Item Location"
+msgstr "Τοποθεσία αντικειμένου"
+
+msgid "City Area"
+msgstr "Περιοχή πόλης"
+
+msgid "Seller's information"
+msgstr "Πληροφορίες πωλητή"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Show e-mail on the item page"
+msgstr "Προβολή του e-mail στη σελίδα του αντικειμένου"
+
+msgid "Publish"
+msgstr "Δημοσιευση"
+
+msgid "Your friend's name"
+msgstr "Το όνομα του φίλου σας"
+
+msgid "Your friend's e-mail address"
+msgstr "Η διεύθυνση e-mail του φίλου σας"
+
+msgid "Mark as"
+msgstr "Σημείωση ως"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "λάθος κατηγοριοποιημένο"
+
+msgid "duplicated"
+msgstr "διπλό"
+
+msgid "expired"
+msgstr "ληγμένο"
+
+msgid "offensive"
+msgstr "προσβλητικό"
+
+msgid "Share"
+msgstr "Μοιράσου το"
+
+msgid "Useful information"
+msgstr "Χρήσιμες πληροφορίες"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Αποφύγετε απάτες δρώντας τοπικά ή πληρώνοντας με PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Μην πληρώνετε με Western Union, Moneygram ή άλλες ανώνυμες υπηρεσίες πληρωμής"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Μην αγοράζετε ή πουλάτε εκτός της χώρας σας. Μην δέχεστε επιταγές πληρωμής εκτός της χώρας σας"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Αυτή η ιστοσελίδα δεν εμπλέκεται με καμία συναλλαγή, και δεν διαχειρίζεται πληρωμές, αποστολές, εγγυήσεις συναλλαγών, παρέχει υπηρεσίες μεσεγγύησης, ή προσφέρει \\\"προστασία αγοραστή\\\" ή \\\"πιστοποίηση πωλητή\\\""
+
+msgid "Comments"
+msgstr "Σχόλια"
+
+msgid "by"
+msgstr "από"
+
+msgid "Delete your comment"
+msgstr "Διαγραφή του σχολίου σας"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Δώστε το σχόλιό σας (spam ή προσβλητικά μηνύματα θα αφαιρούνται)"
+
+msgid "Your e-mail"
+msgstr "Το e-mail σας"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Comment"
+msgstr "Σχόλιο"
+
+msgid "Contact publisher"
+msgstr "Επικοινωνία με συντάκτη"
+
+msgid "Tel"
+msgstr "Τηλ"
+
+msgid "Your name (optional)"
+msgstr "Το όνομά σας (προαιρετικό)"
+
+msgid "Enter the words above"
+msgstr "πληκτρολογήστε τις παρακάνω λέξεις"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Latest Items"
+msgstr "Τελευταία αντικείμενα"
+
+msgid "No Latest Items"
+msgstr "Δεν υπάρχουν τελευταία αντικείμενα"
+
+msgid "See all offers"
+msgstr "Δείτε όλες τις προσφορές"
+
+msgid "Search results"
+msgstr "Δείτε όλα τα αποτελέσματα"
+
+msgid "Sort by"
+msgstr "Ταξινόμηση κατά"
+
+msgid "There are no results matching \"%s\""
+msgstr "Δεν υπάρχουν αποτελέσματα που να ταιριάζουν με \\\"%s\\\""
+
+msgid "Your search"
+msgstr "Η αναζήτησή σας"
+
+msgid "Show only"
+msgstr "Προβολή μόνο"
+
+msgid "Show only items with pictures"
+msgstr "Προβολή μόνο αντικειμένων με φωτογραφίες"
+
+msgid "Min"
+msgstr "Ελάχ"
+
+msgid "Max"
+msgstr "Μέγ"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "Selected"
+msgstr "Επιλεγμένα"
+
+msgid "Nothing selected, input was"
+msgstr "Τίποτα δεν έχει επιλεγεί η εισαγωγή ήταν"
+
+msgid "User account manager"
+msgstr "Διαχείρηση λογαριασμού"
+
+msgid "Your alerts"
+msgstr "Οι ειδοποιήσεις σας"
+
+msgid "You do not have any alerts yet"
+msgstr "Δεν έχετε καμία ειδοποίηση ακόμη"
+
+msgid "Alert"
+msgstr "Ειδοποίηση"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Delete this alert"
+msgstr "Διαγραφή αυτής της ειδοποίησης"
+
+msgid "Publication date"
+msgstr "Η μερομηνία δημοσίευσης"
+
+msgid "Change your e-mail"
+msgstr "Αλλαγή του e-mail σας"
+
+msgid "Current e-mail"
+msgstr "Τρέχον e-mail"
+
+msgid "New e-mail"
+msgstr "Νέο e-mail"
+
+msgid "Change your password"
+msgstr "Αλλαγή του κωδικού σας πρόσβασης"
+
+msgid "Current password"
+msgstr "Τρέχων κωδικός πρόσβασης"
+
+msgid "New password"
+msgstr "Νέος κωδικός πρόσβασης"
+
+msgid "Repeat new password"
+msgstr "Επανάληψη του νέου κωδικού πρόσβασης"
+
+msgid "Items from %s"
+msgstr "Αντικείμενα από %s"
+
+msgid "No items have been added yet"
+msgstr "Δεν έχουν προστεθεί ακόμη αντικείμενα"
+
+msgid "New pasword"
+msgstr "Νέος κωδικός πρόσβασης"
+
+msgid "Repeat new pasword"
+msgstr "Επαναλάβετε τον νέο κωδικό πρόσβασης"
+
+msgid "Change password"
+msgstr "Αλλαγή του κωδικού πρόσβασης"
+
+msgid "Your items"
+msgstr "Τα αντικείμενά σας"
+
+msgid "Post a new item"
+msgstr "Προσθήκη ενός νέου αντικειμένου"
+
+msgid "You don't have any items yet"
+msgstr "Δεν έχετε ακόμη κάποιο αντικείμενο"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+msgid "Access to your account"
+msgstr "Πρόσβασση στο λογαριασμό σας"
+
+msgid "Update your profile"
+msgstr "Ενημέρωση του προφίλ σας"
+
+msgid "Modify e-mail"
+msgstr "Αλλαγή του e-mail"
+
+msgid "Modify password"
+msgstr "Αλλαγή του κωδικού πρόσβασης"
+
+msgid "User type"
+msgstr "Τύπος χρήστη"
+
+msgid "Cell phone"
+msgstr "Κινητό τηλέφωνο"
+
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+msgid "Send me a new password"
+msgstr "Στείλε μου ένα νέο κωδικό πρόσβασης"
+
+msgid "Register an account for free"
+msgstr "Εγγραφή για έναν δωρεάν λογαριασμό"
+
+msgid "Re-type password"
+msgstr "Επαναπληκτρολόγηση κωδικού πρόσβασης"
+
+msgid "Passwords don't match"
+msgstr "Οι κωδικοί δεν ταιριάζουν"
+
+msgid "Create"
+msgstr "Δημιουργία"
+
+msgid "Invalid email address"
+msgstr "Μη έγκυρη διεύθυνση email"
+
+msgid "Upload"
+msgstr "Ανέβασμα"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Για να κάνετε μία διεύθυνση εγγράψιμη στα linux εκτελέστε σε γραμμή εντολών"
+
+msgid "optional"
+msgstr "προαιρετικό"
+
+msgid "Modern theme"
+msgstr "Θέμα Modern"
+
+msgid "Settings theme"
+msgstr "Ρυθμίσεις θέματος"
+
+msgid "Image"
+msgstr "Εικόνα"
+
+msgid "Published date"
+msgstr "Ημ/νια δημοσίευσης"
+
+msgid "Modified date"
+msgstr "Ημ/νία τροποποίησης"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Το προτεινόμενο μέγεθος για το λογότυπο είναι 600x100"
+
+msgid "Logo image"
+msgstr "Λογότυπο"
+
+msgid "Remove logo"
+msgstr "Αφαίρεση λογότυπου"
+
+msgid "Has not uploaded any logo image"
+msgstr "Δεν έχει ανέβει κάποιο λογότυπο"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Ο φάκελος με τις εικόνες %s δεν είναι εγγράψιμος στο server"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "Το OpenSourceClassifieds δεν μπόρεσε να ανεβάσει το λογότυπο από το πάνελ διαχείρισης"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Παρακαλώ κάντε εγγράψιμο τον παραπάνω φάκελο με τις εικόνες"
+
+msgid "Select a category"
+msgstr "Επιλέξτε μια κατηγορία"
+
+msgid "Contact us"
+msgstr "Επικοινωνία"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "No file selected"
+msgstr "Δεν έχει επιλεγεί κάποιο αρχείο"
+
+msgid "Choose File"
+msgstr "Επιλέξτε αρχείο"
+
+msgid "Sponsored ad"
+msgstr "Προβεβλημένη καταχώρηση"
+
+msgid "View item"
+msgstr "Προβολή αγγελίας"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Σημείωση: Ανέβασμα νέου logo θα σβήσει το τρέχον"
+

@@ -1,0 +1,910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Passwords don't match"
+msgstr "رمز ها مطابقت ندارند"
+
+msgid "The Recaptcha code is wrong"
+msgstr "(خطا در کد امنیتی(کپچا"
+
+msgid "You have to introduce a correct e-mail"
+msgstr "شما باید یک ایمیل صحیح معرفی نمایید"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "ایمیل شما به درستی ارسال شده.از تماس با ما متشکریم !"
+
+msgid "Users not enabled"
+msgstr "کاربرانی حالت فعال نمی باشد"
+
+msgid "Only registered users are allowed to post items"
+msgstr "تنها کاربران عضو مجاز به ارسال آگهی"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "با عرض پوزش ، ما هیچ آیتمی با این شناسه نداریم"
+
+msgid "Great! We've just updated your item"
+msgstr "عالی! ما فقط آگهی شما را به روز کردیم."
+
+msgid "The item has been validated"
+msgstr "آگهی معتبر شد"
+
+msgid "The item can't be validated"
+msgstr "آگهی مورد نظر را نمی توان معتبر ساخت"
+
+msgid "The item has already been validated"
+msgstr "آگهی مورد نظر در حال حاضر معتبر شده است"
+
+msgid "Your item has been deleted"
+msgstr "آگهی شما حذف شده است"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "آگهی که شما سعی در حذف آن دارید را نمی توان حذف نمود."
+
+msgid "The selected photo couldn't be deleted, the url doesn't exist"
+msgstr "تصویر انتخاب شده را نمی توان حذف نمود ، آدرس موجود نیست."
+
+msgid "The item doesn't exist"
+msgstr "آگهی موجود نیست"
+
+msgid "The item doesn't belong to you"
+msgstr "آگهی متعلق به شما نیست"
+
+msgid "The selected photo has been successfully deleted"
+msgstr "عکسی را که انتخاب نمودید با موفقیت حذف گردید"
+
+msgid "The selected photo couldn't be deleted"
+msgstr "عکس انتخاب شده را نمی توان حذف نمود"
+
+msgid "Thanks! That's very helpful"
+msgstr "متشکر!راهنمایی شما بسیار مفید خواهد بود"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "ما را ببخشید.اما اعتبار این آگهی منقضی شده و شما نمی توانید با آگهی دهنده تماس برقرار کنید."
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "ما فقط یک پست الکترونیکی به فروشنده(آگهی دهنده) فرستاده ایم"
+
+msgid "Sorry, we could not save your comment. Try again later"
+msgstr "پوزش می طلبیم ، ما نمی توانیم دیدگاه تان را ذخیره کنیم . بعدا دوباره سعی کنید"
+
+msgid "Your comment is awaiting moderation"
+msgstr "دیدگاه شما در انتظار تایید مدیران است"
+
+msgid "Your comment has been approved"
+msgstr "دیدگاه شما مورد تایید قرار گرفته است"
+
+msgid "Please fill the required fields (name, email)"
+msgstr "(لطفا فیلد های ضروری را پر کنید(نام ، ایمیل"
+
+msgid "Please type a comment"
+msgstr "لطفا دیدگاه تان را بنویسید"
+
+msgid "Your comment has been marked as spam"
+msgstr "دیدگاه شما به عنوان هرزنامه شناخته شده است"
+
+msgid "This item doesn't exist"
+msgstr "این آگهی وجود ندارد"
+
+msgid "The comment doesn't exist"
+msgstr "این دیدگاه وجود ندارد"
+
+msgid "The comment is not active, you cannot delete it"
+msgstr "این دیدگاه فعال نیست ، شما نمی توانید آن را حذف کنید."
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "این آگهی اعتبار ندارد.لطفا به منظور نمایش آگهی به کاربران  آن را معتبر سازید"
+
+msgid "This item hasn't been validated"
+msgstr "این آگهی اعتبار ندارد"
+
+msgid "The username doesn't exist"
+msgstr "این نام کاربری وجود ندارد"
+
+msgid "The user has not been validated yet"
+msgstr "کاربری هنوز معتبر نیست"
+
+msgid "The password is incorrect"
+msgstr "رمز عبور درست نیست"
+
+msgid "We have sent you an email with the instructions to reset your password"
+msgstr "ما یک ایمیل برای شما ارسال کردیم که حاوی دستورالعمل تنظیم مجدد رمز عبور است"
+
+msgid "Sorry, the link is not valid"
+msgstr "با عرض پوزش ،لینک معتبر نیست"
+
+msgid "The password has been changed"
+msgstr "رمز عبور تغییر کرده است"
+
+msgid "Error, the password don't match"
+msgstr "خطا ، رمزعبورها با هم مطابقت ندارند"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "کاربر ایجاد شده. یک ایمیل فعال سازی به ایمیل شما ارسال شده است"
+
+msgid "Your account has been created successfully"
+msgstr "حساب کاربری شما با موفقیت ساخته شد"
+
+msgid "The specified e-mail is already in use"
+msgstr "ایمیل مشخص شده در حال حاضر در حال استفاده می باشد"
+
+msgid "The reCAPTCHA was not introduced correctly"
+msgstr "کپچا(کد امنیتی) به درستی معرفی نشده"
+
+msgid "Your account has been validated"
+msgstr "حساب کاربری شما معتبر شده است"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "لینک معتبر نیست. با عرض پوزش برای این مزاحمت ناخواسته!"
+
+msgid "Your email has been changed successfully"
+msgstr "پست الکترونیک شما با موفقیت تغییر کرده است"
+
+msgid "Your profile has been updated successfully"
+msgstr "مشخصات کاربری شما با موفقیت به روز شد"
+
+msgid "The specified e-mail is not valid"
+msgstr "ایمیل مشخص شده معتبر نیست"
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "ما یک ایمیل برای شما ارسال کردیم که حاوی دستورالعمل معتبر سازی تغییرات می باشد"
+
+msgid "We tried to sent you an e-mail, but it failed. Please, contact the administrator"
+msgstr "ما سعی کردیم که یک ایمیل به شما ارسال کنیم اما نتوانستیم.لطفا ، با مدیریت سایت تماس بگیرید"
+
+msgid "Current password doesn't match"
+msgstr "رمز عبور جاری مطابقت ندارد"
+
+msgid "Passwords can't be empty"
+msgstr "رمز عبور نمی تواند خالی باشد"
+
+msgid "Password has been changed"
+msgstr "رمز عبور تغییر کرد"
+
+msgid "Email invalid"
+msgstr "ایمیل نامعتبر"
+
+msgid "Username invalid"
+msgstr "نام کاربری نامعتبر"
+
+msgid "Password invalid"
+msgstr "رمز عبور نامعتبر"
+
+msgid "Email already in use"
+msgstr "ایمیل در حال حاضر در حال استفاده است"
+
+msgid "Username already in use"
+msgstr "نام کاربری در حال حاضر در حال استفاده است"
+
+msgid "The admin has been added"
+msgstr "مدیر اضافه گردید"
+
+msgid "There have been an error adding a new admin"
+msgstr "خطا در اضافه کردن مدیر جدید"
+
+msgid "There is no admin admin with this id"
+msgstr "مدیری با این شناسه وجود ندارد"
+
+msgid "This admin doesn't exist"
+msgstr "این مدیر وجود ندارد"
+
+msgid "Existing email"
+msgstr "ایمیل موجود"
+
+msgid "Existing username"
+msgstr "نام کاربری موجود"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "رمز عبور را نمی توان به روز کرد. رمز ها مطابقت ندارند"
+
+msgid "The admin has been updated"
+msgstr "مدیر به روز شد"
+
+msgid "The admin id isn't in the correct format"
+msgstr "شناسه مدیر در قالب درستی نیست"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "این عملیات تکمیل نشده است . خودتان برای حذف آن تلاش کنید !"
+
+msgid "The admin has been deleted correctly"
+msgstr "مدیر به درستی حذف گردید"
+
+msgid "The admin couldn't be deleted"
+msgstr "مدیر نمی تواند حذف گردد"
+
+msgid "The theme folder is not writable"
+msgstr "پوشه پوسته ها قابل نوشتن نیست"
+
+msgid "The theme has been installed correctly"
+msgstr "پوسته به درستی نصب گردید"
+
+msgid "The zip file is not valid"
+msgstr "فایل فشرده معتبر نیست"
+
+msgid "There was a problem adding the theme"
+msgstr "مشکلاتی در افزودن پوسته رخ داد"
+
+msgid "Widget removed correctly"
+msgstr "ابزارک به درستی حذف گردید"
+
+msgid "Widget added correctly"
+msgstr "ابزارک به درستی افزوده شد"
+
+msgid "Theme activated correctly"
+msgstr "پوسته به درستی فعال شد"
+
+msgid "The comments have been deleted"
+msgstr "دیدگاه ها حذف شدند"
+
+msgid "The comments have been approved"
+msgstr "دیدگاه هایی که مورد تایید قرار گرفته اند"
+
+msgid "The comments have been disapproved"
+msgstr "دیدگاه هایی که مورد تایید قرار نگرفته اند"
+
+msgid "The comment has been approved"
+msgstr "دیدگاه مورد تایید قرار گرفته است"
+
+msgid "The comment has been disapproved"
+msgstr "دیدگاه مورد تایید قرار نگرفت"
+
+msgid "Great! We just updated your comment"
+msgstr "عالیست!ما فقط دیدگاه شما را بروز کردیم"
+
+msgid "The comment have been deleted"
+msgstr "دیدگاه حذف گردید"
+
+msgid "The email/alert has been updated"
+msgstr "ایمیل/هشدار بروز شد"
+
+msgid "You can't repeat internal name"
+msgstr "شما نمی توانید نام داخلی را تکراری وارد کنید"
+
+msgid "The email couldn't be updated, at least one title should not be empty"
+msgstr "ایمیل را نمی توان بروز کرد،حداقل یک عنوان باید خالی نباشد"
+
+msgid "The item has been deleted"
+msgstr "آگهی حذف شد"
+
+msgid "The item couldn't be deleted"
+msgstr "آگهی نمی تواند حذف شود"
+
+msgid "The item has been activated"
+msgstr "آگهی فعال شد"
+
+msgid "The item has been deactivated"
+msgstr "آگهی غیرفعال شد"
+
+msgid "Changes have been applied"
+msgstr "تغییرات اعمال شده است"
+
+msgid "Changes saved correctly"
+msgstr "تغییرات به درستی ذخیره شد"
+
+msgid "Resource deleted"
+msgstr "منبع حذف شده"
+
+msgid "A new item has been added"
+msgstr "یک آگهی جدید افزوده شده"
+
+msgid "The translation folder is not writable"
+msgstr "پوشه ترجمه قابل نوشتن نیست"
+
+msgid "The language has been installed correctly"
+msgstr "زبان به درستی نصب گردید"
+
+msgid "There was a problem adding the language"
+msgstr "خطایی در افزودن زبان وجود دارد"
+
+msgid "Language id isn't in the correct format"
+msgstr "شناسه زبان در قالب معتبری نیست"
+
+msgid "Language id doesn't exist"
+msgstr "شناسه زبان وجود ندارد"
+
+msgid "Language name can't be empty"
+msgstr "نام زبان نمی تواند خالی باشد"
+
+msgid "Language short name can't be empty"
+msgstr "نام کوتاه(مخفف)زبان نباید خالی باشد"
+
+msgid "Language description can't be empty"
+msgstr "توضیحات زبان نمی تواند خالی باشد"
+
+msgid "%s has been updated"
+msgstr "بروز شد %s"
+
+msgid "The language has been enabled for the public website"
+msgstr "زبان مورد نظر برای وبسایت فعال شد"
+
+msgid "The language has been disabled for the public website"
+msgstr "زبان مورد نظر برای وبسایت غیرفعال شد"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "زبان ومرد نظر برای صفحه مدیریت فعال شد"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "زبان مورد نظر برای صفحه مدیریت غیرفعال شد"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "مشکل در به روز رسانی این زبان وجود دارد . شناسه (شماره) زبان گم شد"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "انتخاب زبان برای وب سایت فعال شده اند"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "مشکل در به روز رسانی زبان  ها وجود دارد . شناسه (شماره) زبان ها گم شده اند"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "انتخاب زبان برای وب سایت غیر فعال شده اند"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "انتخاب زبان برای صفحه مدیریت فعال شده است"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "انتخاب زبان برای صفحه مدیریت غیرفعال شده است"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "را نمی توان حذف کرد \\\"%s\\\" دایرکتوری"
+
+msgid "Directory \"%s\" has been successfully removed"
+msgstr "با موفقیت حذف شد \\\"%s\\\" دایرکتوری"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "را نمی توان حذف کرد زیرا آن زبان پیشفرض است.زبان پیشفرض را تغییر داده و دوباره سعی کنید \\\"%s\\\" دایرکتوری"
+
+msgid "That username does not exist"
+msgstr "این نام کاربری وجود ندارد"
+
+msgid "A new password has been sent to your e-mail"
+msgstr "یک رمز جدید به ایمیل شما ارسال شد"
+
+msgid "The page has been updated"
+msgstr "صفحه بروز شد"
+
+msgid "The page couldn't be updated, at least one title should not be empty"
+msgstr "صفحه نمی تواند به روز شود،حداقل یک عنوان نباید خالی بماند"
+
+msgid "You have to set an internal name"
+msgstr "شما باید یک نام داخلی انتخاب نمایید"
+
+msgid "The page has been added"
+msgstr "صفحه اضافه گشت"
+
+msgid "The page couldn't be added, at least one title should not be empty"
+msgstr "صفحه نمی تواند اضافه شود،حداقل یک عنوان نباید خالی بماند"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "اوه!این نام داخلی در حال استفاده است. ما نمی توانیم تغییری در آن ایجاد کنیم"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "یک صفحه نمی تواند حذف شود زیرا آن حذف نشدنی است"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "صفحات نمی تواند حذف گردند زیرا آن ها حذف نشدنی هستند"
+
+msgid "One page couldn't be deleted"
+msgstr "یک صفحه نمی تواند حذف شود"
+
+msgid "pages couldn't be deleted"
+msgstr "صفحات نمی تواند حذف شوند"
+
+msgid "One page has been deleted correctly"
+msgstr "یک صفحه به درستی حذف گردید"
+
+msgid "pages have been deleted correctly"
+msgstr "صفحات به درستی حذف شدند"
+
+msgid "The plugin folder is not writable"
+msgstr "پوشه افزونه قابل نوشتن نسیت"
+
+msgid "The plugin has been uploaded correctly"
+msgstr "افزونه به درستی بروزرسانی شد"
+
+msgid "There was a problem adding the plugin"
+msgstr "یک خطا در افزودن افزودنه وجود دارد"
+
+msgid "Plugin installed"
+msgstr "افزونه نصب شد"
+
+msgid "Plugin uninstalled"
+msgstr "افزونه حذف شد"
+
+msgid "No plugin selected"
+msgstr "افزونه ای انتخاب نشده"
+
+msgid "Configuration was saved"
+msgstr "تنظیمات ذخیره شد"
+
+msgid "Items' settings have been updated"
+msgstr "تنظیمات آگهی ها بروز شد"
+
+msgid "Comments' settings have been updated"
+msgstr "تنظیمات دیدگاه ها بروز شد"
+
+msgid "Users' settings have been updated"
+msgstr "نتظیمات کاربران بروز شد"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "اسکمیت و کپچا(کد امنیتی) بروز شدند"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "خطا : کد ارز در قالب صحیح نیست"
+
+msgid "New currency has been added"
+msgstr "ارز(واحد پول)جدید اضافه شد"
+
+msgid "Error: currency couldn't be added"
+msgstr "خطا: ارز نمی تواند اضافه شود"
+
+msgid "Error: the currency doesn't exist"
+msgstr "خطا:ارز وجود ندارد"
+
+msgid "Currency has been updated"
+msgstr "ارز بروزرسانی شد"
+
+msgid "Mail server type is incorrect"
+msgstr "نوع سرور ایمیل نادرست است"
+
+msgid "Mail server configuration has changed"
+msgstr "پیکربندی سرور ایمیل تغییر یافت"
+
+msgid "Media config has been updated"
+msgstr "نتظیمات رسانه بروز شد"
+
+msgid "Contact configuration has been updated"
+msgstr "پیکربندی تماس به روز شده است"
+
+msgid "Cron config has been updated"
+msgstr "بروز شده است Cron پیکربندی"
+
+msgid "General settings have been updated"
+msgstr "تنظیمات عمومی بروز شده"
+
+msgid "Import complete"
+msgstr "وارد کردن کامل"
+
+msgid "There was a problem importing data to the database"
+msgstr "مشکلی در وارد کردن داده ها به پایگاه داده وجود دارد"
+
+msgid "Re-generation complete"
+msgstr "تولید دوباره کامل"
+
+msgid "Path is empty"
+msgstr "هدف خالی است"
+
+msgid "There are no tables to back up"
+msgstr "جدولی برای پشتیبان گیری نیست"
+
+msgid "The folder is not writable"
+msgstr "پوشه قابل نوشتن نیست"
+
+msgid "Backup has been done properly"
+msgstr "پشتیبان گیری به درستی انجام شده است"
+
+msgid "Archiving successful!"
+msgstr "بایگانی موفق !"
+
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "در آدرس مشخص شده ایجاد نشد zip خطا ، فایل"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "کاربر ساخته شد.یک ایمیل برای شما به منظور تایید حساب کاربری ارسال گردید"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "با عرض پوزش ، اما این ایمیل در حال حاضر در حال استفاده است"
+
+msgid "The user has been updated and activated"
+msgstr "کاربر بروزرسانی و فعال شده است "
+
+msgid "The user has been updated"
+msgstr "کاربر به روز شده است"
+
+msgid "User id isn't in the correct format"
+msgstr "شناسه کاربر در قالب معتبری نیست "
+
+msgid "No user has been activated"
+msgstr "کاربری فعال نشده است"
+
+msgid "One user has been activated"
+msgstr "یک کاربر فعال شده است"
+
+msgid "%s users have been activated"
+msgstr "کاربر فعال شده اند %s"
+
+msgid "No user has been deactivated"
+msgstr "هیچ کاربری غیرفعال نشده است"
+
+msgid "One user has been deactivated"
+msgstr "یک کاربر غیرفعال شده است"
+
+msgid "%s users have been deactivated"
+msgstr "کاربر غیرفعال شده اند %s"
+
+msgid "No user has been deleted"
+msgstr "کاربری حذف نشده است"
+
+msgid "One user has been deleted"
+msgstr "یک کاربر حذف شده"
+
+msgid "%s users have been deleted"
+msgstr "کاربر حذف شده اند %s"
+
+msgid "There has been some errors sending the message"
+msgstr "تعدادی خطا در ارسال پیام رخ داد"
+
+msgid "Invalid email address"
+msgstr "ایمیل نامعتبر است"
+
+msgid "One of the files you tried to upload exceeds the maximum size"
+msgstr "یکی از فایل های شما بیش از اندازه بزرگ است"
+
+msgid "The file you tried to upload does not have an allowed extension"
+msgstr "پسوند فایلی که شما سعی در آپلود آن دارید مجاز نیست"
+
+msgid "Error: Plugin already installed"
+msgstr "خطا : افزونه از قبل نصب شده"
+
+msgid "%s has been added as a new country"
+msgstr "به عنوان یک کشور جدید اضافه شد %s"
+
+msgid "%s already was in the database"
+msgstr "در حال حاضر در پایگاه داده وجود دارد %s"
+
+msgid "%s has been edited"
+msgstr "ویرایش شد %s"
+
+msgid "%s has been deleted"
+msgstr "حذف گردید %s"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "نمی تواند حذف شود ، مکان برخی از آگهی ها در آنجا است  %s"
+
+msgid "%s has been added as a new region"
+msgstr "به عنوان منطقه جدید اضافه شد %s"
+
+msgid "%s has been added as a new city"
+msgstr "به عنوان شهر جدید اضافه شد %s"
+
+msgid "No currencies have been deleted"
+msgstr "ارز حذف شده ای نسیت"
+
+msgid "One currency has been deleted"
+msgstr "یک ازر حذف شده"
+
+msgid "%s currencies have been deleted"
+msgstr "ارز حذف شده %s"
+
+msgid "%s cannot be added"
+msgstr "نمی تواند افزوده شود %s"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s اضافه شده به عنوان منطقه ای از %s"
+
+msgid "Error: %s"
+msgstr "خطا: %s"
+
+msgid "INACTIVE"
+msgstr "غیرفعال"
+
+msgid "DISABLED"
+msgstr "غیرفعال"
+
+msgid "Check your inbox to verify your email address"
+msgstr "به منظور تایید آدرس ایمیل ،اینباکس ایمیل خود را بررسی نمایید"
+
+msgid "Your item has been published"
+msgstr "آگهی شما منتشر گردید"
+
+msgid "You can't contact the seller, only registered users can"
+msgstr "شما قادر به برقراری تماس با آگهی دهنده(فروشنده)نیستید و فقط کاربران عضو می تواند"
+
+msgid "You must be logged in to delete a comment"
+msgstr "برای حذف دیدگاه باید وارد سایت شوید"
+
+msgid "The comment was not added by you, you cannot delete it"
+msgstr "دیدگاه توسط شما افزوده نشده و شما نمی توانید آن را حذف کنید"
+
+msgid "The comment has been deleted"
+msgstr "دیدگاه حذف شده است"
+
+msgid "The item has been suspended"
+msgstr "آگهی متوقف شده است"
+
+msgid "The user has been suspended"
+msgstr "کاربر متوقف شده است"
+
+msgid "This should never happens"
+msgstr "این هرگز نباید اتفاق بیفتد"
+
+msgid "We were not able to identify you given the information provided"
+msgstr "ما با توجه به اطلاعات ارائه شده قادر به شناسایی شما نیستیم"
+
+msgid "The recaptcha code is wrong"
+msgstr "خطای کد امنیتی"
+
+msgid "The email is not valid"
+msgstr "ایمیل نامعتبر است"
+
+msgid "Your account has already been validated"
+msgstr "حساب کاربری شما اکنون فعال شده است"
+
+msgid "Alert activated"
+msgstr "هشدار فعال شده"
+
+msgid "Ops! There was a problem trying to activate alert. Please contact the administrator"
+msgstr "اوه!مشکل در تلاش برای فعال کردن هشدار وجود دارد. لطفا با مدیریت تماس بگیرید"
+
+msgid "Unsubscribed correctly"
+msgstr "لغو اشتراک به درستی"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator"
+msgstr "اوه! مشکل در تلاش برای لغو اشتراک شما وجود دارد . لطفا  با مدیریت تماس بگیرید"
+
+msgid "Real Name invalid"
+msgstr "نام واقعی نامعتبر"
+
+msgid "Categories' settings have been updated"
+msgstr "تنظیمات دسته بندی بروزرسانی شد"
+
+msgid "The comment has been enabled"
+msgstr "دیدگاه ها فعال شده اند"
+
+msgid "The comment has been disabled"
+msgstr "دیدگاه ها غیر فعال شده اند"
+
+msgid "The item has been enabled"
+msgstr "آگهی فعال شد"
+
+msgid "The item has been disabled"
+msgstr "آگهی غیر فعال شد"
+
+msgid "The item has been unmarked as"
+msgstr "آگهی بی نشان شده است به عنوان"
+
+msgid "The item hasn't been unmarked as"
+msgstr "آگهی بی نشان نشده است به عنوان"
+
+msgid "The language can't be disabled because it's the default language. You can change modify it in General Settings"
+msgstr "این زبان را نمی توان غیرفعال کرد زیرا زبان پیشفرض است.شما می توانید در تنظیمات عمومی آن را تغییر دهید"
+
+msgid "There was a fatal error and the plugin was not installed.<br />Error: \"%s\" Line: %s<br/>File: %s"
+msgstr "یک خطای مهلک وجود دارد و افزونه نصب نشده بود<br>خطا: \\\"%s\\\"خط: %s<br>فایل: %s."
+
+msgid "Country has been edited"
+msgstr "کشور ویرایش شد"
+
+msgid "There were some problems editing the country"
+msgstr "مشکلی در ویرایش کشور بوجود آمد"
+
+msgid "%s could not be deleted because it's the default currency"
+msgstr "نمی تواند حذف شود زیرا آن پول(ارز) پیشفرض است %s"
+
+msgid "Settings have been updated"
+msgstr "تنظیمات بروز شد"
+
+msgid "Could not connect with the database. Error: %s"
+msgstr " %s :نمی توان به پایگاه داده متصل شد.خطا"
+
+msgid "Could not select the database. Error: %s"
+msgstr "%s :نمی توان پایگاه داده را انتخاب کرد.خطا"
+
+msgid "Maintenance mode is ON"
+msgstr "حالت تعمیر روشن است"
+
+msgid "Maintenance mode is OFF"
+msgstr "حالت تعمیر خاموش است"
+
+msgid "No user has been enabled"
+msgstr "کاربری فعال نشده"
+
+msgid "One user has been enabled"
+msgstr "یک کاربر فعال شده"
+
+msgid "%s users have been enabled"
+msgstr "کاربر فعال شده اند %s"
+
+msgid "No user has been disabled"
+msgstr "کاربری غیرفعال نشده"
+
+msgid "One user has been disabled"
+msgstr "یک کاربر غیرفعال شده"
+
+msgid "%s users have been disabled"
+msgstr "کاربر غیرفعال شده اند %s"
+
+msgid "Image with incorrect extension."
+msgstr "تصویر با پسوند نادرست"
+
+msgid "Images too big. Max. size"
+msgstr "تصاویر بیش از اندازه بزرگ اند"
+
+msgid "Title too short."
+msgstr "عنوان بیش از حد کوتاه است"
+
+msgid "Title too long."
+msgstr "عنوان بیش از حد طولانی است"
+
+msgid "Description too short."
+msgstr "توضیحات بیش از حد کوتاه است"
+
+msgid "Description too long."
+msgstr "توضیحات بیش از حد طولانی است"
+
+msgid "Category invalid."
+msgstr "دسته نامعتبر است"
+
+msgid "Price must be number."
+msgstr "قیمت باید عدد باشد"
+
+msgid "Price too long."
+msgstr "قیمت بیش از حد طولانی است"
+
+msgid "Name too long."
+msgstr "نام بیش از حد طولانی است"
+
+msgid "Email invalid."
+msgstr "ایمیل نامعتبر است"
+
+msgid "Municipality too short."
+msgstr "شهر بیش از حد کوتاه است"
+
+msgid "Municipality too long."
+msgstr "شهر بیش از حد کوتاه است"
+
+msgid "Address too short."
+msgstr "آدرس خیلی کوتاه است"
+
+msgid "Address too long."
+msgstr "آدرس خیلی بلند است"
+
+msgid "Too fast. You should wait a little to publish your ad."
+msgstr "خیلی سریع.شما برای انتشار خود باید کمی صبر کنید"
+
+msgid "We just send your message to %s"
+msgstr "ارسال کردیم %s ما فقط پیامتان را به"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "ببخشید.شما در حال حاضر یک فیلد با آن نام دارید"
+
+msgid "User registration is not enabled"
+msgstr "ثبت عضویت فعال نشده"
+
+msgid "No file was uploaded"
+msgstr "هیچ فایلی هنوز آپلود نشده"
+
+msgid "Widget updated correctly"
+msgstr "ابزارک به درستی بروز شد"
+
+msgid "Widget cannot be updated correctly"
+msgstr "ابزارک به درستی بروز نشد"
+
+msgid "New custom field added"
+msgstr "زمینه دلخواه جدید اضافه گردید"
+
+msgid "The language can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "زبان را نمی توان غیر فعال کرد زیرا این زبان پیشفرض سایت است.شما می توانید تغییر دهید زبان پیشفرض سایت را در تنظیمات اصلی و سپس این زبان را غیرفعال کنید"
+
+msgid "There was an error creating .maintenance file, please create it manually at the root folder"
+msgstr "خطایی در ساخت فایل رخ داده.maintenance file لطفا برای ایجاد به صورت دستی از پوشه ریشه فایل را ایجاد کنید"
+
+msgid "There was an error removing .maintenance file, please remove it manually from the root folder"
+msgstr "خطایی در حذف فایل رخ داده.maintenance file لطفا برای حذف به صورت دستی از پوشه ریشه فایل را حذف کنید"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "تصویر لوگو به درستی آپلود شده"
+
+msgid "An error has occurred, please try again"
+msgstr "خطا رخ داده است، لطفا دوباره سعی کنید"
+
+msgid "The logo image has been removed"
+msgstr "تصویر لوگو حذف شده است"
+
+msgid "Image not found"
+msgstr "تصویر یافت نشد"
+
+msgid "Country too short."
+msgstr "کشور بیش از حد کوتاه."
+
+msgid "Country too long."
+msgstr "کشور بیش از حد طولانی."
+
+msgid "Region too short."
+msgstr "منطقه خیلی کوتاه."
+
+msgid "Region too long."
+msgstr "منطقه بیش از حد طولانی."
+
+msgid "City too short."
+msgstr "شهر بیش از حد کوتاه است."
+
+msgid "City too long."
+msgstr "شهر بیش از حد طولانی است."
+
+msgid "%s field is required."
+msgstr "فیلد %s  الزامی است."
+
+msgid "Users are not enabled"
+msgstr "کاربرها فعال نشده اند"
+
+msgid "Password cannot be blank"
+msgstr "رمز عبور نمی تواند خالی باشد"
+
+msgid "The password cannot be empty"
+msgstr "رمز عبور نمی تواند خالی باشد"
+
+msgid "This action cannot be done because is a demo site"
+msgstr "این عمل قابل انجام نیست چ.ن که این یک سایت نمایشی می باشد"
+
+msgid "Name can not be empty"
+msgstr "نام نمی تواند خالی باشد"
+
+msgid "%d item has been enabled"
+msgstr "%d آگهی فعال شده است"
+
+msgid "%d item has been disabled"
+msgstr "%d آگهی غیر فعال شده است"
+
+msgid "%d item has been activated"
+msgstr "%d آگهی فعال شده است"
+
+msgid "%d item has been deactivated"
+msgstr "%d آگهی غیر فعال شده است"
+
+msgid "%d item has been marked as premium"
+msgstr "%d آگهی با عنوان ویژه علامت گزاری شده است"
+
+msgid "%d change has been made"
+msgstr "%d تغییرات اعمال شده"
+
+msgid "%d item has been marked as spam"
+msgstr "%d آگهی با عنوان اسپم علامت گزاری شده است"
+
+msgid "%d change have been made"
+msgstr "%d تغییرات اعمال شده"
+
+msgid "%d item has been deleted"
+msgstr "%d آگهی پاک شد"
+
+msgid "You have to set a different internal name"
+msgstr "شما بایستی یک نام داخلی متفاوتی انتخاب کنید"
+
+msgid "Plugin enabled"
+msgstr "افزونه فعال شد"
+
+msgid "Error: Plugin already enabled"
+msgstr "خطا: افزونه قبلا فعال شده"
+
+msgid "Plugin disabled"
+msgstr "افزونه غیر فعال شد"
+
+msgid "%s could not be deleted because this currency still in use"
+msgstr "%s به دلیل اینکه این ارز در حال استفاده است، قابل حزف نیست"
+
+msgid "Number of items in the RSS must be integer"
+msgstr "تعداد آگهی ها در RSS باید صحیح باشد"
+
+msgid "Number of recent items displayed at home must be integer"
+msgstr "تعداد آگهی های اخیر نمایش داده شده در صفحه خانه بایستس صحیح باشد"
+
+msgid "The user has been created successfully"
+msgstr "کاربر با موفقیت ایجاد شد"
+
+msgid "Sorry, the password cannot be empty"
+msgstr "پوزش، رمز عبور نمی تواند خالی باشد"
+
+msgid "Sorry, passwords don't match"
+msgstr "پوزش، رمزهای عبور یکسان نیستند"
+

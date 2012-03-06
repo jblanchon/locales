@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Pagina niet gevonden"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "De melding is succesvol aangemaakt"
+
+msgid "There was a problem with the alert"
+msgstr "Er was een probleem met de melding"
+
+msgid "Subscribe to this search"
+msgstr "Meld je aan voor deze zoekopdracht"
+
+msgid "Contact with us"
+msgstr "Neem contact met ons op"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Your name"
+msgstr "Je naam"
+
+msgid "Your e-mail address"
+msgstr "Je email adres"
+
+msgid "Send"
+msgstr "Verzenden"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Deze website is de trotse gebruiker van de <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source rubrieksadvertenties</a> software <strong>OpenSourceClassifieds</strong>"
+
+msgid "Hi %s"
+msgstr "Hallo %s"
+
+msgid "My account"
+msgstr "Mijn account"
+
+msgid "Logout"
+msgstr "Afmelden"
+
+msgid "Login"
+msgstr "Aanmelden"
+
+msgid "Register for a free account"
+msgstr "Registreer je hier voor een gratis account"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Log in"
+msgstr "Aanmelden"
+
+msgid "Forgot password?"
+msgstr "Wachtwoord vergeten?"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Publish your ad for free"
+msgstr "Plaats gratis je advertentie"
+
+msgid "ie. PHP Programmer"
+msgstr "e.g. PHP Programmeur"
+
+msgid "Search"
+msgstr "Zoek"
+
+msgid "Contact seller"
+msgstr "Contacteer verkoper"
+
+msgid "To (seller)"
+msgstr "Aan (verkoper)"
+
+msgid "Item"
+msgstr "Artikel"
+
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+msgid "Send message"
+msgstr "Verstuur bericht"
+
+msgid "Update your item"
+msgstr "Update je artikel"
+
+msgid "General Information"
+msgstr "Algemene Informatie"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Photos"
+msgstr "Foto's"
+
+msgid "optional"
+msgstr "optioneel"
+
+msgid "Add new photo"
+msgstr "Voeg een nieuwe foto toe"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Provincie"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "City area"
+msgstr "Wijk"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Publish an item"
+msgstr "Plaats een artikel"
+
+msgid "Item Location"
+msgstr "Locatie artikel"
+
+msgid "City Area"
+msgstr "Wijk"
+
+msgid "Seller's information"
+msgstr "Informatie over de verkoper"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Show e-mail on the item page"
+msgstr "Toon email adres op de pagina van het artikel"
+
+msgid "Publish"
+msgstr "Plaats"
+
+msgid "Send to a friend"
+msgstr "Stuur naar een vriend"
+
+msgid "Your friend's name"
+msgstr "Je vriends naam"
+
+msgid "Your friend's e-mail address"
+msgstr "Je vriends email adres"
+
+msgid "Mark as"
+msgstr "Markeer als"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "onjuist ingedeeld"
+
+msgid "duplicated"
+msgstr "verdubbeld"
+
+msgid "expired"
+msgstr "verlopen"
+
+msgid "offensive"
+msgstr "onbeleefd"
+
+msgid "Share"
+msgstr "Deel"
+
+msgid "Useful information"
+msgstr "Bruikbare informatie"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Voorkom oplichtingen door lokaal te handelen of via PayPal te betalen"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Betaal nooit met Western Union, Moneygram of andere anonieme betaalmiddelen"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Koop en verkoop nooit buiten je eigen land. Accepteer ook geen cheques uit andere landen"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Deze website is nooit betrokken bij transacties en behandelt geen betalingen of verzendingen, garandeert geen transacties, levert geen waarborg diensten en biedt geen \"buyer protection\" of \"seller certification\""
+
+msgid "Comments"
+msgstr "Opmerking"
+
+msgid "by"
+msgstr "van"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Laat je opmerking achter (spam en onbeleefde berichten worden verwijderd)"
+
+msgid "Your e-mail"
+msgstr "Je email adres"
+
+msgid "Title"
+msgstr "Onderwerp"
+
+msgid "Comment"
+msgstr "Opmerking"
+
+msgid "Contact publisher"
+msgstr "Neem contact op met de eigenaar van de advertentie"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Your name (optional)"
+msgstr "Jouw naam (optioneel)"
+
+msgid "Latest Items"
+msgstr "Laatste artikelen"
+
+msgid "No Latest Items"
+msgstr "Geen Laatste Artikelen"
+
+msgid "See all offers"
+msgstr "Zie alle aanbiedingen"
+
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+msgid "Sort by"
+msgstr "Sorteer op"
+
+msgid "There are no results matching \"%s\""
+msgstr "Er zijn geen resultaten voor \"%s\""
+
+msgid "Your search"
+msgstr "Jouw zoekopdracht"
+
+msgid "Show only"
+msgstr "Toon alleen"
+
+msgid "Show only items with pictures"
+msgstr "Toon alleen artikelen met foto's"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Pas toe"
+
+msgid "Selected"
+msgstr "Geselecteerd"
+
+msgid "Nothing selected, input was"
+msgstr "Er is niks geselecteerd, de zoekopdracht was"
+
+msgid "User account manager"
+msgstr "Gebruikers account manager"
+
+msgid "Your alerts"
+msgstr "Jouw email meldingen"
+
+msgid "You do not have any alerts yet"
+msgstr "Je hebt nog geen email meldingen"
+
+msgid "Alert"
+msgstr "Email melding"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Deze handeling kan niet ongedaan worden gemaakt. Weet je zeker dat je door wilt gaan?"
+
+msgid "Delete this alert"
+msgstr "Verwijder deze email melding"
+
+msgid "Publication date"
+msgstr "Datum van publicatie"
+
+msgid "Change your e-mail"
+msgstr "Wijzig je email adres"
+
+msgid "Current e-mail"
+msgstr "Huidig email adres"
+
+msgid "New e-mail"
+msgstr "Nieuw email adres"
+
+msgid "Change your password"
+msgstr "Wijzig je wachtwoord"
+
+msgid "Current password"
+msgstr "Huidig wachtwoord"
+
+msgid "New pasword"
+msgstr "Nieuw wachtwoord"
+
+msgid "Repeat new pasword"
+msgstr "Herhaal nieuw wachtwoord"
+
+msgid "Items from %s"
+msgstr "Artikelen voor %s"
+
+msgid "No items have been added yet"
+msgstr "Er zijn nog geen artikelen toegevoegd"
+
+msgid "Your items"
+msgstr "Jouw artikelen"
+
+msgid "Post a new item"
+msgstr "Plaats een nieuw artikel"
+
+msgid "You don't have any items yet"
+msgstr "Je hebt nog geen artikelen"
+
+msgid "Edit"
+msgstr "Bewerk"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Activate"
+msgstr "Activeer"
+
+msgid "Access to your account"
+msgstr "Toegang tot je account"
+
+msgid "Remember me"
+msgstr "Onthoudt mij"
+
+msgid "Update your profile"
+msgstr "Update je profiel"
+
+msgid "Modify e-mail"
+msgstr "Pas email adres aan"
+
+msgid "Modify password"
+msgstr "Pas wachtwoord aan"
+
+msgid "Cell phone"
+msgstr "Mobiele telefoon"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Recover your password"
+msgstr "Herstellen van je wachtwoord"
+
+msgid "Send me a new password"
+msgstr "Stuur me een nieuw wachtwoord"
+
+msgid "Register an account for free"
+msgstr "Registreer gratis een account"
+
+msgid "Re-type password"
+msgstr "Type wachtwoord nogmaals"
+
+msgid "Passwords don't match"
+msgstr "Wachtwoorden komen niet overeen"
+
+msgid "Create"
+msgstr "Creëer"
+
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Upload"
+msgstr "Uploaden"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Om een map beschrijfbaar te maken onder UNIX, voer deze opdracht vanuit de shell uit"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Subscribe now"
+msgstr "Aanmelden"
+
+msgid "Edit your item"
+msgstr "Wijzig item"
+
+msgid "page"
+msgstr "pagina"
+
+msgid "Show all items"
+msgstr "Toon alle items"
+
+msgid "Create a new account"
+msgstr "Maak een nieuwe account aan"
+
+msgid "Manage my items"
+msgstr "Beheer mijn advertenties"
+
+msgid "Manage my alerts"
+msgstr "Beheer mijn waarschuwingen"
+
+msgid "Update my profile"
+msgstr "Update mijn profiel"
+
+msgid "Change my email"
+msgstr "Emailadres aanpassen"
+
+msgid "Change my password"
+msgstr "Wachtwoord aanpassen"
+
+msgid "Recover my password"
+msgstr "Herstel mijn wachtwoord"
+
+msgid "Delete your comment"
+msgstr "Verwijder uw reactie"
+
+msgid "Enter the words above"
+msgstr "Voer de bovenstaande tekst in"
+
+msgid "Repeat new password"
+msgstr "Herhaal wachtwoord"
+
+msgid "Change password"
+msgstr "Wijzig wachtwoord"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Deze actie kan niet ongedaan worden gemaakt. Weet u zeker dat u door wilt gaan?"
+
+msgid "User type"
+msgstr "Type gebruiker"
+
+msgid "Invalid email address"
+msgstr "Ongeldig emailadres"
+
+msgid "Modern theme"
+msgstr "Modern theme"
+
+msgid "Settings theme"
+msgstr "Settings theme"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Published date"
+msgstr "Publicatiedatum"
+
+msgid "Modified date"
+msgstr "Mutatiedatum"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "De aanbevolen afmeting van het logo is 600x100"
+
+msgid "Note: There is a logo if you upload a logo image will be replaced"
+msgstr "PS. Als u een afbeelding upload wordt de bestaande afbeelding vervangen. "
+
+msgid "Logo image"
+msgstr "Logo afbeelding"
+
+msgid "Remove logo"
+msgstr "Verwijder logo afbeelding"
+
+msgid "Has not uploaded any logo image"
+msgstr "Er is geen logo afbeelding geupload"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "De afbeeldingen folder %s heeft geen schrijfrechten"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds kan de afbeelding niet uploaden vanuit het administratie panel"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Geef de genoemde afbeeldingen map schrijfrechten"
+

@@ -1,0 +1,698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mm <milowan3@yahoo.com>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+#: /Users/admin/htdocs/osclass-git/contact.php:47
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "Vaš e-mail je uspešno poslat. Hvala što ste nas kontaktirali!"
+
+#: /Users/admin/htdocs/osclass-git/item.php:52
+msgid "Users not enabled"
+msgstr "Korisnici nisu omogućeni"
+
+#: /Users/admin/htdocs/osclass-git/item.php:57
+#: /Users/admin/htdocs/osclass-git/item.php:95
+msgid "Only registered users are allowed to post items"
+msgstr "Objavljivanje oglasa je dozvoljeno samo registrovanim korisnicima"
+
+#: /Users/admin/htdocs/osclass-git/item.php:91
+msgid "Users not allowed"
+msgstr "Korisnici nisu dozvoljeni"
+
+#: /Users/admin/htdocs/osclass-git/item.php:186
+msgid "Sorry, we don't have any items with that ID"
+msgstr "Nema oglasa sa tim ID-om."
+
+#: /Users/admin/htdocs/osclass-git/item.php:206
+msgid "Great! We've just updated your item"
+msgstr "Upravo smo ažurirali vaš oglas"
+
+#: /Users/admin/htdocs/osclass-git/item.php:224
+msgid "The item has been validated"
+msgstr "Oglas je prošao validaciju"
+
+#: /Users/admin/htdocs/osclass-git/item.php:226
+msgid "The item can't be validated"
+msgstr "Oglas nije validovan"
+
+#: /Users/admin/htdocs/osclass-git/item.php:229
+msgid "The item has already been validated"
+msgstr "Oglas je već prošao validaciju"
+
+#: /Users/admin/htdocs/osclass-git/item.php:241
+msgid "Your item has been deleted"
+msgstr "Vaš oglas je obrisan"
+
+#: /Users/admin/htdocs/osclass-git/item.php:248
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "Oglas koji pokušavate da obrišete je nemoguće obrisati"
+
+#: /Users/admin/htdocs/osclass-git/item.php:262
+msgid "Thanks! That's very helpful"
+msgstr "Hvala! To je od velike pomoći!"
+
+#: /Users/admin/htdocs/osclass-git/item.php:288
+#: /Users/admin/htdocs/osclass-git/item.php:308
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "Žao nam je, ali oglas je istekao. Ne možete kontaktirati ponuđača"
+
+#: /Users/admin/htdocs/osclass-git/item.php:316
+msgid "We've just sent an e-mail to the seller"
+msgstr "Upravo smo poslali e-mail ponuđaču"
+
+#: /Users/admin/htdocs/osclass-git/item.php:334
+msgid "This item doesn't exist"
+msgstr "Ovaj oglas ne postoji"
+
+#: /Users/admin/htdocs/osclass-git/item.php:340
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "Oglas još nije prošao validaciju. Validujte ga da bi bio prikazan"
+
+#: /Users/admin/htdocs/osclass-git/item.php:342
+msgid "This item hasn't been validated"
+msgstr "Oglas još nije prošao validaciju"
+
+#: /Users/admin/htdocs/osclass-git/login.php:57
+msgid "The password is incorrect"
+msgstr "Netačna šifra"
+
+#: /Users/admin/htdocs/osclass-git/login.php:61
+msgid "The username doesn't exist"
+msgstr "Nepostojeće korisničko ime"
+
+#: /Users/admin/htdocs/osclass-git/login.php:92
+msgid "A new password has been sent to your account"
+msgstr "Nova šifra vam je poslata."
+
+#: /Users/admin/htdocs/osclass-git/login.php:94
+msgid "The email isn't associated to a valid user. Please, try again"
+msgstr "E-mail adresa ne odgovara ni jednom korisniku. Pokušajte ponovo"
+
+#: /Users/admin/htdocs/osclass-git/register.php:38
+msgid "The user has been created. An activation email has been sent"
+msgstr "Korisnik je napravljen. Aktivacioni e-mail je poslat."
+
+#: /Users/admin/htdocs/osclass-git/register.php:41
+msgid "Your account has been created successfully"
+msgstr "Vaš nalog je uspešno napravljen"
+
+#: /Users/admin/htdocs/osclass-git/register.php:44
+#: /Users/admin/htdocs/osclass-git/user.php:148
+msgid "The specified e-mail is already in use"
+msgstr "E-mail adresa je već u upotrebi"
+
+#: /Users/admin/htdocs/osclass-git/register.php:90
+msgid "Your account has been validated"
+msgstr "Vaš nalog je odobren"
+
+#: /Users/admin/htdocs/osclass-git/register.php:92
+msgid "Your account has already been activated"
+msgstr "Vaš nalog je već aktiviran"
+
+#: /Users/admin/htdocs/osclass-git/register.php:95
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "Link više nije važeći. Izvinite."
+
+#: /Users/admin/htdocs/osclass-git/user-non-secure.php:44
+#: /Users/admin/htdocs/osclass-git/user.php:143
+msgid "Your email has been changed successfully"
+msgstr "Vaš e-mail je uspešno promenjen"
+
+#: /Users/admin/htdocs/osclass-git/user-non-secure.php:47
+#: /Users/admin/htdocs/osclass-git/user-non-secure.php:51
+msgid "Sorry, the link is not valid"
+msgstr "Izvinite, link nije važeći"
+
+#: /Users/admin/htdocs/osclass-git/user.php:67
+#: /Users/admin/htdocs/osclass-git/user.php:193
+msgid "Passwords don't match"
+msgstr "Šifre se ne poklapaju"
+
+#: /Users/admin/htdocs/osclass-git/user.php:69
+msgid "Your profile has been updated successfully"
+msgstr "Vaš profil je uspešno ažuriran"
+
+#: /Users/admin/htdocs/osclass-git/user.php:134
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "Poslali smo Vam e-mail. Pratite uputstva da bi promene postale važeće"
+
+#: /Users/admin/htdocs/osclass-git/user.php:187
+msgid "Current password doesn't match"
+msgstr "Tekuća šifra se ne poklapa"
+
+#: /Users/admin/htdocs/osclass-git/user.php:190
+msgid "Passwords can't be empty"
+msgstr "Šifre ne smeju biti prazne"
+
+#: /Users/admin/htdocs/osclass-git/user.php:202
+msgid "Password has been changed"
+msgstr "Šifra je promenjena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:65
+msgid "The admin has been added"
+msgstr "Admin je dodat"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:67
+msgid "There have been an error adding a new admin"
+msgstr "Desila se greška pri dodavanju admina"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:82
+msgid "There is no admin admin with this id"
+msgstr "Nema admina sa ovim ID-jem"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:96
+msgid "This admin doesn't exist"
+msgstr "Ovaj admin ne postoji"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:102
+msgid "Existing username"
+msgstr "Postojeće korisničko ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:116
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "Šifra nije ažurirana. Šifre se ne poklapaju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:128
+msgid "The admin has been updated"
+msgstr "Admin je ažuriran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:138
+msgid "The admin id isn't in the correct format"
+msgstr "Admin ID nije u ispravnom formatu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:144
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "Operacija nije završena. Pokušavate da sklonite sebe!"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:151
+msgid "The admin has been deleted correctly"
+msgstr "Admin je uredno obrisan"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/admins.php:153
+msgid "The admin couldn't be deleted"
+msgstr "Admin ne može biti obrisan"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:60
+msgid "The category has been added"
+msgstr "Kategorija je dodata"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:62
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:91
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:110
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:131
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:147
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:163
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:57
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:76
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:93
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:110
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:127
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:148
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:185
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:211
+msgid "Error: "
+msgstr "Greška: "
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:89
+msgid "The category has been updated."
+msgstr "Kategorija je ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:108
+msgid "The categories have been deleted"
+msgstr "Kategorije su obrisane"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:122
+msgid "The category has been enabled"
+msgstr "Kategorija je uključena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:124
+msgid "The category has been disabled"
+msgstr "Kategorija je isključena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:127
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr "Desio se problem sa ovom stranicom. ID kategorije nije dodeljen"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:145
+msgid "The categories have been enabled"
+msgstr "Kategorije su uključene"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/categories.php:161
+msgid "The selected categories have been disabled"
+msgstr "Izabrane kategorije su isključene"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/comments.php:44
+msgid "The comments have been deleted"
+msgstr "Komentari su obrisani"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/comments.php:53
+msgid "The comments have been approved"
+msgstr "Komentari su odobreni"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/comments.php:62
+msgid "The comments have been disapproved"
+msgstr "Komentari nisu odobreni"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/comments.php:81
+msgid "The comment has been approved"
+msgstr "Komentar je odobren"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/comments.php:83
+msgid "The comment has been disapproved"
+msgstr "Kometar nije odobren"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/comments.php:109
+msgid "Great! We just updated your comment"
+msgstr "Bravo! Upavo smo postavili vaš komentar"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/emails.php:66
+msgid "The email/alert has been updated"
+msgstr "E-mail/obaveštenje je postavljeno"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/emails.php:69
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:69
+msgid "You can't repeat internal name"
+msgstr "Ne možete ponavljati interno ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:55
+msgid "The items have been activated"
+msgstr "Oglasi su aktivirani"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:74
+msgid "The items have been deactivated"
+msgstr "Oglasi su deaktivirani"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:91
+msgid "The items have been marked as premium"
+msgstr "Oglasi su označeni kao premium"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:108
+msgid "The changes have been made"
+msgstr "Promene su izvršene"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:125
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:146
+msgid "The items have been deleted"
+msgstr "Oglasi su obrisani"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:183
+msgid "The item has been activated"
+msgstr "Oglas je aktiviran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:209
+msgid "Changes have been applied"
+msgstr "Izmene su primenjene"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:309
+msgid "A new item has been added"
+msgstr "Novi oglas je dodat"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/items.php:312
+msgid "The item can't be added"
+msgstr "Ovaj oglas ne može biti dodat"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:43
+msgid "The language has been installed correctly"
+msgstr "Jezik je ispravno instaliran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:45
+msgid "There was a problem adding the language. Please, try again. If the problem persists, install it manually via FTP/SSH."
+msgstr "Desio se problem prilikom dodavanja jezika. Molimo, pokušajte opet. Ako problem ostane, instaliraje manuelno preko FTP/SSH."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:53
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:81
+msgid "Language id isn't in the correct format"
+msgstr "Jezik ID nije u ispravnom formatu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:60
+msgid "Language id doesn't exist"
+msgstr "Jezik ne postoji"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:89
+msgid "Language name can't be empty"
+msgstr "Ime jezika ne sme biti prazno"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:95
+msgid "Language short name can't be empty"
+msgstr "Kratka oznaka jezika ne sme biti prazna"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:101
+msgid "Language description can't be empty"
+msgstr "Opis jezika ne sme biti prazan"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:122
+#, php-format
+msgid "%s has been updated"
+msgstr "%s je ažuriran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:133
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:173
+#, php-format
+msgid "%d can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "%d ne može biti isključen jer je podrazumevani jezik. Možete promeniti podrazumevani jezik u Opštim Podešavanjima, u cilju isključivanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:135
+msgid "The language has been enabled for the public website"
+msgstr "Jezik je uključen na veb sajtu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:135
+msgid "The language has been disabled for the public website"
+msgstr "Jezik je isključen na veb sajtu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:140
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "Jezik je uključen za admin panel"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:140
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "Jezik je isključen za admin panel"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:147
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "Dogodio se problem prilikom ažuriranja jezika. Id jezika je izgubljen"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:151
+msgid "Selected languages have been enabled for the website"
+msgstr "Izabrani jezik je uključen za veb sajt"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:160
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:180
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:195
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:210
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "Dogodio se problem prilikom ažuriranja jezika. Id-jevi jezika su izgubljeni"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:165
+msgid "Selected languages have been disabled for the website"
+msgstr "Izabrani jezik je isključen na veb sajtu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:185
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "Izabrani jezici su uključeni na admin panelu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:200
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "Izabrani jezici su isključeni na admin panelu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:222
+#, php-format
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "Direktorijum \"%s\" se ne može skloniti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/languages.php:225
+#, php-format
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "Direktorijum \"%s\" ne može se skloniti jer je podrazumevani jezik. Podesite drugi jezik kao podrazumevani i pokušajte ponovo."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/login.php:62
+msgid "That username does not exist"
+msgstr "Korisničko ime ne postoji"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/login.php:94
+msgid "A new password has been sent to your e-mail"
+msgstr "Nova šifra je poslata na vaš e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/login.php:96
+msgid "The email you have entered does not belong to a valid administrator"
+msgstr "E-mail koji ste uneli ne pripada administratoru"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:66
+msgid "The page has been updated"
+msgstr "Stranica je ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:79
+msgid "You have to set an internal name"
+msgstr "Morate postaviti interno ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:95
+msgid "The page has been added"
+msgstr "Stranica je dodata"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:97
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "Ups! Interno ime je već u upotrebi. Ne možemo menjati."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:127
+msgid "One page can't be deleted because it is indelible"
+msgstr "Jedna stranica ne može biti obrisana jer je neobrisiva"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:129
+msgid "pages couldn't be deleted because are indelible"
+msgstr "stranice ne mogu biti obrisane jer su neobrisive"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:134
+msgid "One page couldn't be deleted"
+msgstr "Jedna stranica ne može biti obrisana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:136
+msgid "pages couldn't be deleted"
+msgstr "stranice ne mogu biti obrisane"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:141
+msgid "One page has been deleted correctly"
+msgstr "Jedna stranica je uspešno obrisana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/pages.php:143
+msgid "pages have been deleted correctly"
+msgstr "stranice su uspešno obrisane"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/plugins.php:55
+msgid "Plugin installed"
+msgstr "Plugin je instaliran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/plugins.php:64
+msgid "Plugin uninstalled"
+msgstr "Plugin je deinstaliran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/plugins.php:121
+msgid "No plugin selected"
+msgstr "Nije izabran plugin"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/plugins.php:124
+msgid "Configuration was saved"
+msgstr "Konfiguracija je sačuvana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:69
+msgid "Items' settings have been updated"
+msgstr "Podešavanja oglasa su ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:93
+msgid "Comments' settings have been updated"
+msgstr "Podešavanja komentara su ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:117
+msgid "Users' settings have been updated."
+msgstr "Korisnička podešavanja su ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:339
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Akismet i reCAPTCHA su ažurirani"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:362
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:385
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:411
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:429
+msgid "Error: the currency code is not in the correct format"
+msgstr "Greška: valutni kod nije u ispravnom formatu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:373
+msgid "New currency has been added"
+msgstr "Nova valuta je dodata"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:375
+msgid "Error: currency couldn't be added"
+msgstr "Greška: valuta ne može biti dodata"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:392
+msgid "Error: the currency doesn't exist"
+msgstr "Greška: valuta ne postoji"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:420
+msgid "Currency has been updated"
+msgstr "Valuta je ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:475
+msgid "Mail server type is incorrect"
+msgstr "Tip mejl servera je neispavan"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:495
+msgid "Mail server configuration has changed"
+msgstr "Konfiguracija mejl servera je promenjena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:533
+msgid "Media config has been updated"
+msgstr "Konfiguracija medija je ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:551
+msgid "Contact configuration has been updated"
+msgstr "Konfiguracija kontakta je ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:568
+msgid "Cron config has been updated"
+msgstr "Konfiguracija CRON-a je ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:616
+msgid "General settings have been updated"
+msgstr "Opšta podešavanja su ažurirana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/test.php:42
+msgid "Population of the database done properly"
+msgstr "Popunjavanje baze podataka je izvršeno ispravno"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/test.php:46
+msgid "Population of the database reverted"
+msgstr "Popunjavanje baze podataka je vraćeno"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:39
+msgid "Import complete"
+msgstr "Import završen"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:41
+msgid "There was a problem importing data to the database"
+msgstr "Dogodio se problem prilikom importa podataka u bazu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:86
+msgid "Re-generation complete"
+msgstr "Re-generacija završena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:107
+msgid "Path is empty"
+msgstr "Putanja je prazna"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:109
+msgid "Could not connect with the database"
+msgstr "Nemoguća je konekcija sa bazom"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:111
+msgid "Could not select the database"
+msgstr "Nemoguća je selekcija baze"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:113
+msgid "There are no tables to back up"
+msgstr "Nema tabela za back up"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:115
+msgid "The folder is not writable"
+msgstr "Folder nije writable"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:117
+msgid "Backup has been done properly"
+msgstr "Backup je izvršen uspešno"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:136
+msgid "Archiving successful!"
+msgstr "Uspešno arhiviranje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/tools.php:138
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "Greška, zip fajl nije kreiran u naznačenom direktorijumu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:64
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "Korisnik je napravljen. Poslali smo aktivacioni mejl"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:66
+msgid "The user has been created and activated"
+msgstr "Korisnik je napravljen i aktiviran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:68
+msgid "Sorry, but that e-mail is already in use"
+msgstr "Taj e-mail je već u upotrebi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:110
+msgid "The user has been updated and activated"
+msgstr "Korisnik je ažuriran i aktiviran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:112
+msgid "The user has been updated"
+msgstr "Korisnik je ažuriran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:122
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:147
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:172
+msgid "User id isn't in the correct format"
+msgstr "ID korisnika nije u ispravnom formatu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:132
+msgid "No user has been activated"
+msgstr "Ni jedan korisnik nije aktiviran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:134
+msgid "One user has been activated"
+msgstr "Jedan korisnik je aktiviran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:136
+#, php-format
+msgid "%s users have been activated"
+msgstr "%s korisnika je aktivirano"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:157
+msgid "No user has been deactivated"
+msgstr "Ni jedan korisnik nije deaktiviran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:159
+msgid "One user has been deactivated"
+msgstr "Jedan korisnik je deaktiviran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:161
+#, php-format
+msgid "%s users have been deactivated"
+msgstr "%s korisnika je deaktivirano"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:182
+msgid "No user has been deleted"
+msgstr "Ni jedan korisnik nije obrisan"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:184
+msgid "One user has been deleted"
+msgstr "Jedan korisnik je obrisan"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/users.php:186
+#, php-format
+msgid "%s users have been deleted"
+msgstr "%s korisnika je obrisano"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:56
+msgid "You need to insert your name and email to be able to publish a new item"
+msgstr "Morate uneti vaše ime i e-mail da bi ste mogli da objavite novi oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:119
+msgid "Great! You'll receive an e-mail to activate your item"
+msgstr "Bravo! Dobićete e-mail za aktivaciju vašeg oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:121
+msgid "Great! We've just published your item"
+msgstr "Bravo! Upravo smo objavili vaš oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:304
+msgid "We just send your message to "
+msgstr "Upavo smo poslali vašu poruku za korisnika "
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:306
+msgid "We are very sorry but we could not deliver your message to your friend. Try again later"
+msgstr "Žao nam je, ali nismo mogli da dostavimo poruku vašem prijatelju. Pokušajte kasnije ponovo."
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:375
+msgid "There has been some errors sending the message"
+msgstr "Bilo je nekih grešaka prilikom slanja poruke"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:483
+msgid "We are very sorry but we could not save your comment. Try again later"
+msgstr "Žao nam je, ali nismo mogli da sačuvamo vaš komentar. Pokušajte kasnije ponovo."
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/plugins.php:158
+msgid "Error: Plugin already installed"
+msgstr "Greška: Plugin je već instaliran"
+

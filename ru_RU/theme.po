@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Страница не существует"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Вы успешно подписались на рассылки"
+
+msgid "There was a problem with the alert"
+msgstr "произошла ошибка с оповещением"
+
+msgid "Subscribe to this search"
+msgstr "Подписаться на поиск"
+
+msgid "Subscribe now"
+msgstr "Подписаться"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Your name"
+msgstr "Ваше имя"
+
+msgid "Your e-mail address"
+msgstr "Ваш e-mail"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Contact"
+msgstr "Контактны"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Это вебсайт использует <a title=\"\\&quot;\\\\&quot;OpenSourceClassifieds\\&quot;\" web\\\\\\\"=\"\\&quot;\\&quot;\" href=\"%5C%22%5C%5C%22http://www.opensourceclassifieds.org/%5C%5C%22%5C%22\">open source classifieds</a> <strong>OpenSourceClassifieds</strong> "
+
+msgid "Publish an item"
+msgstr "Добавить объявление"
+
+msgid "Edit your item"
+msgstr "Изменить объявление"
+
+msgid "Send to a friend"
+msgstr "Отправить другу"
+
+msgid "Contact seller"
+msgstr "Связаться с продавцом "
+
+msgid "page"
+msgstr "страница"
+
+msgid "Show all items"
+msgstr "Показать все объявления"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Recover your password"
+msgstr "Восстановить пароль"
+
+msgid "Login"
+msgstr "Войти"
+
+msgid "Create a new account"
+msgstr "Создать учётную запись"
+
+msgid "Dashboard"
+msgstr "Панель управления"
+
+msgid "Manage my items"
+msgstr "Мои объявления"
+
+msgid "Manage my alerts"
+msgstr "Мои оповещения"
+
+msgid "Update my profile"
+msgstr "Обновить учётную запись"
+
+msgid "Change my email"
+msgstr "Изменить адрес электронной почты"
+
+msgid "Change my password"
+msgstr "Изменить пароль"
+
+msgid "Recover my password"
+msgstr "Восстановить пароль"
+
+msgid "Hi %s"
+msgstr "Привет %s"
+
+msgid "My account"
+msgstr "Учетная запись"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Register for a free account"
+msgstr "Зарегистрировать аккаунт"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+msgid "Log in"
+msgstr "Вход"
+
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Publish your ad for free"
+msgstr "Добавить бесплатное объявление"
+
+msgid "ie. PHP Programmer"
+msgstr "пример: квартира в Москве"
+
+msgid "Select a category"
+msgstr "Выберите категорию"
+
+msgid "To (seller)"
+msgstr "К (продавцу)"
+
+msgid "Item"
+msgstr "Объявление"
+
+msgid "Phone number"
+msgstr "Номер телефона"
+
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+msgid "Update your item"
+msgstr "Обновить объявление"
+
+msgid "General Information"
+msgstr "Основная информация"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Photos"
+msgstr "Фото"
+
+msgid "Add new photo"
+msgstr "Добавить фото"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Region"
+msgstr "Область"
+
+msgid "City"
+msgstr "Город"
+
+msgid "City area"
+msgstr "Район (города)"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Item Location"
+msgstr "Местонахождение"
+
+msgid "City Area"
+msgstr "Район города: "
+
+msgid "Seller's information"
+msgstr "Информация о продавце"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Show e-mail on the item page"
+msgstr "Показывать e-mail на странице обьявления"
+
+msgid "Publish"
+msgstr "Опубликовать"
+
+msgid "Your friend's name"
+msgstr "Имя вашего друга"
+
+msgid "Your friend's e-mail address"
+msgstr "Email вашего друга"
+
+msgid "Mark as"
+msgstr "Отметить как"
+
+msgid "spam"
+msgstr "спам"
+
+msgid "misclassified"
+msgstr "неправильно классифицирован"
+
+msgid "duplicated"
+msgstr "дубликат"
+
+msgid "expired"
+msgstr "истекший"
+
+msgid "offensive"
+msgstr "оскорбление"
+
+msgid "Share"
+msgstr "Поделится"
+
+msgid "Useful information"
+msgstr "Полезная информация"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Для избежания мошенничества встречайтесь с продавцом или платите через PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Избегайте оплаты через Western Union, Moneygram и другие анонимные способы"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Не стоит покупать или продавать за пределами вашей страны. Не принимайте банковские чеки других стран."
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Этот сайт не участвует ни в каких сделках, не обрабатывает платежи, не производит доставку, гарантии, и не предлагает никакой защиты от обмана."
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "by"
+msgstr "От"
+
+msgid "Delete your comment"
+msgstr "Удалить комментарий"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Оставьте свой комментарий (спам и оскорбления будут удалены)"
+
+msgid "Your e-mail"
+msgstr "e-mail"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Contact publisher"
+msgstr "Контакты"
+
+msgid "Tel"
+msgstr "Тел."
+
+msgid "Enter the words above"
+msgstr "Введите слова выше"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Latest Items"
+msgstr "Новые объявления"
+
+msgid "No Latest Items"
+msgstr "Нет новых объявлений"
+
+msgid "See all offers"
+msgstr "Посмотреть все предложения"
+
+msgid "Search results"
+msgstr "Результаты поиска"
+
+msgid "Sort by"
+msgstr "Сортировать по"
+
+msgid "There are no results matching \"%s\""
+msgstr "Нет результата для  \\\"%s\\\""
+
+msgid "Your search"
+msgstr "Ваш поиск"
+
+msgid "Show only"
+msgstr "Показать только"
+
+msgid "Show only items with pictures"
+msgstr "Показать объявления только с фото."
+
+msgid "Min"
+msgstr "Мин."
+
+msgid "Max"
+msgstr "Макс."
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Selected"
+msgstr "Выбрано"
+
+msgid "Nothing selected, input was"
+msgstr "Ничего не выбрано, "
+
+msgid "User account manager"
+msgstr "Диспетчер учетных записей пользователей"
+
+msgid "Your alerts"
+msgstr "Ваши оповещения"
+
+msgid "You do not have any alerts yet"
+msgstr "У вас пока нет оповещений"
+
+msgid "Alert"
+msgstr "Оповещение"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Это действие нельзя отменить. Вы действительно хотите продолжить?"
+
+msgid "Delete this alert"
+msgstr "Удалить это оповещение"
+
+msgid "Publication date"
+msgstr "Дата публикации на сайте"
+
+msgid "Change your e-mail"
+msgstr "Изменение электронной почты"
+
+msgid "Current e-mail"
+msgstr "Текущая электронная почта"
+
+msgid "New e-mail"
+msgstr "Новая электронная почта"
+
+msgid "Change your password"
+msgstr "Сменить пароль"
+
+msgid "Current password"
+msgstr "Текущий пароль"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "Repeat new password"
+msgstr "Повторите новый пароль"
+
+msgid "Items from %s"
+msgstr "Объявление от %s"
+
+msgid "No items have been added yet"
+msgstr "Нет новых объявлений"
+
+msgid "New pasword"
+msgstr "Новый пароль"
+
+msgid "Repeat new pasword"
+msgstr "Повторите новый пароль"
+
+msgid "Change password"
+msgstr "Сменить пароль"
+
+msgid "Your items"
+msgstr "Наше объявления"
+
+msgid "Post a new item"
+msgstr "Подать объявление"
+
+msgid "You don't have any items yet"
+msgstr "У вас пока нет объявлений"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Это действие не может быть отменено. Вы действительно хотите продолжить?"
+
+msgid "Activate"
+msgstr "Активация"
+
+msgid "Access to your account"
+msgstr "Доступ к вашей учетной записи"
+
+msgid "Update your profile"
+msgstr "Обновить профиль"
+
+msgid "Modify e-mail"
+msgstr "Изменить электронную почту"
+
+msgid "Modify password"
+msgstr "Изменить пароль"
+
+msgid "User type"
+msgstr "Тип пользователя"
+
+msgid "Cell phone"
+msgstr "Сотовый телефон"
+
+msgid "Phone"
+msgstr "Домашный телефон"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Send me a new password"
+msgstr "Прислать новый пароль"
+
+msgid "Register an account for free"
+msgstr " бесплатная регистрация"
+
+msgid "Re-type password"
+msgstr "Повторить пароль"
+
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Invalid email address"
+msgstr "Неправильный email"
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Чтобы сделать папку записываемой под UNIX выполнить эту команду из командной строки"
+
+msgid "optional"
+msgstr "необязательно"
+
+msgid "Latest items"
+msgstr "Последние пункты"
+
+msgid "Modern theme"
+msgstr "Тема \"Modern\""
+
+msgid "Settings theme"
+msgstr "Настройки темы"
+
+msgid "Image"
+msgstr "фото"
+
+msgid "Published date"
+msgstr "Дата публикации"
+
+msgid "Modified date"
+msgstr "Дата модификации"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Предпочтительный размер логотипа 600x100"
+
+msgid "Logo image"
+msgstr "Изображение логотипа"
+
+msgid "Remove logo"
+msgstr "Удалить логотип"
+
+msgid "Has not uploaded any logo image"
+msgstr "Не загрузил ни одного логотипа"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Папка изображений %s недоступно для записи на сервере"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds не может загрузить изображение логотипа из панели администрирования"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Пожалуйста, сделайте папку изображений доступной для записи"
+
+msgid "Contact us"
+msgstr "Контакты"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "No file selected"
+msgstr "Не выбрано ни одного файла"
+
+msgid "Choose File"
+msgstr "Выбирете файл"
+
+msgid "Sponsored ad"
+msgstr "Платное объявление"
+
+msgid "View item"
+msgstr "Посмотреть объявление"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Примечание: загрузка другого логотипа заменит существующий"
+
+msgid "The item is expired. You cannot contact the publisher."
+msgstr "Объявление просрочено. Вы не можете связаться с продавцом"
+
+msgid "It's your own item, you cannot contact the publisher."
+msgstr "Это Ваше объявление. Вы не можете связаться с продавцом"
+
+msgid "You must login or register a new free account in order to contact the advertiser"
+msgstr "Вы должны Войти или зарегистрироваться того, чтобы связаться с рекламодателем"
+
+msgid "%s's profile"
+msgstr "%s профиль"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Full name"
+msgstr "Полное имя"
+

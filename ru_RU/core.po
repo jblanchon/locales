@@ -1,0 +1,1876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "Текущая версия:"
+
+msgid "Downloading update file:"
+msgstr "Загрузка файла обновления:"
+
+msgid "Unzipping file:"
+msgstr "Разархивирование файла:"
+
+msgid "Copying old files:"
+msgstr "Копирование старых файлов:"
+
+msgid "Removing new files:"
+msgstr "Удаление старых файлов:"
+
+msgid "Executing SQL:"
+msgstr "Выполнение SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Выполнение дополнительных действий:"
+
+msgid "Cleaning all the mess:"
+msgstr "Очистка:"
+
+msgid "Free"
+msgstr "Бесплатно"
+
+msgid "Contact"
+msgstr "Контактны"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Dashboard"
+msgstr "Панель управления"
+
+msgid "My account"
+msgstr "Учетная запись"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+msgid "Log in"
+msgstr "Вход"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Select a category"
+msgstr "Выберите категорию"
+
+msgid "Item"
+msgstr "Объявление"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Photos"
+msgstr "Фото"
+
+msgid "Add new photo"
+msgstr "Добавить фото"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Region"
+msgstr "Область"
+
+msgid "City"
+msgstr "Город"
+
+msgid "City area"
+msgstr "Район (города)"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "City Area"
+msgstr "Район города: "
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Mark as"
+msgstr "Отметить как"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Это действие нельзя отменить. Вы действительно хотите продолжить?"
+
+msgid "Current password"
+msgstr "Текущий пароль"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "New pasword"
+msgstr "Новый пароль"
+
+msgid "Repeat new pasword"
+msgstr "Повторите новый пароль"
+
+msgid "Change password"
+msgstr "Сменить пароль"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Это действие не может быть отменено. Вы действительно хотите продолжить?"
+
+msgid "Activate"
+msgstr "Активация"
+
+msgid "User type"
+msgstr "Тип пользователя"
+
+msgid "Cell phone"
+msgstr "Сотовый телефон"
+
+msgid "Phone"
+msgstr "Домашный телефон"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "The categories have been deleted"
+msgstr "Категории были удалены"
+
+msgid "Invalid email address"
+msgstr "Неправильный email"
+
+msgid "no action defined"
+msgstr "Никаких действий не было определено"
+
+msgid "Contact form"
+msgstr "Обратная связь"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Latest items added"
+msgstr "Последние добавленные объявления"
+
+msgid "Latest items added in"
+msgstr "Новые объявления добавлены в"
+
+msgid "Checking for update files."
+msgstr "Проверка файлов обновления."
+
+msgid "File downloaded correctly"
+msgstr "Файл скачан правильно"
+
+msgid "Missing filename"
+msgstr "Отсустсвует имя файла"
+
+msgid "Removing temp-directory"
+msgstr "Удаление временных попк"
+
+msgid "Archiving is sucessful!"
+msgstr "Архивирование успешено выполнено!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Ошибка, не возможно создать zip файл!"
+
+msgid "OK"
+msgstr "Ок"
+
+msgid "Unzip failed"
+msgstr "Распаковка не удалось"
+
+msgid "Filename incorrect"
+msgstr "Неверное название"
+
+msgid "Files removed"
+msgstr "Файлы удалены"
+
+msgid "No files to remove"
+msgstr "Нет файлов для удаления"
+
+msgid "There were problems copying files"
+msgstr "Возникли проблемы с копированием файлов"
+
+msgid "Nothing to copy"
+msgstr "Нет нечего для копирования"
+
+msgid "Files copied"
+msgstr "Копируемые файлы"
+
+msgid "upgrade.sql executed"
+msgstr "Выполнить оптимизацию.sql"
+
+msgid "No SQL to execute"
+msgstr "Нет SQL для выполнения"
+
+msgid "Custom actions executed"
+msgstr "Выполняются настраиваемые действия"
+
+msgid "No action to execute"
+msgstr "Никаких действий для выполнения"
+
+msgid "Checking for update files"
+msgstr "Проверка файлов обновлений"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Проблемы с копированием файлов. Проверьте права доступа к файлам."
+
+msgid "Tables updated correctly"
+msgstr "Таблицы обновлены корректно"
+
+msgid "No tables update to execute"
+msgstr "Нет никаких обновлений для таблиц"
+
+msgid "View comments"
+msgstr "Посмотреть комментарии"
+
+msgid "View media"
+msgstr "Посмотреть медиа-файлы"
+
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+msgid "Unmark as premium"
+msgstr "Снять с премиумного показа"
+
+msgid "Mark as premium"
+msgstr "пометить как премиум"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "Вход в администрирование OpenSourceClassifieds "
+
+msgid "Type your new password"
+msgstr "Введите новый пароль"
+
+msgid "Back to"
+msgstr "Вернуться"
+
+msgid "Username"
+msgstr "Имя"
+
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Пожалуйста, введите ваше имя или адрес электронной почты"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Вы получите новый пароль по электронной почте"
+
+msgid "Get new password"
+msgstr "Получить новый пароль"
+
+msgid "Thank you for using"
+msgstr "Спасибо что используете"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Feedback"
+msgstr "Обратная связь"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Панель управления"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s доступен к загрузки"
+
+msgid "Please upgrade now"
+msgstr "Пожалуйста обновитесь"
+
+msgid "Visit website"
+msgstr "Посетить сайт"
+
+msgid "Hi"
+msgstr "Привет"
+
+msgid "Your profile"
+msgstr "Ваш профиль"
+
+msgid "Log Out"
+msgstr "Выход"
+
+msgid "Admins"
+msgstr "Администраторы"
+
+msgid "Add new admin"
+msgstr "Добавить нового администратора"
+
+msgid "Real name"
+msgstr "Ваше имя"
+
+msgid "required"
+msgstr "требуется"
+
+msgid "User name"
+msgstr "Имя пользователя"
+
+msgid "Edit admin"
+msgstr "Редактировать администратора"
+
+msgid "Re-type new password"
+msgstr "Еще раз введите новый пароль"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Оставьте это поле пустым, если вы не хотите изменять свой пароль"
+
+msgid "Processing"
+msgstr "Обработка"
+
+msgid "Show _MENU_ entries"
+msgstr "Show _MENU_ entries"
+
+msgid "No matching records found"
+msgstr "Записей не найдено "
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Отображаются записи с _START_ по _END_ из _TOTAL_"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Показать с 0 до 0 от 0 записей"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "Выбрано из _MAX_ записей"
+
+msgid "First"
+msgstr "Первое"
+
+msgid "Previous"
+msgstr "Предыдущее"
+
+msgid "Next"
+msgstr "Следующее"
+
+msgid "Last"
+msgstr "Последнее"
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "entries"
+msgstr "записей"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Это действие не может быть отменено. Вы уверены, что хотите продолжить?"
+
+msgid "Bulk actions"
+msgstr "Глобальные изменения"
+
+msgid "Appearance"
+msgstr "Вид"
+
+msgid "Theme package"
+msgstr "Оформить тему"
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Чтобы сделать папку записываемой под UNIX выполнить эту команду из командной строки"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Панель управления - Добавить новый виджет"
+
+msgid "Create widget in %s"
+msgstr "Создайте виджет в"
+
+msgid "Description (only for internal purposes)"
+msgstr "Описание (только для внутренних целей)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML код для виджетов"
+
+msgid "Publish widget"
+msgstr "Публиковать виджет"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Вы действительно хотите отменить?"
+
+msgid "Add a new theme"
+msgstr "Добавить новую тему"
+
+msgid "Current theme"
+msgstr "Текущая тема"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Available themes"
+msgstr "Доступные темы"
+
+msgid "Preview"
+msgstr "Превью"
+
+msgid "Widgets"
+msgstr "Виджеты"
+
+msgid "Add HTML widget"
+msgstr "Добавить HTML-виджет"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Expirations days"
+msgstr "Срок действия"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = срок действия не ограничен)"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Save"
+msgstr "Cохранять"
+
+msgid "Disable"
+msgstr "Отключить"
+
+msgid "Description"
+msgstr "Oписание"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Edit comment"
+msgstr "Исправить комментарий"
+
+msgid "Add a comment"
+msgstr "Комментировать"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "You have to write a title."
+msgstr "Напишите заголовок"
+
+msgid "You have to write a comment."
+msgstr "Вы должны написать комментарий."
+
+msgid "Author's name can not be empty."
+msgstr "Имя автора не может быть пустым"
+
+msgid "Author's email can not be empty."
+msgstr "Автор электронной почты не может быть пустым."
+
+msgid "Edit a comment on item:"
+msgstr "Редактировать комментарий к объявлению:"
+
+msgid "View"
+msgstr "Cмотреть"
+
+msgid "It's a registered user"
+msgstr "Это зарегистрированный пользователь"
+
+msgid "Edit user"
+msgstr "Редактирование пользователя"
+
+msgid "Author's e-mail"
+msgstr "E-mail разместившего"
+
+msgid "Status"
+msgstr "Cтатус"
+
+msgid "De-activate"
+msgstr "Отключить"
+
+msgid "Date"
+msgstr "дата"
+
+msgid "Manage Comments"
+msgstr "Управление Комментариями"
+
+msgid "Edit email/alert"
+msgstr "Редактирование электронной почте / оповещения"
+
+msgid "Add an email/alert"
+msgstr "Добавить email/оповещениe"
+
+msgid "Emails & Alerts"
+msgstr "Письмa и Оповещения"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Внутреннее имя (имя для этого письма/оповещения)"
+
+msgid "Emails & alerts"
+msgstr "Письмa и Оповещения"
+
+msgid "Items"
+msgstr "объявлений"
+
+msgid "Manage items"
+msgstr "Управление объявлениями"
+
+msgid "Add new item"
+msgstr "Управление медиа-материалами"
+
+msgid "Manage media"
+msgstr "Управление медиа-материалами"
+
+msgid "Manage categories"
+msgstr "Управление категориями"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "Manage pages"
+msgstr "Управление страницами"
+
+msgid "Create page"
+msgstr "Создать страницу"
+
+msgid "Manage emails & alerts"
+msgstr "Управление почтой и оповещениями"
+
+msgid "Manage themes"
+msgstr "Управление шаблоном"
+
+msgid "Add or remove widgets"
+msgstr "Добавить или удалить элемент"
+
+msgid "Plugins"
+msgstr "Модуль"
+
+msgid "Manage plugins"
+msgstr "Управление модулями"
+
+msgid "Add new plugin"
+msgstr "Добавить модуль"
+
+msgid "Languages"
+msgstr "Языки"
+
+msgid "Manage languages"
+msgstr "Управление языками"
+
+msgid "Add a language"
+msgstr "Добавить язык"
+
+msgid "General settings"
+msgstr "Основные настройки"
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "Locations"
+msgstr "местоположение"
+
+msgid "Permalinks"
+msgstr "Ссылки"
+
+msgid "Spam and bots"
+msgstr "СПАМ-боты"
+
+msgid "Currencies"
+msgstr "Список валют"
+
+msgid "Mail Server"
+msgstr "Почтовый сервер"
+
+msgid "Media"
+msgstr "Cредства массовой информации"
+
+msgid "Cron system"
+msgstr "Крон системе"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Import data"
+msgstr "импорт данным"
+
+msgid "Backup data"
+msgstr "Резервное копирование данным"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Mодернизация OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Восстановить миниатюр"
+
+msgid "Manage users"
+msgstr "Управление пользователями"
+
+msgid "Add new user"
+msgstr "Добавить пользователя"
+
+msgid "Administrators"
+msgstr "Администрация"
+
+msgid "List administrators"
+msgstr "Список администрации"
+
+msgid "Add new administrator"
+msgstr "Добавить администратора"
+
+msgid "Edit Your Profile"
+msgstr "Редактировать профиль"
+
+msgid "New item"
+msgstr "Новой Пункт"
+
+msgid "Edit item"
+msgstr "редактировать Пункт"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Item posted by"
+msgstr "товар отправленный"
+
+msgid "Non-registered user"
+msgstr "Незарегистрированный пользователь"
+
+msgid "E-Mail"
+msgstr "e-mail"
+
+msgid "General information"
+msgstr "Генеральная информация"
+
+msgid "optional"
+msgstr "необязательно"
+
+msgid "Add item"
+msgstr "Добавить Пункт"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Spam"
+msgstr "СПАМ"
+
+msgid "Duplicated"
+msgstr "Дублированный"
+
+msgid "Misclassified"
+msgstr "Неправильно классифицирован"
+
+msgid "Offensive"
+msgstr "Наступление"
+
+msgid "Expired"
+msgstr "истекший"
+
+msgid "Language package"
+msgstr "Языковой пакет"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Переводы папка не доступна для записи на сервере, и вы не можете загрузить переводы из панели администрирования. Пожалуйста, сделайте перевод папку для записи."
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Чтобы сделать папку записываемой под UNIX выполнить эту команду из командной строки:"
+
+msgid "Short name"
+msgstr "Короткое имя"
+
+msgid "Currency format"
+msgstr "денежный формат"
+
+msgid "Date format"
+msgstr "Формат отображения даты"
+
+msgid "Stopwords"
+msgstr "Cтоп-слова"
+
+msgid "Enabled for the public website"
+msgstr "Включено для общедоступный веб-сайт"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Включено для бэк-офис (OC-администратор)"
+
+msgid "Disable (website)"
+msgstr "Отключить (сайт)"
+
+msgid "Disable (oc-admin)"
+msgstr "Отключить (OC-администратор)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Enabled (website)"
+msgstr "Включен (сайт)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Включен (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+msgid "Enable (Website)"
+msgstr "Включить (сайт)"
+
+msgid "Disable (Website)"
+msgstr "Отключить (сайт)"
+
+msgid "Enable (oc-admin)"
+msgstr "Включить (oc-admin)"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Какие из следующих необходимо разместить в панели управления"
+
+msgid "Latest items"
+msgstr "Последние пункты"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Latest comments"
+msgstr "Последние комментарии"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Последние новости от OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Последние новости от OpenSourceClassifieds"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Еще нет загруженных предложений"
+
+msgid "Number of items"
+msgstr "Количество предложений"
+
+msgid "Number of public users"
+msgstr "Количество зарегистрированных пользователей"
+
+msgid "Number of administrators"
+msgstr "Количество администраторов"
+
+msgid "Commented on item"
+msgstr "Комментарии по предложению"
+
+msgid "There aren't any comments yet"
+msgstr "Eще нет комментариев "
+
+msgid "new"
+msgstr "новый"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Невозможно получить новости от OpenSourceClassifieds. Пожалуйста, повторите попытку позже"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Attached to"
+msgstr "Приложить"
+
+msgid "Edit page"
+msgstr "Править страницу"
+
+msgid "Add page"
+msgstr "Добавить страницу"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Внутреннее имя (имя, для легкого определения этой страницы)"
+
+msgid "View page"
+msgstr "Посмотр страниц"
+
+msgid "Add a new plugin"
+msgstr "Добавить новый модуль"
+
+msgid "Plugin package"
+msgstr "Пакет плагина"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Папка плагина %s недоступна для записи"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds не можете загрузить плагины из панели администратора"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Загрузите пакет плагина при помощи FTP или SSH, или сделайте папку плагинов доступной для записи"
+
+msgid "Preset categories"
+msgstr "Предустановленные категории"
+
+msgid "Check all"
+msgstr "выбрать все"
+
+msgid "Uncheck all"
+msgstr "Снять все"
+
+msgid "Configure"
+msgstr "Настройка"
+
+msgid "There's a new version. You should update!"
+msgstr "Новая версия.Вы должны обновить!"
+
+msgid "Uninstall"
+msgstr "Удалить"
+
+msgid "Install"
+msgstr "Установка"
+
+msgid "Create currency"
+msgstr "Создать валюту"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "It should be a three-character code"
+msgstr "Необходимо трехсимвольный код"
+
+msgid "Comments settings"
+msgstr "Hастройки комментариев"
+
+msgid "Comments enabled"
+msgstr "Комментарий включен"
+
+msgid "Moderate comments"
+msgstr "Модерация коментариев"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Количество комментариев одного автора, которые должны быть проверены, прежде чем пропустить проверку (0 всегда модерировать)"
+
+msgid "Notifications"
+msgstr "Уведомления "
+
+msgid "Contact settings"
+msgstr "Настройки контактов"
+
+msgid "Attachment enabled"
+msgstr "Вложения включены"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Некоторые функции OpenSourceClassifieds требуют для работы cron. Проверьте поддерживает ли ваш хостинг работу Cron. Снимите флажок, если вы хотите настроить Cron вручную. Обратитесь к инструкции если вы хотите узнать больше о системе Cron в OpenSourceClassifieds."
+
+msgid "Edit currency"
+msgstr "Изменить валют"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Как только он будет создан, он не может быть изменен"
+
+msgid "Page title"
+msgstr "Заголовок страницы"
+
+msgid "Page description"
+msgstr "Описание cтраницы"
+
+msgid "Admin e-mail"
+msgstr "Email админа"
+
+msgid "Default language"
+msgstr "Язык по умолчанию"
+
+msgid "Custom"
+msgstr "Обычно"
+
+msgid "Default currency"
+msgstr "Валюта по умолчанию"
+
+msgid "Week starts on"
+msgstr "Начало недели"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Time format"
+msgstr "Формат времени"
+
+msgid "Number of items in the RSS"
+msgstr "Количество объявлений в RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Включить reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Включить проверку объявлений"
+
+msgid "Logged users don't need to validate items"
+msgstr "Объявления зарегистрированных пользователей не нужно проверять"
+
+msgid "Only allow registered users to post items"
+msgstr "Только зарегистрированные пользователи могут оставлять объявления"
+
+msgid "Notify admin of new items"
+msgstr "Уведомлять администратора о новинках"
+
+msgid "Notify admin of contact items"
+msgstr "Уведомлять администратора о контактах"
+
+msgid "Notify admin of share"
+msgstr "Уведомлять администратора о продаже"
+
+msgid "Optional fields"
+msgstr "Дополнительные поля"
+
+msgid "Enable price"
+msgstr "Включить цену"
+
+msgid "Enable images"
+msgstr "Включить изображение"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "View more"
+msgstr "Посмотреть больше"
+
+msgid "Countries"
+msgstr "Страны"
+
+msgid "Add new"
+msgstr "Добавить"
+
+msgid "Regions"
+msgstr "Регионы"
+
+msgid "Cities"
+msgstr "Города"
+
+msgid "Add new country"
+msgstr "Добавить страну"
+
+msgid "Country code"
+msgstr "Код страны"
+
+msgid "Country code should have two characters"
+msgstr "Код страны должны иметь два символа"
+
+msgid "Edit country"
+msgstr "Изменить страну"
+
+msgid "Add new region"
+msgstr "Добавить новый регион"
+
+msgid "Edit region"
+msgstr "Изменить регион"
+
+msgid "Add new city"
+msgstr "Добавить город"
+
+msgid "Edit city"
+msgstr "Править город"
+
+msgid "Mail server"
+msgstr "Почтовый сервер"
+
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgid "Server type"
+msgstr "Тип сервера"
+
+msgid "Custom Server"
+msgstr "Другой сервер"
+
+msgid "GMail Server"
+msgstr "GMail сервер"
+
+msgid "Hostname"
+msgstr "Название хоста"
+
+msgid "Server port"
+msgstr "Порт сервера"
+
+msgid "Encryption"
+msgstr "Шифрация"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Опции: blank, SSL или TLS"
+
+msgid "Enable SMTP authentication"
+msgstr "Включить аутентификацию по SMTP "
+
+msgid "Enter your e-mail server configuration"
+msgstr "Введите конфигурацию своего почтового адреса"
+
+msgid "Media settings"
+msgstr "Настройки медия"
+
+msgid "Configure media"
+msgstr "Настройка медия"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Пожалуйста, установите предпочтительные размеры для всех изображений на сайте. (формат: WIDTHxHEIGHT, eg: 640x480)"
+
+msgid "Restrictions"
+msgstr "Ограничения"
+
+msgid "Maximum size, in KB"
+msgstr "Максамальный размер kb."
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Используйте следующие расширения (png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Размер"
+
+msgid "Thumbnail dimensions"
+msgstr "Миниатюра"
+
+msgid "Preview dimensions"
+msgstr "Превью"
+
+msgid "Normal dimensions"
+msgstr "Обычный размер"
+
+msgid "Keep original image"
+msgstr "Сохранить оригинальные размеры"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Хранение оригинальных файлов изображений требует дополнительной памяти. Этот параметр гарантирует, что исходное качество файла не-изменен. Будьте осторожны при использовании этой опции."
+
+msgid "Permalinks settings"
+msgstr "Настройки Permalinks"
+
+msgid "Friendly urls"
+msgstr "Дружелюбные адреса"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "По умолчанию OpenSourceClassifieds использует формат веб-адресов, которые имеют знаки вопроса и номеров. Тем не менее, OpenSourceClassifieds предлагает Вам дружественных URL. Это может улучшить эстетику, удобство использования, и совместимостъ вашей ссылки"
+
+msgid "Enable friendly urls"
+msgstr "Включить дружелюбные адреса"
+
+msgid ".htaccess file"
+msgstr ".htaccess файл"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Модуль <em>mod_rewrite</em> присутствует на сервере."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Ошибка. Мы не смогли сделать запись в файле .htaccess в вашем хостинге. Пожалуйста, создайте файл в корневом каталоге вашего сайта с установленной OpenSourceClassifieds, с названием .htaccess со следующим содержанием."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Файл .htaccess уже существует. Проверьте содержимое файла .htaccess, он должен имеет следующее содержание."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Мы создали файл .htaccess в корневом каталоге устанорвленного OpenSourceClassifieds."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Содержимое файла .htaccess должна выглядеть следующим образом:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Текущее содержание файла .htaccess:"
+
+msgid "Akismet"
+msgstr "Akismet-служба фильтрации спама"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet ключ (как Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Если поле пустое, это потому, сервис Akismet отключен"
+
+msgid "Get your free key at"
+msgstr "Получите ваш бесплатный ключ в"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Если поле пустое значит услуга ReCaptcha отключена"
+
+msgid "Get your free keys at"
+msgstr "Получите бесплатный ключ"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA частный ключ"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA публичный ключ"
+
+msgid "Users settings"
+msgstr "настройки пользователей"
+
+msgid "Users enabled"
+msgstr "Включенные пользователи"
+
+msgid "User validation enabled"
+msgstr "Проверка пользователя включена"
+
+msgid "User registration enabled"
+msgstr "Регистрация пользователей включена"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "You're offline! Please check your connection"
+msgstr "Вы офлайн! Пожалуйста, проверьте ваше соединение"
+
+msgid "Requested URL not found"
+msgstr "Запрашиваемый URL не найден"
+
+msgid "Internal server error"
+msgstr "Внутренняя ошибка сервера"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Ошибка. Парсинг запроса JSON не удалось"
+
+msgid "Request timeout"
+msgstr "Время запроса истекло"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Backup OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Можно создать резервную копию OpenSourceClassifieds здесь. ВНИМАНИЕ: Если вы не указываете папку резервного копирования, резервного копирования файлов будет создана в корневом каталоге вашего OpenSourceClassifieds"
+
+msgid "Backup folder"
+msgstr "Папка резервного копирования"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Это папка, в которой будут создаваться резервные копии системы. Мы рекомендуем вам выбрать нестандартные пути. Для получения дополнительной информации, пожалуйста, обратитесь к документации OpenSourceClassifieds"
+
+msgid "Back up database"
+msgstr "Резервная копия базыданных"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Копия OpenSourceClassifieds"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Вы можете восстанавливать эскизы предварительного просмотра изображений. Это полезно, если вы   изменили вашу тему и изображения неправильно отображаются. Пожалуйста, проверьте размер значения,   определенные в разделе settings/media"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Вы можете изменить базу данных, добавить, удалить или изменить данные. Это обычно используется для импорта стран, регионов и городов"
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Satisfying user with awesome and easy auto-upgrade: Done!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Недопустимый запрос OpenSourceClassifieds."
+
+msgid "Upgrade"
+msgstr "Обновление"
+
+msgid "Re-type the password"
+msgstr "Повторный ввод пароля"
+
+msgid "Additional information"
+msgstr "Доп. информация"
+
+msgid "Activate user"
+msgstr "Активировать пользователя"
+
+msgid "Deactivate user"
+msgstr "Отключить пользователя"
+
+msgid "Update Date"
+msgstr "Обновить информацию"
+
+msgid "Add a new user"
+msgstr "Добавить нового пользователя"
+
+msgid "Anonymous"
+msgstr "Аноним"
+
+msgid "Admin mail system"
+msgstr "Почтовая система администратора"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Плагин %s отсутствует в файле index.php %s"
+
+msgid "Enter your e-mail"
+msgstr "Введите ваш e-mail"
+
+msgid "Select a country..."
+msgstr "Выберите страну..."
+
+msgid "Select a region..."
+msgstr "Выберите область..."
+
+msgid "Select a city..."
+msgstr "Выберите город..."
+
+msgid "No results"
+msgstr "Результаты отсутствуют"
+
+msgid "Description: needs to be longer"
+msgstr "Описание: должно быть больше"
+
+msgid "Choose one category"
+msgstr "Выберите категорию"
+
+msgid "Currency: make your selection"
+msgstr "Валюта: сделайте свой выбор"
+
+msgid "Photo: must be %s"
+msgstr "Фото: должно быть %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Имя: введите не менее 3 символов"
+
+msgid "Name: no more than 35 characters"
+msgstr "Имя: не более 35 символов"
+
+msgid "Email: this field is required"
+msgstr "Email: это поле обязательно для заполнения"
+
+msgid "Select a region"
+msgstr "Выберите область"
+
+msgid "Select a city"
+msgstr "Выберите город"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Район города: введите не менее 3 символов"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Это действие нельзя отменить. Вы действительно хотите продолжить?"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Body"
+msgstr "Тело"
+
+msgid "User Description"
+msgstr "Описание пользователя"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "Check with seller"
+msgstr "Уточните у продавца"
+
+msgid "Newly listed"
+msgstr "Новые поступления"
+
+msgid "Lower price first"
+msgstr "Низкая цена первой"
+
+msgid "Higher price first"
+msgstr "Высокая цена первой"
+
+msgid "Manage your items"
+msgstr "Управление предложением"
+
+msgid "Manage your alerts"
+msgstr "Управление уведомлениями"
+
+msgid "%s in"
+msgstr "%s в"
+
+msgid "There's no description available in your language"
+msgstr "Здесь нет описания на вашем языке"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Приносим извинения за причиненные неудобства. %s в режиме обслуживания"
+
+msgid "Error removing file: %s"
+msgstr "Ошибка удаления файла: %s"
+
+msgid "Some error ocurred"
+msgstr "Некоторые ошибки"
+
+msgid "Order saved"
+msgstr "Заказ сохранен"
+
+msgid "Error while deleting"
+msgstr "Ошибка при удалении"
+
+msgid "Error while updating."
+msgstr "Ошибка при обновлении"
+
+msgid "Saved"
+msgstr "Сохранен"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Все ОК! Ваш OpenSourceClassifieds обновлен"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Почти все прошло хорошо! Ваш OpenSourceClassifieds успешно обновлен, но возникли некоторые ошибки при удалении временных файлов. Пожалуйста, удалите вручную папку \\\"oc-temp\\\""
+
+msgid "Problems upgrading the database"
+msgstr "Проблемы с обновлением базы данных"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Проблемы с копированием файлов. Возможно неправильные разрешения"
+
+msgid "Download failed"
+msgstr "Загрузка не удалась"
+
+msgid "Missing download URL"
+msgstr "Отсутствует URL загрузки"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "У нас произошли ошибки удаления файлов, система супер-чувствительна к ошибкам, поэтому мы продолжили модернизацию установки. Пожалуйста, удалите следующие файлы (у вас уже есть обновленный OpenSourceClassifieds, но для обеспечения maximun производительности)"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "При обновлении базы данных возникли ошибки.Следующий запрос не удался"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Forums"
+msgstr "Форумы"
+
+msgid "Add new theme"
+msgstr "Добавить новую тему"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Папка темы %s не имеет прав для записи, &lt;span class=\\\"OpenSourceClassifieds\\\"&gt;OpenSourceClassifieds&lt;/span&gt; невозможно загрузить тему из панели управления. Пожалуйста загрузите файлы с темой через FTP или SSH, или измените права на папку /themes/."
+
+msgid "Ajax error, try again."
+msgstr "Ошибка Ajax, попробуйте еще раз."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "ВНИМАНИЕ: При этом также удаляются элементы в этой категории. Это действие невозможно не отменить. Вы действительно хотите продолжить?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Перетаскивайте и раскидывайте категории для изменениния их порядка, как вам нравится. Нажмите на ссылку изменить, для редактирования категории"
+
+msgid "Add new category"
+msgstr "Добавить категорию"
+
+msgid "Categories settings"
+msgstr "Настройки категории"
+
+msgid "Selectable parent categories"
+msgstr "Выбор родительской категории"
+
+msgid "ACTIVE"
+msgstr "АКТИВНЫЙ"
+
+msgid "INACTIVE"
+msgstr "НЕАКТИВНЫЙ"
+
+msgid "ENABLED"
+msgstr "ВКЛЮЧЕННЫЙ"
+
+msgid "DISABLED"
+msgstr "ОТКЛЮЧЕН"
+
+msgid "Last Searches"
+msgstr "Последний поиск"
+
+msgid "Maintenance mode"
+msgstr "Режим обслуживания"
+
+msgid "Reports"
+msgstr "Отчёты"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Количество предложений одного и того же автора, которые должны быть утверждены до пропуска проверки (0 за всегда проверять)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Количество секунд, пользователю необходимо подождать, прежде чем опубликовать еще одино предложение (0 не ждать)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Разрешить только зарегистрированным пользователям связываться с продавцом"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Максимальное количество изображений на предложение (0 для бесконечного количества)"
+
+msgid "Download more languages at %s"
+msgstr "Скачать другие языковые пакеты %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Эту операцию нельзя отменить. Удаление плагинов может привести к постоянной потере данных. Вы действительно хотите продолжить?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Количество комментариев на страницу. Вы можете ограничить количество одновременно отображающихся комментариев на странице с предложением. Другие комментарии будут доступны через разбивку на страниц. (0 показывать все комментарии)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Разрешить только зарегистрированным пользователям отправлять комментарии"
+
+msgid "Number of recent items displayed at home"
+msgstr "Количество последних предложений, отображаемых на главной странице"
+
+msgid "Save latest searches"
+msgstr "Сохранить последний поиск"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds может сохранить последний поиск пользователя делают на вашем сайте. Вы можете иметь представление о том, что ваши пользователи ищут, и показывать их на сайте, как \\\"hot topics\\\"."
+
+msgid "Keep last searches"
+msgstr "Хранить последний поиск"
+
+msgid "One hour"
+msgstr "Один час"
+
+msgid "One day"
+msgstr "Один день"
+
+msgid "One week"
+msgstr "Одна неделя"
+
+msgid "Forever (never delete)"
+msgstr "Всегда (не удалять)"
+
+msgid "Keep last 1000 searches"
+msgstr "Сохранить последние 1000 запросов"
+
+msgid "Number of files to keep"
+msgstr "Количество в журнале файлов"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Функция последних запросов может генерировать большое количество данных. Мы рекомендуем вам очищать эти данные. Вы можете удалить за один час или за неделю, вы также можете указать количество поисковых запросов для хранения или не удалять вообще."
+
+msgid "Last 10 days"
+msgstr "Последние 10 дней"
+
+msgid "Last 10 weeks"
+msgstr "Последние 10 недель"
+
+msgid "Last 10 months"
+msgstr "Последние 10 месяцев"
+
+msgid "There're no statistics yet"
+msgstr "Еще пока нет статистики"
+
+msgid "Latest comments on the web"
+msgstr "Последние комментарии на сайте"
+
+msgid "New items"
+msgstr "Новое объявление"
+
+msgid "Total number of items' views"
+msgstr "Общее количество просмотров предложений"
+
+msgid "Latest items on the web"
+msgstr "Последние предложения на сайте"
+
+msgid "Active"
+msgstr "Активный"
+
+msgid "Inactive"
+msgstr "Неактивный"
+
+msgid "Views"
+msgstr "Просмотры"
+
+msgid "Total number of reports"
+msgstr "Общее количество отчетов"
+
+msgid "Repeated"
+msgstr "Повторный"
+
+msgid "Bad category"
+msgstr "Плохая категория"
+
+msgid "Latest users on the web"
+msgstr "Последние пользователи на сайте"
+
+msgid "Avg. items per user"
+msgstr "Количество  объявлений в среднем на пользователя "
+
+msgid "items per user"
+msgstr "Объявления пользователя"
+
+msgid "New users"
+msgstr "Новый пользователь"
+
+msgid "Users per country"
+msgstr "Страна пользователй"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Users per region"
+msgstr "Регион пользователй"
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Находясь в режиме обслуживания, пользователи не смогут получить доступ на сайт. Полезно, если вам нужно сделать некоторые изменения на вашем сайте. Используйте следующие кнопки для переключения режим обслуживания ON/OFF"
+
+msgid "Maintenance mode is:"
+msgstr "Режим обслуживания:"
+
+msgid "ON"
+msgstr "ВКЛЮЧИТЬ"
+
+msgid "OFF"
+msgstr "ВЫКЛЮЧИТЬ"
+
+msgid "Disable maintenance mode"
+msgstr "Отключить режим обслуживания"
+
+msgid "Enable maintenance mode"
+msgstr "Включить режим обслуживания"
+
+msgid "Checking for updates"
+msgstr "Проверить обновления"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Ура! Установленная версия актуальна на текущую дату!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Поздравляем! Установленный OpenSourceClassifieds последней версии!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Обновление установленной OpenSourceClassifieds (это может занять некоторое время):"
+
+msgid "Enable user"
+msgstr "Разрешить"
+
+msgid "Disable user"
+msgstr "Отключить пользователя"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds &amp;raquo; возникли ошибки"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Мы столкнулись с проблемой обновления структуры базы данных.Следующие запросы не удалось:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Подобные ошибки могут быть ложными. Если вы уверены в правильности установки &lt;a href=\\\"%s\\\"&gt;продолжите обновление&lt;/a&gt;, или &lt;a href=\\\"http://forums.opensourceclassifieds.org/\\\"&gt;сообщите на форум&lt;/a&gt;."
+
+msgid "Name: this field is required"
+msgstr "Имя: это поле обязательно для заполнения"
+
+msgid "Message: this field is required"
+msgstr "Сообщение: это поле обязательно для заполнения"
+
+msgid "City area: no more than 50 characters"
+msgstr "Район города: не более 50 символов"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Адрес: введите не менее 3 символов"
+
+msgid "Address: no more than 100 characters"
+msgstr "Адрес: не более 100 символов"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "К сожалению, вы достигли максимального количества изображений в объявлении"
+
+msgid "Your name: this field is required"
+msgstr "Ваше имя: это поле обязательно для заполнения"
+
+msgid "Friend's name: this field is required"
+msgstr "Имя друга: это поле обязательно для заполнения"
+
+msgid "Friend's email: this field is required"
+msgstr "Email друга: поле обязательно для заполнения"
+
+msgid "Invalid friend's email address"
+msgstr "Неверный email вашего друга"
+
+msgid "Name: no more than 50 characters"
+msgstr "Имя: не более 50 символов"
+
+msgid "Password: this field is required"
+msgstr "Пароль: поле обязательное для заполнения"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Пароль: введите не менее 5 символов"
+
+msgid "No file selected"
+msgstr "Не выбрано ни одного файла"
+
+msgid "Choose File"
+msgstr "Выбирете файл"
+
+msgid "The website is currently under maintenance mode"
+msgstr "В настоящее время сайт работает в режиме обслуживания"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Извините, у вас уже есть одно поле с таким названием"
+
+msgid "The custom field have been deleted"
+msgstr "Настраиваемые поля удалены"
+
+msgid "Unmark as spam"
+msgstr "Снять отметку спам"
+
+msgid "Mark as spam"
+msgstr "Отметить как спам"
+
+msgid "Field's name"
+msgstr "Название полей"
+
+msgid "This field is required"
+msgstr "Поле обязательно к заполнению"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Выберите категории, где вы хотите применить атрибут"
+
+msgid "Advanced options"
+msgstr "Расширенные настройки"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "Идентификатор имя (разрешены только буквы и символы (a-z0-9_-)"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "ВНИМАНИЕ: При этом будет удалена информация, связанная с этой областью. Это действие нельзя отмененить. Вы действительно хотите продолжить?"
+
+msgid "Custom Fields"
+msgstr "Дополнительные поля"
+
+msgid "Add new field"
+msgstr "Добавить поле"
+
+msgid "Add new custom field"
+msgstr "Добавить дополнительное поле"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "You don't have any custom fields yet"
+msgstr "У вас нет еще дополнительных полей"
+
+msgid "Manage custom fields"
+msgstr "Управление дополнительными полями"
+
+msgid "County"
+msgstr "Округ"
+
+msgid "Show filters"
+msgstr "Показать фильтры"
+
+msgid "Title and Description"
+msgstr "Заголовок и описание"
+
+msgid "Premium"
+msgstr "Премиум"
+
+msgid "ALL"
+msgstr "Все"
+
+msgid "Reset filters"
+msgstr "Сбросить фильтры"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "Выберите категории, где вы хотите применить атрибуты (кликните на их названия для расширения)"
+
+msgid "Watermark settings"
+msgstr "Настройка водянного знака"
+
+msgid "Watermark color"
+msgstr "Цвет водянного знака"
+
+msgid "Watermark text"
+msgstr "Текст водянного знака"
+
+msgid "Watermark place"
+msgstr "Расположение водянного знака"
+
+msgid "Centre"
+msgstr "Центр"
+
+msgid "Top Left"
+msgstr "Слева вверху"
+
+msgid "Top Right"
+msgstr "Справа сверху"
+
+msgid "Bottom Left"
+msgstr "Снизу слева"
+
+msgid "Bottom Right"
+msgstr "Снизу справа"
+
+msgid "Watermark image"
+msgstr "Изображение водянного знака"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "Обратите внимание, что OpenSourceClassifieds не заботятся о размере изображения водяных знаков"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Рекомендуется, \"Сохраните исходное изображение\" вариант активной, когда требуется водяные знаки."
+
+msgid "New version to update:"
+msgstr "Обновить до новой версии:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "Ваш установленный OpenSourceClassifieds может автоматически обновлен. Пожалуйста, сделайте резервную копию базы данных и папки oc-content перед началом обновления OpenSourceClassifieds. Вы также можете обновить OpenSourceClassifieds через ФТП, более подробная информация в %s."
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Ваш установленный OpenSourceClassifieds не может автоматически обновиться. Файлы и папки должны быть доступны для записи. Вы можете изменить разрешения через SSH при помощи команд \\\"CHMOD-R 644*\\\" (без кавычек) или через FTP клиент, зависит от программы, поэтому мы не можем предоставить дополнительную информацию. Вы можете обновить OpenSourceClassifieds просто загрузив пакет обновлений, распаковать и заменить файлы на сервере."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "Категория с указанным id не существует:"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "Категории и ее подкатегорий включены"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "Категории и ее подкатегорий отключены"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "Родительская категория отключена, вы не сможете включить данную категорию"
+
+msgid "The subcategory has been enabled"
+msgstr "Подкатегория включена"
+
+msgid "The subcategory has been disabled"
+msgstr "Подкатегория отключена"
+
+msgid "Category updated correctly"
+msgstr "Категория успешно обнавлена"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "Категория обновлена, но некоторые заголовки пусты"
+
+msgid "Sorry, at least a title is needed"
+msgstr "Извините, введите хотябы заголовок"
+
+msgid "Error while updating"
+msgstr "Ошиюка обновления"
+
+msgid "Test email"
+msgstr "Тестовое письмо"
+
+msgid "Email sent successfully"
+msgstr "Письмо успешно отправлено"
+
+msgid "An error has occurred while sending email"
+msgstr "Произошла ошибка при отправке письма"
+
+msgid "Field's type"
+msgstr "Типы полей"
+
+msgid "Field's options (separated by commas)"
+msgstr "Опции полей (через запятую)"
+
+msgid "Options (separeted by commas)"
+msgstr "Опции (через запятую)"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "Разрешить вложение файлов в контакте объявления продавца"
+
+msgid "Number of decimals"
+msgstr "Количество десятичных знаков"
+
+msgid "Decimal point"
+msgstr "Десятичный знак"
+
+msgid "Thousands separator"
+msgstr "разделитель тысяч"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Notify admin when there's a new comment"
+msgstr "Уведомлять администратора, о появлении нового комментария"
+
+msgid "Notify user when there's a new comment"
+msgstr "Уведомлять пользователя, о появлении нового комментария"
+
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+msgid "Select a timezone..."
+msgstr "Выберите часовой пояс"
+
+msgid "Number of item displayed in search results"
+msgstr "Количество объявлений, отображаемых в результатах поиска"
+
+msgid "Use a POP before SMTP"
+msgstr "Используйте POP перед SMTP"
+
+msgid "not found"
+msgstr "не найдено"
+
+msgid "Test configuration"
+msgstr "Тестовая конфигурация"
+
+msgid "The email will be sent to contact email"
+msgstr "Письмо отправлено на Ваш почтовый ящик"
+
+msgid "Send email"
+msgstr "Отправить письмо"
+
+msgid "Use imagick instead of GD"
+msgstr "Использовать Imagick вместо GD"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "Он быстрее и потребляет меньше ресурсов, в отличии от библиотеки GD"
+
+msgid "Freetype library is required. How to"
+msgstr "Freetype библиотека не требуется. Как"
+
+msgid "install/configure"
+msgstr "установить/настроить"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Внимание! Модуль Rewrite не найден на сервере. Это означает, что вы не имеете его включить или вы используете PHP как CGI (или FastCGI). В случае, если Вы не имеете mod_rewrite вы можете продолжать использовать дружественные URL-адресов, если AcceptPathInfo опция в вашем Apache конфигурации (мы не можем знать, если он включен или нет, но обычно это так). \\ \"Index.php \\\" будет отображаться как часть вашего URL (т.е. http://www.example.com/index.php/nice/url)."
+
+msgid "Notify admin when a new user registers"
+msgstr "Уведомлять администратора о регистрации новых пользователей"
+
+msgid "Price: no more than 50 characters"
+msgstr "Цена: не более 50 символов"
+

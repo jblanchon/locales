@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Pagina negasita"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Esti abonat cu succes la aceasta alerta"
+
+msgid "There was a problem with the alert"
+msgstr "Eroare la alerta"
+
+msgid "Subscribe to this search"
+msgstr "Subscrie la cautare"
+
+msgid "Subscribe now"
+msgstr "Subscrie acum"
+
+msgid "Subject"
+msgstr "Subiect"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "Your name"
+msgstr "Numele"
+
+msgid "Your e-mail address"
+msgstr "Email"
+
+msgid "Send"
+msgstr "Trimite"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Acest site foloseste aplicatia de anunturi open source <a title=\"OpenSourceClassifieds web\">OpenSourceClassifieds</a>"
+
+msgid "Publish an item"
+msgstr "Adauga un anunt"
+
+msgid "Edit your item"
+msgstr "Editeaza anuntul"
+
+msgid "Send to a friend"
+msgstr "Trimite unui prietene"
+
+msgid "Contact seller"
+msgstr "Contacteaza vanzatorul"
+
+msgid "page"
+msgstr "pagina"
+
+msgid "Show all items"
+msgstr "Arata toate produsele"
+
+msgid "Search"
+msgstr "Cautare"
+
+msgid "Recover your password"
+msgstr "Recuperare parola"
+
+msgid "Login"
+msgstr "Autentificare"
+
+msgid "Create a new account"
+msgstr "Creaza un nou cont"
+
+msgid "Dashboard"
+msgstr "Panou de bord"
+
+msgid "Manage my items"
+msgstr "Gestioneaza produsele mele"
+
+msgid "Manage my alerts"
+msgstr "Gestioneaza alertele mele"
+
+msgid "Update my profile"
+msgstr "Actualizare profil"
+
+msgid "Change my email"
+msgstr "Schimba email"
+
+msgid "Change my password"
+msgstr "Schimba parola"
+
+msgid "Recover my password"
+msgstr "Recupereaza parola pierduta"
+
+msgid "Hi %s"
+msgstr "Salut %s"
+
+msgid "My account"
+msgstr "Contul meu"
+
+msgid "Logout"
+msgstr "Deconectare"
+
+msgid "Register for a free account"
+msgstr "Creaza cont gratuit"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Remember me"
+msgstr "Nu ma deautentifica"
+
+msgid "Log in"
+msgstr "Autentificare"
+
+msgid "Forgot password?"
+msgstr "Parola uitata?"
+
+msgid "Language"
+msgstr "Limba"
+
+msgid "Publish your ad for free"
+msgstr "Publica anuntul gratuit"
+
+msgid "ie. PHP Programmer"
+msgstr "de ex. iPhone"
+
+msgid "Select a category"
+msgstr "Selecteaza o categorie"
+
+msgid "To (seller)"
+msgstr "Catre (vanzator)"
+
+msgid "Item"
+msgstr "Anunt"
+
+msgid "Phone number"
+msgstr "Telefon"
+
+msgid "Send message"
+msgstr "Trimite mesajul"
+
+msgid "Update your item"
+msgstr "Modifica anuntul"
+
+msgid "General Information"
+msgstr "Informatii generale"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Price"
+msgstr "Pret"
+
+msgid "Photos"
+msgstr "Imagini"
+
+msgid "Add new photo"
+msgstr "Adauga o imagine noua"
+
+msgid "Location"
+msgstr "Locatia"
+
+msgid "Country"
+msgstr "Tara"
+
+msgid "Region"
+msgstr "Judetul"
+
+msgid "City"
+msgstr "Oras"
+
+msgid "City area"
+msgstr "Judet"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Update"
+msgstr "Actualizare"
+
+msgid "Cancel"
+msgstr "Renunta"
+
+msgid "Item Location"
+msgstr "Locatie Anunt"
+
+msgid "City Area"
+msgstr "Zona"
+
+msgid "Seller's information"
+msgstr "Informatii vanzator"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Show e-mail on the item page"
+msgstr "Arata email pe pagina anuntului"
+
+msgid "Publish"
+msgstr "Publica"
+
+msgid "Your friend's name"
+msgstr "Nume prieten"
+
+msgid "Your friend's e-mail address"
+msgstr "Email prieten"
+
+msgid "Mark as"
+msgstr "Marcheaza ca"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "clasificat gresit"
+
+msgid "duplicated"
+msgstr "duplicat"
+
+msgid "expired"
+msgstr "expirat"
+
+msgid "offensive"
+msgstr "ofensiv"
+
+msgid "Share"
+msgstr "Trimite unui Prieten"
+
+msgid "Useful information"
+msgstr "Informatii utile"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Evitati anunturile false si actionati local sau platiti prin PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Nu platiti cu servicii anonime (WU, Moneygram etc)"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Nu faceti tranzactii in afara tarii. Nu acceptati plati sau ceuri din afara Romaniei"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Acest site nu e implicat in nici o tranzactie; nu gestioneaza plati, transport, garantii si nu ofera nici un fel de protectie impotriva inselaciunilor"
+
+msgid "Comments"
+msgstr "Comentarii"
+
+msgid "by"
+msgstr "de"
+
+msgid "Delete your comment"
+msgstr "Sterge comentariul tau"
+
+msgid "Delete"
+msgstr "Sterge"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Lasa un comentariu ( soam-ul si limbajul ofensiv o sa fie sterse )"
+
+msgid "Your e-mail"
+msgstr "Email-ul tau"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Comment"
+msgstr "Comentariu"
+
+msgid "Contact publisher"
+msgstr "Contacteaza vanzatorul"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Enter the words above"
+msgstr "Adauga cuvintele mai jos"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Latest Items"
+msgstr "Ultimele anunturi"
+
+msgid "No Latest Items"
+msgstr "Nu exista anunturi recente"
+
+msgid "See all offers"
+msgstr "Vezi toate ofertele"
+
+msgid "Search results"
+msgstr "Rezultate cautare"
+
+msgid "Sort by"
+msgstr "Sortat dupa"
+
+msgid "There are no results matching \"%s\""
+msgstr "Nu exista resultate pentru \\\"%s\\\""
+
+msgid "Your search"
+msgstr "Cautarea ta"
+
+msgid "Show only"
+msgstr "Arata doar"
+
+msgid "Show only items with pictures"
+msgstr "Arata doar anunturile cu Poze"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Aplica"
+
+msgid "Selected"
+msgstr "Selectat"
+
+msgid "Nothing selected, input was"
+msgstr "Nimic selectat, a fost"
+
+msgid "User account manager"
+msgstr "Manager cont utilizator"
+
+msgid "Your alerts"
+msgstr "Alertele tale"
+
+msgid "You do not have any alerts yet"
+msgstr "Nu ai nici o alerta deocamdata"
+
+msgid "Alert"
+msgstr "Alerta"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Aceasta actiune nu mai poate fi anulata. Sigur doriti sa continuati?"
+
+msgid "Delete this alert"
+msgstr "Sterge aceasta alerta"
+
+msgid "Publication date"
+msgstr "Data publicarii"
+
+msgid "Change your e-mail"
+msgstr "Schimba adresa ta de email"
+
+msgid "Current e-mail"
+msgstr "Email actual"
+
+msgid "New e-mail"
+msgstr "Email nou"
+
+msgid "Change your password"
+msgstr "Schimba parola"
+
+msgid "Current password"
+msgstr "Parola curenta"
+
+msgid "New password"
+msgstr "Parola noua"
+
+msgid "Repeat new password"
+msgstr "Repeta noua parola"
+
+msgid "Items from %s"
+msgstr "Anunturi de la %s"
+
+msgid "No items have been added yet"
+msgstr "Nu exista anunturi adaugata deocamdata"
+
+msgid "New pasword"
+msgstr "Parola noua"
+
+msgid "Repeat new pasword"
+msgstr "Repeta parola noua"
+
+msgid "Change password"
+msgstr "Schimba parola"
+
+msgid "Your items"
+msgstr "Anunturile tale"
+
+msgid "Post a new item"
+msgstr "Adauga anunt"
+
+msgid "You don't have any items yet"
+msgstr "Nu ai nici un anunt"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Aceasta actiune nu poate fi anulata. Esti sigur ca vrei sa continui ?"
+
+msgid "Activate"
+msgstr "Activeaza"
+
+msgid "Access to your account"
+msgstr "Acces la cont"
+
+msgid "Update your profile"
+msgstr "Modifica profilul"
+
+msgid "Modify e-mail"
+msgstr "Modifica email"
+
+msgid "Modify password"
+msgstr "Modifica parola"
+
+msgid "User type"
+msgstr "Tipul de user"
+
+msgid "Cell phone"
+msgstr "Mobil"
+
+msgid "Phone"
+msgstr "Telefon fix"
+
+msgid "Website"
+msgstr "Site Web"
+
+msgid "Send me a new password"
+msgstr "Trimite o noua parola"
+
+msgid "Register an account for free"
+msgstr "Creaza un cont gratuit"
+
+msgid "Re-type password"
+msgstr "Reintrodu parola"
+
+msgid "Passwords don't match"
+msgstr "Parolele nu seamana intre ele"
+
+msgid "Create"
+msgstr "Creaza"
+
+msgid "Invalid email address"
+msgstr "Adresa de email invalida"
+
+msgid "Upload"
+msgstr "Incarca"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Pentru a permite scrierea intr-un director, pe UNIX, executa comanda urmatoare din shell"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Latest items"
+msgstr "Ultimele anunturi"
+
+msgid "Modern theme"
+msgstr "Tema moderna"
+
+msgid "Settings theme"
+msgstr "Setari tema"
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "Published date"
+msgstr "Data publicarii"
+
+msgid "Modified date"
+msgstr "Data modificarii"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Marimea standard pentru logo este 600x100"
+
+msgid "Logo image"
+msgstr "Imagine logo"
+
+msgid "Remove logo"
+msgstr "Sterge logo"
+
+msgid "Has not uploaded any logo image"
+msgstr "Nu a fost incarcat nicio imagine pentru logo"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Imaginea folderului %s nu se poate scrie pe serverul tau"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds nu poate incarca imaginea logo din panoul de administrator"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Va rugam sa mentionati dosarul cu imagini de scriere"
+
+msgid "Contact us"
+msgstr "Contacteazane"
+
+msgid "Error"
+msgstr "Eroare"
+
+msgid "No file selected"
+msgstr "Niciun fisier selectate"
+
+msgid "Choose File"
+msgstr "Alege fisier"
+
+msgid "Sponsored ad"
+msgstr "Anunt sponsorizat"
+
+msgid "View item"
+msgstr "Vizualizeaza anunt"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Nota: Incarcand un alt logo il suprapune pe cel curent"
+
+msgid "The item is expired. You cannot contact the publisher."
+msgstr "Acest anunt a expirat. Nu aveti posibilitatea sa contactati proprietarul."
+
+msgid "It's your own item, you cannot contact the publisher."
+msgstr "Este anuntul tau, nu aveti posibilitatea sa contactati proprietarul"
+
+msgid "You must login or register a new free account in order to contact the advertiser"
+msgstr "Trebuie sa fi logat sau sa iti inregistrezi un cont gratis ca sa poti contacta proprietarul"
+
+msgid "%s's profile"
+msgstr "Profil  %s"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Nume intreg"
+

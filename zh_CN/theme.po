@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "您要找得页面没有找到"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "您已经成功订阅了消息提醒"
+
+msgid "There was a problem with the alert"
+msgstr "通知中心有些问题"
+
+msgid "Subscribe to this search"
+msgstr "订阅搜索"
+
+msgid "Subscribe now"
+msgstr "现在订阅"
+
+msgid "Contact with us"
+msgstr "联系我们"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Your name"
+msgstr "您的名字"
+
+msgid "Your e-mail address"
+msgstr "你的邮件"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Contact"
+msgstr "联系人"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "本站骄傲地使用了开源软件<strong><a title=\\\"OpenSourceClassifieds web\\\" href=\\\"http://www.opensourceclassifieds.org/\\\">OpenSourceClassifieds</a></strong>"
+
+msgid "Publish an item"
+msgstr "发布"
+
+msgid "Edit your item"
+msgstr "编辑"
+
+msgid "Send to a friend"
+msgstr "发送给好友"
+
+msgid "Contact seller"
+msgstr "联系卖家"
+
+msgid "page"
+msgstr "页"
+
+msgid "Show all items"
+msgstr "显示所有"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Recover your password"
+msgstr "找回密码"
+
+msgid "Login"
+msgstr "登陆"
+
+msgid "Create a new account"
+msgstr "创建账户"
+
+msgid "Dashboard"
+msgstr "控制面板"
+
+msgid "Manage my items"
+msgstr "管理我的记录"
+
+msgid "Manage my alerts"
+msgstr "管理通知"
+
+msgid "Update my profile"
+msgstr "更新我的资料"
+
+msgid "Change my email"
+msgstr "更改邮箱"
+
+msgid "Change my password"
+msgstr "修改密码"
+
+msgid "Recover my password"
+msgstr "重置密码"
+
+msgid "Hi %s"
+msgstr "您好%s"
+
+msgid "My account"
+msgstr "我的账户"
+
+msgid "Logout"
+msgstr "退出"
+
+msgid "Register for a free account"
+msgstr "注册一个免费的账户"
+
+msgid "E-mail"
+msgstr "邮箱"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Remember me"
+msgstr "记住我"
+
+msgid "Log in"
+msgstr "登陆"
+
+msgid "Forgot password?"
+msgstr "忘记密码"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Publish your ad for free"
+msgstr "免费发布您的广告"
+
+msgid "ie. PHP Programmer"
+msgstr "例如：PHP程序员"
+
+msgid "To (seller)"
+msgstr "给(卖家)"
+
+msgid "Item"
+msgstr "条目"
+
+msgid "Phone number"
+msgstr "手机号码"
+
+msgid "Send message"
+msgstr "发送信息"
+
+msgid "Update your item"
+msgstr "更新您的记录"
+
+msgid "General Information"
+msgstr "常规信息"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Photos"
+msgstr "图片"
+
+msgid "Add new photo"
+msgstr "添加图片"
+
+msgid "Location"
+msgstr "定位"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "City"
+msgstr "城市"
+
+msgid "City area"
+msgstr "城市地区"
+
+msgid "Address"
+msgstr "地质"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Item Location"
+msgstr "条目定位"
+
+msgid "City Area"
+msgstr "城市地区"
+
+msgid "Seller's information"
+msgstr "卖家信息"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Show e-mail on the item page"
+msgstr "在条目页上显示邮箱"
+
+msgid "Publish"
+msgstr "发布"
+
+msgid "Your friend's name"
+msgstr "您朋友的名字"
+
+msgid "Your friend's e-mail address"
+msgstr "您朋友的邮箱"
+
+msgid "Mark as"
+msgstr "标记为"
+
+msgid "spam"
+msgstr "垃圾信息"
+
+msgid "misclassified"
+msgstr "被错分的"
+
+msgid "duplicated"
+msgstr "重复的"
+
+msgid "expired"
+msgstr "过期的"
+
+msgid "offensive"
+msgstr "攻击性得"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Useful information"
+msgstr "有用的信息"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr ""
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "请不要使用西联支付或其他不知名的支付服务"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "请勿越国交易"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+
+msgid "Comments"
+msgstr "留言"
+
+msgid "by"
+msgstr "被"
+
+msgid "Delete your comment"
+msgstr "删除您的留言"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "留言（垃圾信息跟过期的信息将会被删除）"
+
+msgid "Your e-mail"
+msgstr "您的邮件"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Comment"
+msgstr "留言"
+
+msgid "Contact publisher"
+msgstr "联系发布人"
+
+msgid "Tel"
+msgstr "电话"
+
+msgid "Your name (optional)"
+msgstr "您的名称（选填）"
+
+msgid "Enter the words above"
+msgstr "填入以上单词"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Latest Items"
+msgstr "最新条目"
+
+msgid "No Latest Items"
+msgstr "没有最新条目"
+
+msgid "See all offers"
+msgstr "查看所有的信息"
+
+msgid "Search results"
+msgstr "搜索结果"
+
+msgid "Sort by"
+msgstr "排序"
+
+msgid "There are no results matching \"%s\""
+msgstr "没有跟\\\"%s\\\"匹配的结果"
+
+msgid "Your search"
+msgstr "您的搜索"
+
+msgid "Show only"
+msgstr "只显示"
+
+msgid "Show only items with pictures"
+msgstr "只显示带图的信息"
+
+msgid "Min"
+msgstr "最小值"
+
+msgid "Max"
+msgstr "最大值"
+
+msgid "Apply"
+msgstr "保存"
+
+msgid "Selected"
+msgstr "选择"
+
+msgid "Nothing selected, input was"
+msgstr "您没有选择任何信息"
+
+msgid "User account manager"
+msgstr "用户账户管理"
+
+msgid "Your alerts"
+msgstr "通知中心"
+
+msgid "You do not have any alerts yet"
+msgstr "您没有任何通知"
+
+msgid "Alert"
+msgstr "通知"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "刚才的动作没有完成.您确定要继续吗？"
+
+msgid "Delete this alert"
+msgstr "删除此通知"
+
+msgid "Publication date"
+msgstr "发布日期"
+
+msgid "Change your e-mail"
+msgstr "修改您的邮箱"
+
+msgid "Current e-mail"
+msgstr "当前邮箱"
+
+msgid "New e-mail"
+msgstr "新邮箱"
+
+msgid "Change your password"
+msgstr "修改密码"
+
+msgid "Current password"
+msgstr "当前密码"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "Repeat new password"
+msgstr "重新新密码"
+
+msgid "Items from %s"
+msgstr "记录来自%s"
+
+msgid "No items have been added yet"
+msgstr "还没有记录被添加"
+
+msgid "New pasword"
+msgstr "新密码"
+
+msgid "Repeat new pasword"
+msgstr "重新新密码"
+
+msgid "Change password"
+msgstr "修改密码"
+
+msgid "Your items"
+msgstr "您的记录"
+
+msgid "Post a new item"
+msgstr "添加一条新记录"
+
+msgid "You don't have any items yet"
+msgstr "您还没有任何记录"
+
+msgid "Edit"
+msgstr "修改"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "刚才的动作没有完成.您确定要继续吗？"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Access to your account"
+msgstr "收藏"
+
+msgid "Update your profile"
+msgstr "更新您的配置资料"
+
+msgid "Modify e-mail"
+msgstr "修改邮箱"
+
+msgid "Modify password"
+msgstr "修改密码"
+
+msgid "User type"
+msgstr "用户类型"
+
+msgid "Cell phone"
+msgstr "个人电话"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Send me a new password"
+msgstr "给我发送一个新密码"
+
+msgid "Register an account for free"
+msgstr "免费注册"
+
+msgid "Re-type password"
+msgstr "重复密码"
+
+msgid "Passwords don't match"
+msgstr "密码不符"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Invalid email address"
+msgstr "无效的邮箱地址"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "如果是UNIX主机请在命令行下执行命令以确保目录可写"
+
+msgid "optional"
+msgstr "可选"
+
+msgid "Modern theme"
+msgstr "Modern主题"
+
+msgid "Settings theme"
+msgstr "设置主题"
+
+msgid "Image"
+msgstr "图片"
+
+msgid "Published date"
+msgstr "发布日期"
+
+msgid "Modified date"
+msgstr "修改日期"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Logo大小为 600x100"
+
+msgid "Note: There is a logo if you upload a logo image will be replaced"
+msgstr "注意：新logo将会替换旧的"
+
+msgid "Logo image"
+msgstr "Logo"
+
+msgid "Remove logo"
+msgstr "删除Logo"
+
+msgid "Has not uploaded any logo image"
+msgstr "还未上传任何Logo"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "服务器上的图片文件夹%s不可写"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds 还不能从管理员面板上传"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "请确保提及的图片文件夹可写"
+

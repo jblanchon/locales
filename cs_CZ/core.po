@@ -1,0 +1,1876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "aktuální verze:"
+
+msgid "Downloading update file:"
+msgstr "Stahuji aktualizační soubor:"
+
+msgid "Unzipping file:"
+msgstr "Rozbaluji soubor:"
+
+msgid "Copying old files:"
+msgstr "Kopíruji staré soubory:"
+
+msgid "Removing new files:"
+msgstr "Odstraňuji nové soubory:"
+
+msgid "Executing SQL:"
+msgstr "Vykonávám SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Vykonávám dodatečné akce:"
+
+msgid "Cleaning all the mess:"
+msgstr "Čištění nepořádku:"
+
+msgid "Free"
+msgstr "Zdarma"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Search"
+msgstr "Hledat"
+
+msgid "Dashboard"
+msgstr "Ovládací panel"
+
+msgid "My account"
+msgstr "Můj účet"
+
+msgid "Logout"
+msgstr "Odhlásit"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Remember me"
+msgstr "Zapamatovat"
+
+msgid "Log in"
+msgstr "Přihlášení"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Select a category"
+msgstr "Zvolit kategorii"
+
+msgid "Item"
+msgstr "předmět"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Photos"
+msgstr "Fotografie"
+
+msgid "Add new photo"
+msgstr "Přidat novou fotografii"
+
+msgid "Location"
+msgstr "Lokace"
+
+msgid "Country"
+msgstr "Země"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "City"
+msgstr "Město"
+
+msgid "City area"
+msgstr "Městská část"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Update"
+msgstr "Aktualizace"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "City Area"
+msgstr "Část města"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Mark as"
+msgstr "Označit jako"
+
+msgid "Comments"
+msgstr "Komentáře"
+
+msgid "Delete"
+msgstr "Vymazat"
+
+msgid "Title"
+msgstr "Titulek"
+
+msgid "Comment"
+msgstr "Komentář"
+
+msgid "Help"
+msgstr "Nápověda"
+
+msgid "Apply"
+msgstr "Použít"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Tuto akci nelze vrátit. Opravdu chcete pokračovat?"
+
+msgid "Current password"
+msgstr "Současné heslo"
+
+msgid "New password"
+msgstr "Nové heslo"
+
+msgid "New pasword"
+msgstr "Nové heslo"
+
+msgid "Repeat new pasword"
+msgstr "Zopakovat nové heslo"
+
+msgid "Change password"
+msgstr "Změnit heslo"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Tato akce je nevratná. Opravdu si přejete pokračovat?"
+
+msgid "Activate"
+msgstr "Aktivovat"
+
+msgid "User type"
+msgstr "Typ uživatele"
+
+msgid "Cell phone"
+msgstr "Mobil"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Webová stránka"
+
+msgid "Passwords don't match"
+msgstr "Heslo se neshodují"
+
+msgid "Create"
+msgstr "Vytvořit"
+
+msgid "The categories have been deleted"
+msgstr "Kategorie byla vymazána"
+
+msgid "Invalid email address"
+msgstr "Neplatná emailová adresa"
+
+msgid "no action defined"
+msgstr "nebyla zvolena žádná akce"
+
+msgid "Contact form"
+msgstr "Kontaktní formulář"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Latest items added"
+msgstr "Poslední inzeráty přidány"
+
+msgid "Latest items added in"
+msgstr "Poslední inzeráty přidány v "
+
+msgid "Checking for update files."
+msgstr "Kontrolování aktualizovaných souborů"
+
+msgid "File downloaded correctly"
+msgstr "Soubor úspěšně stažen"
+
+msgid "Missing filename"
+msgstr "Chybí název souboru"
+
+msgid "Removing temp-directory"
+msgstr "Odstraňování temp adresáře"
+
+msgid "Archiving is sucessful!"
+msgstr "Archivování je úspěšné!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Chyba, nelze vytvořit zip soubor!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Rozbalování selhalo"
+
+msgid "Filename incorrect"
+msgstr "Nesprávný název souboru"
+
+msgid "Files removed"
+msgstr "Soubory odstraněny"
+
+msgid "No files to remove"
+msgstr "Žádné soubory k odstranění"
+
+msgid "There were problems copying files"
+msgstr "Objevily se chyby při kopírování souborů"
+
+msgid "Nothing to copy"
+msgstr "Žádné položky ke kopírování"
+
+msgid "Files copied"
+msgstr "Soubory zkopírovány"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade sql proveden"
+
+msgid "No SQL to execute"
+msgstr "Žádné SQL k vykonání"
+
+msgid "Custom actions executed"
+msgstr "Zvolené akce vykonány"
+
+msgid "No action to execute"
+msgstr "Žádná akce k vykonání"
+
+msgid "Checking for update files"
+msgstr "Kontroluji aktualizační soubory"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Vyskytly se problémy při kopírování souborů. Některá oprávnění možná nebyla nastavena správně."
+
+msgid "Tables updated correctly"
+msgstr "Tabulky aktualizovány správně"
+
+msgid "No tables update to execute"
+msgstr "Žádné tabulky k aktualizaci"
+
+msgid "View comments"
+msgstr "Prohlížet komentáře"
+
+msgid "View media"
+msgstr "Prohlížet media"
+
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+msgid "Unmark as premium"
+msgstr "Odznačit jako prémiový"
+
+msgid "Mark as premium"
+msgstr "Označit jako prémiový"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds admin panel login"
+
+msgid "Type your new password"
+msgstr "Zadejte nové heslo"
+
+msgid "Back to"
+msgstr "Zpět na"
+
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+msgid "Forgot your password?"
+msgstr "Zapomněl/a jste heslo?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Prosím zadejte vaše uživatelské jméno nebo e-mailovou adresu"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Nové heslo obdržíte na e-mail"
+
+msgid "Get new password"
+msgstr "Získat nové heslo"
+
+msgid "Thank you for using"
+msgstr "Děkujeme za použití"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Dokumentace"
+
+msgid "Feedback"
+msgstr "Komentáře"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Admin Panel"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s je dostupný!"
+
+msgid "Please upgrade now"
+msgstr "Prosím upgradujte nyní"
+
+msgid "Visit website"
+msgstr "Navštívit webovou stránku"
+
+msgid "Hi"
+msgstr "Ahoj"
+
+msgid "Your profile"
+msgstr "Váš profil"
+
+msgid "Log Out"
+msgstr "Odhlásit"
+
+msgid "Admins"
+msgstr "Administrátoři"
+
+msgid "Add new admin"
+msgstr "Přidat nového administrátora"
+
+msgid "Real name"
+msgstr "Skutečné jméno"
+
+msgid "required"
+msgstr "povinné"
+
+msgid "User name"
+msgstr "Uživatelské jméno"
+
+msgid "Edit admin"
+msgstr "Upravit administrátora"
+
+msgid "Re-type new password"
+msgstr "Zopakovat nové heslo"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Zanechte prázdné, jestliže nechcete změnit neslo"
+
+msgid "Processing"
+msgstr "Provádím"
+
+msgid "Show _MENU_ entries"
+msgstr "Zobrazit _MENU_ položky"
+
+msgid "No matching records found"
+msgstr "Nebyly nalezeny žádné shody"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Zobrazuji _START_ až _END_ z _TOTAL_ položek"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Zobrazuji 0 až 0 z 0 položek"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "filtrováno z _MAX_ položek celkem"
+
+msgid "First"
+msgstr "První"
+
+msgid "Previous"
+msgstr "Předchozí"
+
+msgid "Next"
+msgstr "Následující"
+
+msgid "Last"
+msgstr "Poslední"
+
+msgid "Show"
+msgstr "Ukázat"
+
+msgid "entries"
+msgstr "položek"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Tato akce je nevratná. Opravdu chcete pokračovat?"
+
+msgid "Bulk actions"
+msgstr "Hromadná akce"
+
+msgid "Appearance"
+msgstr "Vzhled"
+
+msgid "Theme package"
+msgstr "Balíček tématu"
+
+msgid "Upload"
+msgstr "Nahrát"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Pro povolení zápisu do složky pod UNIXem proveďte příkaz z unixového shellu"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Ovládací panel - Přidat nový widget"
+
+msgid "Create widget in %s"
+msgstr "Vytvořit widget v %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Popis (pouze pro vnitřní účely)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML kód pro widget"
+
+msgid "Publish widget"
+msgstr "Uveřejnit widget"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Opravdu si přejete zrušit akci?"
+
+msgid "Add a new theme"
+msgstr "Přidat nový vzhled"
+
+msgid "Current theme"
+msgstr "Aktuální vzhled"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Available themes"
+msgstr "Dostupné vzhledy"
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid "Widgets"
+msgstr "Widgety"
+
+msgid "Add HTML widget"
+msgstr "Přidat HTML widget"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Expirations days"
+msgstr "Expirace dny"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = žádná expirace)"
+
+msgid "Enabled"
+msgstr "Povoleno"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Disable"
+msgstr "Zakázat"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Enable"
+msgstr "Povolit"
+
+msgid "Edit comment"
+msgstr "Upravit komentář"
+
+msgid "Add a comment"
+msgstr "Přidat komentář"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "You have to write a title."
+msgstr "Musíte napsat titulek"
+
+msgid "You have to write a comment."
+msgstr "Musíte napsat komentář"
+
+msgid "Author's name can not be empty."
+msgstr "Jméno autora nesmí být prázdné"
+
+msgid "Author's email can not be empty."
+msgstr "E-mail autora nesmí být prázdný"
+
+msgid "Edit a comment on item:"
+msgstr "Upravit komentář u inzerátu"
+
+msgid "View"
+msgstr "Prohlížet"
+
+msgid "It's a registered user"
+msgstr "Je registrovaný uživatel"
+
+msgid "Edit user"
+msgstr "Upravit uživatele"
+
+msgid "Author's e-mail"
+msgstr "E-mail autora"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "De-activate"
+msgstr "De-aktivovat"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Manage Comments"
+msgstr "Spravovat komentáře"
+
+msgid "Edit email/alert"
+msgstr "Upravit email/upozornění"
+
+msgid "Add an email/alert"
+msgstr "Přidat email/upozornění"
+
+msgid "Emails & Alerts"
+msgstr "Emaily a Upozornění"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Interní název (název pro snadnou identifikaci tohoto emailu/upozornění)"
+
+msgid "Emails & alerts"
+msgstr "Emaily a Upozornění"
+
+msgid "Items"
+msgstr "inzeráty"
+
+msgid "Manage items"
+msgstr "Spravovat inzeráty"
+
+msgid "Add new item"
+msgstr "Vložit nový inzerát"
+
+msgid "Manage media"
+msgstr "Spravovat media"
+
+msgid "Manage categories"
+msgstr "Spravovat kategorie"
+
+msgid "Pages"
+msgstr "Stránky"
+
+msgid "Manage pages"
+msgstr "Spravovat stránku"
+
+msgid "Create page"
+msgstr "Vytvořit stránku"
+
+msgid "Manage emails & alerts"
+msgstr "Spravovat emaily a upozornění"
+
+msgid "Manage themes"
+msgstr "Spravovat vzhledy"
+
+msgid "Add or remove widgets"
+msgstr "Přidat nebo odstranit widget"
+
+msgid "Plugins"
+msgstr "Pluginy"
+
+msgid "Manage plugins"
+msgstr "Spravovat pluginy"
+
+msgid "Add new plugin"
+msgstr "Přidat nový plugin"
+
+msgid "Languages"
+msgstr "Jazyky"
+
+msgid "Manage languages"
+msgstr "Spravovat jazyky"
+
+msgid "Add a language"
+msgstr "Přidat nový jazyk"
+
+msgid "General settings"
+msgstr "Obecné nastavení"
+
+msgid "Users"
+msgstr "Uživatelé"
+
+msgid "Locations"
+msgstr "Lokace"
+
+msgid "Permalinks"
+msgstr "Odkazy"
+
+msgid "Spam and bots"
+msgstr "Spam a boti"
+
+msgid "Currencies"
+msgstr "Měny"
+
+msgid "Mail Server"
+msgstr "Mailový server"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Cron system"
+msgstr "Cron system"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Import data"
+msgstr "Importovat data"
+
+msgid "Backup data"
+msgstr "Zálohovat data"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Upgradovat OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Obnovit miniatury"
+
+msgid "Manage users"
+msgstr "Spravovat uživatele"
+
+msgid "Add new user"
+msgstr "Přidat nového uživatele"
+
+msgid "Administrators"
+msgstr "Administrátoři"
+
+msgid "List administrators"
+msgstr "Seznam administrátorů"
+
+msgid "Add new administrator"
+msgstr "Přidat nového administrátora"
+
+msgid "Edit Your Profile"
+msgstr "Upravit uživatelský účet"
+
+msgid "New item"
+msgstr "Nový inzerát"
+
+msgid "Edit item"
+msgstr "Upravit inzerát"
+
+msgid "User"
+msgstr "Uživatel"
+
+msgid "Item posted by"
+msgstr "inzerát vložil"
+
+msgid "Non-registered user"
+msgstr "Neregistrovaný uživatel"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "General information"
+msgstr "Obecné informace"
+
+msgid "optional"
+msgstr "volitelné"
+
+msgid "Add item"
+msgstr "Přidat inzerát"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Duplikováno"
+
+msgid "Misclassified"
+msgstr "Chybný"
+
+msgid "Offensive"
+msgstr "Urážlivý"
+
+msgid "Expired"
+msgstr "Expirovaný"
+
+msgid "Language package"
+msgstr "Jazykový balíček"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Do souboru s překlady nelze zapisovat, a tak nemůžete nahrát překlad z administrace. Prosím povolte oprávnění k zápisu do souboru."
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Pro udělení oprávnění k zápisu na UNIXu proveďte příkaz z unixového shellu"
+
+msgid "Short name"
+msgstr "Krátký název"
+
+msgid "Currency format"
+msgstr "Formát měny"
+
+msgid "Date format"
+msgstr "Formát data"
+
+msgid "Stopwords"
+msgstr "Stopwords"
+
+msgid "Enabled for the public website"
+msgstr "Povoleno pro veřejné webové stránky"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Povoleno pro administraci (oc-admin)"
+
+msgid "Disable (website)"
+msgstr "Zakázat (webová stránka)"
+
+msgid "Disable (oc-admin)"
+msgstr "Zakázat (oc-admin)"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Enabled (website)"
+msgstr "Povolit (webová stránka)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Povolit (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Hromadné akce"
+
+msgid "Enable (Website)"
+msgstr "Povolit (webová stránka)"
+
+msgid "Disable (Website)"
+msgstr "Zakázat (webová stránka)"
+
+msgid "Enable (oc-admin)"
+msgstr "Povoleno (oc-admin)"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Které z následujících chcete zobrazit na ovládacím panelu"
+
+msgid "Latest items"
+msgstr "Nejnovější inzeráty"
+
+msgid "Statistics"
+msgstr "Statistiky"
+
+msgid "Latest comments"
+msgstr "Njenovější komentáře"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Poslední novinky z OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Inzeráty podle kategorií"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Zatím nejsou nahrány žádné inzeráty"
+
+msgid "Number of items"
+msgstr "Počet inzerátů"
+
+msgid "Number of public users"
+msgstr "Počet veřejných inzerátů"
+
+msgid "Number of administrators"
+msgstr "Počet administrátorů"
+
+msgid "Commented on item"
+msgstr "Komentovaný inzerát"
+
+msgid "There aren't any comments yet"
+msgstr "Zatím zde nejsou žádné komentáře"
+
+msgid "new"
+msgstr "nový"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Nelze získat novinky z OpenSourceClassifieds. Prosím zkuste to později."
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "Attached to"
+msgstr "Přiloženo k"
+
+msgid "Edit page"
+msgstr "Upravit stránku"
+
+msgid "Add page"
+msgstr "Přidat stránku"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Interní název (název pro snadnou identifikaci této stránky)"
+
+msgid "View page"
+msgstr "Prohlédnout stránku"
+
+msgid "Add a new plugin"
+msgstr "Přidat nový plugin"
+
+msgid "Plugin package"
+msgstr "Balíček pluginu"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Do složky pluginu %s nelze zapisovat"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds nemůže nahrát pluginy z administračního panelu"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Prosím nahrajte balíček pluginu pomocí FTP, SSH nebo povolte zapisování do zmíněné složky"
+
+msgid "Preset categories"
+msgstr "Nastavení kategorií"
+
+msgid "Check all"
+msgstr "Vybrat vše"
+
+msgid "Uncheck all"
+msgstr "Zrušit vše"
+
+msgid "Configure"
+msgstr "Konfigurovat"
+
+msgid "There's a new version. You should update!"
+msgstr "Vydána nová verze. Doporučujeme aktualizaci!"
+
+msgid "Uninstall"
+msgstr "Odinstalovat"
+
+msgid "Install"
+msgstr "Nainstalovat"
+
+msgid "Create currency"
+msgstr "Vytvořit měnu"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "It should be a three-character code"
+msgstr "kód by měl mít 3 znaky"
+
+msgid "Comments settings"
+msgstr "Nastavení komentářů"
+
+msgid "Comments enabled"
+msgstr "Komentáře povoleny"
+
+msgid "Moderate comments"
+msgstr "Spravovat komentáře"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Počet komentářů od stejného autora, které by měly být schváleny před zrušením povinnosti schvalovat (0 znamená vždy schvalovat)"
+
+msgid "Notifications"
+msgstr "Upozornění"
+
+msgid "Contact settings"
+msgstr "Nastavení kontaktu"
+
+msgid "Attachment enabled"
+msgstr "Příloha povolena"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Některé OpenSourceClassifieds funkce vyžadují pro svou činnost Cron. Vyberte pokud hosting nepodporuje cron. Zrušte pokud chcete nastavit Cron manuálně. zvolte manuální možnost, pokud se chcete dozvědět více k OpenSourceClassifieds systému Cron."
+
+msgid "Edit currency"
+msgstr "Upravit měnu"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Po vytvoření již nelze upravovat"
+
+msgid "Page title"
+msgstr "Titulek stránky"
+
+msgid "Page description"
+msgstr "Popis stránnky"
+
+msgid "Admin e-mail"
+msgstr "Administrátorský e-mail"
+
+msgid "Default language"
+msgstr "Výchozí jazyk"
+
+msgid "Custom"
+msgstr "Uživatelský"
+
+msgid "Default currency"
+msgstr "Výchozí měna"
+
+msgid "Week starts on"
+msgstr "Týden začíná v"
+
+msgid "Sunday"
+msgstr "Neděle"
+
+msgid "Monday"
+msgstr "Pondělí"
+
+msgid "Tuesday"
+msgstr "Úterý"
+
+msgid "Wednesday"
+msgstr "Středa"
+
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+msgid "Friday"
+msgstr "Pátek"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Time format"
+msgstr "Formát času"
+
+msgid "Number of items in the RSS"
+msgstr "Počet inzerátů v RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Povolit reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Povolit potvrzení inzerátu uživatelem"
+
+msgid "Logged users don't need to validate items"
+msgstr "Přihlášený uživatel nepotřebuje potvrdit inzeráty"
+
+msgid "Only allow registered users to post items"
+msgstr "Povolit vkládání inzerátů pouze registrovaným uživatelům"
+
+msgid "Notify admin of new items"
+msgstr "Upozorňovat administrátora na nové inzeráty"
+
+msgid "Notify admin of contact items"
+msgstr "Upozornit administrátora na kontakt inzerátů"
+
+msgid "Notify admin of share"
+msgstr "Upozorňovat administrátora při sdílení"
+
+msgid "Optional fields"
+msgstr "Volitelná pole"
+
+msgid "Enable price"
+msgstr "Povolit cenu"
+
+msgid "Enable images"
+msgstr "Povolit obrázky"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "View more"
+msgstr "Prohlížet další"
+
+msgid "Countries"
+msgstr "Země"
+
+msgid "Add new"
+msgstr "Přidat nový"
+
+msgid "Regions"
+msgstr "Regiony"
+
+msgid "Cities"
+msgstr "Města"
+
+msgid "Add new country"
+msgstr "Přidat novou zemi"
+
+msgid "Country code"
+msgstr "Kód země"
+
+msgid "Country code should have two characters"
+msgstr "Kód země by měl mít dva znaky"
+
+msgid "Edit country"
+msgstr "Upravit zemi"
+
+msgid "Add new region"
+msgstr "Přidat nový region"
+
+msgid "Edit region"
+msgstr "Upravit region"
+
+msgid "Add new city"
+msgstr "Přidat nové město"
+
+msgid "Edit city"
+msgstr "Upravit město"
+
+msgid "Mail server"
+msgstr "Mailový server"
+
+msgid "Configuration"
+msgstr "Konfigurace"
+
+msgid "Server type"
+msgstr "Typ serveru"
+
+msgid "Custom Server"
+msgstr "Uživatelský server"
+
+msgid "GMail Server"
+msgstr "GMail server"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "Server port"
+msgstr "Port serveru"
+
+msgid "Encryption"
+msgstr "Šifrování"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Možnosti: prázdné, ssl nebo tls"
+
+msgid "Enable SMTP authentication"
+msgstr "Povolit SMTP ověřování"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Zadejte konfiguraci emailového serveru"
+
+msgid "Media settings"
+msgstr "Nastavení medií"
+
+msgid "Configure media"
+msgstr "Konfigurovat media"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Prosím zadejte preferované rozměry pro obrázky na webové stránce (format: WIDTHxHEIGHT, např: 640x480)"
+
+msgid "Restrictions"
+msgstr "Omezení"
+
+msgid "Maximum size, in KB"
+msgstr "Maximální velikost, KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Povolený formát (např: png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Rozměry"
+
+msgid "Thumbnail dimensions"
+msgstr "Rozměry miniatury"
+
+msgid "Preview dimensions"
+msgstr "Rozměry náhledu"
+
+msgid "Normal dimensions"
+msgstr "Běžné rozměry"
+
+msgid "Keep original image"
+msgstr "Zachovat původní obrázek"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Zachování původního obrázku vyžaduje více místa. Tato možnost zajistí, že kvalita původního obrázku bude nezměněna. Používejte tuto možnost s rozvahou."
+
+msgid "Permalinks settings"
+msgstr "Nastavení odkazů"
+
+msgid "Friendly urls"
+msgstr "Přátelské url"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+
+msgid "Enable friendly urls"
+msgstr "Povolit přátelské url"
+
+msgid ".htaccess file"
+msgstr ".htacces soubor"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Modul <em>mod_rewrite</em> byl nalezen na serveru."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Soubory .httaccess existuje. Prosím zkontrolujte jestli obsahuje následující data."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Vytvořili jsme .htaccess soubor v kořenovém adresáři instalace OpenSourceClassifieds"
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Obsah .htaccess by měl vypadat následovně:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Aktuální obsah vašeho .htaccess souboru"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet klíč (stejný jako Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "pokud je pole prázdné, služba Akismet je zakázána"
+
+msgid "Get your free key at"
+msgstr "Získat klíč zdarma na"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "pokud je pole prázdné, služba reCAPTCHA je zakázána"
+
+msgid "Get your free keys at"
+msgstr "Získat klíč zdarma na"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA osobní klíč"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA veřejný klíč"
+
+msgid "Users settings"
+msgstr "Nastavení uživatelů"
+
+msgid "Users enabled"
+msgstr "Uživatelé povolení"
+
+msgid "User validation enabled"
+msgstr "Ověření uživatele povoleno"
+
+msgid "User registration enabled"
+msgstr "Registrace uživatele povolena"
+
+msgid "Backup"
+msgstr "Záloha"
+
+msgid "You're offline! Please check your connection"
+msgstr "Jste offline! Prosím zkontrolujte připojení"
+
+msgid "Requested URL not found"
+msgstr "Požadovaná URL nebyla nalezena"
+
+msgid "Internal server error"
+msgstr "Vnitřní chyba serveru"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Chyba. Požadavek analýzy JSON selhal"
+
+msgid "Request timeout"
+msgstr "Požadavek vypršel"
+
+msgid "Unknown error"
+msgstr "Neznámá chyba"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Zálohovat OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Zde můžete zálohovat OpenSourceClassifieds. VAROVÁNÍ: Pokud neuvedete složku zálohy, budou zálohované soubory uloženy v kořenovém adresáři vaší instalace OpenSourceClassifieds."
+
+msgid "Backup folder"
+msgstr "Složka zálohy"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Toto je adresář, ve kterém bude vytvořena záloha. Doporučujeme zvolit neveřejnou cestu. Pro více informací si pročtěte OpenSourceClassifieds dokumentaci"
+
+msgid "Back up database"
+msgstr "Zálohovat databázi"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Zálohovat instalaci OpenSourceClassifieds"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Můžete obnovit své miniatury a náhledy zde. Funkce je užitečná, pokud došlo ke změně vzhledu a obrázky se nezobrazují správně. Prosím zkontrolujte hodnoty rozměrů v sekci nastavení/media"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Můžete upravit databázi pro přidání, odstranění a upravení dat. Tato funkce je obvykle použita pro import zemí, regionů a měst."
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Uspokojení uživatele úžasně jednoduchou automatickou aktualizací: Hotovo!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Neplatná OpenSourceClassifieds žádost"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Re-type the password"
+msgstr "Zopakovat heslo"
+
+msgid "Additional information"
+msgstr "Dodatečné informace"
+
+msgid "Activate user"
+msgstr "Aktivovat uživatele"
+
+msgid "Deactivate user"
+msgstr "Deaktivovat uživatele"
+
+msgid "Update Date"
+msgstr "Aktualizovat uživatele"
+
+msgid "Add a new user"
+msgstr "Přidat nového uživatele"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Admin mail system"
+msgstr "Administrátorský mailový systém"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Plugin %s chybí v index.php souboru %s"
+
+msgid "Enter your e-mail"
+msgstr "Zadejte e-mail"
+
+msgid "Select a country..."
+msgstr "Zvolte zemi"
+
+msgid "Select a region..."
+msgstr "Zvolte region"
+
+msgid "Select a city..."
+msgstr "Zvolte město"
+
+msgid "No results"
+msgstr "Žádné výsledky"
+
+msgid "Description: needs to be longer"
+msgstr "Popis: musí být delší"
+
+msgid "Choose one category"
+msgstr "Zvolte jednu kategorii"
+
+msgid "Currency: make your selection"
+msgstr "Měna: zadejte vaši volbu"
+
+msgid "Photo: must be %s"
+msgstr "Fotografie: musí být"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Jméno: zadejte alespoň 3 znaky"
+
+msgid "Name: no more than 35 characters"
+msgstr "Jméno: maximálně 35 znaků"
+
+msgid "Email: this field is required"
+msgstr "Email: povinné pole"
+
+msgid "Select a region"
+msgstr "Zvolte region"
+
+msgid "Select a city"
+msgstr "Zvolte město"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Městská část: zadejte alespoň 3 znaky"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Tato akce je nevratná. Opravdu chcete pokračovat?"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "User Description"
+msgstr "Popis uživatele"
+
+msgid "Company"
+msgstr "Společnost"
+
+msgid "Check with seller"
+msgstr "Check with seller"
+
+msgid "Newly listed"
+msgstr "Nově vloženo"
+
+msgid "Lower price first"
+msgstr "Nejnižší cena"
+
+msgid "Higher price first"
+msgstr "Nejvyšší cena"
+
+msgid "Manage your items"
+msgstr "Spravovat inzeráty"
+
+msgid "Manage your alerts"
+msgstr "Spravovat upozornění"
+
+msgid "%s in"
+msgstr "%s za"
+
+msgid "There's no description available in your language"
+msgstr "Popis ve vašem jazyce není dostupný"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Omlouváme se za způsobené nepříjemnosti. %s je v režimu údržby"
+
+msgid "Error removing file: %s"
+msgstr "Chyba při odstraňování souboru: %s"
+
+msgid "Some error ocurred"
+msgstr "Vyskytla se chyba"
+
+msgid "Order saved"
+msgstr "Pořadí uloženo"
+
+msgid "Error while deleting"
+msgstr "Chyba během mazání"
+
+msgid "Error while updating."
+msgstr "Chyba během aktualizování"
+
+msgid "Saved"
+msgstr "Uloženo"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Vše proběhlo v pořádku! OpenSourceClassifieds bylo aktualizováno"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Téměř vše proběhlo v pořádku! OpenSourceClassifieds bylo aktualizováno, ale vyskytly se chyby při odstraňování dočasných souborů. Prosím odstraňte manuálně složku \\'\\'oc-temp\\'\\'"
+
+msgid "Problems upgrading the database"
+msgstr "Problémy při aktualizování databáze"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Problémy při kopírování souborů. Pravděpodobně chybně nastavená oprávnění"
+
+msgid "Download failed"
+msgstr "Stahování selhalo"
+
+msgid "Missing download URL"
+msgstr "Chybí URL stahování"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Vyskytly se chyby při odstraňování souborů. Vzhledem k tomu, že se nejedná o závažné chyby, aktualizace byla dokončena. Prosím odstraňte následující soubory (OpenSourceClassifieds je aktualizováno, ale tato akce je důležitá pro maximální výkon)"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Vyskytly se chyby při aktualizaci databáze. Následující dotazy selhaly"
+
+msgid "Clear"
+msgstr "Vyčistit"
+
+msgid "Forums"
+msgstr "Fóra"
+
+msgid "Add new theme"
+msgstr "Přidat nový vzhled"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Do složky vzhledů %s nelze zapisovat,  <span class=\\\"OpenSourceClassifieds\\\">OpenSourceClassifieds</span> nemůže nahrát vzhledy z administračního panelu. Prosím zkopírujte balíček vzhledu skrze FTP, SSH nebo nastavte možnost zapisovat do uvedené složky."
+
+msgid "Ajax error, try again."
+msgstr "Chyba Ajax, opakujte akci."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "VAROVÁNÍ: Tato akce smaže také inzeráty v kategorii. Tato akce je nevratná. Opravdu chcete pokračovat?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Funkce Drag&amp;drop pro snadné řazení kategorií. Klikněte na odkaz editovat pro úpravu kategorie."
+
+msgid "Add new category"
+msgstr "Přidat novou kategorii"
+
+msgid "Categories settings"
+msgstr "Nastavení kategorií"
+
+msgid "Selectable parent categories"
+msgstr "Označitelné nadřazené kategorie*"
+
+msgid "ACTIVE"
+msgstr "AKTIVNÍ"
+
+msgid "INACTIVE"
+msgstr "NEAKTIVNÍ"
+
+msgid "ENABLED"
+msgstr "POVOLENO"
+
+msgid "DISABLED"
+msgstr "ZAKÁZÁNO"
+
+msgid "Last Searches"
+msgstr "Poslední vyhledávání"
+
+msgid "Maintenance mode"
+msgstr "Mód údržby"
+
+msgid "Reports"
+msgstr "Hlášení"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Počet inzerátů jednoho uživatele, které musí být schváleny, než bude zrušeno schvalování (0 = vždy schvalovat)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Doba (sekundy), kterou musí uživatel počkat před vložením dalšího inzerátu (0 = bez čekání)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Pouze registrovaní uživatelé mohou kontaktovat prodejce"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Maximální množství obrázků na jeden inzerát (0 = neomezeně)"
+
+msgid "Download more languages at %s"
+msgstr "Stáhnout více překladů na %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Tato akce je nevratná. Odinstalování pluginů může vést k trval ztrátě dat. Opravdu chcete pokračovat?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Počet komentářů na stránku. Můžete omezit počet komentářů zobrazených v detailu inzerátu. Ostatní komentáře budou zobrazeny skrze stránkovací systém. (0 = zobrazit všechny komentáře současně)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Pouze registrovaní uživatelé mohou vkládat komentáře"
+
+msgid "Number of recent items displayed at home"
+msgstr "Počet nových inzerátů zobrazených na domovské stránce"
+
+msgid "Save latest searches"
+msgstr "Uložit poslední vyhledávání"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds může uchovat poslední vyhledávání uživatelů. Můžete tak mít představu o tom, co uživatelé hledají, nebo hledání zobrazit jako \\\"žhavá témata\\\""
+
+msgid "Keep last searches"
+msgstr "Uchovat poslední vyhledávání"
+
+msgid "One hour"
+msgstr "1 hodina"
+
+msgid "One day"
+msgstr "1 den"
+
+msgid "One week"
+msgstr "1 týden"
+
+msgid "Forever (never delete)"
+msgstr "Trvale (nikdy nemazat)"
+
+msgid "Keep last 1000 searches"
+msgstr "Uchovat posledních 1000 vyhledávání"
+
+msgid "Number of files to keep"
+msgstr "Množství souborů k uchování"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Funkce posledních vyhledávání generuje velké množství dat. Doporučujeme průběžně promazávat tato data. Můžete mazat data stará hodinu, den nebo týden. Můžete také specifikovat počet vyhledávání pro vymazání, případně data nemazat vůbec."
+
+msgid "Last 10 days"
+msgstr "Posledních 10 dní"
+
+msgid "Last 10 weeks"
+msgstr "Posledních 10 týdnů"
+
+msgid "Last 10 months"
+msgstr "Posledních 10 měsíců"
+
+msgid "There're no statistics yet"
+msgstr "Zatím zde nejsou žádné statistiky"
+
+msgid "Latest comments on the web"
+msgstr "Nejnovější komentáře na stránce"
+
+msgid "New items"
+msgstr "Nové inzeráty"
+
+msgid "Total number of items' views"
+msgstr "Celkové množství shlédnutí inzerátů"
+
+msgid "Latest items on the web"
+msgstr "Nejnovější inzeráty na stránce"
+
+msgid "Active"
+msgstr "Aktivní"
+
+msgid "Inactive"
+msgstr "Neaktivní"
+
+msgid "Views"
+msgstr "Shlédnutí"
+
+msgid "Total number of reports"
+msgstr "Celkové množství hlášení"
+
+msgid "Repeated"
+msgstr "Opakováno"
+
+msgid "Bad category"
+msgstr "Špatná kategorie"
+
+msgid "Latest users on the web"
+msgstr "Nejnovější uživatelé"
+
+msgid "Avg. items per user"
+msgstr "Průměrně inzerátů na uživatele"
+
+msgid "items per user"
+msgstr "inzerátů na uživatele"
+
+msgid "New users"
+msgstr "Noví uživatelé"
+
+msgid "Users per country"
+msgstr "Uživatelů na zemi"
+
+msgid "Unknown"
+msgstr "Neznámý"
+
+msgid "Users per region"
+msgstr "Uživatelů na region"
+
+msgid "Theme"
+msgstr "Vzhled"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Pokud je zapnut mód údržby, uživatelé nemohou vstoupit na vaši stránku. Tato funkce je užitečná, pokud potřebujete provést změny na stránce. Použijte následující tlačítko pro ZAPNUTÍ/VYPNUTÍ módu údržby"
+
+msgid "Maintenance mode is:"
+msgstr "Mód údržby je:"
+
+msgid "ON"
+msgstr "ZAPNUT"
+
+msgid "OFF"
+msgstr "VYPNUT"
+
+msgid "Disable maintenance mode"
+msgstr "Zakázat mód údržby"
+
+msgid "Enable maintenance mode"
+msgstr "Povolit mód údržby"
+
+msgid "Checking for updates"
+msgstr "Kontroluji aktualizace"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Nainstalovaný plugin je aktuální!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Gratulujeme! Vaše verze OpenSourceClassifieds je aktuální!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Aktualizace vaší instalace OpenSourceClassifieds (tato operace může chvíli trvat)"
+
+msgid "Enable user"
+msgstr "Povolit uživatele"
+
+msgid "Disable user"
+msgstr "Zakázat uživatele"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds >> Obsahuje chyby"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Narazili jsme na nějaké problémy při aktualizace struktury databáze. Následující dotazy selhaly:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "These errors could be false-positive errors. If you\\'re sure that is the case, you could <a href=\\\"%s\\\">continue with the upgrade</a>, or <a href=\\\"http://forums.opensourceclassifieds.org/\\\">ask in our forums</a>."
+
+msgid "Name: this field is required"
+msgstr "Jméno: povinné pole"
+
+msgid "Message: this field is required"
+msgstr "Zpráva: povinné pole"
+
+msgid "City area: no more than 50 characters"
+msgstr "Městská část: maximálně 50 znaků"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Adresa: zadejte alespoň 3 znaky"
+
+msgid "Address: no more than 100 characters"
+msgstr "Adresa: maximálně 100 znaků"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Omlouváme se, dosáhl jste maximálního počtu obrázků na jeden inzerát"
+
+msgid "Your name: this field is required"
+msgstr "Vaše jméno: povinné pole"
+
+msgid "Friend's name: this field is required"
+msgstr "Jméno přítele: povinné pole"
+
+msgid "Friend's email: this field is required"
+msgstr "Email přítele: povinné pole"
+
+msgid "Invalid friend's email address"
+msgstr "Neplatná emailová adresa přítele"
+
+msgid "Name: no more than 50 characters"
+msgstr "Jméno: maximálně 50 znaků"
+
+msgid "Password: this field is required"
+msgstr "Heslo: povinné pole"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Heslo: zadejte alespoň 5 znaků"
+
+msgid "No file selected"
+msgstr "Nebyly zvoleny žádné soubory"
+
+msgid "Choose File"
+msgstr "Zvolte soubor"
+
+msgid "The website is currently under maintenance mode"
+msgstr "Tato stránka je momentálně ve výstavbě"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Pole s tímto názvem již existuje"
+
+msgid "The custom field have been deleted"
+msgstr "Volitelné pole bylo vymazáno"
+
+msgid "Unmark as spam"
+msgstr "Odznačit jako spam"
+
+msgid "Mark as spam"
+msgstr "Označit jako spam"
+
+msgid "Field's name"
+msgstr "Název pole"
+
+msgid "This field is required"
+msgstr "Toto pole je vyžadováno"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Zvolte kategorie, ve kterých chcete aplikovat tyto atributy"
+
+msgid "Advanced options"
+msgstr "Rozšířené možnosti"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "Identifikační název (pouze alfanumerické znaky jsou povoleny a-z 0-9)"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "VAROVÁNÍ: Tato akce vymaže také informace přiřazené k poli. Tato akce je nevratná. Opravdu si přejete pokračovat?"
+
+msgid "Custom Fields"
+msgstr "Volitelná pole"
+
+msgid "Add new field"
+msgstr "Přidat nové pole"
+
+msgid "Add new custom field"
+msgstr "Přidat nové volitelné pole"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "You don't have any custom fields yet"
+msgstr "Zatím nemáte žádná volitelná pole"
+
+msgid "Manage custom fields"
+msgstr "Spravovat volitelná pole"
+
+msgid "County"
+msgstr "Okres"
+
+msgid "Show filters"
+msgstr "Zobrazit filtry"
+
+msgid "Title and Description"
+msgstr "Titulek a popis"
+
+msgid "Premium"
+msgstr "Prémiový"
+
+msgid "ALL"
+msgstr "VŠE"
+
+msgid "Reset filters"
+msgstr "Resetovat filtry"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "Zvolte kategorie, ve kterých chcete aplikovat tyto atributy (pro rozbalení kategorie klikněte na její název)"
+
+msgid "Watermark settings"
+msgstr "Nastavení vodoznaku"
+
+msgid "Watermark color"
+msgstr "Barva vodoznaku"
+
+msgid "Watermark text"
+msgstr "Text vodoznaku"
+
+msgid "Watermark place"
+msgstr "Umístění vodoznaku"
+
+msgid "Centre"
+msgstr "Střed"
+
+msgid "Top Left"
+msgstr "Vlevo nahoře"
+
+msgid "Top Right"
+msgstr "Vpravo nahoře"
+
+msgid "Bottom Left"
+msgstr "Vlevo dole"
+
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+msgid "Watermark image"
+msgstr "Obrázek vodoznaku"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "Mějte na paměti, že OpenSourceClassifieds se nestará o velikost obrázku vodoznaku"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Doporučujeme aktivaci funkce 'Uchovat původní obrázek' při používání vodoznaků"
+
+msgid "New version to update:"
+msgstr "Nová verze k aktualizaci:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "Vaše instalace OpenSourceClassifieds může být automaticky aktualizována. Prosím, zálohujte databázi a složku oc-content před samotnou aktualizací. OpenSourceClassifieds můžete aktualizovat také manuálně. Více informací naleznete zde %s"
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Vaše instalace OpenSourceClassifieds nemůže být automaticky aktualizována. Soubory a složky musí být zapisovatelné. Můžete nastavit oprávnění na 644 skrze SSH pomocí příkazu \\!chmod -R 644 *\\\" (bez uvozovek), případně přes FTP klienta. U druhé možnosti nemůžeme poskytnout více informací, protože nastavení vždy závisí na konkrétní programu. OpenSourceClassifieds můžete také aktualizovat pomocí aktualizačního balíčku. Stáhněte jej, rozbalte a přepište stávající soubory."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "neexistuje kategorie se zadaným id. %d"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "Kategorie a podkategorie byly povoleny"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "Kategorie a podkategorie byly zakázány"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "Nadřazená kategorie je zakázána. Nemůžete povolit tuto kategorii"
+
+msgid "The subcategory has been enabled"
+msgstr "Podkategorie byla povolena"
+
+msgid "The subcategory has been disabled"
+msgstr "Podkategorie byly zakázána"
+
+msgid "Category updated correctly"
+msgstr "Kategorie byla aktualizována"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "Kategorie byla aktualizována, ale některé názvy chybí"
+
+msgid "Sorry, at least a title is needed"
+msgstr "Prosím zadejte název"
+
+msgid "Error while updating"
+msgstr "Chyba během aktualizace"
+
+msgid "Test email"
+msgstr "Test emailu"
+
+msgid "Email sent successfully"
+msgstr "Email úspěšně odeslán"
+
+msgid "An error has occurred while sending email"
+msgstr "Vyskytla se chyba během odesílání emailu"
+
+msgid "Field's type"
+msgstr "Typ pole"
+
+msgid "Field's options (separated by commas)"
+msgstr "Možnosti pole (odděleno čárkami)"
+
+msgid "Options (separeted by commas)"
+msgstr "Možnosti (odděleno čárkami)"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "Povolit přílohy ve zprávě pro prodejce"
+
+msgid "Number of decimals"
+msgstr "Počet desetin"
+
+msgid "Decimal point"
+msgstr "Desetinná čárka"
+
+msgid "Thousands separator"
+msgstr "Oddělovač tisícovek"
+
+msgid "Action"
+msgstr "Akce"
+
+msgid "Notify admin when there's a new comment"
+msgstr "Upozornit administrátora na vložení nového komentáře"
+
+msgid "Notify user when there's a new comment"
+msgstr "Upozornit uživatele na vložení nového komentáře"
+
+msgid "Timezone"
+msgstr "Časová zóna"
+
+msgid "Select a timezone..."
+msgstr "Zvolit časovou zónu"
+
+msgid "Number of item displayed in search results"
+msgstr "Počet inzerátů zobrazených ve výsledcích vyhledávání"
+
+msgid "Use a POP before SMTP"
+msgstr "Použít POP před SMTP"
+
+msgid "not found"
+msgstr "nenalezeno"
+
+msgid "Test configuration"
+msgstr "Test konfigurace"
+
+msgid "The email will be sent to contact email"
+msgstr "Zpráva bude odeslána na kontaktní email"
+
+msgid "Send email"
+msgstr "Poslat email"
+
+msgid "Use imagick instead of GD"
+msgstr "Použít imagick místo GD"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "Je to rychlejší a spotřebovává méně zdrojů než GD knihovna"
+
+msgid "Freetype library is required. How to"
+msgstr "Freetype knihovna je požadována Jak"
+
+msgid "install/configure"
+msgstr "instalovat/konfigurovat"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Varování! Rewrite modul nebyl nalezen na serveru. To znamená, že jej nemáte povolen, případně běží PHP jako CGI (nebo fastCGI). V případě, že nemáte mod_rewrite, můžete použít uživatelsky přívětivé url, pokud máte AcceptPathinfo na vaší Apache konfiguraci (nemůžeme samozřejmě vědět, zda je funce povolena, ale obvykle bývá) \\\"index php\\\" se objeví jako část vaší URL (například http://www.adresa.cz/index.php/nice/url)"
+
+msgid "Notify admin when a new user registers"
+msgstr "Upozornit administrátora při registraci nového uživatele"
+
+msgid "Price: no more than 50 characters"
+msgstr "Cena: maximálně 50 znaků"
+

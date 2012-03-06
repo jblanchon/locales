@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Sidan hittades inte"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Du prenumererar nu på denna upplysning"
+
+msgid "There was a problem with the alert"
+msgstr "Det uppstod ett problem med upplysningen"
+
+msgid "Subscribe to this search"
+msgstr "Prenumerera på denna sökning"
+
+msgid "Subscribe now"
+msgstr "Prenumerera nu"
+
+msgid "Subject"
+msgstr "Ämne"
+
+msgid "Message"
+msgstr "Meddelande"
+
+msgid "Your name"
+msgstr "Ditt namn"
+
+msgid "Your e-mail address"
+msgstr "Din emailadress"
+
+msgid "Send"
+msgstr "Skicka"
+
+msgid "Contact"
+msgstr "Kontakta"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Denna webbplats är stolt att använda <A title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</A> software <STRONG>OpenSourceClassifieds</STRONG>"
+
+msgid "Publish an item"
+msgstr "Lägg upp en annons"
+
+msgid "Edit your item"
+msgstr "Redigera din annons"
+
+msgid "Send to a friend"
+msgstr "Skicka till en vän"
+
+msgid "Contact seller"
+msgstr "Kontakta säljaren"
+
+msgid "page"
+msgstr "Sida"
+
+msgid "Show all items"
+msgstr "Visa alla annonser"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Recover your password"
+msgstr "Återställ ditt lösenord"
+
+msgid "Login"
+msgstr "Logga in"
+
+msgid "Create a new account"
+msgstr "Skapa ett nytt konto"
+
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+msgid "Manage my items"
+msgstr "Hantera mina annonser"
+
+msgid "Manage my alerts"
+msgstr "Hantera mina prenumerationer"
+
+msgid "Update my profile"
+msgstr "Uppdatera min profil"
+
+msgid "Change my email"
+msgstr "Ändra min email"
+
+msgid "Change my password"
+msgstr "Ändra mitt lösenord"
+
+msgid "Recover my password"
+msgstr "Återhämta mitt lösenord"
+
+msgid "Hi %s"
+msgstr "Hej %s"
+
+msgid "My account"
+msgstr "Mitt konto"
+
+msgid "Logout"
+msgstr "Logga ut"
+
+msgid "Register for a free account"
+msgstr "Skaffa ett gratis konto"
+
+msgid "E-mail"
+msgstr "email"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Remember me"
+msgstr "Kom ihåg mig"
+
+msgid "Log in"
+msgstr "Logga in"
+
+msgid "Forgot password?"
+msgstr "Glömt lösenordet?"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Publish your ad for free"
+msgstr "Lägg upp en annons"
+
+msgid "ie. PHP Programmer"
+msgstr "Vad letar du efter?"
+
+msgid "Select a category"
+msgstr "Välj en kategori"
+
+msgid "To (seller)"
+msgstr "Till (säljaren)"
+
+msgid "Item"
+msgstr "Annons"
+
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgid "Send message"
+msgstr "Skicka meddelande"
+
+msgid "Update your item"
+msgstr "Uppdatera din annons"
+
+msgid "General Information"
+msgstr "Annonsens beskrivning"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Photos"
+msgstr "Bilder"
+
+msgid "Add new photo"
+msgstr "Lägg till en bild"
+
+msgid "Location"
+msgstr "Plats"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Län"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "City area"
+msgstr "Stadsområde"
+
+msgid "Address"
+msgstr "Adress"
+
+msgid "Update"
+msgstr "Uppdatera"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Item Location"
+msgstr "Annonsens plats"
+
+msgid "City Area"
+msgstr "Stadsområde"
+
+msgid "Seller's information"
+msgstr "Säljarens information"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Show e-mail on the item page"
+msgstr "Visa email på annonssidan"
+
+msgid "Publish"
+msgstr "Publicera"
+
+msgid "Your friend's name"
+msgstr "Din väns namn"
+
+msgid "Your friend's e-mail address"
+msgstr "Din väns e-postadress"
+
+msgid "Mark as"
+msgstr "Markera som"
+
+msgid "spam"
+msgstr "Spam"
+
+msgid "misclassified"
+msgstr "Missvisande"
+
+msgid "duplicated"
+msgstr "Dublett"
+
+msgid "expired"
+msgstr "Löpt ut"
+
+msgid "offensive"
+msgstr "Kränkande"
+
+msgid "Share"
+msgstr "Dela"
+
+msgid "Useful information"
+msgstr "Att tänka på:"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Undvik bedrägerier genom att handla lokalt eller betala med PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Betala aldrig med Western Union, MoneyGram eller andra anonyma betaltjänster"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Köp och sälj inte utanför ditt land."
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Denna webbplats är aldrig inblandad i någon transaktion och hanterar inte betalningar, frakt, garantiärenden, eller erbjuder \\\"köpar skydd \\\"eller \\\"säljare certifiering\\\""
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "by"
+msgstr "Av"
+
+msgid "Delete your comment"
+msgstr "Radera din kommentar"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Lämna din kommentar (spam och kränkande meddelanden kommer att tas bort)"
+
+msgid "Your e-mail"
+msgstr "Din e-post"
+
+msgid "Title"
+msgstr "Rubrik"
+
+msgid "Comment"
+msgstr "Kommentera"
+
+msgid "Contact publisher"
+msgstr "Kontakta säljaren"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Enter the words above"
+msgstr "Skriv orden ovan"
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Latest Items"
+msgstr "De senaste annonserna"
+
+msgid "No Latest Items"
+msgstr "Det finns inga senaste annonser"
+
+msgid "See all offers"
+msgstr "Visa alla annonser"
+
+msgid "Search results"
+msgstr "Sökresultat"
+
+msgid "Sort by"
+msgstr "Sortera efter"
+
+msgid "There are no results matching \"%s\""
+msgstr "Det finns inga resultat som matchar \\\"%s\\\""
+
+msgid "Your search"
+msgstr "Din sökning"
+
+msgid "Show only"
+msgstr "Visa bara"
+
+msgid "Show only items with pictures"
+msgstr "Visa endast objekt med bilder"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Anpassa"
+
+msgid "Selected"
+msgstr "Valda"
+
+msgid "Nothing selected, input was"
+msgstr "Inget markerat, indata var"
+
+msgid "User account manager"
+msgstr "Hanteraren för användarkontot"
+
+msgid "Your alerts"
+msgstr "Dina meddelanden"
+
+msgid "You do not have any alerts yet"
+msgstr "Du har inga meddelanden ännu"
+
+msgid "Alert"
+msgstr "Meddelande"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Denna åtgärd kan inte ångras. Är du säker på att du vill fortsätta?"
+
+msgid "Delete this alert"
+msgstr "Ta bort detta här meddelande"
+
+msgid "Publication date"
+msgstr "Publiceringsdatum"
+
+msgid "Change your e-mail"
+msgstr "Ändra din email"
+
+msgid "Current e-mail"
+msgstr "Aktuell email"
+
+msgid "New e-mail"
+msgstr "Ny email"
+
+msgid "Change your password"
+msgstr "Ändra ditt lösenord"
+
+msgid "Current password"
+msgstr "Nuvarande lösenord"
+
+msgid "New password"
+msgstr "Nytt lösenord"
+
+msgid "Repeat new password"
+msgstr "Repetera nytt lösenord"
+
+msgid "Items from %s"
+msgstr "Annons från %s"
+
+msgid "No items have been added yet"
+msgstr "Inga annonser har lagts till ännu"
+
+msgid "New pasword"
+msgstr "Nytt lösenord"
+
+msgid "Repeat new pasword"
+msgstr "Upprepa nytt lösenord"
+
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+msgid "Your items"
+msgstr "Dina annonser"
+
+msgid "Post a new item"
+msgstr "Lägga till ett ny annons"
+
+msgid "You don't have any items yet"
+msgstr "Du har inte några annonser ännu"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Detta kan inte ångras. Är du säker på att du vill fortsätta?"
+
+msgid "Activate"
+msgstr "Aktivera"
+
+msgid "Access to your account"
+msgstr "Åtkomst till ditt konto"
+
+msgid "Update your profile"
+msgstr "Uppdatera din profil"
+
+msgid "Modify e-mail"
+msgstr "Ändra e-post"
+
+msgid "Modify password"
+msgstr "Ändra lösenord"
+
+msgid "User type"
+msgstr "Användartyp"
+
+msgid "Cell phone"
+msgstr "Mobiltelefon"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Webbplats"
+
+msgid "Send me a new password"
+msgstr "Skicka mig ett nytt lösenord"
+
+msgid "Register an account for free"
+msgstr "Registrera ett konto gratis"
+
+msgid "Re-type password"
+msgstr "Skriv lösenordet igen"
+
+msgid "Passwords don't match"
+msgstr "Lösenorden matchar inte"
+
+msgid "Create"
+msgstr "Skapa"
+
+msgid "Invalid email address"
+msgstr "Ogiltig mailadress"
+
+msgid "Upload"
+msgstr "Ladda upp"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "För att göra en katalog skrivbar under UNIX utför detta kommando från skalet"
+
+msgid "optional"
+msgstr "Valfritt"
+
+msgid "Latest items"
+msgstr "Senaste annonserna"
+
+msgid "Modern theme"
+msgstr "Tema: Modern"
+
+msgid "Settings theme"
+msgstr "Tema inställningar"
+
+msgid "Image"
+msgstr "bild"
+
+msgid "Published date"
+msgstr "Publicerad"
+
+msgid "Modified date"
+msgstr "Modifierad"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Storlek på loggan bör vara 600x100 "
+
+msgid "Logo image"
+msgstr "Logga bild"
+
+msgid "Remove logo"
+msgstr "Radera logga"
+
+msgid "Has not uploaded any logo image"
+msgstr "Har inte laddat upp någon logga"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Images folder %s är inte skrivbar på din server"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds kan inte ladda upp loggan från adminpanelen"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Du måste göra images foldern skrivbar"
+
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+msgid "Error"
+msgstr "Fel"
+
+msgid "No file selected"
+msgstr "Ingen fil är vald"
+
+msgid "Choose File"
+msgstr "Välj fil"
+
+msgid "Sponsored ad"
+msgstr "Sponsrad annons"
+
+msgid "View item"
+msgstr "Se annons"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Notera: Om du laddar upp ytterligare en logobild kommer den nuvarande att skrivas över"
+
+msgid "The item is expired. You cannot contact the publisher."
+msgstr "Annonsen har upphört. Du kan inte kontakta annonsören."
+
+msgid "It's your own item, you cannot contact the publisher."
+msgstr "Detta är din egen annons, du kan inte kontakta dig själv."
+
+msgid "You must login or register a new free account in order to contact the advertiser"
+msgstr "Du måste logga in eller registrera dig för att kunna kontakta annonsören."
+
+msgid "%s's profile"
+msgstr "%s's profil"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Namn"
+

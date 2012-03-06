@@ -1,0 +1,1708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr ": الإصدار الحالي"
+
+msgid "Downloading update file:"
+msgstr ": تنزيل ملف التحديث"
+
+msgid "Unzipping file:"
+msgstr ": فك ضغط الملف"
+
+msgid "Copying old files:"
+msgstr ": نسخ الملفات القديمة"
+
+msgid "Removing new files:"
+msgstr ": حذف الملفات الجديدة"
+
+msgid "Executing SQL:"
+msgstr ": SQL تنفيذ أمر"
+
+msgid "Executing additional actions:"
+msgstr ": تنفيذ إجراءات إضافية"
+
+msgid "Cleaning all the mess:"
+msgstr ": إزالة الملفات المؤقتة"
+
+msgid "Contact"
+msgstr "اتصل"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Dashboard"
+msgstr "لوحة الإدارة"
+
+msgid "My account"
+msgstr "حسابي"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+msgid "Password"
+msgstr "كلمة السر"
+
+msgid "Remember me"
+msgstr "تذكرني"
+
+msgid "Log in"
+msgstr "تسجيل دخول"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Select a category"
+msgstr "حدد فئة"
+
+msgid "Item"
+msgstr "الإعلان"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Photos"
+msgstr "الصور"
+
+msgid "Add new photo"
+msgstr "إضافة صورة جديدة"
+
+msgid "Location"
+msgstr "الموقع"
+
+msgid "Country"
+msgstr "البلد"
+
+msgid "Region"
+msgstr "المحافظة"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "City area"
+msgstr "الحي"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "City Area"
+msgstr "الحي"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "Comments"
+msgstr "التعليقات"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Title"
+msgstr "عنوان الإعلان"
+
+msgid "Comment"
+msgstr "التعليق"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "هذا الإجراء لن يمكنك التراجع عنه. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Passwords don't match"
+msgstr "كلمات المرور لا تتطابق"
+
+msgid "Current password"
+msgstr "كلمة المرور الحالية"
+
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "New pasword"
+msgstr "كلمة السر الجديدة"
+
+msgid "Repeat new pasword"
+msgstr "اعد كتابة كلمة السر الجديدة"
+
+msgid "Change password"
+msgstr "تغيير كلمة السر"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "هذا الإجراء لن يمكنك التراجع عنه. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Activate"
+msgstr "تفعيل"
+
+msgid "User type"
+msgstr "نوع المستخدم"
+
+msgid "Cell phone"
+msgstr "الهاتف الخليوي"
+
+msgid "Phone"
+msgstr "الهاتف"
+
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+msgid "Create"
+msgstr "إنشاء"
+
+msgid "The categories have been deleted"
+msgstr "تم حذف هذه الفئات"
+
+msgid "The category has been enabled"
+msgstr "تم تفعيل هذه الفئة"
+
+msgid "The category has been disabled"
+msgstr "تم تعطيل الفئة"
+
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr " هناك مشكلة مع هذه الصفحة. لم يتم تحديد معرف للفئة"
+
+msgid "Invalid email address"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+msgid "no action defined"
+msgstr "لم يتم تحديد إجراء لتنفيذه"
+
+msgid "Contact form"
+msgstr "نموذج الاتصال"
+
+msgid "Administrator"
+msgstr "مشرف"
+
+msgid "Latest items added"
+msgstr "أخر الإعلانات المضافة"
+
+msgid "Latest items added in"
+msgstr "أخر الإعلانات المضافة في"
+
+msgid "Checking for update files."
+msgstr ".التحقق من وجود ملفات تحديث"
+
+msgid "File downloaded correctly"
+msgstr "تم تحميل الملف بشكل صحيح"
+
+msgid "Missing filename"
+msgstr "اسم الملف مفقود"
+
+msgid "Removing temp-directory"
+msgstr "إزالة مجلد الملفات المؤقتة"
+
+msgid "Archiving is sucessful!"
+msgstr "!تمت عملية الأرشفة بنجاح"
+
+msgid "Error, can't create a zip file!"
+msgstr "!خطأ، لا يمكن إنشاء ملف مضغوط"
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "Unzip failed"
+msgstr "فشلت عملية فك الضغط"
+
+msgid "Filename incorrect"
+msgstr "اسم الملف غير صحيح"
+
+msgid "Files removed"
+msgstr "تمت إزالة الملفات"
+
+msgid "No files to remove"
+msgstr "لا يوجد ملفات لإزالتها"
+
+msgid "There were problems copying files"
+msgstr "هناك مشاكلة في نسخ الملفات"
+
+msgid "Nothing to copy"
+msgstr "لا شيء لنسخه"
+
+msgid "Files copied"
+msgstr "تم نسخ الملفات"
+
+msgid "upgrade.sql executed"
+msgstr "تمت ترقية قاعدة البيانات"
+
+msgid "No SQL to execute"
+msgstr "لتنفيذه SQL لا يوجد أمر"
+
+msgid "Custom actions executed"
+msgstr "تم تنفيذ الإجراءات المخصصة"
+
+msgid "No action to execute"
+msgstr "لا يوجد (أو لم يتم تحديد) إجراء لتنفيذ"
+
+msgid "Checking for update files"
+msgstr "التحقق من وجود ملفات تحديث"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "هناك مشاكل في نسخ الملفات. ربما لم يتم تعيين حقوق استخدام الملف بشكل صحيح"
+
+msgid "Tables updated correctly"
+msgstr "تم تحديث الجداول بشكل صحيح"
+
+msgid "No tables update to execute"
+msgstr "لا يوجد جداول تحديث لتنفيذها"
+
+msgid "View comments"
+msgstr "عرض التعليقات"
+
+msgid "View media"
+msgstr "عرض وسائط الميديا"
+
+msgid "Deactivate"
+msgstr "تعطيل"
+
+msgid "Unmark as premium"
+msgstr "عدم التحديد كإستثنائي"
+
+msgid "Mark as premium"
+msgstr "تحديد كإستثنائي"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds دخول إلى لوحة ادارة"
+
+msgid "Type your new password"
+msgstr "أدخل كلمة المرور الجديدة"
+
+msgid "Back to"
+msgstr "العودة إلى"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Forgot your password?"
+msgstr "نسيت كلمة السر؟"
+
+msgid "Please enter your username or e-mail address"
+msgstr "الرجاء إدخال اسم المستخدم أو عنوان البريد الإلكتروني"
+
+msgid "You will receive a new password via e-mail"
+msgstr "سيتم إرسال كلمة المرور الجديدة بواسطة البريد الإلكتروني"
+
+msgid "Get new password"
+msgstr "الحصول على كلمة مرور جديدة"
+
+msgid "Thank you for using"
+msgstr "شكرا لاستخدامك"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "وثائق"
+
+msgid "Feedback"
+msgstr "ملاحظاتك"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds لوحة إدارة"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "متاح للتنزيل OpenSourceClassifieds %s إصدار "
+
+msgid "Please upgrade now"
+msgstr "الرجاء الترقية الآن"
+
+msgid "Visit website"
+msgstr "زيارة الموقع"
+
+msgid "Hi"
+msgstr "مرحبا"
+
+msgid "Your profile"
+msgstr "ملفك الشخصي"
+
+msgid "Log Out"
+msgstr "تسجيل الخروج"
+
+msgid "Admins"
+msgstr "المشرفون"
+
+msgid "Add new admin"
+msgstr "إضافة مشرف جديد"
+
+msgid "Real name"
+msgstr "الاسم الحقيقي"
+
+msgid "required"
+msgstr "مطلوب"
+
+msgid "User name"
+msgstr "اسم المستخدم"
+
+msgid "Edit admin"
+msgstr "تحرير المشرف"
+
+msgid "Re-type new password"
+msgstr "أعد كتابة كلمة المرور الجديدة"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "دعه فارغاَ إذا كنت لا ترغب في تغيير كلمة السر"
+
+msgid "Processing"
+msgstr "قيد العمل"
+
+msgid "Show _MENU_ entries"
+msgstr "إظهار _MENU_ الإدخالات"
+
+msgid "No matching records found"
+msgstr "لم يتم العثور على سجلات مطابقة"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "عرض من _START_ إلى _END_ من _TOTAL_ بيان"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "عرض من 0 إلى 0 من 0 بيان"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "تمت تصفيتها من إجمالي _MAX_ بيان"
+
+msgid "First"
+msgstr "الأول"
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Last"
+msgstr "الأخير"
+
+msgid "Show"
+msgstr "عرض"
+
+msgid "entries"
+msgstr "إدخالات"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع عن هذا الحدث. هل أنت متأكد من المتابعة؟"
+
+msgid "Bulk actions"
+msgstr "إجراء على كافة التحديدات"
+
+msgid "Appearance"
+msgstr "المظهر"
+
+msgid "Theme package"
+msgstr "حزمة الموضوع"
+
+msgid "Upload"
+msgstr "تحميل"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "UNIX لجعل المجلد قابل للكتابة في نظام ال ,shell قم بتنفيذ هذا الأمر من"
+
+msgid "Dashboard - Add New Widget"
+msgstr "لوحة الإدارة - إضافة تطبيق مصغر جديد"
+
+msgid "Create widget in %s"
+msgstr "%s إنشاء تطبيق مصغر في"
+
+msgid "Description (only for internal purposes)"
+msgstr "(الوصف (فقط للإستخدام الداخلي"
+
+msgid "HTML Code for the Widget"
+msgstr "للتطبيق المصغر HTML كود"
+
+msgid "Publish widget"
+msgstr "انشر التطبيق المصغر"
+
+msgid "Are you sure you want to cancel?"
+msgstr "هل أنت متأكد أنك تريد إلغاء الأمر؟"
+
+msgid "Add a new theme"
+msgstr "إضافة موضوع جديد"
+
+msgid "Current theme"
+msgstr "الموضوع الحالي"
+
+msgid "Author"
+msgstr "المؤلف"
+
+msgid "Available themes"
+msgstr "الموضوعات المتاحة"
+
+msgid "Preview"
+msgstr "معاينة"
+
+msgid "Widgets"
+msgstr "تطبيقات مصغرة"
+
+msgid "Add HTML widget"
+msgstr "للتطبيق المصغر HTML أضف"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Expirations days"
+msgstr "أيام الإنتهاء"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = بدون انتهاء مدة)"
+
+msgid "Enabled"
+msgstr "مفعل"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Disable"
+msgstr "تعطيل"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "Enable"
+msgstr "تمكين"
+
+msgid "Edit comment"
+msgstr "تحرير التعليق"
+
+msgid "Add a comment"
+msgstr "أضف تعليق"
+
+msgid "Add"
+msgstr "أضف"
+
+msgid "You have to write a title."
+msgstr "يجب أن تقوم بكتابة عنوان للإعلان"
+
+msgid "You have to write a comment."
+msgstr "يجب أن تقوم بكتابة تعليق"
+
+msgid "Author's name can not be empty."
+msgstr "لا يمكن أن يكون اسم المؤلف فارغاَ"
+
+msgid "Author's email can not be empty."
+msgstr "لا يمكن أن يكون عنوان البريد الإلكتروني فارغاَ"
+
+msgid "Edit a comment on item:"
+msgstr ":تحرير التعليق على موضوع"
+
+msgid "View"
+msgstr "عرض"
+
+msgid "It's a registered user"
+msgstr "هذا مستخدم مسجل"
+
+msgid "Edit user"
+msgstr "تحرير مستخدم"
+
+msgid "Author's e-mail"
+msgstr "عنوان البريد الإلكتروني للمؤلف"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "De-activate"
+msgstr "إلغاء التنشيط"
+
+msgid "Date"
+msgstr "التاريخ"
+
+msgid "Manage Comments"
+msgstr "إدارة التعليقات"
+
+msgid "Edit email/alert"
+msgstr "تحرير البريد الالكتروني / الإعلام"
+
+msgid "Add an email/alert"
+msgstr "إضافة بريد إلكتروني / إعلام"
+
+msgid "Emails & Alerts"
+msgstr "رسائل البريد الإلكتروني و الإعلامات"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "(اسم داخلي (اسم للتعرف بسهولة على هذا البريد الالكتروني / الإعلام"
+
+msgid "Emails & alerts"
+msgstr "رسائل البريد الإلكتروني و الإعلامات"
+
+msgid "Items"
+msgstr "الإعلانات"
+
+msgid "Manage items"
+msgstr "إدارة الإعلانات"
+
+msgid "Add new item"
+msgstr "إضافة إعلان جديد"
+
+msgid "Manage media"
+msgstr "إدارة وسائط الميديا"
+
+msgid "Manage categories"
+msgstr "إدارة الفئات"
+
+msgid "Pages"
+msgstr "الصفحات"
+
+msgid "Manage pages"
+msgstr "إدارة الصفحات"
+
+msgid "Create page"
+msgstr "إنشاء صفحة"
+
+msgid "Manage emails & alerts"
+msgstr "إدارة رسائل البريد الإلكتروني و الإعلامات"
+
+msgid "Manage themes"
+msgstr "إدارة المواضيع"
+
+msgid "Add or remove widgets"
+msgstr "إضافة أو إزالة التطبيقات المصغرة"
+
+msgid "Plugins"
+msgstr "التطبيقات المصغرة"
+
+msgid "Manage plugins"
+msgstr "إدارة التطبيقات المصغرة"
+
+msgid "Add new plugin"
+msgstr "إضافة تطبيق مصغر جديد"
+
+msgid "Languages"
+msgstr "اللغات"
+
+msgid "Manage languages"
+msgstr "إدارة اللغات"
+
+msgid "Add a language"
+msgstr "إضافة لغة"
+
+msgid "General settings"
+msgstr "الإعدادات العامة"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "Locations"
+msgstr "المواقع"
+
+msgid "Permalinks"
+msgstr "Permalinks"
+
+msgid "Spam and bots"
+msgstr "البريد المزعج"
+
+msgid "Currencies"
+msgstr "العملات"
+
+msgid "Mail Server"
+msgstr "سيرفر البريد"
+
+msgid "Media"
+msgstr "الميديا"
+
+msgid "Cron system"
+msgstr "نظام كرون"
+
+msgid "Tools"
+msgstr "الأدوات"
+
+msgid "Import data"
+msgstr "استيراد البيانات"
+
+msgid "Backup data"
+msgstr "النسخ الاحتياطي للبيانات"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds ترقية"
+
+msgid "Regenerate thumbnails"
+msgstr "تجديد الصور المصغرة"
+
+msgid "Manage users"
+msgstr "إدارة المستخدمين"
+
+msgid "Add new user"
+msgstr "إضافة مستخدم جديد"
+
+msgid "Administrators"
+msgstr "المشرفين"
+
+msgid "List administrators"
+msgstr "قائمة المشرفين"
+
+msgid "Add new administrator"
+msgstr "إضافة مشرف جديد"
+
+msgid "Edit Your Profile"
+msgstr "تحرير ملفك الشخصي"
+
+msgid "New item"
+msgstr "إعلان جديد"
+
+msgid "Edit item"
+msgstr "تحرير إعلان"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "Item posted by"
+msgstr "تم تسجيل البيان بواسطة"
+
+msgid "Non-registered user"
+msgstr "مستخدم غير مسجل"
+
+msgid "E-Mail"
+msgstr "البريد الإلكتروني"
+
+msgid "General information"
+msgstr "معلومات عامة"
+
+msgid "optional"
+msgstr "اختياري"
+
+msgid "Add item"
+msgstr "إضافة إعلان"
+
+msgid "Count"
+msgstr "عد"
+
+msgid "Filter by"
+msgstr "تصفية بحسب"
+
+msgid "All"
+msgstr "جميع"
+
+msgid "Pending"
+msgstr "في الإنتظار"
+
+msgid "Spam"
+msgstr "مزعج"
+
+msgid "Duplicated"
+msgstr "مكرر"
+
+msgid "Misclassified"
+msgstr "تصنيف سئ"
+
+msgid "Offensive"
+msgstr "اعتداء"
+
+msgid "Expired"
+msgstr "انتهت"
+
+msgid "Language package"
+msgstr "حزمة اللغة"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "مجلد اللغات غير قابل للكتابة على السيرفر و لا تستطيع تحميل القواميس من لوحة الإدارة. قم بجعل المجلد قابل للكتابة"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr ":shell قم بتنفيذ الأمر من UNIX لجعل المجلد قابل للكتابة بنظام ال"
+
+msgid "Short name"
+msgstr "الاسم المختصر"
+
+msgid "Currency format"
+msgstr "تنسيق العملة"
+
+msgid "Date format"
+msgstr "تنسيق التاريخ"
+
+msgid "Stopwords"
+msgstr "كلمات التوقف"
+
+msgid "Enabled for the public website"
+msgstr "مفعل للموقع العام"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "مفعل للوحة الإدارة"
+
+msgid "Disable (website)"
+msgstr "(تعطيل (الموقع"
+
+msgid "Disable (oc-admin)"
+msgstr "(تعطيل (لوحة الإدارة"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Enabled (website)"
+msgstr "(تمكين (الموقع"
+
+msgid "Enabled (oc-admin)"
+msgstr "(تمكين (لوحة الإدارة"
+
+msgid "Bulk Actions"
+msgstr "إجراءات على كافة التحديدات"
+
+msgid "Enable (Website)"
+msgstr "(تمكين (الموقع"
+
+msgid "Disable (Website)"
+msgstr "(تعطيل (الموقع"
+
+msgid "Enable (oc-admin)"
+msgstr "(تمكين (لوحة التحكم"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "ماذا تريد أن ترى في لوحة الإدارة؟"
+
+msgid "Latest items"
+msgstr "أخر الإعلانات"
+
+msgid "Statistics"
+msgstr "إحصاءات"
+
+msgid "Latest comments"
+msgstr "آخر التعليقات"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds آخر الأخبار من"
+
+msgid "Items by category"
+msgstr "الإعلانات بحسب الفئة"
+
+msgid "There aren't any uploaded items yet"
+msgstr "لا يوجد أي إعلان تم تحميله بعد"
+
+msgid "Number of items"
+msgstr "عدد الإعلانات"
+
+msgid "Number of public users"
+msgstr "عدد المستخدمين العام"
+
+msgid "Number of administrators"
+msgstr "عدد المشرفين"
+
+msgid "Commented on item"
+msgstr "تم التعليق على الإعلان"
+
+msgid "There aren't any comments yet"
+msgstr "لا توجد أي تعليقات بعد"
+
+msgid "new"
+msgstr "جديد"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "الرجاء المحاولة لاحقاَ .OpenSourceClassifieds لا يمكن استيراد الأخبار من "
+
+msgid "File"
+msgstr "الملف"
+
+msgid "Attached to"
+msgstr "إرفاق إلى"
+
+msgid "Edit page"
+msgstr "تحرير الصفحة"
+
+msgid "Add page"
+msgstr "إضافة صفحة"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "(اسم داخلي (اسم للتعرف بسهولة على هذه الصفحة"
+
+msgid "View page"
+msgstr "مشاهدة الصفحة"
+
+msgid "Add a new plugin"
+msgstr "إضافة تطبيق مصغر جديد"
+
+msgid "Plugin package"
+msgstr "حزمة التطبيق المصغر"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "غير قابل للكتابة على السيرفر %s مجلد التطبيقات المصغرة"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "لا يمكن تحميل الإضافات من لوحة الإدارة"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "FTP أو SSH يرجى جعل مجلد الإضافات المذكور قابل للكتابة أو نسخ الحزمة باستخدام بروتوكول نقل الملفات"
+
+msgid "Select the categories where you want to apply these attributes"
+msgstr "إختر الفئات التي تريد إجراء هذه التعديلات عليها"
+
+msgid "Preset categories"
+msgstr "فئات محددة مسبقاَ"
+
+msgid "Check all"
+msgstr "التحقق من الكل"
+
+msgid "Uncheck all"
+msgstr "إلغاء تحديد الكل"
+
+msgid "Configure"
+msgstr "إعداد"
+
+msgid "There's a new version. You should update!"
+msgstr "!هناك إصدار جديد. يجب أن تقوم بالتحديث"
+
+msgid "Uninstall"
+msgstr "إلغاء التثبيت"
+
+msgid "Install"
+msgstr "تثبيت"
+
+msgid "Create currency"
+msgstr "إنشاء عملة"
+
+msgid "Code"
+msgstr "كود"
+
+msgid "It should be a three-character code"
+msgstr "ينبغي أن يكون الكود من ثلاثة أحرف"
+
+msgid "Comments settings"
+msgstr "إعدادات التعليقات"
+
+msgid "Comments enabled"
+msgstr "تمكين التعليقات"
+
+msgid "Moderate comments"
+msgstr "التحكم بالتعليقات"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "(عدد التعليقات لنفس المؤلف التي يجب التحقق منها قبل إيقاف التحقق من تعليقات هذا المؤلف ( 0 دائما يتطلب التحقق"
+
+msgid "Notifications"
+msgstr "التنبيهات"
+
+msgid "Notify when there's a new comment"
+msgstr "الإعلام عندما يكون هناك تعليق جديد"
+
+msgid "Contact settings"
+msgstr "إعدادات بيانات الاتصال"
+
+msgid "Attachment enabled"
+msgstr "تمكين المرفقات"
+
+msgid "Cron"
+msgstr "كرون"
+
+msgid "Auto-cron"
+msgstr "كرون ألي"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "بعض وظائف OpenSourceClassifieds تتطلب تشغبل نظام كرون من أجل العمل. الرجاء القيام بالتحقق من تشغيل هذا النظام على السيرفر. قم بإلغاء التحديد إذا كنت تريد إعداد كرون يدويا. الرجاء الرجوع إلى دليل التعليمات لمعرفة المزيد عن نظام  OpenSourceClassifieds كرون."
+
+msgid "Edit currency"
+msgstr "تحرير العملة"
+
+msgid "Once it's created, it can't be modified"
+msgstr "بمجرد إنشائه، فإنه لن يمكنك القيام بالتعديل"
+
+msgid "Page title"
+msgstr "عنوان الصفحة"
+
+msgid "Page description"
+msgstr "وصف الصفحة"
+
+msgid "Admin e-mail"
+msgstr "عنوان البريد الإلكتروني للمشرف"
+
+msgid "Default language"
+msgstr "اللغة الافتراضية"
+
+msgid "Custom"
+msgstr "مخصص"
+
+msgid "Default currency"
+msgstr "العملة الافتراضية"
+
+msgid "Week starts on"
+msgstr "بداية الأسبوع"
+
+msgid "Sunday"
+msgstr "الأحد"
+
+msgid "Monday"
+msgstr "الاثنين"
+
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+msgid "Thursday"
+msgstr "الخميس"
+
+msgid "Friday"
+msgstr "الجمعة"
+
+msgid "Saturday"
+msgstr "السبت"
+
+msgid "Time format"
+msgstr "تنسيق الوقت"
+
+msgid "Number of items in the RSS"
+msgstr "RSS عدد العناصر في"
+
+msgid "Enable reCAPTCHA"
+msgstr "reCAPTCHA تمكين "
+
+msgid "Enable item validation by users"
+msgstr "تمكين التحقق من صحة الإعلان بواسطة المستخدم"
+
+msgid "Logged users don't need to validate items"
+msgstr "المستخدمين المسجلين دخول لا يحتاجون إلى التحقق من صحة الإعلانات"
+
+msgid "Only allow registered users to post items"
+msgstr "يسمح فقط للمستخدمين المسجلين بنشر الإعلانات"
+
+msgid "Notify admin of new items"
+msgstr "إعلام المشرف عن إعلانات جديدة"
+
+msgid "Notify admin of contact items"
+msgstr "إعلام المشرف عن جهات اتصال الإعلانات"
+
+msgid "Notify admin of share"
+msgstr "إعلام المشرف عن المشاركة"
+
+msgid "Optional fields"
+msgstr "حقول اختيارية"
+
+msgid "Enable price"
+msgstr "تمكين السعر"
+
+msgid "Enable images"
+msgstr "تمكين الصور"
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "View more"
+msgstr "عرض المزيد"
+
+msgid "Countries"
+msgstr "البلدان"
+
+msgid "Add new"
+msgstr "إضافة جديد"
+
+msgid "Regions"
+msgstr "المحافظات"
+
+msgid "Cities"
+msgstr "المدن"
+
+msgid "Add new country"
+msgstr "إضافة بلد جديد"
+
+msgid "Country code"
+msgstr "رمز البلد"
+
+msgid "Country code should have two characters"
+msgstr "ينبغي أن يكون رمز البلد مؤلفاَ من حرفين"
+
+msgid "Edit country"
+msgstr "تحرير البلد"
+
+msgid "Add new region"
+msgstr "إضافة محافظة جديدة"
+
+msgid "Edit region"
+msgstr "تحرير المحافظة"
+
+msgid "Add new city"
+msgstr "إضافة مدينة جديدة"
+
+msgid "Edit city"
+msgstr "تحرير المدينة"
+
+msgid "Mail server"
+msgstr "سيرفر البريد"
+
+msgid "Configuration"
+msgstr "الإعدادات"
+
+msgid "Server type"
+msgstr "نوع السيرفر"
+
+msgid "Custom Server"
+msgstr "سيرفر مخصص"
+
+msgid "GMail Server"
+msgstr "GMail Server"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "Server port"
+msgstr "Server port"
+
+msgid "Encryption"
+msgstr "التشفير"
+
+msgid "Options: blank, ssl or tls"
+msgstr "ssl أو tls ,خيارات : فارغة"
+
+msgid "Enable SMTP authentication"
+msgstr "لنقل البريد الإلكتروني SMTP تمكين مصادقة بروتوكول"
+
+msgid "Enter your e-mail server configuration"
+msgstr "إدخال إعدادات سيرفر البريد الإلكتروني"
+
+msgid "Media settings"
+msgstr "إعدادات الميديا"
+
+msgid "Configure media"
+msgstr "إعداد الميديا"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "(format: WIDTHxHEIGHT, eg: 640x480) يرجى تعيين الأبعاد المفضلة لجميع الصور على الموقع"
+
+msgid "Restrictions"
+msgstr "القيود"
+
+msgid "Maximum size, in KB"
+msgstr "الحد الأقصى للحجم ، بالكيلوبايت"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "( png ،jpg ، ​​gif :ملحقات الصور المسموح بها (على سبيل المثال"
+
+msgid "Dimensions"
+msgstr "الأبعاد"
+
+msgid "Thumbnail dimensions"
+msgstr "أبعاد الصور المصغرة"
+
+msgid "Preview dimensions"
+msgstr "أبعاد المعاينة"
+
+msgid "Normal dimensions"
+msgstr "أبعاد القياس العادي"
+
+msgid "Keep original image"
+msgstr "الحفاظ على الصورة الأصلية"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "حفظ ملفات الصور الأصلية يتطلب مساحة تخزين إضافية. هذا الخيار يضمن الجودة الأصلية للملف بحيث لن يسمح بتغييره. كن حذرا عند استخدام هذا الخيار."
+
+msgid "Permalinks settings"
+msgstr "Permalinks إعدادات"
+
+msgid "Friendly urls"
+msgstr "عناوين قصيرة"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "افتراضيا OpenSourceClassifieds يستخدم عناوين تستخدم على شبكة الإنترنت لها علامات الاستفهام والكثير من الأرقام. مع ذلك، OpenSourceClassifieds يسمح باستخدام عناوين قصيرة. هذا يمكّن تحسين الجماليات ، وسهولة الاستخدام ، وتوافق في روابط الموقع"
+
+msgid "Enable friendly urls"
+msgstr "تمكين عناوين المواقع القصيرة"
+
+msgid ".htaccess file"
+msgstr ".htaccess ملف"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "عثر عليها على السيرفر <em>mod_rewrite</em> وظيفة  "
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "تحذير! لم يتم العثور على Rewrite module على السيرفر. وهذا يعني انك لم  تقوم بتفعيلها على السيرفر أو PHP يعمل ك CGI (أو fastCGI). في حال لم يكن لديك mod_rewrite, فإنه يمكن الاستمرار في استخدام العناوين القصبرة اذا كان خيار AllowPathInfo مفعلاَ في Apache configuration (لا يمكننا معرفة ما إذا كان تم تمكينه أم لا ، ولكن عادة يكون مفعلاَ). صفحة \\\"Index.php\\\" سوف تظهر كجزء من عنوان موقعك (أي http://www.example.com/index.php/nice/url)."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "خطأ. لا يمكن كتابة ملف htaccess. على السيرفر. الرجاء إنشاء ملف يسمى htaccess. في مجلد تثبيت OpenSourceClassifieds مع المحتوى التالي:"
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr ":موجود بالفعل. يرجى التحقق من أن الملف يحتوي ما يلي .htaccess ملف"
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "OpenSourceClassifieds في مجلد تثبيت .htaccess لقد قمنا بإنشاء ملف"
+
+msgid "Content of .htaccess file should look like this:"
+msgstr ":يجب أن تكون مشابهة لما يلي .htaccess محتويات ملف"
+
+msgid "Current content of your .htaccess file:"
+msgstr ":.htaccess محتويات ملف"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "(Wordpress.com مشابه للمستخدم في) Akismet مفتاح"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "معطلة Akismet إذا كان الحقل فارغاَ فهاذا يعني أن خدمة"
+
+msgid "Get your free key at"
+msgstr "إحصل على مفتاح مجاني لدى"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "معطلة reCAPTCHA إذا كان الحقل فارغاَ فهاذا يعني أن خدمة"
+
+msgid "Get your free keys at"
+msgstr "إحصل على مفتاح مجاني لدى"
+
+msgid "reCAPTCHA private key"
+msgstr "الخاص reCAPTCHA مفتاح"
+
+msgid "reCAPTCHA public key"
+msgstr "العام reCAPTCHA مفتاح"
+
+msgid "Users settings"
+msgstr "إعدادات المستخدمين"
+
+msgid "Users enabled"
+msgstr "تمكين المستخدمبن"
+
+msgid "User validation enabled"
+msgstr "تمكين التحقق من صحة المستخدم"
+
+msgid "User registration enabled"
+msgstr "تمكين تسجيل المستخدمين"
+
+msgid "Backup"
+msgstr "النسخ الاحتياطي"
+
+msgid "You're offline! Please check your connection"
+msgstr "أنت غير متصل! يرجى التحقق من اتصالك"
+
+msgid "Requested URL not found"
+msgstr "لم يتم العثور على العنون المطلوب"
+
+msgid "Internal server error"
+msgstr "خطأ سيرفر داخلي"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "فشل في الطلب JSON خطأ. تحليل"
+
+msgid "Request timeout"
+msgstr "إنتهت مدة الطلب"
+
+msgid "Unknown error"
+msgstr "خطأ غير معروف"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds نسخة احتياطية من"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "يمكنك إجراء نسخ إحتياطي هنا. تحذير: إذا لم تقم بإدخال مسار مجلد النسخ الإحتياطي عندها سوف يتم حفظ النسخة في مجلد التثبيت الأساسي للموفع"
+
+msgid "Backup folder"
+msgstr "مجلد النسخ الاحتياطي"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "هذا هو المجلد الذي سيتم إنشاء النسخ الاحتياطية فيه. من المستحسن إختار مجلد غير عام. لمزيد من المعلومات ، يرجى الرجوع إلى وثائق OpenSourceClassifieds"
+
+msgid "Back up database"
+msgstr "نسخ احتباطي لقاعدة البيانات"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "OpenSourceClassifieds نسخ احتياطي لتثبيت"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "يمكنك تجديد الصور المصغرة وصور المعاينة هنا. مفيدا إذا قمت بتغيير الموضوع و الصور لا تظهر بشكل صحيح. من فضلك ، تحقق من قيم حجم االصور في الإعدادات / قسم الميديا"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "من هنا تستطيع تعديل البيانات في قاعدة البيانات: إضافة, حذف, تعديل. عادة ما تستخدم لإضافة البلدان و المحافظات و المدن"
+
+msgid "Data"
+msgstr "البيانات"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "تمت عملية الترقية السهلة و المريحة بنجاح"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "غير صالح OpenSourceClassifieds طلب"
+
+msgid "Upgrade"
+msgstr "ترقية"
+
+msgid "Re-type the password"
+msgstr "أعد كتابة كلمة المرور"
+
+msgid "Additional information"
+msgstr "معلومات إضافية"
+
+msgid "Activate user"
+msgstr "تنشيط المستخدم"
+
+msgid "Deactivate user"
+msgstr "إلغاء تنشيط المستخدم"
+
+msgid "Update Date"
+msgstr "تاريخ التحديث"
+
+msgid "Add a new user"
+msgstr "إضافة مستخدم جديد"
+
+msgid "Anonymous"
+msgstr "مجهول"
+
+msgid "Admin mail system"
+msgstr "إدارة نظام البريد"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Plugin %s is missing the index.php file  %s"
+
+msgid "Plugin %s is missing its main file"
+msgstr "Plugin %s is missing its main file"
+
+msgid "Enter your e-mail"
+msgstr "أدخل بريدك الإلكتروني"
+
+msgid "Select a country..."
+msgstr "...اختر البلد"
+
+msgid "Select a region..."
+msgstr "...اختر المحافظة"
+
+msgid "Select a city..."
+msgstr "...اختر المدينة"
+
+msgid "No results"
+msgstr "لا يوجد نتائج"
+
+msgid "Description: needs to be longer"
+msgstr "الوصف يجب أن يكون أطول"
+
+msgid "Title: this field is required"
+msgstr "عنوان الإعلان: هذا الحقل مطلوب"
+
+msgid "Title: enter at least 9 characters"
+msgstr "عنوان الإعلان يجب أن يحتوي على 9 أحرف على الأقل"
+
+msgid "Title: no more than 80 characters"
+msgstr "عنوان الإعلان لا يجب أن يتجاوز 80 حرف"
+
+msgid "Description: this field is required"
+msgstr "الوصف: هذا الحقل مطلوب"
+
+msgid "Description: no more than 5000 characters"
+msgstr "الوصف لا يجب أن يتجاوز 5000 حرف"
+
+msgid "Choose one category"
+msgstr "إختر فئة الإعلان"
+
+msgid "Price: enter a valid number"
+msgstr "السعر: قم بإدخال رقم"
+
+msgid "Price: no more than 15 characters"
+msgstr "السعر لا يجب أن يتجاوز 15 رقم"
+
+msgid "Currency: make your selection"
+msgstr "العملة: قم بإختيار العملة"
+
+msgid "Photo: must be %s"
+msgstr "%s الصورة: يحب أن تكون"
+
+msgid "Name: enter at least 3 characters"
+msgstr "الاسم: أدخل 3 أحرف على الأقل"
+
+msgid "Name: no more than 35 characters"
+msgstr "الاسم لا يجب أن يتجاوز 35 حرف"
+
+msgid "Email: this field is required"
+msgstr "عنوان البريد الإلكتروني: هذا الحقل مطلوب"
+
+msgid "Select a region"
+msgstr "إختر المحافظة"
+
+msgid "Select a city"
+msgstr "إختر المدينة"
+
+msgid "City area: enter at least 3 characters"
+msgstr "منطقة المدينة: أدخل 3 حروف على الأقل"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع عن تنفيذ هذا الإجراء. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Body"
+msgstr "الجسم"
+
+msgid "User Description"
+msgstr "وصف المستخدم"
+
+msgid "Company"
+msgstr "شركة"
+
+msgid "Check with seller"
+msgstr "يرجى مراجعة ناشر الإعلان"
+
+msgid "Newly listed"
+msgstr "أدرج حديثاَ"
+
+msgid "Lower price first"
+msgstr "السعر الأقل أولاَ"
+
+msgid "Higher price first"
+msgstr "السعر الأعلى أولاَ"
+
+msgid "Manage your items"
+msgstr "إدارة الإعلانات"
+
+msgid "Manage your alerts"
+msgstr "إدارة الإعلامات و التنبيهات"
+
+msgid "%s in"
+msgstr "%s في"
+
+msgid "There's no description available in your language"
+msgstr "لا يتوفر وصف في لغتك"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "قيد التحديث و التطوير %s نعتذر عن أي إزعاج. إن "
+
+msgid "Your website is currently under maintenance mode"
+msgstr "إن الموقع قيد التحديث و التطوير"
+
+msgid "Error removing file: %s"
+msgstr "%s : خطأ في حذف الملف"
+
+msgid "Some error ocurred"
+msgstr "حدثت بعض الأخطاء"
+
+msgid "Order saved"
+msgstr "تم حفظ الأمر"
+
+msgid "The subcategories has been enabled"
+msgstr "تم تمكين الفئات الفرعية"
+
+msgid "The subcategories has been disabled"
+msgstr "تم تعطيل الفئات الفرعية"
+
+msgid "Error: %s"
+msgstr "%s : خطأ"
+
+msgid "Error while deleting"
+msgstr "خطأ أثناء الحذف"
+
+msgid "All titles are required"
+msgstr "جمبع العناوين مطلوبة"
+
+msgid "Error while updating."
+msgstr "خطأ أثناء التحديث"
+
+msgid "Saved"
+msgstr "تم الحفظ"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "كل شيء كان جيداَ. تم تحديث البرنامج"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "يدوياَ \\\"oc-temp\\\" ولكن هناك بعض الاخطاء في إزالة الملفات المؤقتة. من فضلك، قم بإزالة مجلد .OpenSourceClassifieds كل شيء تقريبا جيد! تم تحديث تثبيت"
+
+msgid "Problems upgrading the database"
+msgstr "مشاكل في ترقية قاعدة البيانات"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "مشاكل بنسخ الملفات. ربما الأذونات ليست صحيحة"
+
+msgid "Download failed"
+msgstr "فشل التنزيل"
+
+msgid "Missing download URL"
+msgstr "رابط التحميل مفقود"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "(كان لدينا بعض الأخطاء في إزالة الملفات، هذه ليست أخطاء فائقة الحساسية، لذا فقد واصلنا ترقية التثبيت. الرجاء إزالة الملفات التالية (قمت بالفعل بترقية البرنامج، ولكن لضمان أداء أفضل"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "كان لدينا بعض الأخطاء أثناء ترقية قاعدة البيانات. فشلت الاستعلامات التالية"
+
+msgid "Clear"
+msgstr "مسح"
+
+msgid "Forums"
+msgstr "منتديات"
+
+msgid "Add new theme"
+msgstr "إضافة موضوع جديد"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "غير قابل للكتابة على السيرفر, لا يمكن تحميل المواضيع من لوحة الإدارة. يرجى نسخ الحزمة باستخدام بروتوكول نقل الملفات أو جعل مجلد المواضيع المذكور قابل للكتابة. %s مجلد المواضيع"
+
+msgid "Ajax error, try again."
+msgstr "الرجاء المحاولة لاحقاَ ,Ajax خطأ"
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "تحذير : هذا سيؤدي إلى حذف البنود الواردة في تلك الفئة أيضاَ.لا يمكن التراجع عن هذا الإجراء. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "قم بسحب و إفلات الفئات لإعادة ترتيبها بالطريقة التي تريد. انقر على الارتباط لتحرير الفئة"
+
+msgid "Add new category"
+msgstr "إضافة فئة جديدة"
+
+msgid "Categories settings"
+msgstr "إعدادات الفئات"
+
+msgid "Selectable parent categories"
+msgstr "الفئات الأساسية القابلة للإختيار"
+
+msgid "ACTIVE"
+msgstr "تفعيل"
+
+msgid "INACTIVE"
+msgstr "تعطيل"
+
+msgid "ENABLED"
+msgstr "مفعل"
+
+msgid "DISABLED"
+msgstr "معطل"
+
+msgid "Last Searches"
+msgstr "آخر عمليات البحث"
+
+msgid "Maintenance mode"
+msgstr "وضع الصيانة"
+
+msgid "Reports"
+msgstr "تقارير"
+
+msgid "Disabled"
+msgstr "تعطيل"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "(عدد الإعلانات لنفس الناشر التي يجب التحقق منها قبل إيقاف التحقق من إعلاناته الجديدة ( 0 دائما يتطلب التحقق"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "(عدد الثواني التي يجب على المستخدم إنتظارها قبل السماح له من نشر إعلان جديد ( 0 عدم إنتظار"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "يسمح فقط للمستخدمين المسجلين  بالاتصال بناشر الإعلان"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "(عدد الصور الأعظمي التي يحق للمستخدم تحميلها للإعلان الواحد ( 0 غير محدود"
+
+msgid "Download more languages at %s"
+msgstr "%s تحميل لغات أخرى من"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "هذا الإجراء لا يمكن التراجع عنه. قد يؤدي إلغاء الإضافات إلى فقدان البيانات نهائيا. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "(عدد التعليقات في الصفحة الواحدة. تستطيع تحديد عدد التعليقات التي ستظهر في صفحة تفاصيل الإعلان. وسوف تكون متاحة تعليقات أخرى من خلال نظام ترقيم الصفحات. (0 لإظهار كل التعليقات في نفس الوقت"
+
+msgid "Only allow registered users to post comments"
+msgstr "يسمح فقط للمستخدمين المسجلين بكتابة تعليق"
+
+msgid "Number of recent items displayed at home"
+msgstr "عدد الإعلانات الحديثة التي سيتم عرضها على الصفحة الرئيسية"
+
+msgid "Save latest searches"
+msgstr "حفظ آخر عمليات البحث"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "يمكن حفظ آخر عمليات بحث المستخدمون على موقعك. بحيث يمكنك أن تحصل على فكرة عن ما يقوم المستخدمون بالبحث عنه أو تظهر لهم هذه الإعلانات في الموقع على صفحة باسم \\\"موضوعات ساخنة"
+
+msgid "Keep last searches"
+msgstr "إبقاء آخر عمليات البحث"
+
+msgid "One hour"
+msgstr "ساعة واحدة"
+
+msgid "One day"
+msgstr "يوم واحد"
+
+msgid "One week"
+msgstr "اسبوع واحد"
+
+msgid "Forever (never delete)"
+msgstr "( للأبد ( لا تقوم بالحذف نهائيا"
+
+msgid "Keep last 1000 searches"
+msgstr "إبقاء أخر 1000 عملية بحث"
+
+msgid "Number of files to keep"
+msgstr "عدد الملفات لإبقائها"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr ".وظيفة آخر عمليات البحث, يمكن أن تولد الكثير من البيانات. ينصح بمسح تلك البيانات. يمكن الحذف لساعة واحدة, ليوم واحد, لأسبوع واحد, كما يمكنك أيضا تحديد عدد عمليات البحث للحفاظ عليها أو لعدم حذفها نهائيا"
+
+msgid "Last 10 days"
+msgstr "أخر 10 أيام"
+
+msgid "Last 10 weeks"
+msgstr "أخر 10 أسابيع"
+
+msgid "Last 10 months"
+msgstr "أخر 10 أشهر"
+
+msgid "There're no statistics yet"
+msgstr "لا يوجد إحصائيات بعد"
+
+msgid "Latest comments on the web"
+msgstr "أخر التعليفات على الموقع"
+
+msgid "New items"
+msgstr "إعلانات جديدة"
+
+msgid "Total number of items' views"
+msgstr "مجموع الإعلانات التي ستظهر"
+
+msgid "Latest items on the web"
+msgstr "أخر الإعلانات على الموقع"
+
+msgid "Active"
+msgstr "تفعيل"
+
+msgid "Inactive"
+msgstr "تعطيل"
+
+msgid "Views"
+msgstr "إظهار"
+
+msgid "Total number of reports"
+msgstr "مجموع التقارير"
+
+msgid "Repeated"
+msgstr "متكررة"
+
+msgid "Bad category"
+msgstr "فئة سيئة"
+
+msgid "Latest users on the web"
+msgstr "أخر المستخدمين على الموقع"
+
+msgid "Avg. items per user"
+msgstr "متوسط الإعلانات لكل مستخدم"
+
+msgid "items per user"
+msgstr "الإعلانات لكل مستخدم"
+
+msgid "New users"
+msgstr "مستخدمون جدد"
+
+msgid "Users per country"
+msgstr "عدد المستخدمين بحسب البلد"
+
+msgid "Unknown"
+msgstr "غير محدد"
+
+msgid "Users per region"
+msgstr "عدد المستخدمين بحسب المحافظة"
+
+msgid "Theme"
+msgstr "الموضوع"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "أثناء وضع الصيانة، لا يمكن للمستخدمين الوصول إلى الموقع. مفيدة إذا كنت بحاجة لاجراء بعض التغييرات على موقعك. استخدام الزر التالي لتبديل وضع الصيانة"
+
+msgid "Maintenance mode is:"
+msgstr ": وضع الصيانة"
+
+msgid "ON"
+msgstr "تشغيل"
+
+msgid "OFF"
+msgstr "تعطيل"
+
+msgid "Disable maintenance mode"
+msgstr "تعطيل وضع الصيانة"
+
+msgid "Enable maintenance mode"
+msgstr "تشغيل وضع الصيانة"
+
+msgid "Checking for updates"
+msgstr "التحقق من التحديثات"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "عظيم! إن التطبيق المصغر قي أحدث إصداراته"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "تهانينا! إن البرنامج في أحدث إصداراته"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "( تحديث البرنامج ( قد تستغرق العملية بعض الوقت "
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "قبل القيام بعملية التحديث. كما يمكنك القيام بتحميل حزمة التحديث و فك ضغطها ثم تبديل ملقات البرنامج على السيرفر oc-content يمكن تثبيت البرنامج تلقائياَ. من فضلك، قم بإجراء نسخة احتياطية لقاعدة البيانات ومجلد "
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 666 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "في برنامج نقل الملفات، إن ذلك يعتمد على البرنامج المستخدم من قبلك, لا نستطيع تقديم المزيد من المعلومات.  كما يمكنك القيام بتحميل حزمة التحديث و فك ضغطها ثم تبديل ملقات البرنامج على السيرفر FTP أو عن طريق بروتوكول SSH لا يمكن تحديث البرنامج تلقائياَ . يلزم أن تكون الملفات والمجلدات قابلة للكتابة. يجب أن تطبق أذونات 644 بواسطة"
+
+msgid "Enable user"
+msgstr "تفعيل المستخدمين"
+
+msgid "Disable user"
+msgstr "تعطيل المستخدمبن"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "البرنامج يحتوي على بعض الأخطاء"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "واجهنا بعض المشاكل في تحديث بنية قاعدة البيانات. فشلت الاستعلامات التالية :"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "<a href=\\\"http://forums.opensourceclassifieds.org/\\\"> اسألنا في المنتديات </a> أو  <a href=\\\"%s\\\">تستمر في عملية الترقية </a> يمكن تكون هذه الأخطاء أخطاء إيجابية. إذا كنت على يقين أن هذا هو الحال, يمكنك أن"
+
+msgid "Name: this field is required"
+msgstr "الإسم: هذا الحقل مطلوب"
+
+msgid "Message: this field is required"
+msgstr "نص الرسالة: هذا الحقل مطلوب"
+
+msgid "City area: no more than 50 characters"
+msgstr "الحي: ليس أكثر من 50 حرف"
+
+msgid "Address: enter at least 3 characters"
+msgstr "العنوان: 3 أحرف على الأقل"
+
+msgid "Address: no more than 100 characters"
+msgstr "العنوان: ليس أكثر من 100 حرف"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "عذرا، لقد وصلت إلى الحد الأقصى لعدد الصور المسموح به لكل إعلان"
+
+msgid "Your name: this field is required"
+msgstr "اسمك: هذا الحقل مطلوب"
+
+msgid "Friend's name: this field is required"
+msgstr "اسم صديقك: هذا الحقل مطلوب"
+
+msgid "Friend's email: this field is required"
+msgstr "عنوان بريد صديقك الإلكتروني: هذا الحقل مطلوب"
+
+msgid "Invalid friend's email address"
+msgstr "تنسيق عنوان بريد صديقك الإلكتروني غير صالح"
+
+msgid "Name: no more than 50 characters"
+msgstr "الإسم: لا يجب أن يتجازو 50 حرفاَ"
+
+msgid "Password: this field is required"
+msgstr "كلمة السر: هذا الحقل مطلوب"
+
+msgid "Password: enter at least 5 characters"
+msgstr "كلمة السر: أدخل 5 حروف على الأقل"
+

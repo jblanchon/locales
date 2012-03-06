@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Passwords don't match"
+msgstr "密码不符"
+
+msgid "The Recaptcha code is wrong"
+msgstr "Recaptcha 代码错误"
+
+msgid "You have to introduce a correct e-mail"
+msgstr "您必须介绍一个正确的邮箱"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "您的邮件已被正确发送。感谢联系我们！"
+
+msgid "Users not enabled"
+msgstr "无效用户"
+
+msgid "Only registered users are allowed to post items"
+msgstr "只有注册用户才能发表记录"
+
+msgid "Users not allowed"
+msgstr "用户不允许"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "抱歉，无关于此ID的记录"
+
+msgid "Great! We've just updated your item"
+msgstr "很好，我们更新了您的记录"
+
+msgid "The item has been validated"
+msgstr "记录已被验证"
+
+msgid "The item can't be validated"
+msgstr "记录不能被验证"
+
+msgid "The item has already been validated"
+msgstr "记录已被验证"
+
+msgid "Your item has been deleted"
+msgstr "您的记录已被删除"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "您正在试图删除不能删除的记录"
+
+msgid "The selected photo couldn't be deleted, the url doesn't exist"
+msgstr "选择的图片不能被删除，URL不存在"
+
+msgid "The item doesn't exist"
+msgstr "记录不存在"
+
+msgid "The item doesn't belong to you"
+msgstr "该记录不属于您"
+
+msgid "The selected photo has been successfully deleted"
+msgstr "选择的图片已成功删除"
+
+msgid "The selected photo couldn't be deleted"
+msgstr "选择的图像不能被删除"
+
+msgid "Thanks! That's very helpful"
+msgstr "感谢！非常有用"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "抱歉，记录已过期。您不能联系卖家"
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "我们已发送邮件至卖家"
+
+msgid "Sorry, we could not save your comment. Try again later"
+msgstr "抱歉，不能保存您的留言。稍后再试"
+
+msgid "Your comment is awaiting moderation"
+msgstr "您的留言队列审核中"
+
+msgid "Your comment has been approved"
+msgstr "您的留言已被批准"
+
+msgid "Please fill the required fields (name, email)"
+msgstr "请添加必填项（名称，邮件）"
+
+msgid "Please type a comment"
+msgstr "请输入留言"
+
+msgid "Your comment has been marked as spam"
+msgstr "您的留言被标记为垃圾"
+
+msgid "This item doesn't exist"
+msgstr "该记录不存在"
+
+msgid "The comment doesn't exist"
+msgstr "留言不存在"
+
+msgid "The comment is not active, you cannot delete it"
+msgstr "留言未激活，不能被删除"
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "当前记录没有被验证。请查看其他用户记录"
+
+msgid "This item hasn't been validated"
+msgstr "指定记录已被验证"
+
+msgid "The username doesn't exist"
+msgstr "用户名不存在"
+
+msgid "The user has not been validated yet"
+msgstr "该用户已被验证"
+
+msgid "The password is incorrect"
+msgstr "密码错误"
+
+msgid "We have sent you an email with the instructions to reset your password"
+msgstr "我们已发送重置密码邮件"
+
+msgid "Sorry, the link is not valid"
+msgstr "抱歉，连接错误"
+
+msgid "The password has been changed"
+msgstr "密码修改成功"
+
+msgid "Error, the password don't match"
+msgstr "错误，密码不匹配"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "用户已创建，激活邮件已发送"
+
+msgid "Your account has been created successfully"
+msgstr "您的账户创建成功"
+
+msgid "The specified e-mail is already in use"
+msgstr "邮件已被使用"
+
+msgid "The reCAPTCHA was not introduced correctly"
+msgstr "reCAPTCHA 没有被正确的介绍"
+
+msgid "Your account has been validated"
+msgstr "您的账户已被验证"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "链接已失效。抱歉给您带来的不便"
+
+msgid "Your email has been changed successfully"
+msgstr "您的邮件修改成功"
+
+msgid "Your profile has been updated successfully"
+msgstr "您的配置文件已更新完成"
+
+msgid "The specified e-mail is not valid"
+msgstr "指定邮件无效"
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "我们已发送邮件到您邮箱。请遵照说明验证修改"
+
+msgid "We tried to sent you an e-mail, but it failed. Please, contact the administrator"
+msgstr "我们已发送邮件给您，但失败了。请联系管理员"
+
+msgid "Current password doesn't match"
+msgstr "当前密码不匹配"
+
+msgid "Passwords can't be empty"
+msgstr "密码不能为空"
+
+msgid "Password has been changed"
+msgstr "密码重置成功"
+
+msgid "Email invalid"
+msgstr "邮件有效"
+
+msgid "Username invalid"
+msgstr "用户名有效"
+
+msgid "Password invalid"
+msgstr "密码有效"
+
+msgid "Email already in use"
+msgstr "邮件已被使用"
+
+msgid "Username already in use"
+msgstr "用户名已被使用"
+
+msgid "The admin has been added"
+msgstr "管理员已添加"
+
+msgid "There have been an error adding a new admin"
+msgstr "添加管理员时发生错误"
+
+msgid "There is no admin admin with this id"
+msgstr "管理员列表无此管理员ID"
+
+msgid "This admin doesn't exist"
+msgstr "管理员不存在"
+
+msgid "Existing email"
+msgstr "邮箱已存在"
+
+msgid "Existing username"
+msgstr "用户名已存在"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "密码不能被修改。密码不匹配"
+
+msgid "The admin has been updated"
+msgstr "管理员已更新"
+
+msgid "The admin id isn't in the correct format"
+msgstr "管理员ID格式错误"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "操作未完成，正在尝试删除本身！"
+
+msgid "The admin has been deleted correctly"
+msgstr "管理员已被正确的删除"
+
+msgid "The admin couldn't be deleted"
+msgstr "管理员不能被删除"
+
+msgid "The theme folder is not writable"
+msgstr "主题文件夹不可写"
+
+msgid "The theme has been installed correctly"
+msgstr "主题已正确的安装"
+
+msgid "The zip file is not valid"
+msgstr "压缩文件不正确"
+
+msgid "There was a problem adding the theme"
+msgstr "添加主题时出现错误"
+
+msgid "Widget removed correctly"
+msgstr "小部件正确的删除"
+
+msgid "Widget added correctly"
+msgstr "小部件已正确的添加"
+
+msgid "Theme activated correctly"
+msgstr "主题已激活"
+
+msgid "The comments have been deleted"
+msgstr "留言删除"
+
+msgid "The comments have been approved"
+msgstr "留言获准"
+
+msgid "The comments have been disapproved"
+msgstr "留言被驳回"
+
+msgid "The comment has been approved"
+msgstr "留言已获准"
+
+msgid "The comment has been disapproved"
+msgstr "留言被驳回"
+
+msgid "Great! We just updated your comment"
+msgstr "很好，我们更新了您的留言"
+
+msgid "The comment have been deleted"
+msgstr "留言删除"
+
+msgid "The email/alert has been updated"
+msgstr "邮件/通知已更新"
+
+msgid "You can't repeat internal name"
+msgstr "不能重复网名"
+
+msgid "The email couldn't be updated, at least one title should not be empty"
+msgstr "邮件不能给更新，至少有一个标题为空"
+
+msgid "The items have been activated"
+msgstr "记录激活"
+
+msgid "The items have been deactivated"
+msgstr "记录失效"
+
+msgid "The items have been marked as premium"
+msgstr "记录被标记为优质的"
+
+msgid "The changes have been made"
+msgstr "已做修改"
+
+msgid "The item has been deleted"
+msgstr "记录已删除"
+
+msgid "The item couldn't be deleted"
+msgstr "记录不能被删除"
+
+msgid "The item has been activated"
+msgstr "记录已激活"
+
+msgid "The item has been deactivated"
+msgstr "记录失效"
+
+msgid "Changes have been applied"
+msgstr "应用修改"
+
+msgid "Changes saved correctly"
+msgstr "保存修改"
+
+msgid "Resource deleted"
+msgstr "删除的资源"
+
+msgid "A new item has been added"
+msgstr "一条新记录已被添加"
+
+msgid "The translation folder is not writable"
+msgstr "翻译文件夹不可写"
+
+msgid "The language has been installed correctly"
+msgstr "语言包已正确安装"
+
+msgid "There was a problem adding the language"
+msgstr "添加预言时出错"
+
+msgid "Language id isn't in the correct format"
+msgstr "语言ID格式错误"
+
+msgid "Language id doesn't exist"
+msgstr "语言ID不存在"
+
+msgid "Language name can't be empty"
+msgstr "语言名称不能为空"
+
+msgid "Language short name can't be empty"
+msgstr "语言简写不能为空"
+
+msgid "Language description can't be empty"
+msgstr "语言描述不能为空"
+
+msgid "%s has been updated"
+msgstr "%s已更新"
+
+msgid "The language has been enabled for the public website"
+msgstr "语言在公网有效"
+
+msgid "The language has been disabled for the public website"
+msgstr "语言在公网失效"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "语言在后台已有效"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "语言在后台已无效"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "更新语言包是发生错误。语言ID丢失"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "选择语言在网站上有效"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "语言包升级时发生错误，语言IDS丢失"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "选中语言被设置为无效"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "选中语言在后台被设为有效"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "选中语言已在后台被设为无效"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "%s 文件夹不能被删除"
+
+msgid "Directory \"%s\" has been successfully removed"
+msgstr "%s 文件夹删除成功"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "%s 文件夹不能被删除因为它是默认语言。请把其他语言设置为默认后再试。"
+
+msgid "That username does not exist"
+msgstr "用户名不存在"
+
+msgid "A new password has been sent to your e-mail"
+msgstr "新密码已发送至您邮箱"
+
+msgid "The page has been updated"
+msgstr "页面已更新"
+
+msgid "The page couldn't be updated, at least one title should not be empty"
+msgstr "该页不能被更新，您至少有一个标题未填写。"
+
+msgid "You have to set an internal name"
+msgstr "您必须设置一个网名"
+
+msgid "The page has been added"
+msgstr "该页已被添加"
+
+msgid "The page couldn't be added, at least one title should not be empty"
+msgstr "该页不能被添加，您至少有一个标题未填写"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "Oops，该网名已被占用。"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "一个页不能被删除因为它不能被删除"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "页面不能被删除，因为它不能被删除"
+
+msgid "One page couldn't be deleted"
+msgstr "一个页面不能被删除"
+
+msgid "pages couldn't be deleted"
+msgstr "页面不能被删除"
+
+msgid "One page has been deleted correctly"
+msgstr "一个页面已删除成功"
+
+msgid "pages have been deleted correctly"
+msgstr "页面已删除成功"
+
+msgid "The plugin folder is not writable"
+msgstr "插件文件夹不可以写"
+
+msgid "The plugin has been uploaded correctly"
+msgstr "插件上传成功"
+
+msgid "There was a problem adding the plugin"
+msgstr "添加插件时出现问题"
+
+msgid "Plugin installed"
+msgstr "插件已安装"
+
+msgid "Plugin uninstalled"
+msgstr "插件已被卸载"
+
+msgid "No plugin selected"
+msgstr "无插件被选择"
+
+msgid "Configuration was saved"
+msgstr "配置已保存"
+
+msgid "Items' settings have been updated"
+msgstr "记录设置已更新"
+
+msgid "Comments' settings have been updated"
+msgstr "留言设置已更新"
+
+msgid "Users' settings have been updated"
+msgstr "用户设置已更新"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Akismet 、reCAPTCHA 已更新"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "错误：当前货币代码格式错误"
+
+msgid "New currency has been added"
+msgstr "新货币已添加"
+
+msgid "Error: currency couldn't be added"
+msgstr "错误：货币不能被添加"
+
+msgid "Error: the currency doesn't exist"
+msgstr "错误：货币不存在"
+
+msgid "Currency has been updated"
+msgstr "货币已更新"
+
+msgid "Mail server type is incorrect"
+msgstr "邮件服务器类型错误"
+
+msgid "Mail server configuration has changed"
+msgstr "邮件服务器设置已修改"
+
+msgid "Media config has been updated"
+msgstr "媒体配置已更新"
+
+msgid "Contact configuration has been updated"
+msgstr "联系人配置已更新"
+
+msgid "Cron config has been updated"
+msgstr "计划任务配置已更新"
+
+msgid "General settings have been updated"
+msgstr "常规设置已更新"
+
+msgid "Import complete"
+msgstr "导入完成"
+
+msgid "There was a problem importing data to the database"
+msgstr "导入数据出错"
+
+msgid "Re-generation complete"
+msgstr ""
+
+msgid "Path is empty"
+msgstr "路径为空"
+
+msgid "There are no tables to back up"
+msgstr "没有表被备份"
+
+msgid "The folder is not writable"
+msgstr "文件夹不可写"
+
+msgid "Backup has been done properly"
+msgstr "备份完成"
+
+msgid "Archiving successful!"
+msgstr "存档成功"
+
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "错误，解压文件没有被创建"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "用户注册成功，我们已发送激活邮件至您的邮箱"
+
+msgid "The user has been created and activated"
+msgstr "用户已被注册、激活"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "抱歉，邮箱被占用"
+
+msgid "The user has been updated and activated"
+msgstr "用户已被更新、激活"
+
+msgid "The user has been updated"
+msgstr "用户已被更新"
+
+msgid "User id isn't in the correct format"
+msgstr "用户ID格式错误"
+
+msgid "No user has been activated"
+msgstr "用户没有被激活"
+
+msgid "One user has been activated"
+msgstr "一个用户已激活"
+
+msgid "%s users have been activated"
+msgstr "%s 用户已被激活"
+
+msgid "No user has been deactivated"
+msgstr "无用户被取消激活"
+
+msgid "One user has been deactivated"
+msgstr "一个用户被取消激活"
+
+msgid "%s users have been deactivated"
+msgstr "%s 用户已被取消激活"
+
+msgid "No user has been deleted"
+msgstr "无用户被删除"
+
+msgid "One user has been deleted"
+msgstr "一个用户已被删除"
+
+msgid "%s users have been deleted"
+msgstr "%s 用户已被删除"
+
+msgid "We are very sorry but we could not deliver your message to your friend. Try again later"
+msgstr "抱歉我们不能递送消息给您的好友，请稍后再试"
+
+msgid "There has been some errors sending the message"
+msgstr "发送信息是出现错误"
+
+msgid "Invalid email address"
+msgstr "无效的邮箱地址"
+
+msgid "One of the files you tried to upload exceeds the maximum size"
+msgstr "其中一个文件大小已达到最大"
+
+msgid "The file you tried to upload does not have an allowed extension"
+msgstr "上传文件中出现不允许的后缀"
+
+msgid "Error: Plugin already installed"
+msgstr "错误：插件已安装"
+
+msgid "%s has been added as a new country"
+msgstr "%s 已作为新国家被添加"
+
+msgid "%s already was in the database"
+msgstr "%s 已存在于数据库"
+
+msgid "%s has been edited"
+msgstr "%s 已被编辑"
+
+msgid "%s has been deleted"
+msgstr "%s 已被删除"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "%s 不能被删除，一些记录关联到它"
+
+msgid "%s has been added as a new region"
+msgstr "%s 已被作为一个地区添加"
+
+msgid "%s has been added as a new city"
+msgstr "%s 已被作为一个城市添加"
+
+msgid "No currencies have been deleted"
+msgstr "无货币已删除"
+
+msgid "One currency has been deleted"
+msgstr "一个货币已删除"
+
+msgid "%s currencies have been deleted"
+msgstr "%s 货币已被删除"
+
+msgid "%s cannot be added"
+msgstr "%s 不能被添加"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s 已被作为%s地区添加完成"
+
+msgid "Error: %s"
+msgstr "错误：%s"
+
+msgid "INACTIVE"
+msgstr "失效"
+
+msgid "DISABLED"
+msgstr "禁用"
+
+msgid "Check your inbox to verify your email address"
+msgstr "检查收件箱验证邮件地址"
+
+msgid "Your item has been published"
+msgstr "您的记录已被发布"
+
+msgid "You can't contact the seller, only registered users can"
+msgstr "只有注册用户可以联系卖家"
+
+msgid "You must be logged in to delete a comment"
+msgstr "您必须登录才能删除留言"
+
+msgid "The comment was not added by you, you cannot delete it"
+msgstr "您的留言未添加，您不能删除"
+
+msgid "The comment has been deleted"
+msgstr "留言已删除"
+
+msgid "The item has been suspended"
+msgstr "记录已被暂停"
+
+msgid "The user has been suspended"
+msgstr "用户已暂停"
+
+msgid "This should never happens"
+msgstr "这永远不可能发生"
+
+msgid "We were not able to identify you given the information provided"
+msgstr "我们不能验证提供的信息"
+
+msgid "The recaptcha code is wrong"
+msgstr "recaptcha 代码错误"
+
+msgid "The email is not valid"
+msgstr "邮件不合法"
+
+msgid "Your account has already been validated"
+msgstr "您的账户已被验证"
+
+msgid "Alert activated"
+msgstr "激活提醒"
+
+msgid "Ops! There was a problem trying to activate alert. Please contact the administrator"
+msgstr "有一些问题尝试激活提醒，请联系管理员"
+
+msgid "Unsubscribed correctly"
+msgstr "取消订阅成功"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator"
+msgstr "取消订阅时发生错误，请联系管理员"
+
+msgid "Real Name invalid"
+msgstr "真实姓名无效"
+
+msgid "Categories' settings have been updated"
+msgstr "分类设置已被更新"
+
+msgid "The comment has been enabled"
+msgstr "留言已审核"
+
+msgid "The comment has been disabled"
+msgstr "留言无效"
+
+msgid "The items have been enabled"
+msgstr "记录已审核"
+
+msgid "The items have been disabled"
+msgstr "记录无效"
+
+msgid "The item has been enabled"
+msgstr "该记录已审核通过"
+
+msgid "The item has been disabled"
+msgstr "该记录无效"
+
+msgid "The item has been unmarked as"
+msgstr "该记录已被标记为"
+
+msgid "The item hasn't been unmarked as"
+msgstr "该记录没有被标记为"
+
+msgid "The language can't be disabled because it's the default language. You can change modify it in General Settings"
+msgstr "由于默认语言关系该语言不能被设置为无效。您可以从常规设置中修改它。"
+
+msgid "Some language can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "一些语言不能被设置为无效因为他是默认语言。如您要设置无效可以在常规选项卡中修改默认语言"
+
+msgid "There was a fatal error and the plugin was not installed.<br />Error: \"%s\" Line: %s<br/>File: %s"
+msgstr "由于一些错误插件未被安装。<br>错误: \\\"%s\\\" 行: %s<br>文件: %s"
+
+msgid "Country has been edited"
+msgstr "国家已被编辑"
+
+msgid "There were some problems editing the country"
+msgstr "编辑国家时发生错误"
+
+msgid "%s could not be deleted because it's the default currency"
+msgstr "%s 不能删除，因为它是默认货币"
+
+msgid "Settings have been updated"
+msgstr "设置已更新"
+
+msgid "Could not connect with the database. Error: %s"
+msgstr "不能连接至数据库.错误：%s"
+
+msgid "Could not select the database. Error: %s"
+msgstr "不能选择数据库.错误：%s"
+
+msgid "Maintenance mode is ON"
+msgstr "维护模式被启用"
+
+msgid "There were an error creating .maintenance file, please create it manually at the root folder"
+msgstr "创建.maintenance文件时发生错误。请在根目录手动创建"
+
+msgid "Maintenance mode is OFF"
+msgstr "维护模式未启用"
+
+msgid "There were an error removing .maintenance file, please remove it manually from the root folder"
+msgstr ".maintenance删除时发生错误。请在根目录手动删除文件"
+
+msgid "No user has been enabled"
+msgstr "无用户被设置为有效"
+
+msgid "One user has been enabled"
+msgstr "无用户已被设置为有效"
+
+msgid "%s users have been enabled"
+msgstr "%s 用户已被设置有效"
+
+msgid "No user has been disabled"
+msgstr "无用户被禁用"
+
+msgid "One user has been disabled"
+msgstr "一个用户已被设置为无效"
+
+msgid "%s users have been disabled"
+msgstr "%s 被设置无效"
+
+msgid "Image with incorrect extension."
+msgstr "图片后缀错误"
+
+msgid "Images too big. Max. size"
+msgstr "图像太大"
+
+msgid "Title too short."
+msgstr "标题太短"
+
+msgid "Title too long."
+msgstr "标题太长"
+
+msgid "Description too short."
+msgstr "描述太短"
+
+msgid "Description too long."
+msgstr "描述太长"
+
+msgid "Category invalid."
+msgstr "分类错误"
+
+msgid "Price must be number."
+msgstr "价格必须为数字"
+
+msgid "Price too long."
+msgstr "价格太长"
+
+msgid "Name too long."
+msgstr "名字太长"
+
+msgid "Email invalid."
+msgstr "邮件无效"
+
+msgid "Location not selected."
+msgstr "没有设置定位"
+
+msgid "Municipality too short."
+msgstr "直辖市太短"
+
+msgid "Municipality too long."
+msgstr "直辖市太长"
+
+msgid "Address too short."
+msgstr "地址太短"
+
+msgid "Address too long."
+msgstr "地址太长"
+
+msgid "Too fast. You should wait a little to publish your ad."
+msgstr "您发送的广告频率太快，请稍后再发布"
+
+msgid "We just send your message to %s"
+msgstr "我已经发送您的信息到%s"
+

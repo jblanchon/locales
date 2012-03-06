@@ -1,0 +1,1876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "trenutna verzija:"
+
+msgid "Downloading update file:"
+msgstr "Prenašam posodobitveno datoteko:"
+
+msgid "Unzipping file:"
+msgstr "Odpakiranje datoteke:"
+
+msgid "Copying old files:"
+msgstr "Kopiranje starih datotek:"
+
+msgid "Removing new files:"
+msgstr "Odstranjevanje novih datotek:"
+
+msgid "Executing SQL:"
+msgstr "Izvršujem SQL ukaze:"
+
+msgid "Executing additional actions:"
+msgstr "Izvršujem dodatna opravila:"
+
+msgid "Cleaning all the mess:"
+msgstr "Čistim zmešnjavo:"
+
+msgid "Free"
+msgstr "Brez cene"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Search"
+msgstr "Išči"
+
+msgid "Dashboard"
+msgstr "Nadzorna plošča"
+
+msgid "My account"
+msgstr "Moj račun"
+
+msgid "Logout"
+msgstr "Odjava"
+
+msgid "E-mail"
+msgstr "E-pošta"
+
+msgid "Password"
+msgstr "Geslo"
+
+msgid "Remember me"
+msgstr "Zapomni si me"
+
+msgid "Log in"
+msgstr "Prijava"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Select a category"
+msgstr "Izberite kategorijo"
+
+msgid "Item"
+msgstr "Oglas"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Photos"
+msgstr "Slike"
+
+msgid "Add new photo"
+msgstr "Dodajte novo sliko"
+
+msgid "Location"
+msgstr "Lokacija"
+
+msgid "Country"
+msgstr "Država"
+
+msgid "Region"
+msgstr "Regija"
+
+msgid "City"
+msgstr "Mesto"
+
+msgid "City area"
+msgstr "Mestni predel"
+
+msgid "Address"
+msgstr "Naslov"
+
+msgid "Update"
+msgstr "Posodobi"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "City Area"
+msgstr "Mestni predel"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Mark as"
+msgstr "Označi kot"
+
+msgid "Comments"
+msgstr "Komentarji"
+
+msgid "Delete"
+msgstr "Odstrani"
+
+msgid "Title"
+msgstr "Naziv"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Help"
+msgstr "Pomoč"
+
+msgid "Apply"
+msgstr "Shrani"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Kasnejša razveljavitev dejanja ne bo možna. Ali ste prepričani, da želite nadaljevati?"
+
+msgid "Current password"
+msgstr "Trenutno geslo"
+
+msgid "New password"
+msgstr "Novo geslo"
+
+msgid "New pasword"
+msgstr "Novo geslo"
+
+msgid "Repeat new pasword"
+msgstr "Ponovno vpišite geslo"
+
+msgid "Change password"
+msgstr "Sprememba gesla"
+
+msgid "Edit"
+msgstr "Urejanje"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Kasnejša razveljavitev dejanja ne bo možna. Ali ste prepričani, da želite nadaljevati?"
+
+msgid "Activate"
+msgstr "Aktiviraj"
+
+msgid "User type"
+msgstr "Vrsta računa"
+
+msgid "Cell phone"
+msgstr "GSM"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Spletna stran"
+
+msgid "Passwords don't match"
+msgstr "Gesli se ne ujemata"
+
+msgid "Create"
+msgstr "Ustvari"
+
+msgid "The categories have been deleted"
+msgstr "Kategorije so bile odstranjene"
+
+msgid "Invalid email address"
+msgstr "Nepravilni e-poštni naslov"
+
+msgid "no action defined"
+msgstr "nedefiniran ukaz"
+
+msgid "Contact form"
+msgstr "Kontaktni obrazec"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Latest items added"
+msgstr "Najnovejši oglasi"
+
+msgid "Latest items added in"
+msgstr "Najnovejši oglasi dodani v"
+
+msgid "Checking for update files."
+msgstr "Preverjam za posodobitve."
+
+msgid "File downloaded correctly"
+msgstr "Datoteke uspešno prenešene"
+
+msgid "Missing filename"
+msgstr "Manjka ime datoteke"
+
+msgid "Removing temp-directory"
+msgstr "Odstranjujem začasno mapo"
+
+msgid "Archiving is sucessful!"
+msgstr "Arhiviranje uspešno!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Napaka, ne morem ustvariti zip datoteke!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Odpakiranje ni uspelo"
+
+msgid "Filename incorrect"
+msgstr "Ime datoteke ni pravilno"
+
+msgid "Files removed"
+msgstr "Datoteke so bile odstranjene"
+
+msgid "No files to remove"
+msgstr "Ni datotek za odstranjevanje"
+
+msgid "There were problems copying files"
+msgstr "Prišlo je do napake pri kopiranju datotek"
+
+msgid "Nothing to copy"
+msgstr "Ni datotek za kopiranje"
+
+msgid "Files copied"
+msgstr "Kopiranje zaključeno"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql izvršen"
+
+msgid "No SQL to execute"
+msgstr "Ni SQL za izvšbo"
+
+msgid "Custom actions executed"
+msgstr "Dejanja po meri izvršena"
+
+msgid "No action to execute"
+msgstr "Ni dejanj za izvršbo"
+
+msgid "Checking for update files"
+msgstr "Preverjam za posodobitve"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Prišlo je do napake pri kopiranju. Do tega bi lahko prišlo zaradi napačno nastavljenega dovoljenja za zapisovanje mape"
+
+msgid "Tables updated correctly"
+msgstr "Tabele so bile uspešno posodobljene"
+
+msgid "No tables update to execute"
+msgstr "Ni posodobitev za tabele"
+
+msgid "View comments"
+msgstr "Ogled komentarjev"
+
+msgid "View media"
+msgstr "Ogled večpredstavne vsebine"
+
+msgid "Deactivate"
+msgstr "Deaktiviraj"
+
+msgid "Unmark as premium"
+msgstr "Odznači kot premium"
+
+msgid "Mark as premium"
+msgstr "Označi kot premium"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "Prijava v OpenSourceClassifieds administratorski vmesnik"
+
+msgid "Type your new password"
+msgstr "Vpišite novo geslo"
+
+msgid "Back to"
+msgstr "Nazaj na"
+
+msgid "Username"
+msgstr "Uporabniško ime"
+
+msgid "Forgot your password?"
+msgstr "Ste pozabili geslo?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Vpišite svoje uporabniško ime in e-poštni naslov"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Novo geslo boste prejeli na vaš e-poštni naslov"
+
+msgid "Get new password"
+msgstr "Želim novo geslo"
+
+msgid "Thank you for using"
+msgstr "Hvala, ker uporabljate"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+msgid "Feedback"
+msgstr "Vaše mnenje"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds administratorski vmesnik"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s je že na voljo!"
+
+msgid "Please upgrade now"
+msgstr "Posodobite zdaj"
+
+msgid "Visit website"
+msgstr "Obiščite spletno stran"
+
+msgid "Hi"
+msgstr "Lepo pozdravljen"
+
+msgid "Your profile"
+msgstr "Profil"
+
+msgid "Log Out"
+msgstr "Odjava"
+
+msgid "Admins"
+msgstr "Administratorji"
+
+msgid "Add new admin"
+msgstr "Dodaj novega administratorja"
+
+msgid "Real name"
+msgstr "Pravo ime"
+
+msgid "required"
+msgstr "obvezno"
+
+msgid "User name"
+msgstr "Uporabniško ime"
+
+msgid "Edit admin"
+msgstr "Urejanje administratorja"
+
+msgid "Re-type new password"
+msgstr "Ponovno vpiši novo geslo"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Pustite prazno, če ne želite spreminjate svojega gesla"
+
+msgid "Processing"
+msgstr "Obdelava v teku"
+
+msgid "Show _MENU_ entries"
+msgstr "Prikaži _MENU_ vnosov"
+
+msgid "No matching records found"
+msgstr "Ni ujemajočih vnosov"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Prikazujem _START_ do _END_ od skupno _TOTAL_ vnosov"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Prikazujem 0 do 0 od skupno 0 vnosov"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "filtrirano od _MAX_ skupnih vnosov"
+
+msgid "First"
+msgstr "Prvi"
+
+msgid "Previous"
+msgstr "Zadnji"
+
+msgid "Next"
+msgstr "Naslednji"
+
+msgid "Last"
+msgstr "Zadnji"
+
+msgid "Show"
+msgstr "Prikaži"
+
+msgid "entries"
+msgstr "vnosi"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Kasnejša razveljavitev dejanja ne bo možna. Ali ste prepričani, da želite nadaljevati?"
+
+msgid "Bulk actions"
+msgstr "Izvanjanje v nizu"
+
+msgid "Appearance"
+msgstr "Izgled"
+
+msgid "Theme package"
+msgstr "Paketek za temo"
+
+msgid "Upload"
+msgstr "Naloži"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Če želite nastaviti mapo kot zapisljivo v okolju UNIX, izvršite naslednji ukaz"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Administracija - Dodaj nov widget"
+
+msgid "Create widget in %s"
+msgstr "Ustvari widget v %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Opis (za interno rabo)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML koda za widget"
+
+msgid "Publish widget"
+msgstr "Objava widgeta"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Ali ste prepričani, da želite preklicati?"
+
+msgid "Add a new theme"
+msgstr "Dodaj novo temo"
+
+msgid "Current theme"
+msgstr "Trenutna tema"
+
+msgid "Author"
+msgstr "Avtor"
+
+msgid "Available themes"
+msgstr "Teme, ki so na voljo"
+
+msgid "Preview"
+msgstr "Predolged"
+
+msgid "Widgets"
+msgstr "Naprave"
+
+msgid "Add HTML widget"
+msgstr "Dodaj HTML widget"
+
+msgid "Categories"
+msgstr "Kategorije"
+
+msgid "Expirations days"
+msgstr "Čez koliko dni naj poteče"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = nikoli)"
+
+msgid "Enabled"
+msgstr "Omogočeno"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "Disable"
+msgstr "Onemogoči"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Enable"
+msgstr "Omogoči"
+
+msgid "Edit comment"
+msgstr "Urejevanje komentarja"
+
+msgid "Add a comment"
+msgstr "Dodaj komentar"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "You have to write a title."
+msgstr "Naslov mora biti izpolnjen."
+
+msgid "You have to write a comment."
+msgstr "Komentar mora biti izpolnjen."
+
+msgid "Author's name can not be empty."
+msgstr "Ime avtorja mora biti izpolnjeno."
+
+msgid "Author's email can not be empty."
+msgstr "E-poštni naslov avtorja mora biti izpolnjen."
+
+msgid "Edit a comment on item:"
+msgstr "Uredi komentar oglasa:"
+
+msgid "View"
+msgstr "Prikaži"
+
+msgid "It's a registered user"
+msgstr "Registriran uporabnik"
+
+msgid "Edit user"
+msgstr "Urejevanje uporabnika"
+
+msgid "Author's e-mail"
+msgstr "E-poštni naslov avtorja"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "De-activate"
+msgstr "Deaktiviraj"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Manage Comments"
+msgstr "Upravljanje komentarjev"
+
+msgid "Edit email/alert"
+msgstr "Upravljanje e-pošte/obvestil"
+
+msgid "Add an email/alert"
+msgstr "Dodaj e-pošto/obvestilo"
+
+msgid "Emails & Alerts"
+msgstr "E-pošta &amp; obvestila"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Interno ime (ime, ki se navezuje na to e-pošto/obvestilo)"
+
+msgid "Emails & alerts"
+msgstr "E-pošta &amp; obvestila"
+
+msgid "Items"
+msgstr "Oglasi"
+
+msgid "Manage items"
+msgstr "Upravljanje oglasov"
+
+msgid "Add new item"
+msgstr "Dodajte nov oglas"
+
+msgid "Manage media"
+msgstr "Upravljanje večpredstavnosti"
+
+msgid "Manage categories"
+msgstr "Upravljanje kategorij"
+
+msgid "Pages"
+msgstr "Strani"
+
+msgid "Manage pages"
+msgstr "Upravljanje strani"
+
+msgid "Create page"
+msgstr "Ustvarite stran"
+
+msgid "Manage emails & alerts"
+msgstr "Upravljanje e-pošte & obvestil"
+
+msgid "Manage themes"
+msgstr "Upravljanje tem"
+
+msgid "Add or remove widgets"
+msgstr "Dodajanje in odstranjevanje widgetov"
+
+msgid "Plugins"
+msgstr "Dodatki"
+
+msgid "Manage plugins"
+msgstr "Upravljanje dodatkov"
+
+msgid "Add new plugin"
+msgstr "Dodaj nov dodatek"
+
+msgid "Languages"
+msgstr "Jeziki"
+
+msgid "Manage languages"
+msgstr "Upravljanje jezikov"
+
+msgid "Add a language"
+msgstr "Dodaj nov jezik"
+
+msgid "General settings"
+msgstr "Splošne nastavitve"
+
+msgid "Users"
+msgstr "Uporabniki"
+
+msgid "Locations"
+msgstr "Lokacije"
+
+msgid "Permalinks"
+msgstr "Povezave"
+
+msgid "Spam and bots"
+msgstr "Spam in boti"
+
+msgid "Currencies"
+msgstr "Valute"
+
+msgid "Mail Server"
+msgstr "E-poštni strežnik"
+
+msgid "Media"
+msgstr "Večpredstavnost"
+
+msgid "Cron system"
+msgstr "Sistem Cron"
+
+msgid "Tools"
+msgstr "Orodja"
+
+msgid "Import data"
+msgstr "Uvoz podatkov"
+
+msgid "Backup data"
+msgstr "Varnostno kopiranje podatkov"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Posodobi OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Ponovno ustvari sličice"
+
+msgid "Manage users"
+msgstr "Upravljanje uporabnikov"
+
+msgid "Add new user"
+msgstr "Dodaj novega uporabnika"
+
+msgid "Administrators"
+msgstr "Administratorji"
+
+msgid "List administrators"
+msgstr "Seznam administratorjev"
+
+msgid "Add new administrator"
+msgstr "Dodaj novega administratorja"
+
+msgid "Edit Your Profile"
+msgstr "Urejanje profila"
+
+msgid "New item"
+msgstr "Nov oglas"
+
+msgid "Edit item"
+msgstr "Urejevanje oglasa"
+
+msgid "User"
+msgstr "Uporabnik"
+
+msgid "Item posted by"
+msgstr "Oglas je objavil"
+
+msgid "Non-registered user"
+msgstr "Neregistriran uporabnik"
+
+msgid "E-Mail"
+msgstr "E-pošta"
+
+msgid "General information"
+msgstr "Splošne informacije"
+
+msgid "optional"
+msgstr "ni obvezno"
+
+msgid "Add item"
+msgstr "Dodaj oglas"
+
+msgid "All"
+msgstr "Vse"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Podvojeno"
+
+msgid "Misclassified"
+msgstr "Nepravilno uvrščeno"
+
+msgid "Offensive"
+msgstr "Žaljivo"
+
+msgid "Expired"
+msgstr "Poteklo"
+
+msgid "Language package"
+msgstr "Jezikovni paket"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Jezikovnega paketa ni možno naložiti, saj je mapa s prevodi zaščitena pred zapisovanjem. Prosimo, nastavite dostop do mape tako, da bo zapisljiva"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Če želite nastaviti mapo kot zapisljivo v okolju UNIX, izvršite naslednji ukaz"
+
+msgid "Short name"
+msgstr "Krajše ime"
+
+msgid "Currency format"
+msgstr "Format valute"
+
+msgid "Date format"
+msgstr "Format datuma"
+
+msgid "Stopwords"
+msgstr "Pogoste besede (Stopwords)"
+
+msgid "Enabled for the public website"
+msgstr "Omogočeno za javni del strani"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Omogočeno za administratorski vmesnik"
+
+msgid "Disable (website)"
+msgstr "Onemogoči (stran)"
+
+msgid "Disable (oc-admin)"
+msgstr "Onemogoči (administracija)"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Enabled (website)"
+msgstr "Omogočeno (stran)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Omogočeno (administracija)"
+
+msgid "Bulk Actions"
+msgstr "Ne naredi ničesar"
+
+msgid "Enable (Website)"
+msgstr "Omogoči (stran)"
+
+msgid "Disable (Website)"
+msgstr "Onemogoči (stran)"
+
+msgid "Enable (oc-admin)"
+msgstr "Omogoči (administracija)"
+
+msgid "Settings"
+msgstr "Nastavitve"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Kaj naj se prikazuje na prvi strani administratorskega vmesnika"
+
+msgid "Latest items"
+msgstr "Najnovejši oglasi"
+
+msgid "Statistics"
+msgstr "Statistike"
+
+msgid "Latest comments"
+msgstr "Najnovejši komentarji"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Najnovejše novice iz OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Oglasi glede na kategorijo"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Ni objavljenih oglasov"
+
+msgid "Number of items"
+msgstr "Število oglasov"
+
+msgid "Number of public users"
+msgstr "Število uporabnikov"
+
+msgid "Number of administrators"
+msgstr "Število administratorjev"
+
+msgid "Commented on item"
+msgstr "je komentiral/a"
+
+msgid "There aren't any comments yet"
+msgstr "Ni komentarjev"
+
+msgid "new"
+msgstr "novo"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Ni bilo mogoče dostopati do novic iz OpenSourceClassifieds. Prosimo poskusite ponovno kasneje"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "Attached to"
+msgstr "Pripada"
+
+msgid "Edit page"
+msgstr "Uredi stran"
+
+msgid "Add page"
+msgstr "Dodaj stran"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Interno ime (ime, ki se navezuje na to stran)"
+
+msgid "View page"
+msgstr "Prikaži stran"
+
+msgid "Add a new plugin"
+msgstr "Dodaj nov dodatek"
+
+msgid "Plugin package"
+msgstr "Datoteka z dodatkom"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Mapa z dodatki je zaščitena pred zapisovanjem"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds ne more naložiti dodatkov iz administratorskega vmesnika"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Datoteko z dodatkom naložite s pomočjo FTP ali SSH, ali pa spremenite nastavitev za dovoljenje zapisovanja omenjene mape"
+
+msgid "Preset categories"
+msgstr "Prednastavljene kategorije"
+
+msgid "Check all"
+msgstr "Označi vse"
+
+msgid "Uncheck all"
+msgstr "Odznači vse"
+
+msgid "Configure"
+msgstr "Nastavi"
+
+msgid "There's a new version. You should update!"
+msgstr "Obstaja nova verzija, ki bi jo morali posodobiti!"
+
+msgid "Uninstall"
+msgstr "Odstranjevanje"
+
+msgid "Install"
+msgstr "Nameščanje"
+
+msgid "Create currency"
+msgstr "Ustvari valuto"
+
+msgid "Code"
+msgstr "Koda"
+
+msgid "It should be a three-character code"
+msgstr "Naj vsebuje tri znake"
+
+msgid "Comments settings"
+msgstr "Nastavitve komentarjev"
+
+msgid "Comments enabled"
+msgstr "Komentiranje omogočeno"
+
+msgid "Moderate comments"
+msgstr "Preverjanje komentarjev"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Koliko komentarjev istega avtorja mora iti skozi preverjanje, preden mu je dovoljeno objavljati brez preverjanja (0 pomeni neskončno)"
+
+msgid "Notifications"
+msgstr "Obveščanje"
+
+msgid "Contact settings"
+msgstr "Nastavitve kontaktiranja"
+
+msgid "Attachment enabled"
+msgstr "Omogoči priponko"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Nekatere funkcije OpenSourceClassifieds za delovanje potrebujejo cron. Pri svojem ponudniku spletnega gostovanja preverite možnosti za podporo cron. Odklukajte, če želite ročno nastaviti cron. Za več informacij se obrnite na dokumentacijo OpenSourceClassifieds."
+
+msgid "Edit currency"
+msgstr "Urejevanje valute"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Naknadno urejanje ni mogoče"
+
+msgid "Page title"
+msgstr "Naslov strani"
+
+msgid "Page description"
+msgstr "Opis strani"
+
+msgid "Admin e-mail"
+msgstr "E-poštni naslov administratorja"
+
+msgid "Default language"
+msgstr "Privzet jezik"
+
+msgid "Custom"
+msgstr "Po meri"
+
+msgid "Default currency"
+msgstr "Privzeta valuta"
+
+msgid "Week starts on"
+msgstr "Dan, s katerim se začne teden"
+
+msgid "Sunday"
+msgstr "Nedelja"
+
+msgid "Monday"
+msgstr "Ponedeljek"
+
+msgid "Tuesday"
+msgstr "Torek"
+
+msgid "Wednesday"
+msgstr "Sreda"
+
+msgid "Thursday"
+msgstr "Četrtek"
+
+msgid "Friday"
+msgstr "Petek"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Time format"
+msgstr "Format časa"
+
+msgid "Number of items in the RSS"
+msgstr "Število oglasov v RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Omogoči reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Oglase mora uporabnik pred objavo aktivirati"
+
+msgid "Logged users don't need to validate items"
+msgstr "Prijavljeni uporabniki lahko objavljajo brez aktiviranja"
+
+msgid "Only allow registered users to post items"
+msgstr "Oglase lahko objavljajo le registrirani uporabniki"
+
+msgid "Notify admin of new items"
+msgstr "Administratorja obvesti o novih oglasih"
+
+msgid "Notify admin of contact items"
+msgstr "Administratorja obvesti o kontaktiranju"
+
+msgid "Notify admin of share"
+msgstr "Administratorja obvesti o uporabi funkcije \\\"Povej prijatelju\\\""
+
+msgid "Optional fields"
+msgstr "Neobvezna polja"
+
+msgid "Enable price"
+msgstr "Omogoči ceno"
+
+msgid "Enable images"
+msgstr "Omogoči slike"
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "View more"
+msgstr "Prikaži več"
+
+msgid "Countries"
+msgstr "Države"
+
+msgid "Add new"
+msgstr "Dodaj novo"
+
+msgid "Regions"
+msgstr "Regije"
+
+msgid "Cities"
+msgstr "Mesta"
+
+msgid "Add new country"
+msgstr "Dodaj novo državo"
+
+msgid "Country code"
+msgstr "Koda države"
+
+msgid "Country code should have two characters"
+msgstr "Naj vsebuje dva znaka"
+
+msgid "Edit country"
+msgstr "Urejanje države"
+
+msgid "Add new region"
+msgstr "Dodaj novo regije"
+
+msgid "Edit region"
+msgstr "Urejanje regije"
+
+msgid "Add new city"
+msgstr "Dodaj novo mesto"
+
+msgid "Edit city"
+msgstr "Urejanje mesta"
+
+msgid "Mail server"
+msgstr "E-poštni strežnik"
+
+msgid "Configuration"
+msgstr "Konfiguracija"
+
+msgid "Server type"
+msgstr "Tip strežnika"
+
+msgid "Custom Server"
+msgstr "Strežnik po meri"
+
+msgid "GMail Server"
+msgstr "GMail strežnik"
+
+msgid "Hostname"
+msgstr "Naslov"
+
+msgid "Server port"
+msgstr "Vrata strežnika"
+
+msgid "Encryption"
+msgstr "Enkripcija"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Možnosti: prazno, ssl ali tls"
+
+msgid "Enable SMTP authentication"
+msgstr "Omogoči SMTP avtentikacijo"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Vpišite konfiguracijo e-poštnega strežnika"
+
+msgid "Media settings"
+msgstr "Nastavitve večpredstavnosti"
+
+msgid "Configure media"
+msgstr "Konfiguracija večpredstavnosti"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Prosimo nastavite željene dimenzije slik (format: ŠIRINAxVIŠINA, npr. 640x480)"
+
+msgid "Restrictions"
+msgstr "Omejitve"
+
+msgid "Maximum size, in KB"
+msgstr "Maksimalna velikost, v KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Dovoljene končnice datotek (npr. png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Dimenzije"
+
+msgid "Thumbnail dimensions"
+msgstr "Dimenzije sličic"
+
+msgid "Preview dimensions"
+msgstr "Dimenzije za predogled"
+
+msgid "Normal dimensions"
+msgstr "Normalne dimenzije"
+
+msgid "Keep original image"
+msgstr "Ohrani originalno velikost slik"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Velikosti slik bodo ostale nedotaknjene, vendar na račun večje porabe prostora na disku strežnika. Te nastavitve ne vklapljajte če o tem niste prepričani. "
+
+msgid "Permalinks settings"
+msgstr "Nastavitve povezav"
+
+msgid "Friendly urls"
+msgstr "Iskalniku prijazni URL naslovi"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "OpenSourceClassifieds po privzetih nastavitvah za URL naslove uporablja vprašaj in veliko številk ter drugih znakov. Vendar pa OpenSourceClassifieds ponuja možnost iskalniku prijaznih URL naslovov, kar izboljša videz, uporabnost in kompatibilnost vaših povezav."
+
+msgid "Enable friendly urls"
+msgstr "Omogoči iskalniku prijazne URL naslove"
+
+msgid ".htaccess file"
+msgstr ".htaccess datoteka"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Module <em>mod_rewrite</em> je bil najden na strežniku."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Napaka. Datoteke .htaccess ni bilo mogoče zapisati na strežnik. Prosimo, ustvarite datoteko .htaccess v mapi kjer je nameščen OpenSourceClassifieds in vanj skopirajte naslednjo vsebino."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Datoteka .htaccess že obstaja. Prosimo preverite, če vsebuje obstoječa .htaccess datoteka naslednjo vsebino:"
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Ustvarili smo .htaccess datoteko v mapi kjer je nameščen OpenSourceClassifieds."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Vsebina datoteke .htaccess bi morala izgledati takole:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Trenutna vsebina .htaccess datoteke:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet ključ (kot za Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Če je polje prazno, potem je storitev Akismet onemogočena "
+
+msgid "Get your free key at"
+msgstr "Svoj brezplačen ključ dobite na"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Če je polje prazno, potem je storitev reCAPTCHA onemogočena "
+
+msgid "Get your free keys at"
+msgstr "Svoja brezplačna ključa dobite na"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA privatni ključ"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA javni ključ"
+
+msgid "Users settings"
+msgstr "Uporabniške nastavitve"
+
+msgid "Users enabled"
+msgstr "Dovoli uporabnike"
+
+msgid "User validation enabled"
+msgstr "Preverjanja uporabnika (potrditveno e-sporočilo)"
+
+msgid "User registration enabled"
+msgstr "Omogoči registracijo uporabnikov"
+
+msgid "Backup"
+msgstr "Varnostna kopija"
+
+msgid "You're offline! Please check your connection"
+msgstr "Ni dostopa do interneta! Prosimo, preverite povezavo"
+
+msgid "Requested URL not found"
+msgstr "Zahtevanega URL naslova ni bilo mogoče najti"
+
+msgid "Internal server error"
+msgstr "Interna napaka strežnika"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Napaka pri razčlenjevanju JSON zahteve"
+
+msgid "Request timeout"
+msgstr "Potekel je čas, ni odziva"
+
+msgid "Unknown error"
+msgstr "Neznana napaka"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Varnostna kopija OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Tukaj lahko ustvarite varnostno kopijo OpenSourceClassifieds. OPOZORILO: Če ne navedete mape za varnostno kopiranje, bodo varnostne kopije ustvarjene v korenski mapi, kjer je nameščen OpenSourceClassifieds"
+
+msgid "Backup folder"
+msgstr "Mapa za varnostno kopiranje"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "To je mapa v kateri bodo ustvarjene varnostne kopije. Priporočamo, da iz varnostnih razlogov izberete mapo, ki ni spletu ni dostopna. Za več informacij se obrnite na dokumentacijo OpenSourceClassifieds"
+
+msgid "Back up database"
+msgstr "Varnostna kopija podatkovne baze"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Varnostna kopija mape z OpenSourceClassifieds"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Tukaj lahko ponovno ustvarite sličice in si jih ogledujete. Zna priti prav, če ste zamenjali temo in se slike ne prikazujejo več pravilno. Prosimo, preverite nastavitve velikosti v upravljanju večpredstavnosti."
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Tukaj lahko spreminjate podatkovno bazo in dodajate, odstranjujete ali pa modificirate podatke. Ponavadi se uporablja za dodajanje držav, regij in mest"
+
+msgid "Data"
+msgstr "Podatki"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Zadovoljevanje uporabnika z odličnim in enostavnim avtomatskim posodabljanjem: Done!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Neveljaven OpenSourceClassifieds zahtevek."
+
+msgid "Upgrade"
+msgstr "Posodobitev"
+
+msgid "Re-type the password"
+msgstr "Ponovno vpišite geslo"
+
+msgid "Additional information"
+msgstr "Dodatne informacije"
+
+msgid "Activate user"
+msgstr "Aktivacija uporabnika"
+
+msgid "Deactivate user"
+msgstr "Deaktivacija uporabnika"
+
+msgid "Update Date"
+msgstr "Datum posodobitve"
+
+msgid "Add a new user"
+msgstr "Dodaj novega uporabnika"
+
+msgid "Anonymous"
+msgstr "Anomimnež"
+
+msgid "Admin mail system"
+msgstr "Administratorski e-poštni sistem"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Dodatku %s manjka index.php datoteka %s"
+
+msgid "Enter your e-mail"
+msgstr "Vpišite svoj e-poštni naslov"
+
+msgid "Select a country..."
+msgstr "Izberite državo..."
+
+msgid "Select a region..."
+msgstr "Izberite regijo..."
+
+msgid "Select a city..."
+msgstr "Izberite mesto..."
+
+msgid "No results"
+msgstr "Ni zadetkov"
+
+msgid "Description: needs to be longer"
+msgstr "Opis: naj bo nekoliko daljši"
+
+msgid "Choose one category"
+msgstr "Izberite eno kategorijo"
+
+msgid "Currency: make your selection"
+msgstr "Valuta: izberite jo"
+
+msgid "Photo: must be %s"
+msgstr "Slika: mora biti %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Ime: naj bo vsaj tri znake dolgo"
+
+msgid "Name: no more than 35 characters"
+msgstr "Ime: naj ne bo več kot 35 znakov dolgo"
+
+msgid "Email: this field is required"
+msgstr "E-poštni naslov: polje je obvezno"
+
+msgid "Select a region"
+msgstr "Izberite regijo"
+
+msgid "Select a city"
+msgstr "Izberite mesto"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Predel mesta: vnesi vsaj 3 znake"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Kasnejša razveljavitev dejanja ne bo možna. Ali ste prepričani, da želite nadaljevati?"
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "Body"
+msgstr "Vsebina"
+
+msgid "User Description"
+msgstr "Opis uporabnika"
+
+msgid "Company"
+msgstr "Podjetje"
+
+msgid "Check with seller"
+msgstr "Za ceno kontaktirajte ponudnika"
+
+msgid "Newly listed"
+msgstr "Najnovejši"
+
+msgid "Lower price first"
+msgstr "Od najnižje cene naprej"
+
+msgid "Higher price first"
+msgstr "Od najvišje cene naprej"
+
+msgid "Manage your items"
+msgstr "Upravljanje mojih oglasov"
+
+msgid "Manage your alerts"
+msgstr "Upravljanje mojih obvestil"
+
+msgid "%s in"
+msgstr "%s v"
+
+msgid "There's no description available in your language"
+msgstr "Za vaš jezik ni na voljo opisa"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Opravičujemo se za nevšečnosti. %s je v vzdrževalnem načinu"
+
+msgid "Error removing file: %s"
+msgstr "Napak pri odstranjevanju datoteke: %s"
+
+msgid "Some error ocurred"
+msgstr "Prišlo je do napake"
+
+msgid "Order saved"
+msgstr "Vrstni red shranjen"
+
+msgid "Error while deleting"
+msgstr "Napaka pri odstranjevanju"
+
+msgid "Error while updating."
+msgstr "Napak pri posodabljanju."
+
+msgid "Saved"
+msgstr "Shranjeno"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Odlično! Vaš OpenSourceClassifieds je posodobljen"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Skoraj vse je bilo v redu! OpenSourceClassifieds je posodobljen, le pri odstranjevanju začasnih datotek je prišlo do napake. Prosimo, da ročno odstranite mapo \\\"oc-temp\\\""
+
+msgid "Problems upgrading the database"
+msgstr "Napaka pri posodabljanju podatkovne baze"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Napaka pri kopiranju datotek. Preverite nastavitve dovoljenj za zapisovanje map"
+
+msgid "Download failed"
+msgstr "Nalaganje ni uspelo"
+
+msgid "Missing download URL"
+msgstr "Manjka URL povezava"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Prišlo je do napak pri odstranjevanju datotek, ker pa napake niso bile kritične je OpenSourceClassifieds posodobljen, vseeno pa svetujemo, da ročno odstranite naslednje datoteke. Tako boste zagotovili maksimalno učinkovitost delovanja"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Prišlo je do napak pri posodabljanju podatkovne baze. Naslednje poizvedbe niso uspele"
+
+msgid "Clear"
+msgstr "Počisti"
+
+msgid "Forums"
+msgstr "Forum"
+
+msgid "Add new theme"
+msgstr "Dodaj novo temo"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Mapa s temami %s je zaščitena pred pisanjem. <span class=\"\\&quot;OpenSourceClassifieds\\&quot;\">OpenSourceClassifieds</span> tako ne more naložiti teme iz administratorskega vmesnika. Datoteko s temo naložite s pomočjo FTP ali SSH, ali pa spremenite nastavitev za dovoljenje zapisovanja omenjene mape"
+
+msgid "Ajax error, try again."
+msgstr "Ajax napaka, poskusite znova."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "OPOZORILO: To bo trajno odstranilo tudi oglase, ki jih kategorija vsebuje. Kasnejša razveljavitev dejanja ne bo možna. Ali ste prepričani, da želite nadaljevati?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Povlecite in spustite kategorije tako, da bodo urejene po vaši meri. Za urejanje kategorije kliknite na Urejanje"
+
+msgid "Add new category"
+msgstr "Dodaj novo kategorijo"
+
+msgid "Categories settings"
+msgstr "Nastavitve kategorij"
+
+msgid "Selectable parent categories"
+msgstr "Oglasi lahko spadajo neposredno pod glavne kategorije"
+
+msgid "ACTIVE"
+msgstr "AKTIVNO"
+
+msgid "INACTIVE"
+msgstr "NEAKTIVNO"
+
+msgid "ENABLED"
+msgstr "OMOGOČENO"
+
+msgid "DISABLED"
+msgstr "ONEMOGOČENO"
+
+msgid "Last Searches"
+msgstr "Zadnja iskanja"
+
+msgid "Maintenance mode"
+msgstr "Vzdrževalni način"
+
+msgid "Reports"
+msgstr "Poročila"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Koliko oglasov istega avtorja mora biti aktiviranih, preden mu je dovoljeno objavljati brez aktiviranja (0 pomeni neskončno)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Koliko sekund mora uporabnik počakati preden lahko objavi drug oglas (0 pomeni, da mu ni potrebno čakati)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Kontaktiranje ponudnikov dovoli samo registriranim uporabnikom"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Maksimalno število slik oglasa (0 pomeni neomejeno)"
+
+msgid "Download more languages at %s"
+msgstr "Prenesite več jezikov na %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Kasnejša razveljavitev dejanja ne bo možna. Odstranjevanje dodatka lahko povzroči izgubo podatkov, povezanih z njim. Ali ste prepričani, da želite nadaljevati?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Število komentarjev na stran. Te lahko omejite (višek komentarjev so razvrsti po straneh) ali pa ne (0 pomeni, da se vsi komentarji oglasa prikažejo hkrati)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Komentiranje dovoli samo registriranim uporabnikom"
+
+msgid "Number of recent items displayed at home"
+msgstr "Število najnovejših oglasov, prikazanih na prvi strani"
+
+msgid "Save latest searches"
+msgstr "Shrani zadnja iskanja"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds lahko shrani zadnja iskanja uporabnikov. Tako lahko spremljate, kaj uporabniki iščejo, lahko pa iskanja prikažete kot \\\"Najbolj iskano\\\""
+
+msgid "Keep last searches"
+msgstr "Ohrani iskanja"
+
+msgid "One hour"
+msgstr "Ene ure"
+
+msgid "One day"
+msgstr "Enega dneva"
+
+msgid "One week"
+msgstr "Enega tedna"
+
+msgid "Forever (never delete)"
+msgstr "Vedno (nikoli ne odstranjuj)"
+
+msgid "Keep last 1000 searches"
+msgstr "Ohrani zadnjih 1000"
+
+msgid "Number of files to keep"
+msgstr "Število generiranih datotek po meri"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Funkcionalnost shranjevanja iskanj lahko generira veliko podatkov, zato je priporočeno, da se ti podatki brišejo. Brišejo se lahko starejši od ene ure, enega dneva ali enega tedna, lahko pa določite tudi koliko najnovejših iskanj naj se hrani. Izklop brisanja ni priporočen."
+
+msgid "Last 10 days"
+msgstr "Zadnjih 10 dni"
+
+msgid "Last 10 weeks"
+msgstr "Zadnjih 10 tednov"
+
+msgid "Last 10 months"
+msgstr "Zadnjih 10 mesecev"
+
+msgid "There're no statistics yet"
+msgstr "Trenutno še ni statistik"
+
+msgid "Latest comments on the web"
+msgstr "Najnovejši komentarji"
+
+msgid "New items"
+msgstr "Novi oglasi"
+
+msgid "Total number of items' views"
+msgstr "Skupno število ogledov oglasa"
+
+msgid "Latest items on the web"
+msgstr "Najnovejši oglasi"
+
+msgid "Active"
+msgstr "Aktivno"
+
+msgid "Inactive"
+msgstr "Neaktivno"
+
+msgid "Views"
+msgstr "Ogledov"
+
+msgid "Total number of reports"
+msgstr "Skupno število označb"
+
+msgid "Repeated"
+msgstr "Podvojeno"
+
+msgid "Bad category"
+msgstr "Napačna kategorija"
+
+msgid "Latest users on the web"
+msgstr "Najnovejši uporabniki"
+
+msgid "Avg. items per user"
+msgstr "Povprečno število oglasov na uporabnika"
+
+msgid "items per user"
+msgstr "Število oglasov na uporabnika"
+
+msgid "New users"
+msgstr "Novi uporabniki"
+
+msgid "Users per country"
+msgstr "Uporabnikov na državo"
+
+msgid "Unknown"
+msgstr "Neznano"
+
+msgid "Users per region"
+msgstr "Uporabnikov na regijo"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Ko je stran v vzdrževalnem načinu je uporabniki ne morejo obiskovati. Uporabno, ko želite uveljaviti večje spremembe. Uporabite naslednji gumb za VKLOP/IZKLOP vzdrževalnega načina."
+
+msgid "Maintenance mode is:"
+msgstr "Vzdrževalni način je:"
+
+msgid "ON"
+msgstr "VKLOPLJEN"
+
+msgid "OFF"
+msgstr "IZKLOPLJEN"
+
+msgid "Disable maintenance mode"
+msgstr "Onemogoči vzdrževalni način"
+
+msgid "Enable maintenance mode"
+msgstr "Omogoči vzdrževalni način"
+
+msgid "Checking for updates"
+msgstr "Preverjam, če so na voljo posodobitve"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Odlično! Dodatki ne potrebujejo posodobitve!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Odlično! OpenSourceClassifieds ne potrebuje posodobitve!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Posodobitev OpenSourceClassifieds v teku (to lahko traja nekaj minut):"
+
+msgid "Enable user"
+msgstr "Omogoči uporabnika"
+
+msgid "Disable user"
+msgstr "Onemogoči uporabnika"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds » Vsebuje napake"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Pri posodabljanju strukture podatkovne baze je prišlo do napak. Naslednje poizvedbe niso uspele:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Naslednja sporočila mogoče niso prave napake. Če ste prepričani, da je temu tako, potem lahko <a href=\"\\&quot;%s\\&quot;\">nadaljujete s posodobitvijo</a> ali pa se <a href=\"\\&quot;http://forums.opensourceclassifieds.org/\\&quot;\">obrnete na naš forum</a>."
+
+msgid "Name: this field is required"
+msgstr "Ime: polje je obvezno"
+
+msgid "Message: this field is required"
+msgstr "Sporočilo: polje je obvezno"
+
+msgid "City area: no more than 50 characters"
+msgstr "Predel mesta: naj ne vsebuje več kot 50 znakov"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Naslov: naj vsebuje vsaj 3 znake"
+
+msgid "Address: no more than 100 characters"
+msgstr "Naslov: naj ne vsebuje več kot 100 znakov"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Žal nam je, vendar dosegli ste maksimalno število slik na oglas"
+
+msgid "Your name: this field is required"
+msgstr "Vaše ime: polje je obvezno"
+
+msgid "Friend's name: this field is required"
+msgstr "Prijateljevo ime: polje je obvezno"
+
+msgid "Friend's email: this field is required"
+msgstr "Prijateljev e-poštni naslov: polje je obvezno"
+
+msgid "Invalid friend's email address"
+msgstr "Prijateljev e-poštni naslov ni pravilen"
+
+msgid "Name: no more than 50 characters"
+msgstr "Ime: naj ne vsebuje več kot 50 znakov"
+
+msgid "Password: this field is required"
+msgstr "Geslo: polje je obvezno"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Geslo: vsebuje naj vsaj 5 znakov"
+
+msgid "No file selected"
+msgstr "Izbrana ni bila nobena datoteka"
+
+msgid "Choose File"
+msgstr "Izberite datoteko"
+
+msgid "The website is currently under maintenance mode"
+msgstr "Spletna stran je trenutno v vzdrževalnem načinu"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Oprostite, vendar polje s tem imenom že obstaja"
+
+msgid "The custom field have been deleted"
+msgstr "Polje po meri je bilo odstranjeno"
+
+msgid "Unmark as spam"
+msgstr "Odznači kot spam"
+
+msgid "Mark as spam"
+msgstr "Označi kot spam"
+
+msgid "Field's name"
+msgstr "Ime polja"
+
+msgid "This field is required"
+msgstr "Polje je obvezno"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Izberite kategorije kjer želite uveljaviti te atribute"
+
+msgid "Advanced options"
+msgstr "Napredne nastavitve"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "ID polja (dovoljeni le znaki med a-z ter 0-9 ter znaka - in _)"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "OPOZORILO: To bo trajno odstranilo tudi informacije, ki se nanašajo na to polje. Kasnejša razveljavitev dejanja ne bo možna. Ali ste prepričani, da želite nadaljevati?"
+
+msgid "Custom Fields"
+msgstr "Polja po meri"
+
+msgid "Add new field"
+msgstr "Dodaj novo polje"
+
+msgid "Add new custom field"
+msgstr "Dodaj novo polje po meri"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "You don't have any custom fields yet"
+msgstr "Trenutno še nimate polj po meri"
+
+msgid "Manage custom fields"
+msgstr "Upravljanje s polji po meri"
+
+msgid "County"
+msgstr "Okrožje"
+
+msgid "Show filters"
+msgstr "Prikaži filtre"
+
+msgid "Title and Description"
+msgstr "Naslov in opis"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "ALL"
+msgstr "VSE"
+
+msgid "Reset filters"
+msgstr "Ponastavitev filtra"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "Izberite kategorije kjer želite uveljaviti te atribute (razširite jih tako, da kliknete na njihovo ime)"
+
+msgid "Watermark settings"
+msgstr "Nastavitve vodnega žiga"
+
+msgid "Watermark color"
+msgstr "Barva vodnega žiga"
+
+msgid "Watermark text"
+msgstr "Tekst vodnega žiga"
+
+msgid "Watermark place"
+msgstr "Postavitev vodnega žiga"
+
+msgid "Centre"
+msgstr "Sredina"
+
+msgid "Top Left"
+msgstr "Zgoraj levo"
+
+msgid "Top Right"
+msgstr "Zgoraj desno"
+
+msgid "Bottom Left"
+msgstr "Spodaj levo"
+
+msgid "Bottom Right"
+msgstr "Spodaj desno"
+
+msgid "Watermark image"
+msgstr "Slika vodnega žiga"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "V vednost: OpenSourceClassifieds ne bo spreminjal velikosti vodnega žiga"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Priporočamo, da pri uporabi vodnih žigov vklopite nastavitev 'Ohrani originalno velikost slik'"
+
+msgid "New version to update:"
+msgstr "Nove verzija za posodobitev:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "Vaš OpenSourceClassifieds se lahko posodobi avtomatsko. Prosimo, da pred posodobitvijo izdelate varnostno kopijo podatkovne baze in mape oc-content. OpenSourceClassifieds lahko posodobite tudi ročno, za pomoč obiščite %s "
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Vaš OpenSourceClassifieds se ne more posodobiti avtomatsko. Datoteke in mape ne smejo biti zaščitene pred pisanjem. Poskusite lahko nastaviti dovoljenje za zapisovanje na 644 preko SSH z ukaznim nizom \\\"chmod -R 644 *\\\" (brez narekovajev) ali pa s FTP klientom. Postopek za slednjega se razlikuje od klienta do klienta, zato se pozanimajte pri avtorja FTP programa, ki ga uporabljate. OpenSourceClassifieds lahko posodobite tudi ročno: priskrbite si posodobitveni paket, ga odpakirate in zamenjajte datoteke na vašem strežniku s tistimi v paketu."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "Kategorija s tem id: %  ne obstaja"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "Kategorija in njene podkategorije so omogočene"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "Kategorija in njene podkategorije so onemogočeni"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "Starš je onemogočen zato kategorije ni možno omogočiti"
+
+msgid "The subcategory has been enabled"
+msgstr "Podkategorija je bila omogočena"
+
+msgid "The subcategory has been disabled"
+msgstr "Podkategorija je bila onemogočena"
+
+msgid "Category updated correctly"
+msgstr "Kategorija je bila posodobljena pravilno"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "Kategorija je posodobljena pravilno, vendar nekateri naslovi so prazne"
+
+msgid "Sorry, at least a title is needed"
+msgstr "Oprostite, potreben je vsaj naziv"
+
+msgid "Error while updating"
+msgstr "Napaka pri posodabljanju"
+
+msgid "Test email"
+msgstr "Test e-naslov"
+
+msgid "Email sent successfully"
+msgstr "E-pošta je bila uspešno poslana"
+
+msgid "An error has occurred while sending email"
+msgstr "Prišlo je do napake pri pošiljanju e-pošte"
+
+msgid "Field's type"
+msgstr "Polje tipa"
+
+msgid "Field's options (separated by commas)"
+msgstr "Opcije polja (ločene z vejicami)"
+
+msgid "Options (separeted by commas)"
+msgstr "Opcije (ločene z vejicami)"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "Dovoli prilogo datoteke v kontaktu točke prodajalca"
+
+msgid "Number of decimals"
+msgstr "Število decimalnih mest"
+
+msgid "Decimal point"
+msgstr "decimalna vejica"
+
+msgid "Thousands separator"
+msgstr "ločilo tisočic"
+
+msgid "Action"
+msgstr "Ukrep"
+
+msgid "Notify admin when there's a new comment"
+msgstr "Obvesti admin, če obstaja nov komentar"
+
+msgid "Notify user when there's a new comment"
+msgstr "Obvesti uporabnika, če obstaja nov komentar"
+
+msgid "Timezone"
+msgstr "Časovni pas"
+
+msgid "Select a timezone..."
+msgstr "Izbira časovnega pasu ..."
+
+msgid "Number of item displayed in search results"
+msgstr "Število oglasov prikazanik v rezultatu iskanja"
+
+msgid "Use a POP before SMTP"
+msgstr "Uporabi POP pred SMTP"
+
+msgid "not found"
+msgstr "Ni bilo najdeno"
+
+msgid "Test configuration"
+msgstr "Testeran nastavitve"
+
+msgid "The email will be sent to contact email"
+msgstr "E-pošta bo bila poslana na kontaktni e-naslov "
+
+msgid "Send email"
+msgstr "Pošlji e-pošto"
+
+msgid "Use imagick instead of GD"
+msgstr "Uporaba imagick namesto GD"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "To je hitrejše in porabijo manj virov, kot GD knjižnica"
+
+msgid "Freetype library is required. How to"
+msgstr "FreeType Knjižnica je zahtevana. Kako"
+
+msgid "install/configure"
+msgstr "Namestite/nastavite"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr ""
+
+msgid "Notify admin when a new user registers"
+msgstr "Obvesti, ko admin novega uporabnika registrira"
+
+msgid "Price: no more than 50 characters"
+msgstr "Cena: ne več kot 50 znakov"
+

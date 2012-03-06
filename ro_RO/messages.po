@@ -1,0 +1,910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Passwords don't match"
+msgstr "Parolele nu seamana intre ele"
+
+msgid "The Recaptcha code is wrong"
+msgstr "Codul Recaptcha este gresit"
+
+msgid "You have to introduce a correct e-mail"
+msgstr "Trebuie sa introduci un email corect"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "Emailul a fost transmis."
+
+msgid "Users not enabled"
+msgstr "User neactivat"
+
+msgid "Only registered users are allowed to post items"
+msgstr "Doar utilizatorii inregistrati pot adauga anunturi"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "Ne pare rau, nu avem niciun anunt cu acel ID"
+
+msgid "Great! We've just updated your item"
+msgstr "Am actualizat anuntul"
+
+msgid "The item has been validated"
+msgstr "Anuntul a fost validat"
+
+msgid "The item can't be validated"
+msgstr "Anuntul nu poate fi validat"
+
+msgid "The item has already been validated"
+msgstr "Anuntul este deja validat"
+
+msgid "Your item has been deleted"
+msgstr "Anuntul a fost sters"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "Anuntul nu poate si sters"
+
+msgid "The selected photo couldn't be deleted, the url doesn't exist"
+msgstr "Imaginea selectata nu poate fi stearsa, url-ul nu exista"
+
+msgid "The item doesn't exist"
+msgstr "Anuntul nu exista"
+
+msgid "The item doesn't belong to you"
+msgstr "Anuntul nu iti apartine"
+
+msgid "The selected photo has been successfully deleted"
+msgstr "Imaginea selectata a fost stearsa cu  succes"
+
+msgid "The selected photo couldn't be deleted"
+msgstr "Imaginea selectata nu poate fi stearsa"
+
+msgid "Thanks! That's very helpful"
+msgstr "Multumesc ! A fost de ajutor"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "Ne pare rau dar anuntul e expirat. Nu puteti contacta vanzatorul"
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "Am trimis un email vanzatorului"
+
+msgid "Sorry, we could not save your comment. Try again later"
+msgstr "Ne pare rau, nu va putem salva comentariul. Incercati mai tarziu"
+
+msgid "Your comment is awaiting moderation"
+msgstr "Comentul tau este in asteptarea aprobarii de catre moderator"
+
+msgid "Your comment has been approved"
+msgstr "Comentul tau a fost aprobat"
+
+msgid "Please fill the required fields (name, email)"
+msgstr "Te rog completeaza campurile necesare (nume, email)"
+
+msgid "Please type a comment"
+msgstr "Te rog lasa un comment"
+
+msgid "Your comment has been marked as spam"
+msgstr "Commentul tau a fost marcat ca spam"
+
+msgid "This item doesn't exist"
+msgstr "Anuntul nu exista"
+
+msgid "The comment doesn't exist"
+msgstr "Commentul nu mai exista"
+
+msgid "The comment is not active, you cannot delete it"
+msgstr "Comentul nu este activ, nu il mai poti sterge"
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "Anuntul nu e validat. Valideaza-l pentru a deveni public"
+
+msgid "This item hasn't been validated"
+msgstr "Anuntul nu a fost validat"
+
+msgid "The username doesn't exist"
+msgstr "Numele nu exista"
+
+msgid "The user has not been validated yet"
+msgstr "Userul nu a fost inca validat"
+
+msgid "The password is incorrect"
+msgstr "Parola este gresita"
+
+msgid "We have sent you an email with the instructions to reset your password"
+msgstr "Am trimis un email cu instructiunile de resetare a parolei"
+
+msgid "Sorry, the link is not valid"
+msgstr "Ne pare rau dar link-ul nu este valid"
+
+msgid "The password has been changed"
+msgstr "Parola a fost schimbata"
+
+msgid "Error, the password don't match"
+msgstr "Eroare, parola nu este identica"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "Utilizatorul a fost creat, un email de activare a fost trimis"
+
+msgid "Your account has been created successfully"
+msgstr "Contul s-a creat cu success"
+
+msgid "The specified e-mail is already in use"
+msgstr "Emailul specificat este deja folosit"
+
+msgid "The reCAPTCHA was not introduced correctly"
+msgstr "Codul reCAPTCHA nu a fost introdus corect"
+
+msgid "Your account has been validated"
+msgstr "Contul a fost validat"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "Adresa nu mai e valida. Ne pare rau pentru inconveniente!"
+
+msgid "Your email has been changed successfully"
+msgstr "Emailul a fost modificat cu succes"
+
+msgid "Your profile has been updated successfully"
+msgstr "Profilul a fost actualizat cu succes"
+
+msgid "The specified e-mail is not valid"
+msgstr "Adresa de email specificata nu este valida"
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "Am trimis un email. Urmareste instructiunile pentru a valida modificarile"
+
+msgid "We tried to sent you an e-mail, but it failed. Please, contact the administrator"
+msgstr "Incercam sa va trimitem un email, dar esueaza. Va rog, contactati administratorul"
+
+msgid "Current password doesn't match"
+msgstr "Parola curenta nu se potriveste"
+
+msgid "Passwords can't be empty"
+msgstr "Parola nu poate fi goala"
+
+msgid "Password has been changed"
+msgstr "Parola a fost modificata"
+
+msgid "Email invalid"
+msgstr "Email invalid"
+
+msgid "Username invalid"
+msgstr "username invalid"
+
+msgid "Password invalid"
+msgstr "Parola invalida"
+
+msgid "Email already in use"
+msgstr "Email deja folosit"
+
+msgid "Username already in use"
+msgstr "Username deja folosit"
+
+msgid "The admin has been added"
+msgstr "Administratorul a fost adaugat"
+
+msgid "There have been an error adding a new admin"
+msgstr "A aparut o eroare la adaugarea unui nou administrator"
+
+msgid "There is no admin admin with this id"
+msgstr "Nu este niciun admin cu acest id"
+
+msgid "This admin doesn't exist"
+msgstr "Acest admin nu exista"
+
+msgid "Existing email"
+msgstr "Email deja existent"
+
+msgid "Existing username"
+msgstr "Nume deja existent"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "Parola nu poate fi modificata. Parolele nu sunt identice"
+
+msgid "The admin has been updated"
+msgstr "Admin a fost actualizat"
+
+msgid "The admin id isn't in the correct format"
+msgstr "Id admin nu este in formatul corect"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "Operatia a esuat, nu puteti sa va stergeti"
+
+msgid "The admin has been deleted correctly"
+msgstr "Admin a fost sters corect"
+
+msgid "The admin couldn't be deleted"
+msgstr "Admin nu poate fi sters"
+
+msgid "The theme folder is not writable"
+msgstr "Tema folderului nu are drept de scriere"
+
+msgid "The theme has been installed correctly"
+msgstr "Tema a fost instalata cu succes"
+
+msgid "The zip file is not valid"
+msgstr "Fisierul zip nu este valid"
+
+msgid "There was a problem adding the theme"
+msgstr "A aparut o eroare la adaugarea temei"
+
+msgid "Widget removed correctly"
+msgstr "Widget sters corect"
+
+msgid "Widget added correctly"
+msgstr "Widget adaugat corect"
+
+msgid "Theme activated correctly"
+msgstr "Tema activata cu succes"
+
+msgid "The comments have been deleted"
+msgstr "Comentariile au fost sterse"
+
+msgid "The comments have been approved"
+msgstr "Comentariile au fost aprobate"
+
+msgid "The comments have been disapproved"
+msgstr "Comentul a fost dezaprobat"
+
+msgid "The comment has been approved"
+msgstr "Comentariul a fost aprobat"
+
+msgid "The comment has been disapproved"
+msgstr "Comentul a fost dezaprobat"
+
+msgid "Great! We just updated your comment"
+msgstr "Perfect ! Am modificat comentul tau"
+
+msgid "The comment have been deleted"
+msgstr "Comentul a fost sters"
+
+msgid "The email/alert has been updated"
+msgstr "Alertele/ email au fost actualizate"
+
+msgid "You can't repeat internal name"
+msgstr "Nu puteti refolosi nume interne"
+
+msgid "The email couldn't be updated, at least one title should not be empty"
+msgstr "Email-ul nu poate fi actualizat, macar un titlu nu trebuie sa fie gol"
+
+msgid "The item has been deleted"
+msgstr "Anuntul a fost sters"
+
+msgid "The item couldn't be deleted"
+msgstr "Anuntul nu poate fi sters"
+
+msgid "The item has been activated"
+msgstr "Anuntul a fost activat"
+
+msgid "The item has been deactivated"
+msgstr "Anuntul a fost dezactivat"
+
+msgid "Changes have been applied"
+msgstr "Modificarile au fost aplicate"
+
+msgid "Changes saved correctly"
+msgstr "Modificarile salvate cu succes"
+
+msgid "Resource deleted"
+msgstr "Resurse sterse"
+
+msgid "A new item has been added"
+msgstr "S-a adaugat un anunt"
+
+msgid "The translation folder is not writable"
+msgstr "Folderul translation nu poate fi scris"
+
+msgid "The language has been installed correctly"
+msgstr "Limba a fost instalata"
+
+msgid "There was a problem adding the language"
+msgstr "A aparul o problema la adaugarea unei limbi"
+
+msgid "Language id isn't in the correct format"
+msgstr "Id limba este incorect"
+
+msgid "Language id doesn't exist"
+msgstr "Id limba nu exista"
+
+msgid "Language name can't be empty"
+msgstr "Numele limbii nu poate fi gol"
+
+msgid "Language short name can't be empty"
+msgstr "Numele scurt limba nu poate fi gol"
+
+msgid "Language description can't be empty"
+msgstr "Descriere limba nu poate fi goala"
+
+msgid "%s has been updated"
+msgstr "%s a fost modificat"
+
+msgid "The language has been enabled for the public website"
+msgstr "Limba a fost activata pentru site-ul public"
+
+msgid "The language has been disabled for the public website"
+msgstr "Limba a fost dezactivata pentru site-ul public"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "Limba a fost activata pentru backoffice"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "Limba a fost dezactivata pentru backoffice"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "Eroare la modificare limba"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "Limbile selectate au fost activate pentru site"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "Eroare la actualizare limbi"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "Limbile selectate au fost dezactivate pentru site"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "Limbile selectate au fost activate pentru backoffice"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "Limbile selectate au fost dezactivate pentru backoffice"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "Directorul \"%s\" nu poate fi sters"
+
+msgid "Directory \"%s\" has been successfully removed"
+msgstr "Directorul \\\"%s\\\" a fost sters cu succes"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "Directorul \"%s\" nu poate fi sters pentru ca e limba implicita."
+
+msgid "That username does not exist"
+msgstr "Utilizatorul nu exista"
+
+msgid "A new password has been sent to your e-mail"
+msgstr "O noua parola a fost trimisa pe email"
+
+msgid "The page has been updated"
+msgstr "Pagina a fost modificata"
+
+msgid "The page couldn't be updated, at least one title should not be empty"
+msgstr "Pagina nu poate fi actualizata, macar un titlu nu trebuie sa fie gol"
+
+msgid "You have to set an internal name"
+msgstr "Trebuie setat un nume intern"
+
+msgid "The page has been added"
+msgstr "Pagina a fost adaugata"
+
+msgid "The page couldn't be added, at least one title should not be empty"
+msgstr "Pagina nu poate fi adaugata, macar un titlu nu trebuie sa fie gol"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "Oops ! Acest nume intern este deja folosit. Nu putem face aceste modificari"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "Pagina nu poate fi stearsa pentru ca este vitala"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "paginile nu pot fi sterse fiindca sunt vitale"
+
+msgid "One page couldn't be deleted"
+msgstr "O pagina nu poate fi stearsa"
+
+msgid "pages couldn't be deleted"
+msgstr "paginile nu pot fi sterse"
+
+msgid "One page has been deleted correctly"
+msgstr "O pagina a fost stearsa corect"
+
+msgid "pages have been deleted correctly"
+msgstr "pagini au fost sterse corect"
+
+msgid "The plugin folder is not writable"
+msgstr "Folderul de plugin nu are drept de scriere"
+
+msgid "The plugin has been uploaded correctly"
+msgstr "Plugin-ul a fost incarcat corect"
+
+msgid "There was a problem adding the plugin"
+msgstr "A aparut o problema la adaugarea acestul plugin"
+
+msgid "Plugin installed"
+msgstr "Plugin instalat"
+
+msgid "Plugin uninstalled"
+msgstr "Plugin dezinstalat"
+
+msgid "No plugin selected"
+msgstr "Nici un plugin selectat"
+
+msgid "Configuration was saved"
+msgstr "Configuratia s-a salvat"
+
+msgid "Items' settings have been updated"
+msgstr "Setarile anunturilor au fost modificate"
+
+msgid "Comments' settings have been updated"
+msgstr "Setarile comentariilor au fost modificate"
+
+msgid "Users' settings have been updated"
+msgstr "Setarile userului au fost actualizate"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Akismet si reCAPTCHA au fost modificate"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "Eroare: codul de moneda are format incorect"
+
+msgid "New currency has been added"
+msgstr "S-a adaugat moneda"
+
+msgid "Error: currency couldn't be added"
+msgstr "Eroare: moneda nu poate fi adaugata"
+
+msgid "Error: the currency doesn't exist"
+msgstr "Eroare: moneda nu exista"
+
+msgid "Currency has been updated"
+msgstr "Moneda a fost modificata"
+
+msgid "Mail server type is incorrect"
+msgstr "Tip de server mail incorect"
+
+msgid "Mail server configuration has changed"
+msgstr "S-a modificat configuratia serverului de email"
+
+msgid "Media config has been updated"
+msgstr "S-a modificat configuratia pentru media"
+
+msgid "Contact configuration has been updated"
+msgstr "S-a modificat configuratia de contact"
+
+msgid "Cron config has been updated"
+msgstr "S-a modificat configuratia cron"
+
+msgid "General settings have been updated"
+msgstr "S-au modificat setarile generale"
+
+msgid "Import complete"
+msgstr "Import complet"
+
+msgid "There was a problem importing data to the database"
+msgstr "A aparut o problema la importarea datelor din baza de date"
+
+msgid "Re-generation complete"
+msgstr "Regenerare completa"
+
+msgid "Path is empty"
+msgstr "Pachet gol"
+
+msgid "There are no tables to back up"
+msgstr "Nu exista tabele pentru back up"
+
+msgid "The folder is not writable"
+msgstr "Folderul nu are drept de scriere"
+
+msgid "Backup has been done properly"
+msgstr "Backup-ul a fost facut cu succes"
+
+msgid "Archiving successful!"
+msgstr "Arhivare cu succes!"
+
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "Eroare, fisierul zip nu a fost creat in directorul specificat"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "S-a creat utilizatorul, se trimite un email de activare"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "Ne pare rau, adresa de email este deja utilizata"
+
+msgid "The user has been updated and activated"
+msgstr "Utilizatorul a fost actualizat si activat"
+
+msgid "The user has been updated"
+msgstr "Utilizatorul a fost activat"
+
+msgid "User id isn't in the correct format"
+msgstr "Id utilizator nu este in forma corecta"
+
+msgid "No user has been activated"
+msgstr "Niciun user nu a fost activat"
+
+msgid "One user has been activated"
+msgstr "Un utilizator a fost activat"
+
+msgid "%s users have been activated"
+msgstr "%s utilizatori au fost activati"
+
+msgid "No user has been deactivated"
+msgstr "Niciun user nu a fost dezactivat"
+
+msgid "One user has been deactivated"
+msgstr "Un utilizator a fost dezactivat"
+
+msgid "%s users have been deactivated"
+msgstr "%s utilizatori au fost dezactivati"
+
+msgid "No user has been deleted"
+msgstr "Niciun user nu a fost sters"
+
+msgid "One user has been deleted"
+msgstr "Un utilizator a fost sters"
+
+msgid "%s users have been deleted"
+msgstr "%s utilizatori au fost stersi"
+
+msgid "There has been some errors sending the message"
+msgstr "Au aparut ceva erori in a trimite acest mesaj"
+
+msgid "Invalid email address"
+msgstr "Adresa de email invalida"
+
+msgid "One of the files you tried to upload exceeds the maximum size"
+msgstr "Unul din fisierele pe care doresti sa le incarci au depasit marimea maxima"
+
+msgid "The file you tried to upload does not have an allowed extension"
+msgstr "Fisierul pe care doresti sa il incarci nu are extensia valida"
+
+msgid "Error: Plugin already installed"
+msgstr "Eroare: Plugin deja instalat"
+
+msgid "%s has been added as a new country"
+msgstr "%s a fost adaugata ca o tara noua"
+
+msgid "%s already was in the database"
+msgstr "%s deja este in baza de date"
+
+msgid "%s has been edited"
+msgstr "%s a fost editat"
+
+msgid "%s has been deleted"
+msgstr "%s a fost sters"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "%s nu poate fi sters, cateva anunturi sunt stocate inauntru"
+
+msgid "%s has been added as a new region"
+msgstr "%s a fost adaugat ca o regiune noua"
+
+msgid "%s has been added as a new city"
+msgstr "%s a fost adaugat ca un oras nou"
+
+msgid "No currencies have been deleted"
+msgstr "Nicio moneda nu a fost stearsa"
+
+msgid "One currency has been deleted"
+msgstr "O moneda a fost stearsa"
+
+msgid "%s currencies have been deleted"
+msgstr "%s monede au fost sterse"
+
+msgid "%s cannot be added"
+msgstr "%s nu poate fi sters"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s a fost adaugat ca o regiune a %s"
+
+msgid "Error: %s"
+msgstr "Eroare: %s"
+
+msgid "INACTIVE"
+msgstr "INACTIV"
+
+msgid "DISABLED"
+msgstr "DEZACTIVAT"
+
+msgid "Check your inbox to verify your email address"
+msgstr "Verifica inboxul pentru a verifica acesta adresa de email"
+
+msgid "Your item has been published"
+msgstr "Anuntul a fost publicat"
+
+msgid "You can't contact the seller, only registered users can"
+msgstr "Nu poti contacta vanzatorul, doar userii inregistrati pot"
+
+msgid "You must be logged in to delete a comment"
+msgstr "Trebuie sa fi logat ca sa stergi un coment"
+
+msgid "The comment was not added by you, you cannot delete it"
+msgstr "Comentariul nu iti apartine, nu il poti sterge."
+
+msgid "The comment has been deleted"
+msgstr "Comentul a fost sters"
+
+msgid "The item has been suspended"
+msgstr "Anuntul a fost suspendat"
+
+msgid "The user has been suspended"
+msgstr "Userul a fost suspendat"
+
+msgid "This should never happens"
+msgstr "Acest lucru nu trebuie sa se mai intample"
+
+msgid "We were not able to identify you given the information provided"
+msgstr "Nu suntem in masura sa va identificam, avand in vedere informatiile furnizate"
+
+msgid "The recaptcha code is wrong"
+msgstr "Codul recaptcha este incorect"
+
+msgid "The email is not valid"
+msgstr "Email-ul este invalid"
+
+msgid "Your account has already been validated"
+msgstr "Contul tau a fost deja validat"
+
+msgid "Alert activated"
+msgstr "Alerte activate"
+
+msgid "Ops! There was a problem trying to activate alert. Please contact the administrator"
+msgstr "Ops! A aparut o problema incercat sa activezi alertele. Te rog contacteaza administratorul"
+
+msgid "Unsubscribed correctly"
+msgstr "Dezabonare cu succes"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator"
+msgstr "Ops! A aparut o problema incercat sa activezi alertele. Te rog contacteaza administratorul"
+
+msgid "Real Name invalid"
+msgstr "Numele real invalid"
+
+msgid "Categories' settings have been updated"
+msgstr "Setarile din Categorie au fost actualizate"
+
+msgid "The comment has been enabled"
+msgstr "Comentariile sunt activate"
+
+msgid "The comment has been disabled"
+msgstr "Comentariile au fost dezactivate"
+
+msgid "The item has been enabled"
+msgstr "Anuntul a fost activat"
+
+msgid "The item has been disabled"
+msgstr "Anuntul a fost dezactivat"
+
+msgid "The item has been unmarked as"
+msgstr "Anuntul a fost marcat ca"
+
+msgid "The item hasn't been unmarked as"
+msgstr "Anuntul nu a fost marcat ca"
+
+msgid "The language can't be disabled because it's the default language. You can change modify it in General Settings"
+msgstr "Limba nu poate fi dezactivata fiindca este limba implicita. Poti face modificari in Setarile Generale"
+
+msgid "There was a fatal error and the plugin was not installed.<br />Error: \"%s\" Line: %s<br/>File: %s"
+msgstr "A aparut o eroare fatala iar pluginul nu poate fi instalat.<br />Eroare: \\\"%s\\\" Linia: %s<br/>Fisier: %s"
+
+msgid "Country has been edited"
+msgstr "Tara a fost editata"
+
+msgid "There were some problems editing the country"
+msgstr "Au aparut probleme la editarea Tarii"
+
+msgid "%s could not be deleted because it's the default currency"
+msgstr "%s nu poate fi sters deoarece este moneda implicita"
+
+msgid "Settings have been updated"
+msgstr "Setarile au fost actualizate"
+
+msgid "Could not connect with the database. Error: %s"
+msgstr "Nu se poate conecta la baza de date. Eroare: %s"
+
+msgid "Could not select the database. Error: %s"
+msgstr "Nu se poate selecta baza de date. Eroare: %s"
+
+msgid "Maintenance mode is ON"
+msgstr "Modul mentenanta este PORNIT"
+
+msgid "Maintenance mode is OFF"
+msgstr "Modul mentenanta este OPRIT"
+
+msgid "No user has been enabled"
+msgstr "Niciun user nu a fost activat"
+
+msgid "One user has been enabled"
+msgstr "Un user a fost activat"
+
+msgid "%s users have been enabled"
+msgstr "%s useri au fost activati"
+
+msgid "No user has been disabled"
+msgstr "Niciun user nu a fost dezactivat"
+
+msgid "One user has been disabled"
+msgstr "Un user a fost dezactivat"
+
+msgid "%s users have been disabled"
+msgstr "%s useri au fost dezactivati"
+
+msgid "Image with incorrect extension."
+msgstr "Imagine cu extensie incorecta"
+
+msgid "Images too big. Max. size"
+msgstr "Imagine prea mare. Marime maxima"
+
+msgid "Title too short."
+msgstr "Titlu prea scurt."
+
+msgid "Title too long."
+msgstr "Titlu prea lung."
+
+msgid "Description too short."
+msgstr "Descriere prea scurta."
+
+msgid "Description too long."
+msgstr "Descriere prea mare."
+
+msgid "Category invalid."
+msgstr "Categorie invalida."
+
+msgid "Price must be number."
+msgstr "Pretul trebuie sa fie din numere."
+
+msgid "Price too long."
+msgstr "Pret prea lung."
+
+msgid "Name too long."
+msgstr "Nume prea lung."
+
+msgid "Email invalid."
+msgstr "Email invalid."
+
+msgid "Municipality too short."
+msgstr "Municipalitate prea scurta."
+
+msgid "Municipality too long."
+msgstr "Municipalitate prea lunga.."
+
+msgid "Address too short."
+msgstr "Adresa prea scurta."
+
+msgid "Address too long."
+msgstr "Adresa prea lunga."
+
+msgid "Too fast. You should wait a little to publish your ad."
+msgstr "Prea repede. Trebuie sa astepti putin pentru a publicat acest anunt."
+
+msgid "We just send your message to %s"
+msgstr "Tocmai v-am trimis un mesaj la %s"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Ne pare rau, dar aveti deja un camp cu acelas nume"
+
+msgid "User registration is not enabled"
+msgstr "Modul de inregistrare este dezactivat"
+
+msgid "No file was uploaded"
+msgstr "Niciun fisier nu a fost incarcat"
+
+msgid "Widget updated correctly"
+msgstr "Widget incarcat corect"
+
+msgid "Widget cannot be updated correctly"
+msgstr "Widget-ul nu poate fi incarcat corect"
+
+msgid "New custom field added"
+msgstr "Un nou camp adaugat"
+
+msgid "The language can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "Aceasta limba nu poate fi dezactivata fiindca este limba implicita. Poti modifica limba implicita la Setari Generale"
+
+msgid "There was an error creating .maintenance file, please create it manually at the root folder"
+msgstr "A aparut o eroare la crearea fisierului .maintenance te rog creaza-l manual in folderul root"
+
+msgid "There was an error removing .maintenance file, please remove it manually from the root folder"
+msgstr "A aparut o eroare la stergerea fisierului .maintenance te rog sterge-l manual din folderul root"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "Imaginea pentru logo a fost incarcata cu succes"
+
+msgid "An error has occurred, please try again"
+msgstr "A aparut o eroare, te rog incearca din nou"
+
+msgid "The logo image has been removed"
+msgstr "Imaginea loogo a fost stearsa"
+
+msgid "Image not found"
+msgstr "Imaginea nu a fost gasita"
+
+msgid "Country too short."
+msgstr "Tara prea scurta."
+
+msgid "Country too long."
+msgstr "Tara prea lunga."
+
+msgid "Region too short."
+msgstr "Juget prea scurt."
+
+msgid "Region too long."
+msgstr "Juget prea lung"
+
+msgid "City too short."
+msgstr "Oras prea scurt"
+
+msgid "City too long."
+msgstr "Oras prea lung"
+
+msgid "%s field is required."
+msgstr "%s campuri necesare"
+
+msgid "Users are not enabled"
+msgstr "Userii nu au fost activati"
+
+msgid "Password cannot be blank"
+msgstr "Parola nu poate fi goala"
+
+msgid "The password cannot be empty"
+msgstr "Parola nu poate fi goala"
+
+msgid "This action cannot be done because is a demo site"
+msgstr "Aceasta actiune nu poate fi facuta fiindca este un site demo."
+
+msgid "Name can not be empty"
+msgstr "Numele nu poate fi gol"
+
+msgid "%d item has been enabled"
+msgstr "%d anunt a fost activat"
+
+msgid "%d item has been disabled"
+msgstr "%d anunt a fost dezactivat"
+
+msgid "%d item has been activated"
+msgstr "%d anunt a fost activat"
+
+msgid "%d item has been deactivated"
+msgstr "%d anunt a fost dezactivat"
+
+msgid "%d item has been marked as premium"
+msgstr "%d anunt a fost marcat ca premium"
+
+msgid "%d change has been made"
+msgstr "%d setari au fost facute"
+
+msgid "%d item has been marked as spam"
+msgstr "%d anunt a fost marcat ca spam"
+
+msgid "%d change have been made"
+msgstr "%d modificari au fost facute"
+
+msgid "%d item has been deleted"
+msgstr "%d anunt a fost sters"
+
+msgid "You have to set a different internal name"
+msgstr "Trebuie setat un nume intern diferit"
+
+msgid "Plugin enabled"
+msgstr "Plugin activat"
+
+msgid "Error: Plugin already enabled"
+msgstr "Error: Plugin deja activat"
+
+msgid "Plugin disabled"
+msgstr "Plugin dezactivat"
+
+msgid "%s could not be deleted because this currency still in use"
+msgstr "%s nu poate fi sters deoarece e in uz"
+
+msgid "Number of items in the RSS must be integer"
+msgstr "Numar de articole in RSS trebuie sa fie intreg"
+
+msgid "Number of recent items displayed at home must be integer"
+msgstr "Numarul de articole recente vizualizate in home trebuie sa fie intreg"
+
+msgid "The user has been created successfully"
+msgstr "Utilizatorul a fost creat cu succes"
+
+msgid "Sorry, the password cannot be empty"
+msgstr "Ne pare rau, parola trebuie introdusa"
+
+msgid "Sorry, passwords don't match"
+msgstr "Ne pare rau, parolele nu se potrivesc"
+

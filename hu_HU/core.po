@@ -1,0 +1,1501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Contact"
+msgstr "Kapcsolat"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Dashboard"
+msgstr "Kezelői felület"
+
+msgid "My account"
+msgstr "Felhasználói fiókom"
+
+msgid "Logout"
+msgstr "Kilépés"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Remember me"
+msgstr "Emlékezzen rám"
+
+msgid "Log in"
+msgstr "Belépés"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Item"
+msgstr "Tárgy"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Photos"
+msgstr "Fotók"
+
+msgid "Add new photo"
+msgstr "Új fotó hozzáadása"
+
+msgid "Location"
+msgstr "Helység"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Region"
+msgstr "Megye"
+
+msgid "City"
+msgstr "Város"
+
+msgid "City area"
+msgstr "Kerület"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "City Area"
+msgstr "Kerület"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Comment"
+msgstr "Hozzászólás"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid "Apply"
+msgstr "Alkalmaz"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Ezt a lépést nem lehet visszavonni. Biztosan folytatja?"
+
+msgid "Current password"
+msgstr "Jelenlegi jelszó"
+
+msgid "New password"
+msgstr "Új jelszó"
+
+msgid "New pasword"
+msgstr "Új jelszó"
+
+msgid "Repeat new pasword"
+msgstr "Új jelszó megerősítése"
+
+msgid "Change password"
+msgstr "Jelszó megváltoztatása"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Ezt a lépést nem lehet visszavonni. Biztos, hogy folytatni akarja?"
+
+msgid "Activate"
+msgstr "Aktív"
+
+msgid "User type"
+msgstr "Felhasználó típusa"
+
+msgid "Cell phone"
+msgstr "Mobil telefon"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Honlap"
+
+msgid "Create"
+msgstr "Létrehozás"
+
+msgid "Invalid email address"
+msgstr "Érvénytelen e-mail cím"
+
+msgid "no action defined"
+msgstr "nincs lépés definiálva"
+
+msgid "Contact form"
+msgstr "Kapcsolat űrlap"
+
+msgid "Administrator"
+msgstr "Adminisztrátor"
+
+msgid "Latest items added"
+msgstr "Legfrissebb hirdetések"
+
+msgid "Latest items added in"
+msgstr "Legfrissebb hirdetések itt:"
+
+msgid "Unsubscribed correctly."
+msgstr "Helyes leiratkozás"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator."
+msgstr "Hoppá! Hiba a leiratkozás közben. Kérjük, lépjen kapcsolatba az adminisztrátorral."
+
+msgid "%s has been added as a new country"
+msgstr "%s új országként hozztáadva"
+
+msgid "%s already was in the database"
+msgstr "%s már szerepel az adatbázisban"
+
+msgid "%s has been edited"
+msgstr "%s szerkesztve"
+
+msgid "%s has been deleted"
+msgstr "%s törölve"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "%s nem törölhető, néhány tétel található benne"
+
+msgid "%s has been added as a new region"
+msgstr "%s új megyeként hozzáadva"
+
+msgid "%s has been added as a new city"
+msgstr "%s új városként hozzáadva"
+
+msgid "No currencies have been deleted"
+msgstr "Nem lett kitörölve pénznem"
+
+msgid "One currency has been deleted"
+msgstr "Egy pénznem törölve"
+
+msgid "%s currencies have been deleted"
+msgstr "%s pénznemek törölve"
+
+msgid "%s cannot be added"
+msgstr "%s nem lehet törölni"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s hozzáadva megyeként %s"
+
+msgid "Checking for update files."
+msgstr "Frissítések keresése."
+
+msgid "File downloaded correctly"
+msgstr "A fájlt letöltődött"
+
+msgid "Missing filename"
+msgstr "Hiányzó fájlnév"
+
+msgid "Removing temp-directory"
+msgstr "Ideiglenes könyvtár eltávolítása"
+
+msgid "Archiving is sucessful!"
+msgstr "Sikeres archiválás!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Hiba: nem sikerül létrehozni a zip fájlt!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "A kicsomagolás sikertelen"
+
+msgid "Filename incorrect"
+msgstr "Helytelen fájlnév"
+
+msgid "Error removing file: "
+msgstr "Hiba a fájl eltávolítása közben"
+
+msgid "Files removed"
+msgstr "Fájlok eltávolítva"
+
+msgid "No files to remove"
+msgstr "Nincsenek eltávolítandó fájlok"
+
+msgid "There were problems copying files"
+msgstr "Probléma adódott a fájlok másolása közben"
+
+msgid "Nothing to copy"
+msgstr "nincs mit másolni"
+
+msgid "Files copied"
+msgstr "Fájlok átmásolva"
+
+msgid "upgrade.sql executed"
+msgstr "sql végrehajtó fájl frissítése"
+
+msgid "No SQL to execute"
+msgstr "Nincs végrehajtható SQL"
+
+msgid "Custom actions executed"
+msgstr "Testreszabott lépések végrehajva"
+
+msgid "No action to execute"
+msgstr "Nincs végrehajtható lépés"
+
+msgid "Checking for update files"
+msgstr "Frissítések keresése"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Probléma a fájlok másolása során. Lehet, hogy a fájlelérési jogok helytelenül vannak beállítva."
+
+msgid "Tables updated correctly"
+msgstr "Táblázatok frissírve"
+
+msgid "No tables update to execute"
+msgstr "Nincs frissíthető táblázat"
+
+msgid "View comments"
+msgstr "Hozzászólások megtekintése"
+
+msgid "View media"
+msgstr "Média megtekintése"
+
+msgid "Deactivate"
+msgstr "Kikapcsol"
+
+msgid "Unmark as premium"
+msgstr "Nem jelöl meg kiemeltként"
+
+msgid "Mark as premium"
+msgstr "Kiemeltként megjelöl"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "Belépés az OpenSourceClassifieds adminisztrátor kezelői felületre"
+
+msgid "Type your new password"
+msgstr "Írja be az új jelszavát"
+
+msgid "Back to"
+msgstr "Vissza a"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "Forgot your password?"
+msgstr "Elfelejtette a jelszavát?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Kérjük, írja be a flehasználónevét és az e-mail címét"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Ön új jelszót kap e-mail-en"
+
+msgid "Get new password"
+msgstr "Új jelszót kérek!"
+
+msgid "Thank you for using"
+msgstr "Köszönjük, hogy használja"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+msgid "Feedback"
+msgstr "Visszajelzés"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Admin Panel"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "Elérhető az OpenSourceClassifieds %s"
+
+msgid "Please upgrade now"
+msgstr "Kérjük, frissítsen"
+
+msgid "Visit website"
+msgstr "Webhely megtekintése"
+
+msgid "Hi"
+msgstr "Üdvözöljük"
+
+msgid "Your profile"
+msgstr "Az Ön adatlapja"
+
+msgid "Log Out"
+msgstr "Kilépés"
+
+msgid "Admins"
+msgstr "Adminisztrátorok"
+
+msgid "Add new admin"
+msgstr "Adminisztrátor hozzáadása"
+
+msgid "Real name"
+msgstr "Valódi név"
+
+msgid "required"
+msgstr "kötelező"
+
+msgid "User name"
+msgstr "Felhasználónév"
+
+msgid "Edit admin"
+msgstr "Adminisztrátor szerkesztése"
+
+msgid "Re-type new password"
+msgstr "Új jelszó megerősítése"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Hagyja üresen, ha nem akarja megváltoztatni a jelszavát"
+
+msgid "Processing"
+msgstr "Feldolgozás"
+
+msgid "Show _MENU_ entries"
+msgstr "Mutassa a _MENU_ bejegyzéseket"
+
+msgid "No matching records found"
+msgstr "Nincs találat a keresésre"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mutassa a _KEZDETTŐL_ a__ VÉGÉIG _AZ ÖSSZES_ bejegyzést"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mutassa a 0 -tól 0 ig 0 bejegyzést"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "szűrve a _MAX_-tól az összes bejegyzésig"
+
+msgid "First"
+msgstr "Első"
+
+msgid "Previous"
+msgstr "Előző"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Last"
+msgstr "Utolsó"
+
+msgid "Show"
+msgstr "Mutat"
+
+msgid "entries"
+msgstr "bejegyzések"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Ezt a lépést nem lehet visszavonni. Biztos benne, hogy folytatja?"
+
+msgid "Bulk actions"
+msgstr "Kötegelt műveletek"
+
+msgid "Appearance"
+msgstr "Kinézet"
+
+msgid "Add new page"
+msgstr "Új oldal hozzáadása"
+
+msgid "Theme package"
+msgstr "Téma csomag"
+
+msgid "Upload"
+msgstr "Feltöltés"
+
+msgid "The theme folder "
+msgstr "A Téma mappa"
+
+msgid " is not writable on your server, "
+msgstr "nem írható a szerverén,"
+
+msgid " can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "nem lehet feltölteni témákat az adminisztrátor kezelői felületről. Kérjük másolja át a téma csomagot FTP-t vagy SSH-t használva, vagy tegye a kérdéses témák mappát írhatóvá"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "A UNIX alatt úgy tehet írhatóvá egy könyvtárat, hogy ezt a parancsot a hélyprogramból futtatja"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Kezelői felület - Új Widget hozzáadása"
+
+msgid "Create widget in %s"
+msgstr "Widget létrehozása itt: %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Leírás (csak belső használatra)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML kód a Widget-hez"
+
+msgid "Publish widget"
+msgstr "Widget közzététele"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Biztosan vissza akarja vonni?"
+
+msgid "Add a new theme"
+msgstr "Új téma hozzáadása"
+
+msgid "Current theme"
+msgstr "Jelenlegi téma"
+
+msgid "Author"
+msgstr "Szerző"
+
+msgid "Available themes"
+msgstr "Rendelkezésre álló témák"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Widgets"
+msgstr "Widget"
+
+msgid "Add HTML widget"
+msgstr "HTML Widget hozzáadása"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Parent category"
+msgstr "Fő Kategória"
+
+msgid "- No parent -"
+msgstr "- Nincs fő kategória -"
+
+msgid "Expirations days"
+msgstr "Lejárati napok"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = nincs lejárati idő)"
+
+msgid "Position (order in relation to other categories)"
+msgstr "Pozíció (rendezés a többi kategóriához viszonyítva)"
+
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Disable"
+msgstr "Letiltva"
+
+msgid "View subcategories"
+msgstr "Alkategóriák megtekintése"
+
+msgid "WARNING: This will also delete the items under that category. This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "FIGYELEM! Ez törli a kategóriába tartozó hirdetéseket is. Ezt a lépést nem lehet visszavonni. Biztos, hogy folytatja?"
+
+msgid "Parent"
+msgstr "Szülő"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Enable"
+msgstr "Engedélyezve"
+
+msgid "Edit comment"
+msgstr "Hozzászólás szerkesztése"
+
+msgid "Add a comment"
+msgstr "Hozzászólás hozzáadása"
+
+msgid "Add"
+msgstr "Hozzáad"
+
+msgid "You have to write a title."
+msgstr "Kérjük, írjon címet"
+
+msgid "You have to write a comment."
+msgstr "Kérjük, írjon hozzászólást"
+
+msgid "Author's name can not be empty."
+msgstr "A szerző mezője nem maradhat üresen"
+
+msgid "Author's email can not be empty."
+msgstr "A szerző e-mail címe nem maradhat üresen"
+
+msgid "Edit a comment on item:"
+msgstr "A hozzászólás szerkesztése:"
+
+msgid "View"
+msgstr "Nézet"
+
+msgid "It's a registered user"
+msgstr "regisztrált felhasználó"
+
+msgid "Edit user"
+msgstr "Felhasználó szerkesztése"
+
+msgid "Author's e-mail"
+msgstr "A szerző e-mai címe"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "De-activate"
+msgstr "Deaktiválás"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Manage Comments"
+msgstr "Hozzászólások kezelése"
+
+msgid "Edit email/alert"
+msgstr "E-mail/értesítés szerkesztése"
+
+msgid "Add an email/alert"
+msgstr "E-mail/értesítés hozzáadása"
+
+msgid "Emails & Alerts"
+msgstr "Emailek és Értesítések"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Belső név (ezzel könnyen azonosítható ez az e-mail/értesítés)"
+
+msgid "Emails & alerts"
+msgstr "E-mailek és Értesítések"
+
+msgid "Items"
+msgstr "Hirdetések"
+
+msgid "Manage items"
+msgstr "Hirdetések kezelése"
+
+msgid "Add new item"
+msgstr "Új hirdetés hozzáadása"
+
+msgid "Manage media"
+msgstr "Média kezelése"
+
+msgid "Manage categories"
+msgstr "Kategóriák kezelése"
+
+msgid "Add a new category"
+msgstr "Új kategória hozzáadása"
+
+msgid "Pages"
+msgstr "Oldalak"
+
+msgid "Manage pages"
+msgstr "Oldalak kezelése"
+
+msgid "Create page"
+msgstr "Oldal létrehozása"
+
+msgid "Manage emails & alerts"
+msgstr "E-mailek és értesítések kezelése"
+
+msgid "Manage themes"
+msgstr "Témák kezelése"
+
+msgid "Add or remove widgets"
+msgstr "Widgetek hozzáadása, eltávolítása"
+
+msgid "Plugins"
+msgstr "Pluginok"
+
+msgid "Manage plugins"
+msgstr "Pluginok kezelése"
+
+msgid "Add new plugin"
+msgstr "Új plugin hozzáadása"
+
+msgid "Languages"
+msgstr "Nyelvek"
+
+msgid "Manage languages"
+msgstr "Nyelvek kezelése"
+
+msgid "Add a language"
+msgstr "Nyelv hozzáadása"
+
+msgid "General settings"
+msgstr "Általános beállítások"
+
+msgid "Users"
+msgstr "Felhasználók"
+
+msgid "Locations"
+msgstr "Helységek"
+
+msgid "Permalinks"
+msgstr "Permalinkek"
+
+msgid "Spam and bots"
+msgstr "Spamok és robotok"
+
+msgid "Currencies"
+msgstr "Pénznemek"
+
+msgid "Mail Server"
+msgstr "Mail szerver"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Cron system"
+msgstr "Cron rendszer"
+
+msgid "Tools"
+msgstr "Eszközök"
+
+msgid "Import data"
+msgstr "Adat importálása"
+
+msgid "Backup data"
+msgstr "Adat biztonsági mentése"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds frissítése"
+
+msgid "Regenerate thumbnails"
+msgstr "Előnézeti képek helyreállítása"
+
+msgid "Manage users"
+msgstr "Felhasználók kezelése"
+
+msgid "Add new user"
+msgstr "Új felhasználó hozzáadása"
+
+msgid "Administrators"
+msgstr "Adminisztrátorok"
+
+msgid "List administrators"
+msgstr "Adminisztrátorok listázása"
+
+msgid "Add new administrator"
+msgstr "Új adminisztrátor hozzáadása"
+
+msgid "Edit Your Profile"
+msgstr "Felhasználói adatok szerkesztése"
+
+msgid "New item"
+msgstr "Új hirdetés"
+
+msgid "Edit item"
+msgstr "Hirdetés szerkesztése"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "Item posted by"
+msgstr "A hirdetést küldte:"
+
+msgid "Non-registered user"
+msgstr "Nem regisztrált felhasználó"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "General information"
+msgstr "Általános információ"
+
+msgid "optional"
+msgstr "választható"
+
+msgid "Add item"
+msgstr "Hirdetés hozzáadása"
+
+msgid "Count"
+msgstr "Végösszeg"
+
+msgid "Filter by"
+msgstr "Szűrés"
+
+msgid "All"
+msgstr "Mind"
+
+msgid "Pending"
+msgstr "Függőben"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Többször szereplő"
+
+msgid "Misclassified"
+msgstr "Rosszul besorolt"
+
+msgid "Offensive"
+msgstr "Sértő"
+
+msgid "Expired"
+msgstr "Lejárt"
+
+msgid "Language package"
+msgstr "Nyelvi csomag"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "A fordítások mappája nem írható az Ön szerverén, és nem lehet fordításokat feltölteni az adminisztrátor kezelői felületéről. Tegye írhatóvá a fordítás (translation) mappát"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "A UNIX alatt úgy teheti írhatóvá a könyvtárat, hogy ezt a parancsot a hélyprogramból futtatja"
+
+msgid "Short name"
+msgstr "Rövid név"
+
+msgid "Currency format"
+msgstr "Pénznem formátuma"
+
+msgid "Date format"
+msgstr "Dátum formátuma"
+
+msgid "Stopwords"
+msgstr "Stopword-ök"
+
+msgid "Enabled for the public website"
+msgstr "Engedélyezve a webhelyre"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Engedélyezve a háttériroda számára (oc-admin)"
+
+msgid "Disable (website)"
+msgstr "Letilt (webhely)"
+
+msgid "Disable (oc-admin)"
+msgstr "Letilt (oc-admin)"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Enabled (website)"
+msgstr "Engedélyezve (webhely)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Engedélyezve (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Kötegelt műveletek"
+
+msgid "Enable (Website)"
+msgstr "Engedélyez (Webhely)"
+
+msgid "Disable (Website)"
+msgstr "Letilt (Webhely)"
+
+msgid "Enable (oc-admin)"
+msgstr "Engedélyez (oc-admin)"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Mi a következő, amit látni szeretne a kezelői felületén"
+
+msgid "Latest items"
+msgstr "Legfrissebb hirdetések"
+
+msgid "Statistics"
+msgstr "Statisztikák"
+
+msgid "Latest comments"
+msgstr "Legfrissebb hozzászólások"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Legfrissebb hírek az OpenSourceClassifieds-ról"
+
+msgid "Items by category"
+msgstr "Hirdetések kategóriák szerint"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Még nincs feltöltve hirdetés"
+
+msgid "Number of items"
+msgstr "Hirdetések száma"
+
+msgid "Number of public users"
+msgstr "Nyilvános felhasználók száma"
+
+msgid "Number of administrators"
+msgstr "Adminisztrátorok száma"
+
+msgid "Commented on item"
+msgstr "Hozzászólással ellátott hirdetés"
+
+msgid "There aren't any comments yet"
+msgstr "Még nincs hozzászólás"
+
+msgid "new"
+msgstr "új"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Nemsikerült behívni az OpenSourceClassifieds-ról szóló híreket. Próbálja meg később"
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "Attached to"
+msgstr "Csatolva"
+
+msgid "Edit page"
+msgstr "Oldal szerkesztése"
+
+msgid "Add page"
+msgstr "Oldal hozzáadása"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Belső név (ezzel könnyen azonosíthatja ezt az oldalt)"
+
+msgid "View page"
+msgstr "Oldal megtekintése"
+
+msgid "Add a new plugin"
+msgstr "Új plugin hozzáadása"
+
+msgid "Plugin package"
+msgstr "Plugin csomag"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "A %s plugin mappa nem írható a szerveren"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "Az OpenSourceClassifieds nem tudja feltölteni a pluginokat az adminisztrátor kezelői felületéről"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Kérjük, másolja át a plugin csomagot FTP-t vagy SSH-t használva, vagy tegye írhatóvá az említett plugins mappát"
+
+msgid "Select the categories where you want to apply these attributes"
+msgstr "Válassza ki a kategóriákat, amelyekre alkalmazni akarja ezeket a jellemzőket"
+
+msgid "Preset categories"
+msgstr "Előre beállított kategóriák"
+
+msgid "Check all"
+msgstr "Mindet megjelöl"
+
+msgid "Uncheck all"
+msgstr "Az összes kijelölés visszavonása"
+
+msgid "Configure"
+msgstr "Konfigurálás"
+
+msgid "There's a new version. You should update!"
+msgstr "Elérhető egy új verezió, Frissíthet!"
+
+msgid "This action can\\\\'t be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Ezt a lépést nem lehet visszavonni. A pluginok eltávolítása végleges adatvesztést eredményez. Biztosan folytatja?"
+
+msgid "Uninstall"
+msgstr "Eltávolítás"
+
+msgid "Install"
+msgstr "Telepítés"
+
+msgid "Add currency"
+msgstr "Pénznem hozzáadása"
+
+msgid "Create currency"
+msgstr "Pénznem létrehozása"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "It should be a three-character code"
+msgstr "Három karakteres kódnak kell lennie"
+
+msgid "Comments settings"
+msgstr "Hozzászólások beállításai"
+
+msgid "Comments enabled"
+msgstr "Hosszászólások engedélyezése"
+
+msgid "Moderate comments"
+msgstr "Hozzászólások moderálása"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "A hozzászólások száma ugyanattól a szerzőtől, amelyet még érvényesíteni kell, mielőtt kihagyhatja az érvényesítést (a 0 = mindig moderálva)"
+
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgid "Notify when there's a new comment"
+msgstr "Értesítsen az új hozzászólásokról"
+
+msgid "Contact settings"
+msgstr "Kapcsolat beállításai"
+
+msgid "Attachment enabled"
+msgstr "Csatolás engedélyezve"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Néhány OpenSourceClassifieds funkció működése cront igényel. Ellenőrizze, hogy a szolgáltató engedi-e. Ne jelölje be, ha manuálisan akarja beállítani. Ha többet akar megtudni az OpenSourceClassifieds cron rendszeréről, nézzen utána a kézikönyvben."
+
+msgid "Edit currency"
+msgstr "Pénznem szerkesztése"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Ha egyszer létrehozta, nem lehet módosítani"
+
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+msgid "Page title"
+msgstr "Oldal címe"
+
+msgid "Page description"
+msgstr "Oldal leírása"
+
+msgid "Admin e-mail"
+msgstr "Adminisztrátor e-mail címe"
+
+msgid "Default language"
+msgstr "Alapértelmezett nyelv"
+
+msgid "Custom"
+msgstr "Testre szabott"
+
+msgid "Default currency"
+msgstr "Alapértelmezett pénznem"
+
+msgid "Week starts on"
+msgstr "A hét kezdőnapja"
+
+msgid "Sunday"
+msgstr "Vasárnap"
+
+msgid "Monday"
+msgstr "Hétfő"
+
+msgid "Tuesday"
+msgstr "Kedd"
+
+msgid "Wednesday"
+msgstr "Szerda"
+
+msgid "Thursday"
+msgstr "Csütörtök"
+
+msgid "Friday"
+msgstr "Péntek"
+
+msgid "Saturday"
+msgstr "Szombat"
+
+msgid "Time format"
+msgstr "Idő formátum"
+
+msgid "Number of items in the RSS"
+msgstr "Hirdetések száma az RSS-ben"
+
+msgid "Items settings"
+msgstr "Hirdetések beállításai"
+
+msgid "Enable reCAPTCHA"
+msgstr "ReCAPTCHA engedélyezése"
+
+msgid "Enable item validation by users"
+msgstr "A felhasználói érvényesítés engedélyezése"
+
+msgid "Logged users don't need to validate items"
+msgstr "Belépett felhasználóknak nem kell érvényesíteniük a hirdetést"
+
+msgid "Only allow registered users to post items"
+msgstr "Csak regisztrált felhasználók adhatnak fel hirdetést"
+
+msgid "Notify admin of new items"
+msgstr "Értesítse az adminisztrátort az új hirdetésekről"
+
+msgid "Notify admin of contact items"
+msgstr "Értesítse az adminisztrátort a kapcsolatokról"
+
+msgid "Notify admin of share"
+msgstr "Értesítse az adminisztrátort a megosztásról"
+
+msgid "Optional fields"
+msgstr "Választahtó mezők"
+
+msgid "Enable price"
+msgstr "Ár engedélyezése"
+
+msgid "Enable images"
+msgstr "Kép engedélyezése"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "View more"
+msgstr "Mutasson többet"
+
+msgid "Countries"
+msgstr "Országok"
+
+msgid "Add new"
+msgstr "Új hozzáadása"
+
+msgid "Regions"
+msgstr "Megyék"
+
+msgid "Cities"
+msgstr "Városok"
+
+msgid "Add new country"
+msgstr "Új ország hozzáadása"
+
+msgid "Country code"
+msgstr "Ország kódja"
+
+msgid "Country code should have two characters"
+msgstr "Az ország kódjának két betűből kell állnia"
+
+msgid "Edit country"
+msgstr "Ország szerkesztése"
+
+msgid "Add new region"
+msgstr "Új megye hozzáadása"
+
+msgid "Edit region"
+msgstr "Megye szerkesztése"
+
+msgid "Add new city"
+msgstr "Új város hozzáadása"
+
+msgid "Edit city"
+msgstr "Város szerkesztése"
+
+msgid "Mail server settings"
+msgstr "Mail szerver beállításai"
+
+msgid "Mail server"
+msgstr "Mail szerver"
+
+msgid "Configuration"
+msgstr "Konfiguráció"
+
+msgid "Server type"
+msgstr "Szerver típusa"
+
+msgid "Custom Server"
+msgstr "Testre szabott szerver"
+
+msgid "GMail Server"
+msgstr "Gmail szerver"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "Server port"
+msgstr "Szerver port"
+
+msgid "Encryption"
+msgstr "Titkosítás"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Options: blank, ssl or tls"
+
+msgid "Enable SMTP authentication"
+msgstr "SMTP hitelesítés engedélyezése"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Írja be az e-mail szerverének konfigurációját"
+
+msgid "Media settings"
+msgstr "Média beállítások"
+
+msgid "Configure media"
+msgstr "Média konfigurálása"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Kérjük, állítsa be a kívánt méreteket a honlap minden képéhez! (formátum: SZÉLESSÉGxMAGASSÁG, pl: 640x480)"
+
+msgid "Restrictions"
+msgstr "Korlátozások"
+
+msgid "Maximum size, in KB"
+msgstr "Maximális méret KB-ban"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Enegdélyezett fájlkiterjesztések (pl. .png, .jpg, .gif)"
+
+msgid "Dimensions"
+msgstr "Méretek"
+
+msgid "Thumbnail dimensions"
+msgstr "Ikon méretei"
+
+msgid "Preview dimensions"
+msgstr "Előnézeti kép méretei"
+
+msgid "Normal dimensions"
+msgstr "Normál méretek"
+
+msgid "Keep original image"
+msgstr "Tartsa meg az eredeti képet"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Az eredeti kép megtartása extra tárhelyet vesz igénybe. Ez az opció biztosítja, hogy a fájl eredeti minősége változatlan maradjon. Körültekintően használja ezt a beállítást."
+
+msgid "Permalinks settings"
+msgstr "Permalinkek beállításai"
+
+msgid "Friendly urls"
+msgstr "Barátságos url-ek"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "Alapértelmezésben az OpenSourceClassifieds olyan URL-eket használ, amelyben sok kérdőjel és szám van. Ugyanakkor az OpenSourceClassifieds lehetővé teszi a \"barátságos url\"-ek használatát. Ez javitja a linkek kinézetét, használhatóságát és a kompatibilitását."
+
+msgid "Enable friendly urls"
+msgstr "Barátságos url-ek engedélyezése"
+
+msgid ".htaccess file"
+msgstr ".htaccess fájl"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "<em>mod_rewrite</em> modult talált a szerveren"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Vigyázat! A felülírás modul nem található a szerveren. Ez azt jelenti, hogy Ön nem képes PHP-t CGI (vagy fastCGI) -ként futtatni. Ebben az esetben még használhatja a friendly url-eket, ha az AllowPathInfo opció be van kapcsolva az Ön Apache konfigurációjában (nem tudjuk, hogy be van-e kapcsolva vagy nem, de általában igen).  \\\"Index.php\\\" fog megjelenni az Ön URL-jében (pl. http://www.example.com/index.php/nice/url)."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Hiba. Nem írható a .htaccess fájl a szerverén. Kérjük, hozza létre a .htaccess nevű fájlt az OpenSourceClassifieds telepítés gyökérkönyvtárában a következő tartalommal"
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "A .htaccess fájl már létezik. Kérjük, ellenőrizze, hogy a .htaccess fájlnak a következő tartalma van-e."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Létrehoztunk egy .htaccess fájlt az Ön OpenSourceClassifieds telepítésének gyökérkönyvtárában."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "A .htaccess  fájlnak így kéne kinéznie:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "A .htaccess  fájl jelenlegi tartalma:"
+
+msgid "Spam and bots settings"
+msgstr "Spam és robotok beállításai"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet kulcs (ugyanaz, mint a Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Ha ez a mező üres, akkor az Akismet szolgáltatás nem elérhető"
+
+msgid "Get your free key at"
+msgstr "Szerezzen ingyenes kulcsot itt:"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Ha ez a mező üres, akkor a reCAPTCHA szolgáltatás nem elérhető."
+
+msgid "Get your free keys at"
+msgstr "Szerezzen ingyenes kulcsot:"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA private key"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA public key"
+
+msgid "Users settings"
+msgstr "Felhasználók beállításai"
+
+msgid "Users enabled"
+msgstr "Felhasználóknak engedélyezve"
+
+msgid "User validation enabled"
+msgstr "Felhasználói megerősítése engedélyezve"
+
+msgid "User registration enabled"
+msgstr "Felhasználói regisztráció engedélyezve"
+
+msgid "Backup"
+msgstr "Biztonsági mentés"
+
+msgid "You're offline! Please check your connection"
+msgstr "Nincs hálózaton. Ellenőrizze az internet kapcsolatát!"
+
+msgid "Requested URL not found"
+msgstr "A kért URL nem található"
+
+msgid "Internal server error"
+msgstr "Belső szerver hiba"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Hiba. Parsing JSON lekérdezés sikertelen"
+
+msgid "Request timeout"
+msgstr "Időtúllépés"
+
+msgid "Unknown error"
+msgstr "Ismeretlen hiba"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds biztonsági mentése"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Itt végezheti el az OpenSourceClassifieds biztonsági mentését. FIGYELEM! Ha nem határozza meg a backup mappát a fájlok biztonsági másolatai az OpenSourceClassifieds telepítés gyökérkönyvtárába kerülnek"
+
+msgid "Backup folder"
+msgstr "Biztonsági mentés mappája"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Ebbe a mappába kerülnek az Ön biztonsági mentései. Javasoljuk, hogy ne egy nyilvánosan elérhető mappát válasszon. További információ az OpenSourceClassifieds dokumentációjában"
+
+msgid "Back up database"
+msgstr "Az adatbázis biztonsági mentése"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Az OpenSourceClassifieds telepítés biztonsági mentése"
+
+msgid "Regenerate images"
+msgstr "Képek helyreállítása"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Itt helyreállíthatja az előnézeti képeket, ikonokat. Hasznos, ha megváltoztatta a témáját, és a képek nem megfelelően jelennek meg. Kérjük, ellenőrizze a méret beállításokat a beállítások/média almenüben"
+
+msgid "Import"
+msgstr "Importálás"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Itt módosíthatja az adatbázisát hozzáadva vagy eltávolítva az adatokat. Általában országok, megyék és városok importálására használatos"
+
+msgid "Data"
+msgstr "Adat"
+
+msgid "Checking for update (installed version: "
+msgstr "Frissítés keresése (jelenlegi verzió:"
+
+msgid "HOORAY! Your plugin installation is up to date! (current version: "
+msgstr "HURRÁ! A plugin a legfrissebb változat (jelenlegi verzió:"
+
+msgid "current version: "
+msgstr "jelenlegi vezió"
+
+msgid "Downloading update file: "
+msgstr "Frissítés letöltése:"
+
+msgid "Unzipping file: "
+msgstr "Fájl kicsomagolása"
+
+msgid "Copying old files: "
+msgstr "Régi fájlok másolása:"
+
+msgid "Removing new files: "
+msgstr "Új fájlok eltávolítása"
+
+msgid "Executing SQL: "
+msgstr "SQL futtatása"
+
+msgid "Executing additional actions: "
+msgstr "További lépések futtatása"
+
+msgid "Cleaning all the mess: "
+msgstr "Tisztítás:"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Az automatikus frissítés kész!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Érvénytelen OpenSourceClassifieds lekérdezés"
+
+msgid "Upgrade"
+msgstr "Frissítés"
+
+msgid "Checking for updates (installed version: "
+msgstr "Frissítések keresése (jelenlegi verzió:"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date! (current version: "
+msgstr "Gratulálunk! Az Ön OpenSourceClassifieds telepítése naprakész (jelenlegi verzió:"
+
+msgid "Copying new files: "
+msgstr "Új fájlok másolása:"
+
+msgid "Removing old files: "
+msgstr "Régi fájlok eltávolítása"
+
+msgid "Awesome and easy auto-upgrade: done!"
+msgstr "Automatikus frissítés: kész!"
+
+msgid "Re-type the password"
+msgstr "Jelszó megerősítése"
+
+msgid "Passwords don't match."
+msgstr "A jelszó nem egyezik"
+
+msgid "Additional information"
+msgstr "További információ:"
+
+msgid "Activate user"
+msgstr "Felhasználó aktiválása"
+
+msgid "Deactivate user"
+msgstr "Felhasználó kikapcsolása"
+
+msgid "Update Date"
+msgstr "Dátum frissítése"
+
+msgid "Add a new user"
+msgstr "Új felhasználó hozzáadása"
+
+msgid "Anonymous"
+msgstr "Névtelen"
+
+msgid "Admin mail system"
+msgstr "Adminisztrtori levelezőrendszer"
+
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again. (reCAPTCHA said: "
+msgstr "Rosszul írta be a reCAPTCHA -t. Menjen vissza, és próbálja újra. (reCAPTCHA üzenete:"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Hiányzik a %s plugin az index.php fájl %s"
+
+msgid "Plugin %s is missing its main file"
+msgstr "Hiányzik a %s plugin a main fájlban"
+
+msgid "Enter your e-mail"
+msgstr "Írja be az e-mail címét"
+
+msgid "Select a country..."
+msgstr "Válasszon országot..."
+
+msgid "Select a region..."
+msgstr "Válasszon megyét..."
+
+msgid "Select a city..."
+msgstr "Válasszon várost..."
+
+msgid "No results"
+msgstr "Nincs eredmény"
+
+msgid "Description: needs to be longer"
+msgstr "Leírás: hosszabnak kell lennie"
+
+msgid "Title: this field is required"
+msgstr "Tárgy: ez a mező kötelező"
+
+msgid "Title: enter at least 9 characters"
+msgstr "Tárgy: legalább 9 karakterből kell állnia"
+
+msgid "Title: no more than 80 characters"
+msgstr "Tárgy: nem több, mint 80 karakter"
+
+msgid "Description: this field is required"
+msgstr "Leírás: ez a mező kötelező"
+
+msgid "Description: no more than 5000 characters"
+msgstr "Leírás: nem több mint 5000 karakter"
+
+msgid "Choose one category"
+msgstr "Válasszon egy kategóriát!"
+
+msgid "Price: enter a valid number"
+msgstr "Ár: valós számokat írjon be"
+
+msgid "Price: no more than 15 characters"
+msgstr "Ár: nem több mint 15 karakter"
+
+msgid "Currency: make your selection"
+msgstr "Pénznem: válasszon!"
+
+msgid "Photo: must be %s"
+msgstr "A fotónak ilyennek kell lennie: %s "
+
+msgid "Name: enter at least 3 characters"
+msgstr "Név: írjon be legalább 3 karaktert"
+
+msgid "Name: no more than 35 characters"
+msgstr "Név: nem több mint 35 karakter"
+
+msgid "Email: this field is required"
+msgstr "E-mail: ez a mező kötelező"
+
+msgid "Select a region"
+msgstr "Válasszon egy megyét!"
+
+msgid "Select a city"
+msgstr "Válasszon egy várost!"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Kerület: legalább 3 karaktert írjon be!"
+
+msgid "City area: no more than 35 characters"
+msgstr "Kerület: ne legyen több 35 karakternél"
+
+msgid "Address: enter at least 5 characters"
+msgstr "Cím: legalább öt karaktert írjon be!"
+
+msgid "Address: no more than 50 characters"
+msgstr "Cím: nem több mint 50 karakter"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Ezt a lépést nem lehet visszavonni. Biztosan folytatja?"
+
+msgid "Remove"
+msgstr "Visszavonás"
+
+msgid "Body"
+msgstr "Szöveg"
+
+msgid "User Description"
+msgstr "Felhasználó leírása"
+
+msgid "Company"
+msgstr "Cég"
+
+msgid "Check with seller"
+msgstr "Egyeztesse az eladóval"
+
+msgid "Newly listed"
+msgstr "Legfrissebb elöl"
+
+msgid "Lower price first"
+msgstr "Legolcsóbb elöl"
+
+msgid "Higher price first"
+msgstr "Legdrágább elöl"
+
+msgid "Manage your items"
+msgstr "Hirdetések kezelése"
+
+msgid "Manage your alerts"
+msgstr "Értesítések kezelése"
+
+msgid "%s in"
+msgstr "%s :"
+
+msgid "There's no description available in your language"
+msgstr "Nincs elérhető leírás az Ön nyelvén"
+

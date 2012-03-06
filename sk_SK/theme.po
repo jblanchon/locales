@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Stránka nebola nájdená"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "You have sucessfully subscribed to the alert"
+
+msgid "There was a problem with the alert"
+msgstr "Vyskytol sa problém s upozornením"
+
+msgid "Subscribe to this search"
+msgstr "Prihlásiť sa na odber výsledku vyhľadávania"
+
+msgid "Subscribe now"
+msgstr "Prihlásiť sa k odberu"
+
+msgid "Subject"
+msgstr "Predmet"
+
+msgid "Message"
+msgstr "Správa"
+
+msgid "Your name"
+msgstr "Vaše meno"
+
+msgid "Your e-mail address"
+msgstr "Vaša e-mailová adresa"
+
+msgid "Send"
+msgstr "Poslať"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Táto webstránka s hrdosťou používa <a title=\\\"OpenSourceClassifieds web\\\" href=\\\"http://www.opensourceclassifieds.org/\\\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+
+msgid "Publish an item"
+msgstr "Vložiť inzerát"
+
+msgid "Edit your item"
+msgstr "Upraviť inzerát"
+
+msgid "Send to a friend"
+msgstr "Poslať priateľovi"
+
+msgid "Contact seller"
+msgstr "Kontaktovať predajcu"
+
+msgid "page"
+msgstr "stránka"
+
+msgid "Show all items"
+msgstr "Ukázať všetky inzeráty"
+
+msgid "Search"
+msgstr "Hľadať"
+
+msgid "Recover your password"
+msgstr "Obnoviť heslo"
+
+msgid "Login"
+msgstr "Prihlásiť"
+
+msgid "Create a new account"
+msgstr "Vytvoriť nový účet"
+
+msgid "Dashboard"
+msgstr "Ovládací panel"
+
+msgid "Manage my items"
+msgstr "Spravovať inzeráty"
+
+msgid "Manage my alerts"
+msgstr "Spravovať upozornenia"
+
+msgid "Update my profile"
+msgstr "Aktualizovať profil"
+
+msgid "Change my email"
+msgstr "Zmeniť email"
+
+msgid "Change my password"
+msgstr "Zmeniť heslo"
+
+msgid "Recover my password"
+msgstr "Získať stratené heslo"
+
+msgid "Hi %s"
+msgstr "Ahoj %s"
+
+msgid "My account"
+msgstr "Môj účet"
+
+msgid "Logout"
+msgstr "Odhlásiť"
+
+msgid "Register for a free account"
+msgstr "Zdarma zaregistrovať"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Remember me"
+msgstr "Zapamätať si ma"
+
+msgid "Log in"
+msgstr "Prihlásenie"
+
+msgid "Forgot password?"
+msgstr "Zabudli ste heslo?"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Publish your ad for free"
+msgstr "Vložiť inzerát zdarma"
+
+msgid "ie. PHP Programmer"
+msgstr "napr. iPhone 3GS"
+
+msgid "Select a category"
+msgstr "Vybrať kategóriu"
+
+msgid "To (seller)"
+msgstr "Pre (predajcu)"
+
+msgid "Item"
+msgstr "inzerát"
+
+msgid "Phone number"
+msgstr "Telefónne číslo"
+
+msgid "Send message"
+msgstr "Poslať správu"
+
+msgid "Update your item"
+msgstr "Aktualizovať inzerát"
+
+msgid "General Information"
+msgstr "Hlavné informácie"
+
+msgid "Category"
+msgstr "Kategórie"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Photos"
+msgstr "Fotografie"
+
+msgid "Add new photo"
+msgstr "Pridať novú fotografiu"
+
+msgid "Location"
+msgstr "Lokalita"
+
+msgid "Country"
+msgstr "Krajina"
+
+msgid "Region"
+msgstr "Kraj"
+
+msgid "City"
+msgstr "Mesto"
+
+msgid "City area"
+msgstr "Mestská časť"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Update"
+msgstr "Aktualizovať"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Item Location"
+msgstr "Lokalita"
+
+msgid "City Area"
+msgstr "Mestská časť"
+
+msgid "Seller's information"
+msgstr "Informácie o predajcovi"
+
+msgid "Name"
+msgstr "Meno"
+
+msgid "Show e-mail on the item page"
+msgstr "Zobraziť e-mail na stránke inzerátu"
+
+msgid "Publish"
+msgstr "Vložiť"
+
+msgid "Your friend's name"
+msgstr "Meno priateľa"
+
+msgid "Your friend's e-mail address"
+msgstr "E-mail priateľa"
+
+msgid "Mark as"
+msgstr "Označiť ako"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "nesprávne zaradené"
+
+msgid "duplicated"
+msgstr "duplikované"
+
+msgid "expired"
+msgstr "expirované"
+
+msgid "offensive"
+msgstr "urážlivé"
+
+msgid "Share"
+msgstr "Zdielať"
+
+msgid "Useful information"
+msgstr "Užitočné informácie"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Vyvarujte sa podvodom osobným stretnutím alebo platbou cez PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Nikdy neplaťte pomocou Western Union, Moneygram alebo inými anonymnými platobnými službami"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Nenakupujte a nepredávajte mimo svoju krajinu. Nepríjmajte šeky zo zahraničia."
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Táto stránka sa nikdy nezúčastňuje žiadnych transakcií, nespracováva platby a doručovanie, nezaručuje sa za transakcie, neposkytuje ochranu kupujúceho, ani overovanie predávajúceho"
+
+msgid "Comments"
+msgstr "Komentáre"
+
+msgid "by"
+msgstr "od"
+
+msgid "Delete your comment"
+msgstr "Vymazať komentár"
+
+msgid "Delete"
+msgstr "Vymazať"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Zanechajte komentár (spam a nevhodné správy budú odstránené)"
+
+msgid "Your e-mail"
+msgstr "Váš e-mail"
+
+msgid "Title"
+msgstr "Názov"
+
+msgid "Comment"
+msgstr "Komentár"
+
+msgid "Contact publisher"
+msgstr "Kontaktovať inzerenta"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Your name (optional)"
+msgstr "Vaše meno (voliteľné)"
+
+msgid "Enter the words above"
+msgstr "Zadajte zobrazené slová"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Latest Items"
+msgstr "Najnovšie inzeráty"
+
+msgid "No Latest Items"
+msgstr "Žiadne nové inzeráty"
+
+msgid "See all offers"
+msgstr "Prehliadať všetky ponuky"
+
+msgid "Search results"
+msgstr "Výsledky vyhľadávania"
+
+msgid "Sort by"
+msgstr "Zoradiť podľa"
+
+msgid "There are no results matching \"%s\""
+msgstr "Neboli nájdené žiadne výsledky pre výraz \\\"%s\\\""
+
+msgid "Your search"
+msgstr "Vaše vyhľadávanie"
+
+msgid "Show only"
+msgstr "Zobraziť len"
+
+msgid "Show only items with pictures"
+msgstr "Zobraziť len inzeráty s obrázkami"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Použiť"
+
+msgid "Selected"
+msgstr "Vybrané"
+
+msgid "Nothing selected, input was"
+msgstr "Nezvolené, vstup bol"
+
+msgid "User account manager"
+msgstr "Manažér užívateľského účtu"
+
+msgid "Your alerts"
+msgstr "Vaše upozornenia"
+
+msgid "You do not have any alerts yet"
+msgstr "Zatiaľ nemáte žiadne upozornenia"
+
+msgid "Alert"
+msgstr "Upozornenie"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Túto akciu nie je možné vrátiť. Naozaj chcete pokračovať?"
+
+msgid "Delete this alert"
+msgstr "Vymazať toto upozornenie"
+
+msgid "Publication date"
+msgstr "Dátum vloženia"
+
+msgid "Change your e-mail"
+msgstr "Zmeniť e-mail"
+
+msgid "Current e-mail"
+msgstr "Aktuálny e-mail"
+
+msgid "New e-mail"
+msgstr "Nový e-mail"
+
+msgid "Change your password"
+msgstr "Zmeniť heslo"
+
+msgid "Current password"
+msgstr "Aktuálne heslo"
+
+msgid "New password"
+msgstr "Nové heslo"
+
+msgid "Repeat new password"
+msgstr "Zopakujte nové heslo"
+
+msgid "Items from %s"
+msgstr "inzeráty od %s"
+
+msgid "No items have been added yet"
+msgstr "Zatiaľ neboli pridané žiadne inzeráty"
+
+msgid "New pasword"
+msgstr "Nové heslo"
+
+msgid "Repeat new pasword"
+msgstr "Zopakovať nové heslo"
+
+msgid "Change password"
+msgstr "Zmeniť heslo"
+
+msgid "Your items"
+msgstr "Vaše inzeráty"
+
+msgid "Post a new item"
+msgstr "Vložiť nový inzerát"
+
+msgid "You don't have any items yet"
+msgstr "Zatiaľ nemáte žiadne inzeráty"
+
+msgid "Edit"
+msgstr "Upraviť"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Túto akciu nie je možné vrátiť. Naozaj chcete pokračovať?"
+
+msgid "Activate"
+msgstr "Aktivovať"
+
+msgid "Access to your account"
+msgstr "Prístup k Vášmu účtu"
+
+msgid "Update your profile"
+msgstr "Aktualizovať profil"
+
+msgid "Modify e-mail"
+msgstr "Upraviť e-mail"
+
+msgid "Modify password"
+msgstr "Upraviť heslo"
+
+msgid "User type"
+msgstr "Typ užívateľa"
+
+msgid "Cell phone"
+msgstr "Mobil"
+
+msgid "Phone"
+msgstr "Telefón"
+
+msgid "Website"
+msgstr "Webová stránka"
+
+msgid "Send me a new password"
+msgstr "Zaslať nové heslo"
+
+msgid "Register an account for free"
+msgstr "Zaregistrovať zdarma"
+
+msgid "Re-type password"
+msgstr "Zopakovať heslo"
+
+msgid "Passwords don't match"
+msgstr "Heslá sa nezhodujú"
+
+msgid "Create"
+msgstr "Vytvoriť"
+
+msgid "Invalid email address"
+msgstr "Neplatná e-mailová adresa"
+
+msgid "Upload"
+msgstr "Nahrať"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Pre povolenie zápisu do zložky pod UNIXom vykonajte príkaz z unixovej konzoly"
+
+msgid "optional"
+msgstr "dobrovoľné"
+
+msgid "Modern theme"
+msgstr "Téma - logo"
+
+msgid "Settings theme"
+msgstr "Nastavenia témy"
+
+msgid "Image"
+msgstr "Obrázok"
+
+msgid "Published date"
+msgstr "Dátum vloženia"
+
+msgid "Modified date"
+msgstr "Dátum zmeny/úpravy"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Preferovaná veľkosť loga je 600x100px"
+
+msgid "Logo image"
+msgstr "Obrázok loga"
+
+msgid "Remove logo"
+msgstr "Odstrániť logo"
+
+msgid "Has not uploaded any logo image"
+msgstr "Nenahrali ste žiadne logo"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Priečinok na obrázky %s na vašom serveri nie je zapisovateľný "
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds nemôže nahrať obrázok loga z panela administrácie"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Spravte spomenutý priečinok na obrázky zapisovateľným prosím"
+
+msgid "Contact us"
+msgstr "Kontaktujte nás"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "No file selected"
+msgstr "Žiadny súbor nebol vybraný"
+
+msgid "Choose File"
+msgstr "Vybrať súbor"
+
+msgid "Sponsored ad"
+msgstr "Sponzorováný inzerát"
+
+msgid "View item"
+msgstr "Prezerať inzerát"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Poznámka: Nahraním nového loga sa aktuálne logo prepíše"
+

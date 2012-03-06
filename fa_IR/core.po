@@ -1,0 +1,1877 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "نسخه کنونی:"
+
+msgid "Downloading update file:"
+msgstr "در حال دانلود فایل بروزرسانی:"
+
+msgid "Unzipping file:"
+msgstr "در حال خارج کردن از حالت فشرده فایل:"
+
+msgid "Copying old files:"
+msgstr "در حال کپی فایل های قدیمی:"
+
+msgid "Removing new files:"
+msgstr "در حال پاک کردن فایل های جدید:"
+
+msgid "Executing SQL:"
+msgstr "اجرای SQL :"
+
+msgid "Executing additional actions:"
+msgstr "اجرای اقدامات اضافی :"
+
+msgid "Cleaning all the mess:"
+msgstr "پاک کردن (تمیز کاری):"
+
+msgid "Free"
+msgstr "مجانی"
+
+msgid "Contact"
+msgstr "تماس با ما"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+msgid "My account"
+msgstr "حساب کاربری من"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "E-mail"
+msgstr "ایمیل"
+
+msgid "Password"
+msgstr "رمزعبور"
+
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "Log in"
+msgstr "ورود"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Select a category"
+msgstr "انتخاب یک دسته"
+
+msgid "Item"
+msgstr "آگهی"
+
+msgid "Category"
+msgstr "دسته"
+
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Photos"
+msgstr "تصاویر"
+
+msgid "Add new photo"
+msgstr "افزودن تصویر جدید"
+
+msgid "Location"
+msgstr "موقعیت جغرافیایی"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Region"
+msgstr "منطقه"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "City area"
+msgstr "منطقه شهری"
+
+msgid "Address"
+msgstr "آدرس"
+
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "City Area"
+msgstr "ناحیه شهر"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Mark as"
+msgstr "علامتگذاری با عنوان"
+
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Comment"
+msgstr "دیدگاه"
+
+msgid "Help"
+msgstr "راهنما"
+
+msgid "Apply"
+msgstr "اعمال کردن"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "این اقدام قابل بازگرداندن نیست. آیا مطمئن هستید که می خواهید ادامه دهید؟"
+
+msgid "Current password"
+msgstr "رمز فعلی"
+
+msgid "New password"
+msgstr "رمز جدید"
+
+msgid "New pasword"
+msgstr "رمز جدید"
+
+msgid "Repeat new pasword"
+msgstr "تکرار رمز جدید"
+
+msgid "Change password"
+msgstr "تغییر رمز"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "این اقدام قابل بازگرداندن نیست. آیا مطمئن هستید که می خواهید ادامه دهید؟"
+
+msgid "Activate"
+msgstr "فعال کردن"
+
+msgid "User type"
+msgstr "نوع کاربر"
+
+msgid "Cell phone"
+msgstr "تلفن همراه"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "Website"
+msgstr "وبسایت"
+
+msgid "Passwords don't match"
+msgstr "رمز ها مطابقت ندارند"
+
+msgid "Create"
+msgstr "ساختن"
+
+msgid "The categories have been deleted"
+msgstr "مجموعه ها حذف شده اند"
+
+msgid "Invalid email address"
+msgstr "ایمیل نامعتبر است"
+
+msgid "no action defined"
+msgstr "عمل تعریف نشده"
+
+msgid "Contact form"
+msgstr "فرم تماس"
+
+msgid "Administrator"
+msgstr "مدیر"
+
+msgid "Latest items added"
+msgstr "آخرین آگهی های اضافه شده"
+
+msgid "Latest items added in"
+msgstr "آخرین آگهی های اضافه شده در"
+
+msgid "Checking for update files."
+msgstr "در حال بررسی برای بروزرسانی فایلها"
+
+msgid "File downloaded correctly"
+msgstr "فایل به درستی دانلود شده "
+
+msgid "Missing filename"
+msgstr " نام فایل گم شده"
+
+msgid "Removing temp-directory"
+msgstr "در حال حذف  فایل های پوشه موقت"
+
+msgid "Archiving is sucessful!"
+msgstr "بایگانی موفقیت آمیز بود!"
+
+msgid "Error, can't create a zip file!"
+msgstr "خطا، فایل فشرده (zip) نمی تواند ایجاد شود!"
+
+msgid "OK"
+msgstr "تایید"
+
+msgid "Unzip failed"
+msgstr "خروج از حالت فشرده ناموفق بود"
+
+msgid "Filename incorrect"
+msgstr "نام فایل نادرست است"
+
+msgid "Files removed"
+msgstr "فایل ها پاک شدند"
+
+msgid "No files to remove"
+msgstr "فایلی برای حذف کردن نیست"
+
+msgid "There were problems copying files"
+msgstr "در کپی کردن فایل مشکلاتی وجود داشت"
+
+msgid "Nothing to copy"
+msgstr "چیزی برای کپی کردن وجود ندارد"
+
+msgid "Files copied"
+msgstr "فایل ها کپی شدند"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql اجرا شد"
+
+msgid "No SQL to execute"
+msgstr "برای اجرا نیست SQL"
+
+msgid "Custom actions executed"
+msgstr "اعمال سفارشی اجرا شدند"
+
+msgid "No action to execute"
+msgstr "اقدامی برای اجرا وجود ندارد"
+
+msgid "Checking for update files"
+msgstr "در حال بررسی برای بروزرسانی فایلها"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "مشکلاتی در کپی کردن فایل ها وجود داشت. شاید مجوز های دسترسی فایل به درستی تنظیم نشده اند"
+
+msgid "Tables updated correctly"
+msgstr "جدولها به درستی بروزرسانی شدند "
+
+msgid "No tables update to execute"
+msgstr "جدولی برای اجرای بروزرسانی نیست"
+
+msgid "View comments"
+msgstr "نمایش دیدگاه ها"
+
+msgid "View media"
+msgstr "نمایش رسانه"
+
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+msgid "Unmark as premium"
+msgstr "علامت عنوان ویژه را برداشتن"
+
+msgid "Mark as premium"
+msgstr "علامت گذاری به عنوان ویژه"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds پانل ورود به سیستم مدیریت"
+
+msgid "Type your new password"
+msgstr "رمز عبور جدید را بنویسید"
+
+msgid "Back to"
+msgstr "برگشت به"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Forgot your password?"
+msgstr "آیا رمز خود را فراموش کرده اید؟"
+
+msgid "Please enter your username or e-mail address"
+msgstr "لطفا نام کاربری یا ایمیل خود را بنویسید"
+
+msgid "You will receive a new password via e-mail"
+msgstr "شما یک رمز عبور جدید از طریق ایمیل دریافت خواهید کرد"
+
+msgid "Get new password"
+msgstr "دریافت رمز عبور جدید"
+
+msgid "Thank you for using"
+msgstr "تشکر از شما برای استفاده از"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "مستندات"
+
+msgid "Feedback"
+msgstr "انتقادات و پیشنهادات"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds پنل مدیریت"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s در دسترس است!"
+
+msgid "Please upgrade now"
+msgstr "لطفا هم اکنون ارتقاء کنید"
+
+msgid "Visit website"
+msgstr "مشاهده وب سایت"
+
+msgid "Hi"
+msgstr "سلام"
+
+msgid "Your profile"
+msgstr "مشخصات شما"
+
+msgid "Log Out"
+msgstr "خروج"
+
+msgid "Admins"
+msgstr "مدیران"
+
+msgid "Add new admin"
+msgstr "اضافه کردن مدیر جدید"
+
+msgid "Real name"
+msgstr "نام واقعی"
+
+msgid "required"
+msgstr "ضروری"
+
+msgid "User name"
+msgstr "نام کاربری"
+
+msgid "Edit admin"
+msgstr "ویرایش مدیر"
+
+msgid "Re-type new password"
+msgstr "نوشتن دوباره رمز عبور"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "اگر نمی خواهید رمز عبور را تغییر دهید آن را خالی بگذارید"
+
+msgid "Processing"
+msgstr "در حال پردازش"
+
+msgid "Show _MENU_ entries"
+msgstr "_MENU_  نمایش موارد"
+
+msgid "No matching records found"
+msgstr "اطلاعات مطابقی یافت نشد"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "مورد _TOTAL_ از _END_ تا _START_ نمایش"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "نمایش 0 تا 0 از 0 نوشته "
+
+msgid "filtered from _MAX_ total entries"
+msgstr "مورد _MAX_ فیلتر شده از مجموع  "
+
+msgid "First"
+msgstr "نخستین"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "Last"
+msgstr "آخرین"
+
+msgid "Show"
+msgstr "نمایش"
+
+msgid "entries"
+msgstr "موارد"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "این اقدام قابل بازگشت نیست. آیا مطمئن هستید که می خواهید ادامه دهید؟"
+
+msgid "Bulk actions"
+msgstr "کارهای دسته جمعی"
+
+msgid "Appearance"
+msgstr "ظاهر"
+
+msgid "Theme package"
+msgstr "بسته پوسته"
+
+msgid "Upload"
+msgstr "آپلود"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "برای اینکه یک دایرکتوری را قابل نوشتن کنید در UNIX این دستور را از شل اجرا کنید"
+
+msgid "Dashboard - Add New Widget"
+msgstr "داشبورد-اضافه کردن ابزارک جدید"
+
+msgid "Create widget in %s"
+msgstr "%s ساخت ابزارک در"
+
+msgid "Description (only for internal purposes)"
+msgstr "(توضیحات (فقط برای مقاصد داخلی"
+
+msgid "HTML Code for the Widget"
+msgstr "برای ابزارک HTML کد"
+
+msgid "Publish widget"
+msgstr "انتشار ابزارک"
+
+msgid "Are you sure you want to cancel?"
+msgstr "آیا برای لغو کردن مطمئن هستید؟"
+
+msgid "Add a new theme"
+msgstr "اضافه کردن پوسته جدید"
+
+msgid "Current theme"
+msgstr "پوسته کنونی"
+
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Available themes"
+msgstr "پوسته های موجود"
+
+msgid "Preview"
+msgstr "پیشنمایش"
+
+msgid "Widgets"
+msgstr "ابزارک ها"
+
+msgid "Add HTML widget"
+msgstr "HTMLاضافه کردن ابزارک"
+
+msgid "Categories"
+msgstr "دسته بندی"
+
+msgid "Expirations days"
+msgstr "روز انقضا"
+
+msgid "(0 = no expiration)"
+msgstr "(0 =  بدون انقضا)"
+
+msgid "Enabled"
+msgstr "فعال شده"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+msgid "Description"
+msgstr "توضیح"
+
+msgid "Enable"
+msgstr "فعال"
+
+msgid "Edit comment"
+msgstr "ویرایش دیدگاه"
+
+msgid "Add a comment"
+msgstr "اضافه کردن دیدگاه"
+
+msgid "Add"
+msgstr "اضافه کردن"
+
+msgid "You have to write a title."
+msgstr "شما باید یک عنوان بنویسید"
+
+msgid "You have to write a comment."
+msgstr "شما باید یک دیدگاه بنویسید"
+
+msgid "Author's name can not be empty."
+msgstr "نام نویسنده نباید خالی باشد"
+
+msgid "Author's email can not be empty."
+msgstr "ایمیل نویسنده نباید خالی باشد"
+
+msgid "Edit a comment on item:"
+msgstr "ویرایش دیدگاه در مورد :"
+
+msgid "View"
+msgstr "نمایش"
+
+msgid "It's a registered user"
+msgstr "این کاربر عضو می باشد"
+
+msgid "Edit user"
+msgstr "ویرایش کاربر"
+
+msgid "Author's e-mail"
+msgstr "ایمیل نویسنده"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "De-activate"
+msgstr "غیر فعال کردن"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Manage Comments"
+msgstr "مدیریت دیدگاه ها"
+
+msgid "Edit email/alert"
+msgstr "ویرایش ایمیل/پیام"
+
+msgid "Add an email/alert"
+msgstr "اضافه کردن یک ایمیل/پیام"
+
+msgid "Emails & Alerts"
+msgstr "ایمیل ها &amp; پیام ها"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "(نام (نامی برای شناسایی آسانتر این ایمیل / پیام"
+
+msgid "Emails & alerts"
+msgstr "ایمیل ها &amp; پیام ها"
+
+msgid "Items"
+msgstr "آگهی ها"
+
+msgid "Manage items"
+msgstr "مدیریت آگهی ها"
+
+msgid "Add new item"
+msgstr "اضافه کردن آگهی جدید"
+
+msgid "Manage media"
+msgstr "مدیریت رسانه"
+
+msgid "Manage categories"
+msgstr "مدیریت دسته بندی ها"
+
+msgid "Pages"
+msgstr "صفحات"
+
+msgid "Manage pages"
+msgstr "مدیریت صفحات"
+
+msgid "Create page"
+msgstr "ساخت صفحه"
+
+msgid "Manage emails & alerts"
+msgstr "مدیریت ایمیل ها &amp; پیام ها"
+
+msgid "Manage themes"
+msgstr "مدیریت پوسته ها"
+
+msgid "Add or remove widgets"
+msgstr "اضافه یا حذف کردن ابزارک ها"
+
+msgid "Plugins"
+msgstr "افزونه ها"
+
+msgid "Manage plugins"
+msgstr "مدیریت افزونه ها"
+
+msgid "Add new plugin"
+msgstr "اضافه کردن افزونه جدید"
+
+msgid "Languages"
+msgstr "زبان ها"
+
+msgid "Manage languages"
+msgstr "مدیریت زبان ها"
+
+msgid "Add a language"
+msgstr "اضافه کردن زبان"
+
+msgid "General settings"
+msgstr "تنظیمات کلی"
+
+msgid "Users"
+msgstr "کاربران"
+
+msgid "Locations"
+msgstr "موقعیت ها"
+
+msgid "Permalinks"
+msgstr "پیوندهای یکتا"
+
+msgid "Spam and bots"
+msgstr "هرزنامه (اسپم) و رباتها"
+
+msgid "Currencies"
+msgstr "ارز ها"
+
+msgid "Mail Server"
+msgstr "سرور ایمیل"
+
+msgid "Media"
+msgstr "رسانه ها"
+
+msgid "Cron system"
+msgstr "Cron system"
+
+msgid "Tools"
+msgstr "ابزارها"
+
+msgid "Import data"
+msgstr "وارد کردن اطلاعات"
+
+msgid "Backup data"
+msgstr "پشتیبان گیری اطلاعات"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "ارتقا OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "بازسازی ریزعکسها"
+
+msgid "Manage users"
+msgstr "مدیریت کاربران"
+
+msgid "Add new user"
+msgstr "اضافه کردن کاربر جدید"
+
+msgid "Administrators"
+msgstr "مدیران"
+
+msgid "List administrators"
+msgstr "لیست مدیران"
+
+msgid "Add new administrator"
+msgstr "اضافه کردن مدیر جدید"
+
+msgid "Edit Your Profile"
+msgstr "ویرایش مشخصات کاربری"
+
+msgid "New item"
+msgstr "آگهی جدید"
+
+msgid "Edit item"
+msgstr "ویرایش آگهی"
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "Item posted by"
+msgstr "آگهی ارسال شود توسط"
+
+msgid "Non-registered user"
+msgstr "کاربر غیر عضو"
+
+msgid "E-Mail"
+msgstr "ایمیل"
+
+msgid "General information"
+msgstr "اطلاعات عمومی"
+
+msgid "optional"
+msgstr "اختیاری"
+
+msgid "Add item"
+msgstr "افزودن آگهی"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Spam"
+msgstr "هرزنامه"
+
+msgid "Duplicated"
+msgstr "تکراری"
+
+msgid "Misclassified"
+msgstr "مهم"
+
+msgid "Offensive"
+msgstr "توهین آمیز"
+
+msgid "Expired"
+msgstr "منقضی شده"
+
+msgid "Language package"
+msgstr "بسته زبان"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "پوشه ترجمه ها بر روی سرور شما قابل نوشتن نیست و شما نمی توانید بسته ترجمه را از بخش مدیریت آپلود کنید. لطفا پوشه ترجمه را قابل نوشتن کنید."
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "برای اینکه دایرکتوری را قابل نوشتن کنید تحت یونیکس این دستور را از شل اجرا کنید :"
+
+msgid "Short name"
+msgstr "نام کوچک"
+
+msgid "Currency format"
+msgstr "قالب ارز"
+
+msgid "Date format"
+msgstr "قالب تاریخ"
+
+msgid "Stopwords"
+msgstr "توقف کلمات"
+
+msgid "Enabled for the public website"
+msgstr "وبسایت برای عموم فعال شده"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "برای مدیران فعال شده (مدیرoc)"
+
+msgid "Disable (website)"
+msgstr "(غیر فعال کردن (سایت"
+
+msgid "Disable (oc-admin)"
+msgstr "(ocغیر فعال کردن (مدیر"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "Enabled (website)"
+msgstr "(فعال شده (سایت"
+
+msgid "Enabled (oc-admin)"
+msgstr "(ocفعال شده (مدیر"
+
+msgid "Bulk Actions"
+msgstr "کار های دسته جمعی"
+
+msgid "Enable (Website)"
+msgstr "(فعال کردن (سایت"
+
+msgid "Disable (Website)"
+msgstr "(غیر فعال کردن (سایت"
+
+msgid "Enable (oc-admin)"
+msgstr "(ocفعال کردن(مدیر"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "کدام یک از موارد زیر را می خواهید در داشبورد خود ببینید"
+
+msgid "Latest items"
+msgstr "آخرین آگهی ها"
+
+msgid "Statistics"
+msgstr "آمار"
+
+msgid "Latest comments"
+msgstr "آخرین دیدگاه ها"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds آخرین خبرها از"
+
+msgid "Items by category"
+msgstr "آگهی ها بر اساس دسته بندی"
+
+msgid "There aren't any uploaded items yet"
+msgstr "شما هنوز هیچ آگهی آپلود نکرده اید"
+
+msgid "Number of items"
+msgstr "تعداد آگهی ها"
+
+msgid "Number of public users"
+msgstr "تعداد کاربران عمومی"
+
+msgid "Number of administrators"
+msgstr "تعداد مدیران"
+
+msgid "Commented on item"
+msgstr "نظر داده شده روی آگهی "
+
+msgid "There aren't any comments yet"
+msgstr " هیچ دیدگاهی هنوز وجود ندارد"
+
+msgid "new"
+msgstr "جدید"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "امکان گرفتن اخبار از OpenSourceClassifieds وجود ندارد. لطفا بعدا دوباره امتحان کنید"
+
+msgid "File"
+msgstr "فایل"
+
+msgid "Attached to"
+msgstr "ضمیمه شده به"
+
+msgid "Edit page"
+msgstr "ویرایش صفحه"
+
+msgid "Add page"
+msgstr "افزودن صفحه"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "نام (برای شناسایی راحت این صفحه)"
+
+msgid "View page"
+msgstr "نمایش صفحه"
+
+msgid "Add a new plugin"
+msgstr "اضافه کردن افزونه جدید"
+
+msgid "Plugin package"
+msgstr "بسته افزونه"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "در سرور شما قابل نوشتن نیست %s پوشه افزونه"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "نمی تواند افزونه ها را از پانل مدیریت آپلود کند OpenSourceClassifieds"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "آپلود کنید یا پوشه افزونه ها را قابل نوشتن کنید SSH یا FTP لطفا بسته افزونه را از طریق"
+
+msgid "Preset categories"
+msgstr "دسته بندی های از پیش تعیین شده"
+
+msgid "Check all"
+msgstr "انتخاب همه"
+
+msgid "Uncheck all"
+msgstr "لغو انتخاب همه"
+
+msgid "Configure"
+msgstr "پیکربندی"
+
+msgid "There's a new version. You should update!"
+msgstr "نسخه جدیدی وجود دارد. بهتر است بروزرسانی کنید!"
+
+msgid "Uninstall"
+msgstr "حذف"
+
+msgid "Install"
+msgstr "نصب"
+
+msgid "Create currency"
+msgstr "ایجاد ارز"
+
+msgid "Code"
+msgstr "کد"
+
+msgid "It should be a three-character code"
+msgstr "بایستی به شکل یک کد سه کاراکتری باشد"
+
+msgid "Comments settings"
+msgstr "تنظیمات دیدگاه ها"
+
+msgid "Comments enabled"
+msgstr "دیدگاه ها فعال باشند"
+
+msgid "Moderate comments"
+msgstr "مدیریت دیدگاه ها"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "تعداد دیدگاه ها از همان نویسنده که باید قبل از جا انداختن تاییدیه، تایید شوند ( 0 برای مدیریت همیشگی )"
+
+msgid "Notifications"
+msgstr "اطلاعیه ها"
+
+msgid "Contact settings"
+msgstr "تنظیمات تماس"
+
+msgid "Attachment enabled"
+msgstr "ضمیمه کردن فعال است"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+
+msgid "Edit currency"
+msgstr "ویرایش ارز"
+
+msgid "Once it's created, it can't be modified"
+msgstr "وقتی که ایجاد شود نمی توان در آن تغییری ایجاد کرد"
+
+msgid "Page title"
+msgstr "عنوان صفحه"
+
+msgid "Page description"
+msgstr "توضیحات صفحه"
+
+msgid "Admin e-mail"
+msgstr "ایمیل مدیر"
+
+msgid "Default language"
+msgstr "زبان پیش فرض"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Default currency"
+msgstr "واحد پول پیش فرض"
+
+msgid "Week starts on"
+msgstr "هفته شروع می شود در روز"
+
+msgid "Sunday"
+msgstr "یکشنبه"
+
+msgid "Monday"
+msgstr "دوشنبه"
+
+msgid "Tuesday"
+msgstr "سه شنبه"
+
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+msgid "Thursday"
+msgstr "پنج شنبه"
+
+msgid "Friday"
+msgstr "جمعه"
+
+msgid "Saturday"
+msgstr "شنبه"
+
+msgid "Time format"
+msgstr "فرمت زمان"
+
+msgid "Number of items in the RSS"
+msgstr "RSSتعداد آگهی ها در"
+
+msgid "Enable reCAPTCHA"
+msgstr "فعال reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "فعال کردن اعتبار آگهی توسط کاربران"
+
+msgid "Logged users don't need to validate items"
+msgstr "کاربری که وارد سایت شده نیاز به اعتبار آگهی ها ندارد"
+
+msgid "Only allow registered users to post items"
+msgstr "فقط به کاربران عضو اجازه ارسال آگهی بده"
+
+msgid "Notify admin of new items"
+msgstr "باخبر کردن مدیر از آگهی های جدید"
+
+msgid "Notify admin of contact items"
+msgstr "باخبر کردن مدیر از تماس با آگهی"
+
+msgid "Notify admin of share"
+msgstr "باخبر کردن مدیر از اشتراک آگهی"
+
+msgid "Optional fields"
+msgstr "فیلدهای اختیاری"
+
+msgid "Enable price"
+msgstr "فعال کردن قیمت"
+
+msgid "Enable images"
+msgstr "فعال کردن تصاویر"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "View more"
+msgstr "مشاهده بیشتر"
+
+msgid "Countries"
+msgstr "کشورها"
+
+msgid "Add new"
+msgstr "افزودن جدید"
+
+msgid "Regions"
+msgstr "استان ها"
+
+msgid "Cities"
+msgstr "شهرها"
+
+msgid "Add new country"
+msgstr "افزودن کشور جدید"
+
+msgid "Country code"
+msgstr "کد کشور"
+
+msgid "Country code should have two characters"
+msgstr "کد کشور ، باید دو کاراکتر داشته باشد"
+
+msgid "Edit country"
+msgstr "ویرایش کشور"
+
+msgid "Add new region"
+msgstr "افزودن استان جدید"
+
+msgid "Edit region"
+msgstr "ویرایش استان"
+
+msgid "Add new city"
+msgstr "افزودن شهر جدید"
+
+msgid "Edit city"
+msgstr "ویرایش شهر"
+
+msgid "Mail server"
+msgstr "سرور ایمیل"
+
+msgid "Configuration"
+msgstr "تنظیمات"
+
+msgid "Server type"
+msgstr "نوع سرور"
+
+msgid "Custom Server"
+msgstr "سرور سفارشی"
+
+msgid "GMail Server"
+msgstr "GMailسرور"
+
+msgid "Hostname"
+msgstr "نام هاست"
+
+msgid "Server port"
+msgstr "درگاه سرور"
+
+msgid "Encryption"
+msgstr "رمزگذاری"
+
+msgid "Options: blank, ssl or tls"
+msgstr " یا خالی  SSL و یا TLS:گزینه ها"
+
+msgid "Enable SMTP authentication"
+msgstr "SMTP فعال سازی احراز هویت "
+
+msgid "Enter your e-mail server configuration"
+msgstr "تنظیمات سرور ایمیل خود را وارد کنید"
+
+msgid "Media settings"
+msgstr "تنظیمات رسانه ها"
+
+msgid "Configure media"
+msgstr "تنظیم کردن رسانه ها"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "(لطفا ابعاد مناسب را برای همه تصاویر سایت تنظیم کنید . (در قالب عرض در ارتفاع، مثل: 640 در 480"
+
+msgid "Restrictions"
+msgstr "محدودیت ها"
+
+msgid "Maximum size, in KB"
+msgstr "KBحداکثر اندازه ، در"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "(PNG ، JPG ، GIFفرمت های مجاز: (مانند"
+
+msgid "Dimensions"
+msgstr "ابعاد"
+
+msgid "Thumbnail dimensions"
+msgstr "ابعاد بند انگشتی
+"
+
+msgid "Preview dimensions"
+msgstr "ابعاد پیشنمایش"
+
+msgid "Normal dimensions"
+msgstr "ابعاد عادی"
+
+msgid "Keep original image"
+msgstr "نگه داشتن تصویر اصلی"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "نگه داشتن فایل تصویرهای اصلی ، نیاز به محل ذخیره سازی اضافی دارد . این گزینه تضمین می کند که کیفیت اصلی فایل تغییری نکند .در هنگام استفاده از این گزینه مراقب باشید ."
+
+msgid "Permalinks settings"
+msgstr "تنظیمات پیوند یکتا"
+
+msgid "Friendly urls"
+msgstr "آدرسهای دوستانه"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "OpenSourceClassifieds به طور پیش فرض با استفاده از URL های وب که علامتهای سوال و تعداد زیادی از اعداد در آنها است . با این حال ، OpenSourceClassifieds آدرسهای دوستانه را به شما ارائه می دهد . این می تواندزیبایی شناسی ، قابلیت استفاده و سازگاری رو به جلو از لینک های شما را بهبود بخشد"
+
+msgid "Enable friendly urls"
+msgstr "فعال کردن آدرسهای دوستانه"
+
+msgid ".htaccess file"
+msgstr ".htaccess فایل"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "ماژول <em>mod_rewrite</em> در سرور یافت شد."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "File .htaccess already exists. Please check that the .htaccess file has the following content."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "ما یک فایل .htaccess در قسمت اصلی (root) پیکربندی OpenSourceClassifieds شما ایجاد کرده ایم."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "محتوای فایل htaccess باید شبیه به این باشد :"
+
+msgid "Current content of your .htaccess file:"
+msgstr "محتوای فعلی شما فایل htaccess. :"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet key (same as Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "اگر این زمینه خالی است آن  به دلیل خدمات Akismet غیر فعال است"
+
+msgid "Get your free key at"
+msgstr "Get your free key at"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "اگر این فیلد خالی است به خاطر این است که سرویس reCAPTCHA غیر فعال است"
+
+msgid "Get your free keys at"
+msgstr "Get your free keys at"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA private key"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA public key"
+
+msgid "Users settings"
+msgstr "تنظیمات کاربران"
+
+msgid "Users enabled"
+msgstr "فعال کردن کاربران"
+
+msgid "User validation enabled"
+msgstr "اعتبار سنجی کاربر فعال است"
+
+msgid "User registration enabled"
+msgstr "ثبت نام کاربر فعال است"
+
+msgid "Backup"
+msgstr "پشتیبان گیری"
+
+msgid "You're offline! Please check your connection"
+msgstr "شما آفلاین هستید! لطفا اتصال خود را بررسی کنید"
+
+msgid "Requested URL not found"
+msgstr "آدرس درخواست شده یافت نشد"
+
+msgid "Internal server error"
+msgstr "خطا در سرور داخلی"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "شکست خورد JSONخطا. تجزیه درخواست"
+
+msgid "Request timeout"
+msgstr "درخواست زمان وقفه"
+
+msgid "Unknown error"
+msgstr "خطای ناشناخته"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds پشتیبان گیری"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "شما در اینجا می توانید از OpenSourceClassifieds پشتیبان بگیرید.هشدار:اگر شما پوشه خاصی برای پشتیبان گیری ندارید فایل پشتیبان در پوشه ی اصلی که OSCass نصب است ساخته می شود"
+
+msgid "Backup folder"
+msgstr "پوشه پشتیبان گیری"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "این پوشه ای است که فایل پشتیبان سایت شما در آن قرار می گیرد.ما توصیه می کنیم که یک پوشه عمومی را برای محل قرار گیری پشتیبان انتخاب نکنید.برای کسب اطلاعات بیشتر می توانید به مستندات OpenSourceClassifieds مراجعه نمایید"
+
+msgid "Back up database"
+msgstr "پشتیبان گیری از پایگاه داده"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "نصب OpenSourceClassifieds پشتیبان گیری"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "شما در این جا تصاویر بند انگشتی و پیشنمایش های عکس ها را بازسازی و احیا کنید.اگر شما پوسته را تعویض نموده اید و یا تصاویر به درستی نمایان نمی شوند این گزینه می تواند مفید باشد.لطفا سایز داده ها را در بخش تنظیمات / رسانه ها بررسی کنید"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "شما در این جا می توانید پایگاه داده خود را حذف ،اضافه یا اصلاح نمایید.این معمولا برای وارد کردن کشور ها و استان ها و شهر ها استفاده می شود"
+
+msgid "Data"
+msgstr "داده"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "راضی کردن کاربر با ارتقاء-خودکار ساده و عالی: انجام شد!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "درخواست نامعتبر OpenSourceClassifieds"
+
+msgid "Upgrade"
+msgstr "ارتقاء"
+
+msgid "Re-type the password"
+msgstr "رمز عبور را دوباره بنویسید"
+
+msgid "Additional information"
+msgstr "اطلاعات بیشتر"
+
+msgid "Activate user"
+msgstr "فعال کردن کاربر"
+
+msgid "Deactivate user"
+msgstr "غیر فعال کردن کاربر"
+
+msgid "Update Date"
+msgstr "بروز رسانی تاریخ"
+
+msgid "Add a new user"
+msgstr "افزودن کاربر جدید"
+
+msgid "Anonymous"
+msgstr "نا شناس"
+
+msgid "Admin mail system"
+msgstr "سیستم پست الکترونیکی مدیریت"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "%s کم دارد index.php فایل %s افزونه"
+
+msgid "Enter your e-mail"
+msgstr "ایمیل خود را وارد کنید"
+
+msgid "Select a country..."
+msgstr "یک کشور انتخاب کنید..."
+
+msgid "Select a region..."
+msgstr "یک استان انتخاب کنید..."
+
+msgid "Select a city..."
+msgstr "یک شهر انتخاب کنید..."
+
+msgid "No results"
+msgstr "بدون نتیجه"
+
+msgid "Description: needs to be longer"
+msgstr "توضیحات: نیاز است که طولانی تر باشد"
+
+msgid "Choose one category"
+msgstr "انتخاب یک دسته"
+
+msgid "Currency: make your selection"
+msgstr "ارز: انتخاب خود را مشخص کنید"
+
+msgid "Photo: must be %s"
+msgstr "عکس: باید %s باشد"
+
+msgid "Name: enter at least 3 characters"
+msgstr "نام و نام خانوادگی :حداقل 3 کاراکتر وارد کنید"
+
+msgid "Name: no more than 35 characters"
+msgstr "نام و نام خانوادگی : نباید بیش از 35 کاراکتر باشد"
+
+msgid "Email: this field is required"
+msgstr "ایمیل : این فیلد الزامی است"
+
+msgid "Select a region"
+msgstr "یک استان انتخاب کنید"
+
+msgid "Select a city"
+msgstr "انتخاب یک شهر"
+
+msgid "City area: enter at least 3 characters"
+msgstr "ناحیه شهر:باید حداقل سه کاراکتر وارد کنید"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "این اقدام را نمی توان بازگرداند.آیا شما برای ادامه مطمئن هستید؟"
+
+msgid "Remove"
+msgstr "حذف کردن"
+
+msgid "Body"
+msgstr "بدن"
+
+msgid "User Description"
+msgstr "توضیحات کاربر"
+
+msgid "Company"
+msgstr "شرکت"
+
+msgid "Check with seller"
+msgstr "چک کردن با فروشنده"
+
+msgid "Newly listed"
+msgstr "تازه ذکر شده"
+
+msgid "Lower price first"
+msgstr "پایین ترین قیمت اول"
+
+msgid "Higher price first"
+msgstr "بالاترین قیمت اول"
+
+msgid "Manage your items"
+msgstr "مدیریت آگهی ها"
+
+msgid "Manage your alerts"
+msgstr "مدیریت پیام ها"
+
+msgid "%s in"
+msgstr "%s در"
+
+msgid "There's no description available in your language"
+msgstr "توضیحات موجود در زبان شما وجود ندارد"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "با عرض پوزش %s در دست تعمیر است"
+
+msgid "Error removing file: %s"
+msgstr "خطا در حذف فایل:%s"
+
+msgid "Some error ocurred"
+msgstr "برخی خطا رخ داده است"
+
+msgid "Order saved"
+msgstr "ترتیب ذخیره"
+
+msgid "Error while deleting"
+msgstr "خطا در هنگام حذف کردن"
+
+msgid "Error while updating."
+msgstr "خطا در به روز رسانی."
+
+msgid "Saved"
+msgstr "ذخیره شد"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "همه چیز OK بود ! نصب OpenSourceClassifieds شما به روز شده است"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "تقریبا همه چیز OK بود ! نصب OpenSourceClassifieds شما به روز شده است ، اما برخی از اشتباهات در از بین بردن فایل های موقت وجود دارد . لطفا به صورت دستی پاک کنید محتویات پوشه \\\"oc-temp\\\""
+
+msgid "Problems upgrading the database"
+msgstr "مشکلات به روز رسانی درپایگاه داده"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "مشکل کپی کردن فایل . شاید مجوز صحیح نیست"
+
+msgid "Download failed"
+msgstr "دانلود با شکست مواجه شد"
+
+msgid "Missing download URL"
+msgstr "گمشده URL دانلود"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "ما در از بین بردن برخی فایل ها خطا داشتیم،اما این خطا ها فوق العاده حساس نیستند.بنابراین ما نصب به روزرسانی را ادامه دادیم.لطفا فایل های زیر را حذف نمایید(شما در حال حاضر OpenSourceClassifieds را به روزرسانی کرده اید ، اما انجام این کار برای استفاده از حداکثر عملکرد است)."
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "ما در به روز رسانی پایگاه داده خطا هایی داشتیم.موارد زیر شکست خورد"
+
+msgid "Clear"
+msgstr "پاک کردن"
+
+msgid "Forums"
+msgstr "انجمن ها"
+
+msgid "Add new theme"
+msgstr "افزودن پوسته جدید"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "پوشه پوسته %s در سرور شما قابل نوشتن نیست, <span class=\"\\&quot;OpenSourceClassifieds\\&quot;\">OpenSourceClassifieds</span> نمی تواند پوسته ها را از پانل مدیریت آپلود کند. لطفا بسته پوسته را کپی کنید با FTP یا SSH, یا پوشه پوسته ها را قابل نوشتن کنید."
+
+msgid "Ajax error, try again."
+msgstr "خطا آژاکس ، دوباره سعی کنید."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "اخطار: حذف این موجب می شود که آگهی های زیر دسته آن هم حذف گردند.این عمل قابل بازگشت نیست آیا برای ادامه اطمینان دارید؟"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "برای تغییر ترتیب دسته بندی ها بکشید و رها کنید آنها را هر طور که مایلید. برای ویرایش دسته روی ویرایش کلیک کنید"
+
+msgid "Add new category"
+msgstr "افزودن دسته جدید"
+
+msgid "Categories settings"
+msgstr "تنظیمات دسته بندی"
+
+msgid "Selectable parent categories"
+msgstr "انتخاب دسته های مادر"
+
+msgid "ACTIVE"
+msgstr "فعال"
+
+msgid "INACTIVE"
+msgstr "غیرفعال"
+
+msgid "ENABLED"
+msgstr "فعال"
+
+msgid "DISABLED"
+msgstr "غیرفعال"
+
+msgid "Last Searches"
+msgstr "آخرین جستجو ها"
+
+msgid "Maintenance mode"
+msgstr "حالت تعمیر و نگهداری"
+
+msgid "Reports"
+msgstr "گزارشات"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Number of seconds an user should wait before publishing another item (0 for no wait)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "فقط کاربران عضو شده حق تماس با فروشنده(آگهی دهنده)را داشته باشند"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "(بیشترین تعداد عکس برای هر آگهی (0 برای بی نهایت"
+
+msgid "Download more languages at %s"
+msgstr "%s دانلود زبان های بیشتر در"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "این عمل قابل بازگشت نیست.با حذف دائمی افزونه ها ممکن است که برخی داده ها از بین بروند.آیا برای ادامه مطمئن هستید؟"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "(تعداد دیدگاه ها در هر صفحه. شما می توانید تعداد دیدگاه هایی که در صفحه مخصوص هر آگهی وجود دارد را محدود کنید. دیگر دیدگاه ها از طریق سیستم صفحه بندی در دسترس خواهند بود. (0 برای نمایش همه دیدگاه ها در همان زمان"
+
+msgid "Only allow registered users to post comments"
+msgstr "فقط کاربران ثبت نام شده اجازه ارسال دیدگاه داشته باشند"
+
+msgid "Number of recent items displayed at home"
+msgstr "تعداد آگهی های به نمایش گذاشته شده در صفحه نخست سایت"
+
+msgid "Save latest searches"
+msgstr "ذخیره آخرین جستجوها"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "استفاده نمایید \\\"hot topics\\\" می تواند آخرین جستجو ها در سایت را ذخیره کند. شما از این خاصیت می توانید در پوسته سایت به عنوان OpenSourceClassifieds"
+
+msgid "Keep last searches"
+msgstr "حفظ آخرین جستجوها"
+
+msgid "One hour"
+msgstr "یک ساعت"
+
+msgid "One day"
+msgstr "یک روز"
+
+msgid "One week"
+msgstr "یک هفته"
+
+msgid "Forever (never delete)"
+msgstr "(برای همیشه ( حذف هرگز"
+
+msgid "Keep last 1000 searches"
+msgstr "نگه داشتن آخرین 1000 جستجو"
+
+msgid "Number of files to keep"
+msgstr "تعداد فایل ها برای نگه داشتن"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+
+msgid "Last 10 days"
+msgstr "10 روز آخر"
+
+msgid "Last 10 weeks"
+msgstr "10 هفته آخر"
+
+msgid "Last 10 months"
+msgstr "10 ماه آخر"
+
+msgid "There're no statistics yet"
+msgstr "هنوز آماری وجود ندارد"
+
+msgid "Latest comments on the web"
+msgstr "آخرین دیدگاه های سایت"
+
+msgid "New items"
+msgstr "آگهی های جدید"
+
+msgid "Total number of items' views"
+msgstr "نمایش تعداد کل آگهی ها "
+
+msgid "Latest items on the web"
+msgstr "آخرین آگهی ها روی سایت"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Inactive"
+msgstr "غیر فعال"
+
+msgid "Views"
+msgstr "بازدید ها"
+
+msgid "Total number of reports"
+msgstr "تعداد کل گزارش"
+
+msgid "Repeated"
+msgstr "تکراری"
+
+msgid "Bad category"
+msgstr "دسته بد"
+
+msgid "Latest users on the web"
+msgstr "آخرین کاربران در سایت"
+
+msgid "Avg. items per user"
+msgstr "متوسط آگهی هر کاربر"
+
+msgid "items per user"
+msgstr "آگهی هر کاربر"
+
+msgid "New users"
+msgstr "کاربران جدید"
+
+msgid "Users per country"
+msgstr "کاربران هر کشور"
+
+msgid "Unknown"
+msgstr "ناشناس"
+
+msgid "Users per region"
+msgstr "کاربران هر استان"
+
+msgid "Theme"
+msgstr "پوسته"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "زمانی که سایت در حالت تعمیر است کاربران به سایت دسترسی ندارند.اگر می خواهید در سایت تغییراتی ایجاد کنید این گزینه مفید است.از دکمه های زیر برای خاموش یا روشن کردن حالت تعمیر سایت خود استفاده نمایید."
+
+msgid "Maintenance mode is:"
+msgstr "حالت تعمیر هست:"
+
+msgid "ON"
+msgstr "روشن"
+
+msgid "OFF"
+msgstr "خاموش"
+
+msgid "Disable maintenance mode"
+msgstr "غیر فعال کردن حالت تعمیر"
+
+msgid "Enable maintenance mode"
+msgstr "فعال کردن حالت تعمیر"
+
+msgid "Checking for updates"
+msgstr "در حال بررسی برای به روز رسانی ها"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "هورا ! افزونه شما به روز شد !"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "شما بروز شد OpenSourceClassifieds!تبریک"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "در حال نصب به روز رسانی OpenSourceClassifieds (ممکن است زمان ببرد)"
+
+msgid "Enable user"
+msgstr "کاربران فعال"
+
+msgid "Disable user"
+msgstr "کاربران غیرفعال"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds » چند خطا وجود دارد"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "ما در به روز رسانی ساختار پایگاه داده با خطاهایی مواجه شدیم.موارد زیر شکست خورده:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%5C%22%s%5C%22\">continue with the upgrade</a>, or <a href=\"%5C%22http://forums.opensourceclassifieds.org/%5C%22\">ask in our forums</a>."
+
+msgid "Name: this field is required"
+msgstr "نام: این فیلد ضروری است"
+
+msgid "Message: this field is required"
+msgstr "پیام: این فیلد ضروری است"
+
+msgid "City area: no more than 50 characters"
+msgstr "منطقه شهر: نباید بیش از 50 کاراکتر باشد"
+
+msgid "Address: enter at least 3 characters"
+msgstr "آدرس: حداقل 3 کاراکتر وارد کنید"
+
+msgid "Address: no more than 100 characters"
+msgstr "آدرس: بیش از 100 حرف نباید باشد"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "ببخشید.شما به حداکثر تعداد تصویر برای آگهی تان رسیده اید"
+
+msgid "Your name: this field is required"
+msgstr "نام شما : این فیلد ضروری است"
+
+msgid "Friend's name: this field is required"
+msgstr "نام دوست : این فیلد ضروری است"
+
+msgid "Friend's email: this field is required"
+msgstr "ایمیل دوست: این فیلد ضروری است"
+
+msgid "Invalid friend's email address"
+msgstr "آدرس ایمیل دوست نامعتبر است"
+
+msgid "Name: no more than 50 characters"
+msgstr "نام: نباید بیش از 50 کاراکتر باشد"
+
+msgid "Password: this field is required"
+msgstr "رمز عبور: این فیلد ضروری است"
+
+msgid "Password: enter at least 5 characters"
+msgstr "رمز عبور:حداقل 5 کاراکتر وارد کنید"
+
+msgid "No file selected"
+msgstr "فایلی انتخاب نشده"
+
+msgid "Choose File"
+msgstr "انتخاب فایل"
+
+msgid "The website is currently under maintenance mode"
+msgstr "وبسایت در حال حاضر در حال تعمیر می باشد"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "ببخشید.شما در حال حاضر یک فیلد با آن نام دارید"
+
+msgid "The custom field have been deleted"
+msgstr "زمینه دلخواه حذف شد"
+
+msgid "Unmark as spam"
+msgstr "حذف نشانه گذاری به عنوان هرزنامه"
+
+msgid "Mark as spam"
+msgstr "نشانه گذاری به عنوان هرزنامه"
+
+msgid "Field's name"
+msgstr "فیلد نام"
+
+msgid "This field is required"
+msgstr "این فیلد ضروری است"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "دسته ای که می خواهید این ویژگی در آن اعمال شود را انتخاب کنید"
+
+msgid "Advanced options"
+msgstr "تنظیمات پیشرفته"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "(نام واقعی (فقط حروف الفبایی"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "اخطار: با حذف این فیلد اطلاعات مربوط به آن نیز حذف خواهند شد.این عمل قابل بازگشت نیست.آیا برای ادامه مطمئن هستید؟"
+
+msgid "Custom Fields"
+msgstr "فیلد های سفارشی"
+
+msgid "Add new field"
+msgstr "افزودن فیلد جدید"
+
+msgid "Add new custom field"
+msgstr "افزودن فیلد سفارشی جدید"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "You don't have any custom fields yet"
+msgstr "هنوز فیلد سفارشی وجود ندارد"
+
+msgid "Manage custom fields"
+msgstr "مدیریت فیلد های سفارشی"
+
+msgid "County"
+msgstr "(بخش(منطقه"
+
+msgid "Show filters"
+msgstr "فیلتر نمایش"
+
+msgid "Title and Description"
+msgstr "عنوان و شرح"
+
+msgid "Premium"
+msgstr "فوق العاده"
+
+msgid "ALL"
+msgstr "همه"
+
+msgid "Reset filters"
+msgstr "تنظیم مجدد فیلتر"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "(دسته ای که می خواهید این خاصیت در آن اجرا شود را انتخاب کنید(برای نمایش زیرشاخه روی نام دسته ها کلیک کنید"
+
+msgid "Watermark settings"
+msgstr "تنظیمات واترمارک"
+
+msgid "Watermark color"
+msgstr "رنگ واترمارک"
+
+msgid "Watermark text"
+msgstr "متن واترمارک"
+
+msgid "Watermark place"
+msgstr "مکان واترمارک"
+
+msgid "Centre"
+msgstr "وسط"
+
+msgid "Top Left"
+msgstr "بالا چپ"
+
+msgid "Top Right"
+msgstr "بالا راست"
+
+msgid "Bottom Left"
+msgstr "پایین چپ"
+
+msgid "Bottom Right"
+msgstr "پایین راست"
+
+msgid "Watermark image"
+msgstr "عکس وارمارک"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+
+msgid "New version to update:"
+msgstr "نسخه جدید برای بروزرسانی:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \\\"chmod -R 644 *\\\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "وجود ندارد دسته ای با id : %d"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "دسته و زیردسته های آن فعال شده اند"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "دسته و زیردسته های آن غیر فعال شده اند"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "دسته مادر غیر فعال است، شما نمی توانید آن را فعال کنید."
+
+msgid "The subcategory has been enabled"
+msgstr "زیردسته فعال شده است"
+
+msgid "The subcategory has been disabled"
+msgstr "زیردسته غیرفعال شده است"
+
+msgid "Category updated correctly"
+msgstr "دسته به درستی بروز شد"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "دسته به درستی بروز شد، اما بعضی عنوان ها خالی بودند"
+
+msgid "Sorry, at least a title is needed"
+msgstr "با پوزش، حداقل یک عنوان لازم است"
+
+msgid "Error while updating"
+msgstr "خطا موقع بروز رسانی"
+
+msgid "Test email"
+msgstr "امتحان ایمیل"
+
+msgid "Email sent successfully"
+msgstr "ایمیل با موفقیت ارسال شد"
+
+msgid "An error has occurred while sending email"
+msgstr "موقع ارسال ایمیل خطابب رخ داده است"
+
+msgid "Field's type"
+msgstr "نوع فیلد"
+
+msgid "Field's options (separated by commas)"
+msgstr "گزینه های فیلد ( با کاما جدا شوند )"
+
+msgid "Options (separeted by commas)"
+msgstr "گزینه ها ( با کاما از هم جدا شنود)"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "دادن مجوز به فایل های بارگزاری در تماس با فروشنده آگهی"
+
+msgid "Number of decimals"
+msgstr "تعداد اعشار"
+
+msgid "Decimal point"
+msgstr "نقطه اعشار"
+
+msgid "Thousands separator"
+msgstr "هزاران جداساز"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "Notify admin when there's a new comment"
+msgstr "زمانی که یک دیدگاه جدیدی وجود دارد، مدیر را مطلع کن"
+
+msgid "Notify user when there's a new comment"
+msgstr "زمانی که یک دیدگاه جدیدی وجود دارد، کاربر را مطلع کن"
+
+msgid "Timezone"
+msgstr "منطقه زمانی"
+
+msgid "Select a timezone..."
+msgstr "انتخاب منطقه زمانی"
+
+msgid "Number of item displayed in search results"
+msgstr "تعداد آگهی های نمایش داده شده در نتایج جستجو"
+
+msgid "Use a POP before SMTP"
+msgstr "استفاده از POP قبل از SMTP"
+
+msgid "not found"
+msgstr "پیدا نشد"
+
+msgid "Test configuration"
+msgstr "تنظیمات آزمایش"
+
+msgid "The email will be sent to contact email"
+msgstr "این ایمیل به ایمیل مخاطب ارسال خواهد شد"
+
+msgid "Send email"
+msgstr "ارسال ایمیل"
+
+msgid "Use imagick instead of GD"
+msgstr "استفاده از imagick بجای GD"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "این سریعتر و بصرفه تر از کتابخانه GD می باشد"
+
+msgid "Freetype library is required. How to"
+msgstr "کنابخانه Freetype ( نوع رایگان) لازم است. چگونه"
+
+msgid "install/configure"
+msgstr "نصب/تنظیم"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \\\"Index.php\\\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+
+msgid "Notify admin when a new user registers"
+msgstr "مطلع کردن مدیر هنکام عضویت کاربر جدید"
+
+msgid "Price: no more than 50 characters"
+msgstr "قیمت: بیشتر از 50 کاراکتر نباشد"
+

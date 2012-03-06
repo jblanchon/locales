@@ -1,0 +1,2096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mm <milowan3@yahoo.com>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: /Users/admin/htdocs/osclass-git/ajax.php:89
+#: /Users/admin/htdocs/osclass-git/ajax.php:94
+msgid "no action defined"
+msgstr "nije zadata akcija"
+
+#: /Users/admin/htdocs/osclass-git/contact.php:39
+msgid "Contact form"
+msgstr "Kontakt formular"
+
+#: /Users/admin/htdocs/osclass-git/contact.php:41
+msgid "Administrator"
+msgstr "Administrator"
+
+#: /Users/admin/htdocs/osclass-git/login.php:75
+#, php-format
+msgid "Your new password is \"%s\""
+msgstr "Vaša nova lozinka je \"%s\""
+
+#: /Users/admin/htdocs/osclass-git/login.php:84
+msgid "Recover your password"
+msgstr "Obnova lozinke"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/login.php:85
+msgid "OpenSourceClassifieds application"
+msgstr "OpenSourceClassifieds aplikacija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/login.php:88
+msgid "OpenSourceClassifieds administrator"
+msgstr "OpenSourceClassifieds administrator"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:139
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:688
+#, php-format
+msgid "%s has been added as a new country"
+msgstr "%s je dodat/a kao nova zemlja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:150
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:194
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:238
+#, php-format
+msgid "%s has been edited"
+msgstr "%s je izmenjen/a"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:167
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:211
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:249
+#, php-format
+msgid "%s has been deleted"
+msgstr "%s je obrisan/a"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:181
+#, php-format
+msgid "%s has been added as a new region"
+msgstr "%s je dodat kao nova regija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:226
+#, php-format
+msgid "%s has been added as a new city"
+msgstr "%s je dodat kao novi grad"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:441
+msgid "No currencies have been deleted"
+msgstr "Valute nisu izbrisane"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:443
+msgid "One currency has been deleted"
+msgstr "Jedna valuta je izbrisana"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:445
+#, php-format
+msgid "%s currencies have been deleted"
+msgstr "%s valute su obrisane"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/settings.php:744
+#, php-format
+msgid "%s has been added as a region of %s"
+msgstr "%s je dodata kao regija%s"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:30
+msgid "Checking for update files."
+msgstr "Provera za ažuriranje."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:40
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:44
+msgid "File downloaded correctly"
+msgstr "Fajl je ispravno preuzet."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:42
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:46
+msgid "Missing filename"
+msgstr "Nedostaje naziv fajla"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:47
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:51
+msgid "Removing temp-directory"
+msgstr "Uklanjanje temp-foldera"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:68
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:77
+msgid "Archiving is sucessful!"
+msgstr "Arhiviranje je uspešno!"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:70
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:79
+msgid "Error, can't create a zip file!"
+msgstr "Greška, nije moguće stvoriti zip datoteku!"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:82
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:91
+msgid "OK"
+msgstr "OK"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:84
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:93
+msgid "Unzip failed"
+msgstr "Raspakovanje nije uspelo"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:88
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:97
+msgid "Filename incorrect"
+msgstr "Netačan naziv fajla"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:99
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:108
+msgid "Error removing file: "
+msgstr "Greška pri uklanjanju foldera"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:102
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:111
+msgid "Files removed"
+msgstr "Fajlovi uklonjeni"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:105
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:114
+msgid "No files to remove"
+msgstr "Nema fajlova za uklanjanje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:124
+msgid "There were problems copying files"
+msgstr "Bilo je problema s kopiranjem fajlova"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:126
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:132
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:135
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:143
+msgid "Nothing to copy"
+msgstr "Ništa za kopiranje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:128
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:137
+msgid "Files copied"
+msgstr "Kopirani fajlovi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:142
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql izvršen"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:144
+msgid "No SQL to execute"
+msgstr "Nema SQL-a za izvršenje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:152
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:170
+msgid "Custom actions executed"
+msgstr "Naručene radnje izvršene"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:154
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:172
+msgid "No action to execute"
+msgstr "Nema akcija za izvršavanje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade-plugin.php:162
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:178
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:87
+msgid "Update"
+msgstr "Ažuriranje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:33
+msgid "Checking for update files"
+msgstr "Provera fajlova za ažuriranje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:139
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Bilo je problema s kopiranjem datoteka. Možda file permissions nisu ispravno postavljeni"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:161
+msgid "Tables updated correctly"
+msgstr "Tabele su ažurirane ispravno"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/upgrade.php:163
+msgid "No tables update to execute"
+msgstr "Nema ažuriranja tabela za izvršenje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:97
+msgid "View comments"
+msgstr "Prikaži komentare"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:98
+msgid "View media"
+msgstr "Pregled medija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:100
+msgid "Deactivate"
+msgstr "Deaktivirati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:102
+msgid "Activate"
+msgstr "Aktivirati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:105
+msgid "Unmark as premium"
+msgstr "Odznači kao premijum"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:107
+msgid "Mark as premium"
+msgstr "Označi kao premijum"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:109
+msgid "Edit"
+msgstr "Izmeni"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:110
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Ova radnja ne može da se poništi. Jeste li sigurni da želite nastaviti?"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/ajax/items_processing.php:111
+msgid "Delete"
+msgstr "Izbrisati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:23
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/recover.php:23
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds admin panel za prijavu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:40
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:46
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:75
+msgid "Password"
+msgstr "Lozinka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:54
+msgid "Language"
+msgstr "Jezik"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:68
+msgid "Remember me"
+msgstr "Zapamti me"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:72
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/recover.php:52
+msgid "Log in"
+msgstr "Prijavite se"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:77
+msgid "Forgot your password?"
+msgstr "Zaboravili ste lozinku?"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/login.php:80
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/recover.php:56
+msgid "Back to"
+msgstr "Povratak na"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/recover.php:37
+msgid "Please enter your username or e-mail address"
+msgstr "Molimo unesite vaše korisničko ime ili e-mail adresu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/recover.php:38
+msgid "You will receive a new password via e-mail"
+msgstr "Primiti ćete novu lozinku putem e-maila"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/recover.php:45
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:60
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:62
+msgid "E-mail"
+msgstr "E-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/gui/recover.php:48
+msgid "Get new password"
+msgstr "Nabavite novu lozinku"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/footer.php:24
+msgid "Thank you for using"
+msgstr "Hvala Vam što koristite"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/footer.php:24
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/footer.php:29
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/header.php:21
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/footer.php:25
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/footer.php:26
+msgid "Feedback"
+msgstr "Povratni odgovor"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/head.php:21
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds admin panel"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/head.php:76
+#, php-format
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s je dostupan!"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/head.php:76
+msgid "Please upgrade now"
+msgstr "Izvršite upgrade sada"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/header.php:24
+msgid "Visit website"
+msgstr "Posetite web stranicu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/header.php:25
+msgid "Hi"
+msgstr "Zdravo"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/header.php:25
+msgid "Your profile"
+msgstr "Vaš profil"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/header.php:25
+msgid "Log Out"
+msgstr "Odjava"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:28
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:31
+msgid "Admins"
+msgstr "Administratori"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:39
+msgid "Add new admin"
+msgstr "Dodaj novog administratora"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:53
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:55
+msgid "Real name"
+msgstr "Pravo ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:53
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:68
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:75
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:55
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:70
+msgid "required"
+msgstr "zahtevano"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:68
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:70
+msgid "User name"
+msgstr "Korisničko ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/add.php:80
+msgid "Create"
+msgstr "Napravi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:41
+msgid "Edit admin"
+msgstr "Izmenii admina"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:77
+msgid "Current password"
+msgstr "Trenutna lozinka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:79
+msgid "New password"
+msgstr "Nova lozinka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:81
+msgid "Re-type new password"
+msgstr "Ponovno upišite novu lozinku"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/edit.php:84
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Ostavite prazno ako ga ne želite da promenite vašu lozinku"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:46
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:58
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:45
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:57
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:42
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:54
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:45
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:70
+msgid "Search"
+msgstr "Traži"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:51
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:50
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:47
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:63
+msgid "Processing"
+msgstr "Obrada"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:52
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:51
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:48
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:64
+msgid "Show _MENU_ entries"
+msgstr "Prikaži _MENU_ unose"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:53
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:52
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:49
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:65
+msgid "No matching records found"
+msgstr "Nema poklapajućih zapisa"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:54
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:53
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:50
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:66
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Prikazujem _START_ do _END_ od _TOTAL_ ulaza"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:55
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:54
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:51
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:67
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Prikaz od 0 do 0, od 0 ulaza"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:56
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:55
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:52
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:68
+msgid "filtered from _MAX_ total entries"
+msgstr "filtrirano iz _MAX_ ukupno unosa"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:61
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:60
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:57
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:73
+msgid "First"
+msgstr "Prvi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:62
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:61
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:58
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:74
+msgid "Previous"
+msgstr "Prethodna"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:63
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:62
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:59
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:75
+msgid "Next"
+msgstr "Sledeća"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:64
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:63
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:60
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:76
+msgid "Last"
+msgstr "Poslednja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:66
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:65
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:62
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:78
+msgid "Show"
+msgstr "Prikaži"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:71
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:70
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:67
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:83
+msgid "entries"
+msgstr "unosi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:120
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:137
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:128
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:142
+msgid "Bulk actions"
+msgstr "Grupne akcije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/admins/index.php:123
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:142
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:133
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:149
+msgid "Apply"
+msgstr "Primeniti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:28
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:31
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:32
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:56
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/widgets.php:31
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:83
+msgid "Appearance"
+msgstr "Izgled"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:40
+msgid "Add new page"
+msgstr "Dodati novu stranicu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:58
+msgid "Theme package"
+msgstr "Paket sa temom"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:61
+msgid "Upload"
+msgstr "Upload"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:68
+msgid "The theme folder "
+msgstr "Folder teme"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:68
+msgid " is not writable on your server, "
+msgstr "nije writable na serveru, "
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:68
+msgid " can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "ne mogu se učitati teme iz admin panela. Kopirajte temu pomoću FTP-a ili SSH, ili napravite foldere za teme writable."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add.php:71
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Da bi folder bio writable pod UNIX-om, izvršite ovu naredbu iz shell-a"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:50
+msgid "Dashboard - Add New Widget"
+msgstr "Komandna tabla - Dodati novi Widget"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:78
+#, php-format
+msgid "Create widget in %s"
+msgstr "Napravite widget u %s"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:96
+msgid "Description (only for internal purposes)"
+msgstr "Opis (samo za internu upotrebu)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:101
+msgid "HTML Code for the Widget"
+msgstr "HTML kod za Widget"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:105
+msgid "Publish widget"
+msgstr "Objaviti widget"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:37
+msgid "Are you sure you want to cancel?"
+msgstr "Jeste li sigurni da želite odustati?"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:57
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:90
+msgid "Add a new theme"
+msgstr "Dodati novu temu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:68
+msgid "Current theme"
+msgstr "Trenutna tema"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:73
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:111
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:94
+msgid "Author"
+msgstr "Autor"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:78
+msgid "Available themes"
+msgstr "Dostupne teme"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/index.php:93
+msgid "Preview"
+msgstr "Pregled"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/widgets.php:42
+msgid "Widgets"
+msgstr "Widget-i"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/appearance/widgets.php:58
+msgid "Add HTML widget"
+msgstr "Dodaj HTML widget"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:44
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:32
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:129
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:49
+msgid "Categories"
+msgstr "Kategorije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:74
+msgid "Parent category"
+msgstr "Roditeljska kategorija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:76
+msgid "- No parent -"
+msgstr "- Nema roditelja -"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:80
+msgid "Expirations days"
+msgstr "Vreme kada ističe, u danima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:80
+msgid "(0 = no expiration)"
+msgstr "(0 = ne ističe)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:86
+msgid "Position (order in relation to other categories)"
+msgstr "Pozicija (redosled u odnosu na druge kategorije)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:95
+msgid "Enabled"
+msgstr "Omogućiti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:109
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:138
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/frm.php:96
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:201
+msgid "Cancel"
+msgstr "Otkazati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/frm.php:110
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:37
+msgid "Save"
+msgstr "Sačuvati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:86
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:139
+msgid "Disable"
+msgstr "Onesposobiti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:86
+msgid "View subcategories"
+msgstr "Prikaži podkategorije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:86
+msgid "WARNING: This will also delete the items under that category. This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "UPOZORENJE: Ovo će takođe izbrisati stavke u toj kategoriji. Ova radnja ne može da se poništiti. Jeste li sigurni da želite nastaviti?"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:99
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/index.php:52
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:87
+msgid "Name"
+msgstr "Ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:102
+msgid "Parent"
+msgstr "Roditelj"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:103
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/index.php:53
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:103
+msgid "Description"
+msgstr "Opis"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/categories/index.php:138
+msgid "Enable"
+msgstr "Omogućiti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:30
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:41
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:132
+msgid "Comments"
+msgstr "Komentari"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:35
+msgid "Edit comment"
+msgstr "Izmeniti komentar"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:41
+msgid "Add a comment"
+msgstr "Dodati komentar"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:43
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/frm.php:32
+msgid "Add"
+msgstr "Dodati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:49
+msgid "You have to write a title."
+msgstr "Morate napisati naslov."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:54
+msgid "You have to write a comment."
+msgstr "Morate napisati komentar."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:59
+msgid "Author's name can not be empty."
+msgstr "Ime autora ne može biti prazno."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:64
+msgid "Author's email can not be empty."
+msgstr "E-mail autora ne može biti prazan."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:96
+msgid "Edit a comment on item:"
+msgstr "Uređivanje komentara: "
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:101
+msgid "View"
+msgstr "Pregled"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:107
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:94
+msgid "Title"
+msgstr "Naslov"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:113
+msgid "It's a registered user."
+msgstr "To je registrovani korisnik."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:114
+msgid "Edit user"
+msgstr "Izmeni korisnika"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:119
+msgid "Author's e-mail"
+msgstr "E-mail autora"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:123
+msgid "Status"
+msgstr "Status"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:123
+msgid "De-activate"
+msgstr "De-aktivirati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/frm.php:127
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:97
+msgid "Comment"
+msgstr "Komentar"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:75
+msgid "on"
+msgstr "na"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:98
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:111
+msgid "Date"
+msgstr "Datum"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/comments/index.php:118
+msgid "Manage Comments"
+msgstr "Upravljanje Komentarima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/frm.php:24
+msgid "Edit email/alert"
+msgstr "Izmeni e-mail / alert"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/frm.php:30
+msgid "Add an email/alert"
+msgstr "Dodati e-mail / alert"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/frm.php:44
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:72
+msgid "Emails & Alerts"
+msgstr "E-mail i alert"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/frm.php:82
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Interni naziv (ime da bi se lako prepoznao ovaj e-mail/ alert)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/index.php:32
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/emails/index.php:41
+msgid "Emails & alerts"
+msgstr "E-mailovi i alerti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:26
+msgid "Dashboard"
+msgstr "Komandna tabla"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:33
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:129
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:39
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:32
+msgid "Items"
+msgstr "Oglasi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:37
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:132
+msgid "Manage items"
+msgstr "Upravljanje oglasima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:39
+msgid "Add new item"
+msgstr "Dodati nov oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:44
+msgid "Manage media"
+msgstr "Upravljanje medijima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:53
+msgid "Manage categories"
+msgstr "Upravljanje kategorijama"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:56
+msgid "Add a new category"
+msgstr "Dodavanje nove kategorije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:61
+msgid "Pages"
+msgstr "Stranice"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:65
+msgid "Manage pages"
+msgstr "Upravljanje stranicama"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:68
+msgid "Create page"
+msgstr "Napravi stranicu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:76
+msgid "Manage emails & alerts"
+msgstr "Upravljanje e-poštom i alert-ima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:87
+msgid "Manage themes"
+msgstr "Upravljanje temama"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:93
+msgid "Add or remove widgets"
+msgstr "Dodavanje ili uklanjanje widgets-a"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:98
+msgid "Plugins"
+msgstr "Pluginovi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:102
+msgid "Manage plugins"
+msgstr "Upravljanje pluginovima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:105
+msgid "Add new plugin"
+msgstr "Dodati novi plugin"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:110
+msgid "Languages"
+msgstr "Jezici"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:114
+msgid "Manage languages"
+msgstr "Upravljanje jezicima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:117
+msgid "Add a language"
+msgstr "Dodati jezik"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:122
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:126
+msgid "General settings"
+msgstr "Opšta podešavanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:135
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:188
+msgid "Users"
+msgstr "Korisnici"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:138
+msgid "Contact"
+msgstr "Kontakt"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:141
+msgid "Locations"
+msgstr "Lokacije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:144
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:147
+msgid "Spam and bots"
+msgstr "Spam i botovi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:150
+msgid "Currencies"
+msgstr "Valute"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:153
+msgid "Mail Server"
+msgstr "Mail Server"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:156
+msgid "Media"
+msgstr "Medija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:159
+msgid "Cron system"
+msgstr "Cron sistem"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:164
+msgid "Tools"
+msgstr "Alati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:168
+msgid "Import data"
+msgstr "Uvoz podataka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:171
+msgid "Backup data"
+msgstr "Backup podataka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:174
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Nadogradnja OpenSourceClassifieds"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:177
+msgid "Regenerate thumbnails"
+msgstr "Regenerisanje thumbnail sličice"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:192
+msgid "Manage users"
+msgstr "Upravljanje korisnicima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:195
+msgid "Add new user"
+msgstr "Dodati novog korisnika"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:200
+msgid "Administrators"
+msgstr "Administratori"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:204
+msgid "List administrators"
+msgstr "Lista administratora"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:207
+msgid "Add new administrator"
+msgstr "Dodati novog administratora"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:210
+msgid "Edit Your Profile"
+msgstr "Izmenite vaš profil"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:215
+msgid "Tests"
+msgstr "Testovi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/include/backoffice_menu.php:219
+msgid "Database"
+msgstr "Baza podataka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:68
+msgid "New item"
+msgstr "Novi oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:68
+msgid "Edit item"
+msgstr "Izmeni oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:84
+msgid "User"
+msgstr "Korisnik"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:85
+msgid "Item posted by"
+msgstr "Oglas postavljen od "
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:85
+msgid "Non-registered user"
+msgstr "Neregistrovani korisnik"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:89
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:94
+msgid "General information"
+msgstr "Opšte informacije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:97
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:107
+msgid "Category"
+msgstr "Kategorija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:105
+msgid "Price"
+msgstr "Cena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:133
+msgid "Remove"
+msgstr "Ukloniti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:144
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Ova kacija se ne može poništiti. Da li ste sigurni da se izvrši?"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:161
+msgid "Photos"
+msgstr "Fotografije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:169
+msgid "optional"
+msgstr "opciono"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:172
+msgid "Add new photo"
+msgstr "Dodati novu fotografiju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:178
+msgid "Location"
+msgstr "Lokacija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:180
+msgid "Country"
+msgstr "Država"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:182
+msgid "Region"
+msgstr "Regija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:184
+msgid "City"
+msgstr "Grad"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:186
+msgid "City area"
+msgstr "Gradsko područje"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:188
+msgid "Address"
+msgstr "Adresa"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/frm.php:202
+msgid "Add item"
+msgstr "Dodati oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:99
+msgid "Count"
+msgstr "Brojač"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:152
+msgid "Filter by"
+msgstr "Filtrirati po"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:152
+msgid "All"
+msgstr "Svi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:153
+msgid "Pending"
+msgstr "Na čekanju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:154
+msgid "Spam"
+msgstr "Spam"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:155
+msgid "Duplicated"
+msgstr "Dupliciran"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:156
+msgid "Misclassified"
+msgstr "Oglas sa greškom"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:157
+msgid "Offensive"
+msgstr "Uvredljiv"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/items/index.php:158
+msgid "Expired"
+msgstr "Istekao"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/add.php:55
+msgid "Language package"
+msgstr "Jezički paket"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/add.php:62
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Folder za prevode nije writable i ne možete uploadovati prevode iz admin panela. Napravite folder da bude writable."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/add.php:65
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Da bi folder pod UNIX-om bio writable, izvršite ovu komandu u shell-u: "
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/frm.php:56
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:96
+msgid "Short name"
+msgstr "Skraćeni naziv"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/frm.php:68
+msgid "Currency format"
+msgstr "Format valute"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/frm.php:74
+msgid "Date format"
+msgstr "Format datuma"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/frm.php:80
+msgid "Stopwords"
+msgstr "Stop-reči"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/frm.php:88
+msgid "Enabled for the public website"
+msgstr "Omogućiti za web sajt"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/frm.php:94
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Omogućiti za admin panel"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:80
+msgid "Disable (website)"
+msgstr "Onemogućiti ( web stranica)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:80
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:134
+msgid "Disable (oc-admin)"
+msgstr "Onemogućit i( OC-admin panel)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:83
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:84
+msgid "Yes"
+msgstr "Da"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:83
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:84
+msgid "No"
+msgstr "Ne"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:98
+msgid "Enabled (website)"
+msgstr "Omogućiti ( web stranica)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:99
+msgid "Enabled (oc-admin)"
+msgstr "Omogućiti ( OC-admin panel)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:130
+msgid "Bulk Actions"
+msgstr "Bulk Akcije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:131
+msgid "Enable (Website)"
+msgstr "Omogući (web stranica)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:132
+msgid "Disable (Website)"
+msgstr "Onemogućiti (web stranica)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/languages/index.php:133
+msgid "Enable (oc-admin)"
+msgstr "Omogući ( OC-admin panel)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:114
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/media/index.php:120
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/comments.php:52
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/contact.php:52
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:122
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Šta od sledećeg želite videti na komandnoj tabli"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:124
+msgid "Latest items"
+msgstr "Najnoviji oglasi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:127
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:164
+msgid "Statistics"
+msgstr "Statistika"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:130
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:178
+msgid "Latest comments"
+msgstr "Najnoviji komentari"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:133
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:191
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Najnovije vijesti iz OpenSourceClassifieds"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:145
+msgid "Items by category"
+msgstr "Oglasi po kategoriji"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:151
+msgid "Item"
+msgstr "Oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:158
+msgid "There aren't any uploaded items yet"
+msgstr "Nema uploadovane stavke"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:166
+msgid "Number of items"
+msgstr "Broj oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:167
+msgid "Number of public users"
+msgstr "Broj korisnika"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:168
+msgid "Number of administrators"
+msgstr "Broj administratora"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:182
+msgid "Commented on item"
+msgstr "Komentarisao je oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:185
+msgid "There aren't any comments yet"
+msgstr "Još ne postoje komentari"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:207
+msgid "new"
+msgstr "novo"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/main/index.php:212
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Nije moguće dohvatiti vesti iz OpenSourceClassifieds. Molimo pokušajte ponovno kasnije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/media/index.php:91
+msgid "File"
+msgstr "Fajl"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/media/index.php:94
+msgid "Attached to"
+msgstr "Atačovano za"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/pages/frm.php:24
+msgid "Edit page"
+msgstr "Izmeniti stranicu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/pages/frm.php:30
+msgid "Add page"
+msgstr "Dodati stranicu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/pages/frm.php:82
+msgid "Internal name (name to easily identify this page)"
+msgstr "Interno ime ( naziv za lako prepoznavanje ove stranice)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/add.php:39
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/configuration.php:66
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/index.php:122
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/view.php:38
+msgid "Add a new plugin"
+msgstr "Dodati novi plugin"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/add.php:55
+msgid "Plugin package"
+msgstr "Plugin paket"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/add.php:66
+#, php-format
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Folder sa pluginovima %s nije writable"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/add.php:67
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds ne može uploadovati pluginove iz admin panela"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/add.php:68
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Kopirajte plugin paket pomoću FTP-a ili SSH, ili napravite folder za pluginove writable"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/configuration.php:83
+msgid "Select the categories where you want to apply these attributes"
+msgstr "Odaberite kategorije u kojima želite da primenite ove atribute"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/configuration.php:89
+msgid "Preset categories"
+msgstr "Unapred postavljene kategorije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/configuration.php:90
+msgid "Check all"
+msgstr "Označi sve"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/configuration.php:90
+msgid "Uncheck all"
+msgstr "Odznači sve"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/index.php:82
+msgid "Configure"
+msgstr "Konfigurisati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/index.php:82
+msgid "There's a new version. You should update!"
+msgstr "Postoji nova verzija. Trebate da ažurirate!"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/index.php:82
+msgid "This action can\\'t be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Ova radnja se ne može poništiti. Deinstalacija dodataka može dovesti do trajnog gubitka podataka. Jeste li sigurni da želite nastaviti?"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/index.php:82
+msgid "Uninstall"
+msgstr "Deinstalirati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/plugins/index.php:82
+msgid "Install"
+msgstr "Instalirati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/add_currency.php:28
+msgid "Add currency"
+msgstr "Dodati valutu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/add_currency.php:48
+msgid "Create currency"
+msgstr "Napraviti valutu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/add_currency.php:50
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/currencies.php:89
+msgid "Code"
+msgstr "Kod"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/add_currency.php:52
+msgid "It should be a three-character code"
+msgstr "Trebalo bi da kod bude sa tri karaktera"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/comments.php:37
+msgid "Comments settings"
+msgstr "Podešavanja komentara"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/comments.php:54
+msgid "Comments enabled"
+msgstr "Komentari su omogućeni"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/comments.php:57
+msgid "Moderate comments"
+msgstr "Moderisanje komentara"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/comments.php:63
+msgid "Notifications"
+msgstr "Obaveštenja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/comments.php:65
+msgid "Notify when there's a new comment"
+msgstr "Obavesti me kada se pojavi novi komentar"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/contact.php:37
+msgid "Contact settings"
+msgstr "Podešavanja kontakta"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/contact.php:54
+msgid "Attachment enabled"
+msgstr "Atačment omogućen"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/cron.php:37
+msgid "Cron"
+msgstr "Cron"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/cron.php:51
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/cron.php:53
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Neke OpenSourceClassifieds funkcionalnosti zahtevaju cron kako bi radile. Proverite je li vaš host može da ih izvršava. Odznačite ako želite da podesite cron ručno. Pogledajte manual da  saznate više o OpenSourceClassifieds cron sistemu."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/edit_currency.php:30
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/edit_currency.php:52
+msgid "Edit currency"
+msgstr "Izmeni valutu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/edit_currency.php:56
+msgid "Once it's created, it can't be modified"
+msgstr "Nakon što se stvori, ne može se menjati"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:34
+msgid "General Settings"
+msgstr "Opšta podešavanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:56
+msgid "Page title"
+msgstr "Naslov stranice"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:63
+msgid "Page description"
+msgstr "Opis stranice"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:72
+msgid "Admin e-mail"
+msgstr "Admin e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:79
+msgid "Default language"
+msgstr "Defaultni jezik"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:108
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:158
+msgid "Custom"
+msgstr "Poručen"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:116
+msgid "Default currency"
+msgstr "Defaultna valuta"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:126
+msgid "Week starts on"
+msgstr "Nedelja počinje u"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:128
+msgid "Sunday"
+msgstr "Nedelja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:129
+msgid "Monday"
+msgstr "Ponedeljak"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:130
+msgid "Tuesday"
+msgstr "Utorak"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:131
+msgid "Wednesday"
+msgstr "Sreda"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:132
+msgid "Thursday"
+msgstr "Četvrtak"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:133
+msgid "Friday"
+msgstr "Petak"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:134
+msgid "Saturday"
+msgstr "Subota"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:143
+msgid "Time format"
+msgstr "Format vremena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/index.php:166
+msgid "Number of items in the RSS"
+msgstr "Broj oglasa u RSS-u"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:28
+msgid "Items settings"
+msgstr "Podešavanja oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:54
+msgid "Enable reCAPTCHA"
+msgstr "Omogući reCAPTCHA"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:57
+msgid "Enable item validation by users"
+msgstr "Omogući validaciju oglasa od strane korisnika"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:60
+msgid "Only allow registered users to post items"
+msgstr "Samo registrovani korisnici mogu da objavljuju oglase"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:68
+msgid "Notify admin of new items"
+msgstr "Obaveštavanje administratora o novim oglasima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:71
+msgid "Notify admin of contact items"
+msgstr "Obaveštavanje administratora o contact items"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:74
+msgid "Notify admin of share"
+msgstr "Obaveštavanje administratora o share"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:80
+msgid "Optional fields"
+msgstr "Opciona polja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:82
+msgid "Enable price"
+msgstr "Omogućiti cenu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/items.php:85
+msgid "Enable images"
+msgstr "Omogućiti slike"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:27
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:70
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:28
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:25
+msgid "Close"
+msgstr "Zatvoriti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:28
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:76
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:29
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:26
+msgid "View more"
+msgstr "Prikaži više"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:56
+msgid "Countries"
+msgstr "Države"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:60
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:95
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:113
+msgid "Add new"
+msgstr "Dodati nov"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:91
+msgid "Regions"
+msgstr "Regija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:109
+msgid "Cities"
+msgstr "Gradovi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:129
+msgid "Add new country"
+msgstr "Dodati novu državu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:143
+msgid "Country code"
+msgstr "Pozivni broj države"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:148
+msgid "Country code should have two characters"
+msgstr "Pozivni broj države bi trebao imati dva znaka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:162
+msgid "Edit country"
+msgstr "Izmeni državu"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:187
+msgid "Add new region"
+msgstr "Dodati novu regiju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:214
+msgid "Edit region"
+msgstr "Izmeniti regiju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:239
+msgid "Add new city"
+msgstr "Dodati novi grad"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/locations.php:267
+msgid "Edit city"
+msgstr "Izmeniti grad"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:28
+msgid "Mail server settings"
+msgstr "Mail server podešavanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:49
+msgid "Mail server"
+msgstr "Mail server"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:62
+msgid "Configuration"
+msgstr "Konfiguracija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:63
+msgid "Server type"
+msgstr "Tip servera"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:65
+msgid "Custom Server"
+msgstr "Custom Server"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:66
+msgid "GMail Server"
+msgstr "GMail Server"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:69
+msgid "Hostname"
+msgstr "Ime host računara"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:74
+msgid "Server port"
+msgstr "Server Port"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:89
+msgid "Encryption"
+msgstr "Enkripcija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:92
+msgid "Options: blank, ssl or tls"
+msgstr "Opcije: prazno, SSL ili TLS"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:96
+msgid "Enable SMTP authentication"
+msgstr "Omogućiti SMTP proveru autentičnosti"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:103
+msgid "Help"
+msgstr "Pomoć"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/mailserver.php:104
+msgid "Enter your e-mail server configuration"
+msgstr "Unesite konfiguraciju vašeg e-mail servera"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:28
+msgid "Media settings"
+msgstr "Podešavanja medija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:37
+msgid "Configure media"
+msgstr "Konfiguracija medija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:44
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Postavljanje željenih dimenzija za sve slike na web stranici. (Format: WIDTHxHEIGHT, npr: 640x480)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:49
+msgid "Restrictions"
+msgstr "Ograničenja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:51
+msgid "Maximum size, in KB"
+msgstr "Maksimalna veličina u KB"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:56
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Dozvoljeni format ekstenzije (npr: PNG, JPG, GIF)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:62
+msgid "Dimensions"
+msgstr "Dimenzije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:64
+msgid "Thumbnail dimensions"
+msgstr "Thumbnail dimenzije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:69
+msgid "Preview dimensions"
+msgstr "Preview dimenzije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:74
+msgid "Normal dimensions"
+msgstr "Normalna dimenzija"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:79
+msgid "Keep original image"
+msgstr "Zadržite originalnu sliku"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/media.php:81
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Čuvanje originalne slike zahteva dodatni prostor na disku. Ova mogućnost osigurava da originalni kvalitet fajla bude nepromenjen. Budite oprezni kada koristite ovu opciju."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:45
+msgid "Permalinks settings"
+msgstr "Permalinks podešavanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:60
+msgid "Friendly urls"
+msgstr "Prijateljski URL-ovi"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:61
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "Po defaultu OpenSourceClassifieds koristi web URL-ove koji sadrže upitnike i puno brojeva u njima. Međutim, OpenSourceClassifieds nudi vam prijateljski URL-ova. Ovo može poboljšati estetiku, upotrebljivost i kompatibilnost vaših linkova"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:64
+msgid "Enable friendly urls"
+msgstr "Omogući friendly URL-ove"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:71
+msgid ".htaccess file"
+msgstr ". Htaccess fajl"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:73
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Modul <em>mod_rewrite</em> je pronađen na serveru."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:75
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Upozorenje! Rewrite modul nije pronađen na serveru. To znači da ga nije omogućen ili koristite  PHP kao CGI (ili fastCGI). U slučaju da nemate mod_rewrite i dalje možete koristiti friendly URL-ove, ako AllowPathInfo opcija u vašoj Apache konfiguraciji (ne možemo znati ako je to omogućeno ili ne, ali obično jeste). \"Index.php\" pojaviće se kao deo svoje URL (npr. http://www.example.com/index.php/nice/url)."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:81
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Greška. Nismo mogli upisati u Htaccess datoteku na vašem serveru. Molimo vas da napravite fajl sa nazivom. Htaccess u korenu vaše OpenSourceClassifieds instalacije sa sledećim sadržajem."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:83
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Fajl .Htaccess već postoji. Molimo vas da proverite da. Htaccess ima sledeće sadržaje."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:85
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Napravili smo .Htaccess datoteku u korenu vaše OpenSourceClassifieds instalacije."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:91
+msgid "Content of .htaccess file should look like this:"
+msgstr "Sadržaj Htaccess datoteke bi trebao izgledati ovako:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/permalinks.php:109
+msgid "Current content of your .htaccess file:"
+msgstr "Trenutni sadržaj htaccess datoteke:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:33
+msgid "Spam and bots settings"
+msgstr "Spam i bot podešavanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:55
+msgid "Akismet"
+msgstr "Akismet"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:57
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet ključ (isto kao Wordpress.com)"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:59
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Ako je polje prazno, to je zato što je Akismet usluga onemogućena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:59
+msgid "Get your free key at"
+msgstr "Nabavite svoj besplatni ključ na"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:64
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:66
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Ako je polje prazno, to je zato što je reCAPTCHA usluga onemogućena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:66
+msgid "Get your free keys at"
+msgstr "Nabavite svoje besplatne ključeve na"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:69
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA privatni ključ"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:73
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA javni ključ"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/users.php:37
+msgid "Users settings"
+msgstr "Korisnička podešavanja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/users.php:53
+msgid "Users enabled"
+msgstr "Users enabled"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/users.php:56
+msgid "User validation enabled"
+msgstr "Validacija korisnika je omogućena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/settings/users.php:59
+msgid "User registration enabled"
+msgstr "Registracija korisnika je omogućena"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/test/index.php:28
+msgid "Database test"
+msgstr "Baza test"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/test/index.php:36
+msgid "Test Your installation with fake data"
+msgstr "Testirajte vašu instalaciju s fake podacima"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/test/index.php:45
+msgid "Add Fake Data"
+msgstr "Dodavanje fake podataka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/test/index.php:46
+msgid "Delete Fake Data"
+msgstr "Brisanje fake podataka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:28
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:86
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:92
+msgid "Backup"
+msgstr "Bekap"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:34
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:37
+msgid "You're offline! Please check your connection"
+msgstr "Offline! Proverite konekciju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:36
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:39
+msgid "Requested URL not found"
+msgstr "Traženi URL nije pronađen"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:38
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:41
+msgid "Internal server error"
+msgstr "Interna greška servera"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:40
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:43
+msgid "Error. Parsing JSON request failed"
+msgstr "Greška. Parsovanje JSON request-a nije uspelo"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:42
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:45
+msgid "Request timeout"
+msgstr "Request timeout"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:44
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:47
+msgid "Unknown error"
+msgstr "Nepoznata greška"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:65
+msgid "Backup OpenSourceClassifieds"
+msgstr "Backup OpenSourceClassifieds"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:73
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Možete bekapovati OpenSourceClassifieds ovde. UPOZORENJE: Ako ne navedete bekap folder, sigurnosna kopija će biti kreirana u korenu vaše OpenSourceClassifieds instalacije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:79
+msgid "Backup folder"
+msgstr "Backup folder"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:81
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Ovo je folder u kome će vaše bekap kopije će biti kreirane. Preporučamo Vam da odaberete non-public path. Za više informacija, molimo pogledajte OpenSourceClassifieds dokumentaciju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:85
+msgid "Back up database"
+msgstr "Back up baze podataka"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/backup.php:91
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Back up OpenSourceClassifieds instalaciju"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/images.php:28
+msgid "Regenerate images"
+msgstr "Regenerisati slike"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/images.php:46
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Možete regenerisati vaše thumbnail sličice i preglede slike ovde. To je korisno ako ste promenili temu i slike se ne prikazuju ispravno. Molimo, proverite veličine  definisane u podešavanjima / medija odeljak"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/import.php:28
+msgid "Import"
+msgstr "Uvoz"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/import.php:46
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Možete menjati svoju bazu podataka ovde. Za dodavanje, uklanjanje ili izmene vaših podataka. Obično se koristi za uvoz zemalja, regija i gradova"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/import.php:52
+msgid "Data"
+msgstr "Podaci"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:53
+msgid "Checking for update (installed version: "
+msgstr "Provera za ažuriranje (instalirana verzija:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:57
+msgid "HOORAY! Your plugin installation is up to date! (current version: "
+msgstr "Ura! Vaša plugin instalacija je poslednja verzija! (Trenutna verzija:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:59
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:63
+msgid "current version: "
+msgstr "trenutna verzija:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:60
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:64
+msgid "Downloading update file: "
+msgstr "Preuzimanje fajla za update:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:67
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:70
+msgid "Unzipping file: "
+msgstr "Unzipping fajla:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:72
+msgid "Copying old files: "
+msgstr "Kopiranje starih fajlova:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:77
+msgid "Removing new files: "
+msgstr "Uklanjanje novih datoteka:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:82
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:79
+msgid "Executing SQL: "
+msgstr "Izvršavanje SQL:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:87
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:82
+msgid "Executing additional actions: "
+msgstr "Izvršavanje dodatnih akcija:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:92
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:85
+msgid "Cleaning all the mess: "
+msgstr "Čišćenje svog nereda:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:98
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Zadovoljavanje korisnika sa neverovatnim i jednostavnim auto-upgrade: Izvršeno!"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade-plugins.php:111
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Neispravan OpenSourceClassifieds zahtev."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:31
+msgid "Upgrade"
+msgstr "Nadogradnja"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:57
+msgid "Checking for updates (installed version: "
+msgstr "Provera ažuriranja (instalirana verzija:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:61
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date! (current version: "
+msgstr "Čestitamo! Vaša OpenSourceClassifieds instalacija je u skladu sa poslednjom verzijom! (Trenutna verzija:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:73
+msgid "Copying new files: "
+msgstr "Kopiranje nove datoteke:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:76
+msgid "Removing old files: "
+msgstr "Uklanjanje stare datoteke:"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/tools/upgrade.php:88
+msgid "Awesome and easy auto-upgrade: done!"
+msgstr "Odličan i jednostavan auto-upgrade: završeno!"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/frm.php:88
+msgid "Re-type the password"
+msgstr "Ponovno upišite lozinku"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/frm.php:92
+msgid "Passwords don't match."
+msgstr "Lozinke se ne podudaraju."
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/frm.php:104
+msgid "Cell phone"
+msgstr "Mobilni telefon"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/frm.php:108
+msgid "Phone"
+msgstr "Telefon"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/frm.php:112
+msgid "Website"
+msgstr "Web sajt"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/frm.php:116
+msgid "Additional information"
+msgstr "Dodatne informacije"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/frm.php:134
+msgid "City Area"
+msgstr "Područje grada"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/index.php:76
+msgid "Activate user"
+msgstr "Aktivacija korisnika"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/index.php:76
+msgid "Deactivate user"
+msgstr "Deaktivacija korisnika"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/index.php:95
+msgid "Update Date"
+msgstr "Update Datum"
+
+#: /Users/admin/htdocs/osclass-git/oc-admin/themes/modern/users/index.php:110
+msgid "Add a new user"
+msgstr "Dodavanje novog korisnika"
+
+#: /Users/admin/htdocs/osclass-git/oc-content/plugins/google_maps/admin.php:31
+msgid "You can freely obtain a developer key after signing up on this URL:"
+msgstr "Vi možete dobiti developer kez nakon logovanja na URL:"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:472
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:475
+msgid "Admin mail system"
+msgstr "Admin mail sistem"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/ItemActions.php:770
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again. (reCAPTCHA said: "
+msgstr "ReCAPTCHA nije ispravno unesen. Vratite se i pokušajte ponovo. (ReCAPTCHA je rekao:"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/plugins.php:81
+#, php-format
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Plugin-u %s nedostaje index.php fajl %s"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/plugins.php:100
+#, php-format
+msgid "Plugin %s is missing its main file"
+msgstr "Plugin-u %s nedostaje glavna datoteka"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Alert.form.class.php:35
+msgid "Enter your e-mail"
+msgstr "Unesite svoj e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:141
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:130
+msgid "Select a country..."
+msgstr "Odaberite državu ..."
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:163
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:265
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:149
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:328
+msgid "Select a region..."
+msgstr "Odaberite regiju ..."
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:184
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:305
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:167
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:367
+msgid "Select a city..."
+msgstr "Odaberite grad ..."
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:272
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:312
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:335
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:374
+msgid "No results"
+msgstr "Nema rezultata"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:339
+msgid "You have to select a region"
+msgstr "Morate odabrati regiju"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:344
+msgid "You have to select a city"
+msgstr "Morate odabrati grad"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:349
+msgid "You have to enter a city"
+msgstr "Morate uneti grad"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:355
+msgid "You have to enter a name"
+msgstr "Morate uneti ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Item.form.class.php:362
+msgid "You have to enter an e-mail"
+msgstr "Morate uneti e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/Page.form.class.php:48
+msgid "Body"
+msgstr "Body/Telo"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/frm/User.form.class.php:112
+msgid "User Description"
+msgstr "Korisnički opis"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hItems.php:401
+msgid "Check with seller"
+msgstr "Proverite kod prodavca"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hItems.php:402
+msgid "Free"
+msgstr "Besplatno"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hSearch.php:35
+msgid "Newly listed"
+msgstr "Novo na listi"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hSearch.php:36
+msgid "Lower price first"
+msgstr "Niže cene prvo"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hSearch.php:37
+msgid "Higher price first"
+msgstr "Više cene prvo"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hUtils.php:76
+msgid "Manage your items"
+msgstr "Upravljanje oglasima"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hUtils.php:77
+msgid "Manage your alerts"
+msgstr "Upravljanje upozorenjima"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hUtils.php:78
+msgid "My account"
+msgstr "Moj nalog"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/helpers/hUtils.php:79
+msgid "Logout"
+msgstr "Odjava"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/model/Item.php:106
+#, php-format
+msgid "%s in"
+msgstr "%s u"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/model/Item.php:115
+msgid "There's no description available in your language"
+msgstr "Opis nije dostupan na Vašem jeziku"
+

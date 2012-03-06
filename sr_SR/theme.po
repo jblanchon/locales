@@ -1,0 +1,580 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mm <milowan3@yahoo.com>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/404.php:24
+msgid "Page not found"
+msgstr "Stranica nije pronađena"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/alert-form.php:4
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Uspešno ste se prijavili na obaveštenja"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/alert-form.php:4
+msgid "There was a problem with the alert"
+msgstr "Dogodio se problem sa obaveštenjem"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/alert-form.php:33
+msgid "Subscribe to this search"
+msgstr "Prijavite/pretplatite se za ovaj search"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/alert-form.php:49
+msgid "Subscribe now!"
+msgstr "Prijavite/pretplatite se!"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/contact.php:36
+msgid "Contact with us"
+msgstr "Konataktirajte nas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/contact.php:42
+msgid "Subject"
+msgstr "Naslov"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/contact.php:43
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:45
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:44
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:126
+msgid "Message"
+msgstr "Tekst"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/contact.php:44
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:42
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:40
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:98
+msgid "Your name"
+msgstr "Vaše ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/contact.php:44
+msgid "(optional)"
+msgstr "(opciono)"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/contact.php:45
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:43
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:41
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:124
+msgid "Your e-mail address"
+msgstr "Vaša e-mail adresa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/contact.php:47
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:45
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:102
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:130
+msgid "Send"
+msgstr "Pošalji"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/footer.php:28
+msgid "Contact"
+msgstr "Kontakt"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/footer.php:33
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Ovaj sajt pokreće <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:31
+#, php-format
+msgid "Hi %s"
+msgstr "Zdravo %s"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:32
+msgid "My account"
+msgstr "Moj nalog"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:33
+msgid "Logout"
+msgstr "Odjavite se"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:37
+msgid "Login"
+msgstr "Prijavite se"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:38
+msgid "RRegister for a free account"
+msgstr "Registrujte se besplatno"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:43
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:99
+msgid "E-mail"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:45
+msgid "Password"
+msgstr "Šifra"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:47
+msgid "Remember me"
+msgstr "Zapamti me"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:48
+msgid "Log in"
+msgstr "Prijavite se"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:49
+msgid "Forgot password?"
+msgstr "Zaboravili šifru?"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:57
+msgid "Language"
+msgstr "Jezik"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/header.php:69
+msgid "Publish your ad for free"
+msgstr "Besplatno objavite vaš oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/inc.search.php:26
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/inc.search.php:63
+msgid "ie. PHP Programmer"
+msgstr "traženi pojam"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/inc.search.php:68
+msgid "Select a category"
+msgstr "Izaberite kategoriju"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/inc.search.php:80
+msgid "Search"
+msgstr "Pretraga"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:33
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:64
+msgid "Contact seller"
+msgstr "Kontaktirajte ponuđača"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:40
+msgid "To (seller)"
+msgstr "Za (ponuđača)"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:41
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:39
+msgid "Item"
+msgstr "Oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:44
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:125
+msgid "Phone number"
+msgstr "Broj telefona"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-contact.php:46
+msgid "Send message"
+msgstr "Pošaljite poruku"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:32
+msgid "Update your item"
+msgstr "Ažurirajte vaš oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:41
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:40
+msgid "General Information"
+msgstr "Opšte informacije"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:43
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:42
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:110
+msgid "Category"
+msgstr "Kategorija"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:50
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:49
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:101
+msgid "Price"
+msgstr "Cena"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:58
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:56
+msgid "Photos"
+msgstr "Slike"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:62
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:59
+msgid "optional"
+msgstr "opciono"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:65
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:62
+msgid "Add new photo"
+msgstr "Dodajte novu sliku"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:71
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/main.php:120
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:82
+msgid "Location"
+msgstr "Lokacija"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:73
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:70
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:54
+msgid "Country"
+msgstr "Država"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:77
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:74
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:55
+msgid "Region"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:81
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:78
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:56
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:84
+msgid "City"
+msgstr "Mesto"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:85
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:57
+msgid "City area"
+msgstr "Naselje"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:89
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:86
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:58
+msgid "Address"
+msgstr "Adresa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:95
+msgid "Update"
+msgstr "Ažurirati"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-edit.php:96
+msgid "Cancel"
+msgstr "Otkazati"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:32
+msgid "Publish an item"
+msgstr "Objavite oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:68
+msgid "Item Location"
+msgstr "Lokacija oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:82
+msgid "City Area"
+msgstr "Naselje"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:93
+msgid "Seller's information"
+msgstr "Informacije o ponuđaču"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:95
+msgid "Name"
+msgstr "Ime"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:106
+msgid "Show e-mail on the item page"
+msgstr "Prikazati e-mail na stranici sa oglasom"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-post.php:113
+msgid "Publish"
+msgstr "Objavite"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:32
+msgid "Send to a friend"
+msgstr "Pošaljite prijatelju"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:42
+msgid "Your friend's name"
+msgstr "Ime vašeg prijatelja"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item-send-friend.php:43
+msgid "Your friend's e-mail address"
+msgstr "E-mail adresa vašeg prijatelja"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:36
+msgid "Mark as"
+msgstr "Označite kao"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:38
+msgid "spam"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:39
+msgid "misclassified"
+msgstr "pogrešan oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:40
+msgid "duplicated"
+msgstr "duplikat oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:41
+msgid "expired"
+msgstr "istekao"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:42
+msgid "offensive"
+msgstr "uvredljiv"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:65
+msgid "Share"
+msgstr "Podeli"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:71
+msgid "Useful information"
+msgstr "Korisne informacije"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:73
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:74
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:75
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:76
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:81
+msgid "Comments"
+msgstr "Komentari"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:86
+msgid "by"
+msgstr "od"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:94
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Ostavite komentar"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:99
+msgid "Your e-mail"
+msgstr "Vaš e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:100
+msgid "Title"
+msgstr "Naslov"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:101
+msgid "Comment"
+msgstr "Komentar"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:115
+msgid "Contact publisher"
+msgstr "Konataktirajte ponuđača"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:121
+msgid "Tel"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/item.php:123
+msgid "Your name (optional)"
+msgstr "Vaše ime (opciono)"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/main.php:82
+msgid "Latest Items"
+msgstr "Najnoviji oglasi"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/main.php:84
+msgid "No Latest Items"
+msgstr "Nema novih oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/main.php:111
+msgid "See all offers"
+msgstr "Pogledajte sve ponuđače"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:36
+msgid "Search results"
+msgstr "Rezultati pretrage"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:39
+msgid "Sort by"
+msgstr "Sortirati po"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:58
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Nema odgovarajućih rezultata za \"%s\""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:78
+msgid "Your search"
+msgstr "Vaša pretraga"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:90
+msgid "Show only"
+msgstr "Prikazati samo"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:95
+msgid "Show only items with pictures"
+msgstr "Prikazati samo oglase sa slikom"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:102
+msgid "Min"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:104
+msgid "Max"
+msgstr ""
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:132
+msgid "Apply"
+msgstr "Primeniti"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:149
+msgid "Selected"
+msgstr "Izabrati"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/search.php:150
+msgid "Nothing selected, input was"
+msgstr "Ništa nije izabrano, unos je bio"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-alerts.php:34
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_email.php:36
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_password.php:35
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-dashboard.php:33
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:33
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-profile.php:35
+msgid "User account manager"
+msgstr "Korisnički upravljački panel"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-alerts.php:39
+msgid "Your alerts"
+msgstr "Vaša obaveštenja"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-alerts.php:41
+msgid "You do not have any alerts yet"
+msgstr "Još uvek nemate obaveštenja"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-alerts.php:45
+msgid "Alert"
+msgstr "Obaveštenje"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-alerts.php:45
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:55
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Ova akcija se ne može vratiti unazad. Da li ste sigurni da želite da nastavite"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-alerts.php:45
+msgid "Delete this alert"
+msgstr "Obrisati ovo obaveštenje"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-alerts.php:51
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-dashboard.php:49
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:49
+msgid "Publication date"
+msgstr "Datum objave"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_email.php:42
+msgid "Change your e-mail"
+msgstr "Izmenite vaš e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_email.php:48
+msgid "Current e-mail"
+msgstr "Trenutni e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_email.php:52
+msgid "New e-mail"
+msgstr "Novi e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_password.php:41
+msgid "Change your password"
+msgstr "Imenite vašu šifru"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_password.php:47
+msgid "Current password"
+msgstr "Trenutna šifra"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_password.php:51
+msgid "New pasword"
+msgstr "Nova šifra"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-change_password.php:55
+msgid "Repeat new pasword"
+msgstr "Ponovite novu šifru"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-dashboard.php:39
+#, php-format
+msgid "Items from %s"
+msgstr "Oglasi od %s"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-dashboard.php:41
+msgid "No items have been added yet"
+msgstr "Nema vaših oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:39
+msgid "Your items"
+msgstr "Vaši oglasi"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:39
+msgid "Post a new item"
+msgstr "Objavite vaš oglas"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:41
+msgid "You don't have any items yet"
+msgstr "Nema vaših oglasa"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:53
+msgid "Edit"
+msgstr "Izmena"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:55
+msgid "Delete"
+msgstr "Brisanje"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-items.php:58
+msgid "Activate"
+msgstr "Aktivacija"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-login.php:48
+msgid "Access to your account"
+msgstr "Pristup vašem nalogu"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-profile.php:41
+msgid "Update your profile"
+msgstr "Ažurirajte vaš profil"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-profile.php:55
+msgid "Modify e-mail"
+msgstr "Izmenite vaš e-mail"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-profile.php:55
+msgid "Modify password"
+msgstr "Izmenite vašu šifru"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-profile.php:59
+msgid "Cell phone"
+msgstr "Br. mob. telefona"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-profile.php:63
+msgid "Phone"
+msgstr "Telefon"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-profile.php:87
+msgid "Website"
+msgstr "Sajt"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-recover.php:47
+msgid "Recover your password"
+msgstr "Povratiti šifru"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-recover.php:53
+msgid "Send me a new password"
+msgstr "Poslati novu šifu"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-register.php:36
+msgid "Register an account for free"
+msgstr "Registrujte se potpuno besplatno"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-register.php:44
+msgid "Re-type password"
+msgstr "Unesite ponovo šifru"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-register.php:46
+msgid "Passwords don't match"
+msgstr "Unete šifre se ne poklapaju"
+
+#: /Users/admin/htdocs/osclass-git/oc-includes/osclass/gui/user-register.php:55
+msgid "Create"
+msgstr "Napraviti"
+

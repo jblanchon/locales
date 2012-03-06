@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Sayfa bulunamadı"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Başarıyla uyarılmak için abone oldun"
+
+msgid "There was a problem with the alert"
+msgstr "Uyarı ile ilgili problem var"
+
+msgid "Subscribe to this search"
+msgstr "Bu aramaya abone ol"
+
+msgid "Subscribe now"
+msgstr "Şimdi abone ol"
+
+msgid "Contact with us"
+msgstr "Bizimle iletişime geçin"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "Your name"
+msgstr "İsminiz"
+
+msgid "Your e-mail address"
+msgstr "Email adresiniz"
+
+msgid "Send"
+msgstr "Yolla"
+
+msgid "Contact"
+msgstr "İletişim"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Bu site <a title=\\\"OpenSourceClassifieds web\\\" href=\\\"http://www.opensourceclassifieds.org/\\\">açık kaynak classifieds</a> <strong>OpenSourceClassifieds</strong> scriptini kullanıyor."
+
+msgid "Publish an item"
+msgstr "İlanını yayınla"
+
+msgid "Edit your item"
+msgstr "İlanını düzenle"
+
+msgid "Send to a friend"
+msgstr "Bir arkadaşına yolla"
+
+msgid "Contact seller"
+msgstr "Satıcıyla iletişime geç"
+
+msgid "page"
+msgstr "sayfa"
+
+msgid "Show all items"
+msgstr "Bütün ilanları göster"
+
+msgid "Search"
+msgstr "Arama"
+
+msgid "Recover your password"
+msgstr "Şifreni kurtar"
+
+msgid "Login"
+msgstr "Oturum aç"
+
+msgid "Create a new account"
+msgstr "Yeni bir hesap oluşturun"
+
+msgid "Dashboard"
+msgstr "Gösterge paneli"
+
+msgid "Manage my items"
+msgstr "İlanlarımı yönet"
+
+msgid "Manage my alerts"
+msgstr "Uyarılarımı yönet"
+
+msgid "Update my profile"
+msgstr "Profilimi güncelle"
+
+msgid "Change my email"
+msgstr "E-posta adresimi değiştir"
+
+msgid "Change my password"
+msgstr "Şifremi değiştir"
+
+msgid "Recover my password"
+msgstr "Şifremi kurtar"
+
+msgid "Hi %s"
+msgstr "Merhaba %s"
+
+msgid "My account"
+msgstr "Hesabım"
+
+msgid "Logout"
+msgstr "Çıkış yap"
+
+msgid "Register for a free account"
+msgstr "Ücretsiz hesap için üye ol"
+
+msgid "E-mail"
+msgstr "E-posta"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+msgid "Log in"
+msgstr "Giriş yap"
+
+msgid "Forgot password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Publish your ad for free"
+msgstr "İlanını ücretsiz yayınla"
+
+msgid "ie. PHP Programmer"
+msgstr "örn PHP Programcısı"
+
+msgid "To (seller)"
+msgstr "Kime (Satıcıya)"
+
+msgid "Item"
+msgstr "İlan"
+
+msgid "Phone number"
+msgstr "Telefon numarası"
+
+msgid "Send message"
+msgstr "Mesaj yolla"
+
+msgid "Update your item"
+msgstr "İlanını güncelle"
+
+msgid "General Information"
+msgstr "Genel bilgiler"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Photos"
+msgstr "Fotoğraflar"
+
+msgid "Add new photo"
+msgstr "Yeni fotoğraf ekle"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "City area"
+msgstr "Şehir bölgesi"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "Cancel"
+msgstr "Vazgeç"
+
+msgid "Item Location"
+msgstr "İlan konumu"
+
+msgid "City Area"
+msgstr "Şehir alanı"
+
+msgid "Seller's information"
+msgstr "Satıcının bilgileri"
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Show e-mail on the item page"
+msgstr "İlan sayfasın e-posta adresini göster"
+
+msgid "Publish"
+msgstr "Yayınla"
+
+msgid "Your friend's name"
+msgstr "Arkadaşınızın ismi"
+
+msgid "Your friend's e-mail address"
+msgstr "Arkadaşınızın e-posta adresi"
+
+msgid "Mark as"
+msgstr "İşaretle"
+
+msgid "spam"
+msgstr "Spam"
+
+msgid "misclassified"
+msgstr "Sınıflandırılmamış"
+
+msgid "duplicated"
+msgstr "Tekrarlandı"
+
+msgid "expired"
+msgstr "Sona eriyor"
+
+msgid "offensive"
+msgstr "Saldırgan"
+
+msgid "Share"
+msgstr "Paylaş"
+
+msgid "Useful information"
+msgstr "Faydalı bilgiler"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Dolandırıcılığı önlemek için bölgenizdeki kişilerle Paypal ile ödeme yaparak alışveriş yapın"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Hiçbir zaman Wester Union, Moneygram yada diğer bilinmedik para ödeme servisleriyle ödeme yapmayın"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Ülkeniz dışından ürün satın almayın yada satmayın. Ülkeniz dışındaki tekliflere atlamayın"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Bu site ödemeler, nakliye, garanti işlemleri, emanet hizmetleri yada herhangi bir işlem için \\\"Tüketici  koruması\\\" ya da \\\"Satıcı Belgesi\\\" sunmuyor"
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "by"
+msgstr "tarafından"
+
+msgid "Delete your comment"
+msgstr "Yorumunuzu silin"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Yorum bırak (spam ve saldırgan mesajlar silinecektir)"
+
+msgid "Your e-mail"
+msgstr "E-posta adresiniz"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Contact publisher"
+msgstr "Yayıncıyla iletişime geç"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Your name (optional)"
+msgstr "İsminiz (isteğe bağlı)"
+
+msgid "Enter the words above"
+msgstr "Yukardaki kelimeleri giriniz"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Latest Items"
+msgstr "Son İlanlar"
+
+msgid "No Latest Items"
+msgstr "Son ilan yok"
+
+msgid "See all offers"
+msgstr "Bütün tekliflere gözat"
+
+msgid "Search results"
+msgstr "Arama sonuçları"
+
+msgid "Sort by"
+msgstr "Şuna göre sırala"
+
+msgid "There are no results matching \"%s\""
+msgstr "\\\"%s\\\" ile eşleşen sonuç bulunamadı"
+
+msgid "Your search"
+msgstr "Aramaların"
+
+msgid "Show only"
+msgstr "Sadece göster"
+
+msgid "Show only items with pictures"
+msgstr "Sadece resimli ilanları göster"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Maks"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Selected"
+msgstr "Seçildi"
+
+msgid "Nothing selected, input was"
+msgstr "girilmiş Hiçbirşey seçilmedi"
+
+msgid "User account manager"
+msgstr "Kullanıcı hesabını yönet"
+
+msgid "Your alerts"
+msgstr "Senin uyarıların"
+
+msgid "You do not have any alerts yet"
+msgstr "Henüz bir uyarınız yok"
+
+msgid "Alert"
+msgstr "Uyarı"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "İşlem henüz tamamlanmamış. Devam etmek istediğinize emin misiniz?"
+
+msgid "Delete this alert"
+msgstr "Bu uyarıyı sil"
+
+msgid "Publication date"
+msgstr "Yayın tarihi"
+
+msgid "Change your e-mail"
+msgstr "E-posta adresini değiştir"
+
+msgid "Current e-mail"
+msgstr "Şuanki e-posta"
+
+msgid "New e-mail"
+msgstr "Yeni e-posta"
+
+msgid "Change your password"
+msgstr "Şifreni değiştir"
+
+msgid "Current password"
+msgstr "Şuanki şifreniz"
+
+msgid "New password"
+msgstr "Yeni şifre"
+
+msgid "Repeat new password"
+msgstr "Yeni şifreni tekrar gir"
+
+msgid "Items from %s"
+msgstr "%s ilanları"
+
+msgid "No items have been added yet"
+msgstr "Henüz eklenmiş bir ilan yok"
+
+msgid "New pasword"
+msgstr "Yeni şifre"
+
+msgid "Repeat new pasword"
+msgstr "Yeni şifreni tekrar gir"
+
+msgid "Change password"
+msgstr "Şifreni değiştir"
+
+msgid "Your items"
+msgstr "İlanların"
+
+msgid "Post a new item"
+msgstr "Yeni ilan yolla"
+
+msgid "You don't have any items yet"
+msgstr "Henüz ilanınız bulunmamakta"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Bu işlem henüz sona ermedi. Devam etmek istiyor musunuz?"
+
+msgid "Activate"
+msgstr "Aktif"
+
+msgid "Access to your account"
+msgstr "Hesabınıza erişmek için"
+
+msgid "Update your profile"
+msgstr "Profilini güncelle"
+
+msgid "Modify e-mail"
+msgstr "Email değiştir"
+
+msgid "Modify password"
+msgstr "Şifre değiştir"
+
+msgid "User type"
+msgstr "Kullanıcı tipi"
+
+msgid "Cell phone"
+msgstr "Cep telefonu"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Send me a new password"
+msgstr "Bana yeni bir şifre yolla"
+
+msgid "Register an account for free"
+msgstr "Ücretsiz bir hesaba sahip ol"
+
+msgid "Re-type password"
+msgstr "Şifreni tekrar gir"
+
+msgid "Passwords don't match"
+msgstr "Şifreler uyuşmuyor"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "Invalid email address"
+msgstr "Geçersiz e-posta adresi"
+
+msgid "Upload"
+msgstr "Yükle"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Dizinleri yazılabilir yapmak için Unix ortamında yürütülebilen shell komutu"
+
+msgid "optional"
+msgstr "isteğe bağlı"
+
+msgid "Modern theme"
+msgstr "Moderin tema"
+
+msgid "Settings theme"
+msgstr "Tema Ayarları"
+
+msgid "Image"
+msgstr "Resim"
+
+msgid "Published date"
+msgstr "Yayın tarihi"
+
+msgid "Modified date"
+msgstr "Düzenleme tarifi"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Logonun tercih edilen boyutu 600x100"
+
+msgid "Note: There is a logo if you upload a logo image will be replaced"
+msgstr "Not: Eğer yüklerseniz logo resmi değişir."
+
+msgid "Logo image"
+msgstr "Logo resmi"
+
+msgid "Remove logo"
+msgstr "Logoyu kaldır"
+
+msgid "Has not uploaded any logo image"
+msgstr "Logo resmi yüklenemedi"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Resimler klasörü %s yazılabilir değil"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds yönetim panelinden logo resim yükleyemiyorum"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Resimler klasörünü yazılabilir yapın"
+

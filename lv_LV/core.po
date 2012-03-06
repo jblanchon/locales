@@ -1,0 +1,1876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "tagadējā versija:"
+
+msgid "Downloading update file:"
+msgstr "Lejuplādēju atjaunojošo failu:"
+
+msgid "Unzipping file:"
+msgstr "Atzipoju failu:"
+
+msgid "Copying old files:"
+msgstr "Kopēju vecos failus:"
+
+msgid "Removing new files:"
+msgstr "Dzēšu jaunos failus:"
+
+msgid "Executing SQL:"
+msgstr "Izpilda SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Izpilda papildu pasākumi:"
+
+msgid "Cleaning all the mess:"
+msgstr "Satīru darba vietu:"
+
+msgid "Free"
+msgstr "Bezmaksas"
+
+msgid "Contact"
+msgstr "Kontakti"
+
+msgid "Search"
+msgstr "Meklēt"
+
+msgid "Dashboard"
+msgstr "Galvenā"
+
+msgid "My account"
+msgstr "Mans profils"
+
+msgid "Logout"
+msgstr "Iziet"
+
+msgid "E-mail"
+msgstr "Epasts"
+
+msgid "Password"
+msgstr "Parole"
+
+msgid "Remember me"
+msgstr "Atcerēties mani"
+
+msgid "Log in"
+msgstr "Ienākt"
+
+msgid "Language"
+msgstr "Valoda"
+
+msgid "Select a category"
+msgstr "Izvēlēties kategoriju"
+
+msgid "Item"
+msgstr "Sludinājums"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Photos"
+msgstr "Fotogrāfijas"
+
+msgid "Add new photo"
+msgstr "Pievienot jaunu fotogrāfiju"
+
+msgid "Location"
+msgstr "Atrašanās vieta"
+
+msgid "Country"
+msgstr "Valsts"
+
+msgid "Region"
+msgstr "Reģions"
+
+msgid "City"
+msgstr "Pilsēta"
+
+msgid "City area"
+msgstr "Rajons"
+
+msgid "Address"
+msgstr "Adrese"
+
+msgid "Update"
+msgstr "Atjaunot"
+
+msgid "Cancel"
+msgstr "Atcelt"
+
+msgid "City Area"
+msgstr "Pisēta"
+
+msgid "Name"
+msgstr "Vārds"
+
+msgid "Mark as"
+msgstr "Atzīmēt kā"
+
+msgid "Comments"
+msgstr "Komentāri"
+
+msgid "Delete"
+msgstr "Dzēst"
+
+msgid "Title"
+msgstr "Virsraksts"
+
+msgid "Comment"
+msgstr "Komentēt"
+
+msgid "Help"
+msgstr "Palīdzība"
+
+msgid "Apply"
+msgstr "Apstiprināt"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Šo procedūru nevar atgriezt. Tiešām vēlaties turpināt?"
+
+msgid "Current password"
+msgstr "Tagadējā parole"
+
+msgid "New password"
+msgstr "Jauna parole"
+
+msgid "New pasword"
+msgstr "Jauna parole"
+
+msgid "Repeat new pasword"
+msgstr "Atkārtojiet jaunu paroli"
+
+msgid "Change password"
+msgstr "Mainīt paroli"
+
+msgid "Edit"
+msgstr "Labot"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr " Šo darbību nevar atsaukt. Vai tiešām vēlaties turpināt?"
+
+msgid "Activate"
+msgstr "Aktivizēt"
+
+msgid "User type"
+msgstr "Lietotāja veids"
+
+msgid "Cell phone"
+msgstr "Mobīlais telefons"
+
+msgid "Phone"
+msgstr "Mājas telefons"
+
+msgid "Website"
+msgstr "Mājas lapa"
+
+msgid "Passwords don't match"
+msgstr "Paroles nesakrita"
+
+msgid "Create"
+msgstr "Izveidot"
+
+msgid "The categories have been deleted"
+msgstr "Kategorija tika izdzēsta"
+
+msgid "Invalid email address"
+msgstr "Nepareizs epasts"
+
+msgid "no action defined"
+msgstr "nekāda darbība definēta"
+
+msgid "Contact form"
+msgstr "Kontaktu forma"
+
+msgid "Administrator"
+msgstr "Administrātors"
+
+msgid "Latest items added"
+msgstr "Pēdējie sludinājumi ievietoti"
+
+msgid "Latest items added in"
+msgstr "Pēdējie sludinājumi ievietoti"
+
+msgid "Checking for update files."
+msgstr "Pārbaudu atjaunojošos failus."
+
+msgid "File downloaded correctly"
+msgstr "Fails veiksmīgi lejuplādēts"
+
+msgid "Missing filename"
+msgstr "Nav faila nosaukuma"
+
+msgid "Removing temp-directory"
+msgstr "Noņemot temp-directory"
+
+msgid "Archiving is sucessful!"
+msgstr "Noarhivēts veiksmīgi"
+
+msgid "Error, can't create a zip file!"
+msgstr "Kļūda , nevaru izveidot zip failu!"
+
+msgid "OK"
+msgstr "LABI"
+
+msgid "Unzip failed"
+msgstr "Atzipošana neizdevās"
+
+msgid "Filename incorrect"
+msgstr "Nekorekts faila nosaukums"
+
+msgid "Files removed"
+msgstr "Fails izdzēsts"
+
+msgid "No files to remove"
+msgstr "Nav failu, ko var izdzēst"
+
+msgid "There were problems copying files"
+msgstr "Bija problēmas ar failu kopēšanu"
+
+msgid "Nothing to copy"
+msgstr "Nav ko kopēt"
+
+msgid "Files copied"
+msgstr "Faili nokopēti"
+
+msgid "upgrade.sql executed"
+msgstr "atjanošana .sql"
+
+msgid "No SQL to execute"
+msgstr "Nav neviena SQL"
+
+msgid "Custom actions executed"
+msgstr "Veicam darbību"
+
+msgid "No action to execute"
+msgstr "Nekādas darbības, lai izpildītu"
+
+msgid "Checking for update files"
+msgstr "Pārbaudu atjaunojošos failus"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Notika kļūda ar failu ielādi."
+
+msgid "Tables updated correctly"
+msgstr "Bāze atjaunota"
+
+msgid "No tables update to execute"
+msgstr "Nav bāzes , lai atjaunotu"
+
+msgid "View comments"
+msgstr "Rādīt komentārus"
+
+msgid "View media"
+msgstr "Rādīt fotogrāfijas"
+
+msgid "Deactivate"
+msgstr "Deaktivizēt"
+
+msgid "Unmark as premium"
+msgstr "Noņemt no sponsorētiem"
+
+msgid "Mark as premium"
+msgstr "Atzīmēt kā sponsorētu"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds administrācijas paneļa ielogošanās"
+
+msgid "Type your new password"
+msgstr "Ievadiet Jūsu jauno paroli"
+
+msgid "Back to"
+msgstr "Atpakaļ pie"
+
+msgid "Username"
+msgstr "Lietotājvārds"
+
+msgid "Forgot your password?"
+msgstr "Aizmirsāt savu paroli?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Ievadiet savu lietotājvārdu vai epastu"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Jūs saņemsiet jaunu paroli pa epastu"
+
+msgid "Get new password"
+msgstr "Saņemt jaunu paroli"
+
+msgid "Thank you for using"
+msgstr "Paldies, ka izmantojat"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Dokumentācija"
+
+msgid "Feedback"
+msgstr "Atsauksme"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds administrācijas panelis"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s ir pieejams!"
+
+msgid "Please upgrade now"
+msgstr "Lūdzu atjaunojiet lapu tagad"
+
+msgid "Visit website"
+msgstr "Ienāciet mājas lapā"
+
+msgid "Hi"
+msgstr "Sveiks"
+
+msgid "Your profile"
+msgstr "Jūsu profils"
+
+msgid "Log Out"
+msgstr "Iziet"
+
+msgid "Admins"
+msgstr "Administrātors"
+
+msgid "Add new admin"
+msgstr "Pievienot jaunu administrātoru"
+
+msgid "Real name"
+msgstr "Īsts vārds"
+
+msgid "required"
+msgstr "nepieciešams"
+
+msgid "User name"
+msgstr "Lietotājvārds"
+
+msgid "Edit admin"
+msgstr "Labot administrātoru"
+
+msgid "Re-type new password"
+msgstr "Atkārtojiet paroli"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Atstājiet tukšu, ja nevēlaties mainīt savu paroli"
+
+msgid "Processing"
+msgstr "Procesā"
+
+msgid "Show _MENU_ entries"
+msgstr "Rādīt _MENU_ ieraksti"
+
+msgid "No matching records found"
+msgstr "Nav atrasti atbilstoši ieraksti atrasti"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Parāda _START_ līdz  _END_ no _TOTAL_ ierakstiem"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Parāda no 0 līdz 0 no 0 ierakstiem"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "filtrēti no  _MAX_ kopējā ierakstu"
+
+msgid "First"
+msgstr "Pirmais"
+
+msgid "Previous"
+msgstr "Iepriekšējais"
+
+msgid "Next"
+msgstr "Nākošais"
+
+msgid "Last"
+msgstr "Pēdējais"
+
+msgid "Show"
+msgstr "Rādīt"
+
+msgid "entries"
+msgstr "ieraksti"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Šo darbību nevar atsaukt. Vai tiešām vēlaties turpināt?"
+
+msgid "Bulk actions"
+msgstr "Bulk actions"
+
+msgid "Appearance"
+msgstr "Izskats"
+
+msgid "Theme package"
+msgstr "Theme pakete"
+
+msgid "Upload"
+msgstr "Augšuplādēt"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr " Lai directory rakstāmās saskaņā ar UNIX izpildīt šo komandu čaumalu"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Dashboard - Pievienot jaunu logrīku"
+
+msgid "Create widget in %s"
+msgstr "Izveidot widget %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Apraksts (tikai iekšējai lietošanai)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML kods logrīku"
+
+msgid "Publish widget"
+msgstr "Publicēt widget"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Vai tiešām vēlaties atcelt?"
+
+msgid "Add a new theme"
+msgstr "Pievienot jaunu dizainu"
+
+msgid "Current theme"
+msgstr "Tagadējais dizains"
+
+msgid "Author"
+msgstr "Autors"
+
+msgid "Available themes"
+msgstr "Pieejamie dizaini"
+
+msgid "Preview"
+msgstr "Parādīt"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Add HTML widget"
+msgstr "Pievienot HTML widget"
+
+msgid "Categories"
+msgstr "Kategorijas"
+
+msgid "Expirations days"
+msgstr "Iztecēs pēc dienām"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = nekad neiztek)"
+
+msgid "Enabled"
+msgstr "Iespejot"
+
+msgid "Save"
+msgstr "Saglabāt"
+
+msgid "Disable"
+msgstr "Atspejot"
+
+msgid "Description"
+msgstr "Apraksts"
+
+msgid "Enable"
+msgstr "Iespejot"
+
+msgid "Edit comment"
+msgstr "Labot komentāru"
+
+msgid "Add a comment"
+msgstr "Pievienot komentāru"
+
+msgid "Add"
+msgstr "Pievienot"
+
+msgid "You have to write a title."
+msgstr "Nepieciešams uzrakstīt virsrakstu."
+
+msgid "You have to write a comment."
+msgstr "Jums jāraksta komentārs"
+
+msgid "Author's name can not be empty."
+msgstr "Autora vārds nevar būt tukšs"
+
+msgid "Author's email can not be empty."
+msgstr "Autora epasts nevarbūt tukšs."
+
+msgid "Edit a comment on item:"
+msgstr "Pievienot komentāru sludinājumam:"
+
+msgid "View"
+msgstr "Rādīt"
+
+msgid "It's a registered user"
+msgstr "Tas ir reģistrēts lietotājs"
+
+msgid "Edit user"
+msgstr "Labot lietotāju"
+
+msgid "Author's e-mail"
+msgstr "Autora epasts"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "De-activate"
+msgstr "Deaktivizēt"
+
+msgid "Date"
+msgstr "Datums"
+
+msgid "Manage Comments"
+msgstr "Labot komentārus"
+
+msgid "Edit email/alert"
+msgstr "Labot epastu/paziņojumus"
+
+msgid "Add an email/alert"
+msgstr "Pievienot epastu/paziņojumus"
+
+msgid "Emails & Alerts"
+msgstr "Epasti &amp; Paziņojumi"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Iekšējais nosaukums (vārds un viegli noteikt šo e-pastu / brīdinājumu)"
+
+msgid "Emails & alerts"
+msgstr "Epasti &amp; paziņojumi"
+
+msgid "Items"
+msgstr "Sludinājumi"
+
+msgid "Manage items"
+msgstr "Labot sludinājumus"
+
+msgid "Add new item"
+msgstr "Pievienot jaunu sludinājumu"
+
+msgid "Manage media"
+msgstr "Pārvaldīt failus"
+
+msgid "Manage categories"
+msgstr "Labot kategorijas"
+
+msgid "Pages"
+msgstr "Lapas"
+
+msgid "Manage pages"
+msgstr "Labot lapu"
+
+msgid "Create page"
+msgstr "Izveidot lapu"
+
+msgid "Manage emails & alerts"
+msgstr "Pārvaldīt epastus un paziņojumus"
+
+msgid "Manage themes"
+msgstr "Labot dizainu"
+
+msgid "Add or remove widgets"
+msgstr "Pievienot vai dzēst widgets"
+
+msgid "Plugins"
+msgstr "Spraudnis"
+
+msgid "Manage plugins"
+msgstr "Labot spraudņus"
+
+msgid "Add new plugin"
+msgstr "Pievienot jaunu plugin"
+
+msgid "Languages"
+msgstr "Valodas"
+
+msgid "Manage languages"
+msgstr "Labot valodas"
+
+msgid "Add a language"
+msgstr "Pievienot valodas"
+
+msgid "General settings"
+msgstr "Galvenie iestātījumi"
+
+msgid "Users"
+msgstr "Lietotāji"
+
+msgid "Locations"
+msgstr "Atrašanāš vieta"
+
+msgid "Permalinks"
+msgstr "Permalinks"
+
+msgid "Spam and bots"
+msgstr "Spams un boti"
+
+msgid "Currencies"
+msgstr "Valūtas"
+
+msgid "Mail Server"
+msgstr "Pasta serveris"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Cron system"
+msgstr "Cron sistēma"
+
+msgid "Tools"
+msgstr "Iestātījumi"
+
+msgid "Import data"
+msgstr "Importēt datus"
+
+msgid "Backup data"
+msgstr "Backup datus"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Atjaunot OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Reģenerēt thumbnails"
+
+msgid "Manage users"
+msgstr "Labot lietotājus"
+
+msgid "Add new user"
+msgstr "Pievienot jaunu lietotāju"
+
+msgid "Administrators"
+msgstr "Administrātors"
+
+msgid "List administrators"
+msgstr "Administātoru saraksts"
+
+msgid "Add new administrator"
+msgstr "Pievienot jaunu administrātoru"
+
+msgid "Edit Your Profile"
+msgstr "Labot profilu"
+
+msgid "New item"
+msgstr "Jauns sludinājums"
+
+msgid "Edit item"
+msgstr "Labot sludinājumu"
+
+msgid "User"
+msgstr "Lietotājs"
+
+msgid "Item posted by"
+msgstr "Sludinājumu ievietoja"
+
+msgid "Non-registered user"
+msgstr "Nereģistrēts lietotājs"
+
+msgid "E-Mail"
+msgstr "Epasts"
+
+msgid "General information"
+msgstr "Galvenā informācija"
+
+msgid "optional"
+msgstr "nav obligāti"
+
+msgid "Add item"
+msgstr "Pievienot sludinājumu"
+
+msgid "All"
+msgstr "Viss"
+
+msgid "Spam"
+msgstr "Spams"
+
+msgid "Duplicated"
+msgstr "Atkārtojas"
+
+msgid "Misclassified"
+msgstr "Nepareizi klasificēts"
+
+msgid "Offensive"
+msgstr "Uzbrukums"
+
+msgid "Expired"
+msgstr "Izbeidzies"
+
+msgid "Language package"
+msgstr "Valodu pakas"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr " Tulkojumu mape nav rakstāms uz jūsu serveri un jūs nevarat augšupielādēt tulkojumus no administrācijas paneļa. Lūdzu, tulkojumu mapē rakstāmās"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr " Lai directory rakstāmās saskaņā ar UNIX izpildīt šo komandu no čaumalas:"
+
+msgid "Short name"
+msgstr "Īss vārds"
+
+msgid "Currency format"
+msgstr "Valūtu formāts"
+
+msgid "Date format"
+msgstr "Datuma formāts"
+
+msgid "Stopwords"
+msgstr "Atslēgvārdi"
+
+msgid "Enabled for the public website"
+msgstr "Ieslēgt publiskai mājas lapai"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Iespējots BackOffice (oc-admin)"
+
+msgid "Disable (website)"
+msgstr "Atspejot (mājas lapu)"
+
+msgid "Disable (oc-admin)"
+msgstr "Atspejot (oc-admin)"
+
+msgid "Yes"
+msgstr "Jā"
+
+msgid "No"
+msgstr "Nē"
+
+msgid "Enabled (website)"
+msgstr "Iespejot (mājas lapu)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Iespejot (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Bulk darbības"
+
+msgid "Enable (Website)"
+msgstr "Iespejot (mājas lapu)"
+
+msgid "Disable (Website)"
+msgstr "Atspejot (tīmekļa vietne)"
+
+msgid "Enable (oc-admin)"
+msgstr "Iespejot (oc-admin)"
+
+msgid "Settings"
+msgstr "Iestātījumi"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Kurš no šiem jūs vēlaties redzēt jūsu panelī"
+
+msgid "Latest items"
+msgstr "Jaunākie sludinājumi"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Latest comments"
+msgstr "Pēdējie komentāri"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Jaunākās ziņās no OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Sludinājumi pēc kategorijas"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Nav nekas augšuplādēts"
+
+msgid "Number of items"
+msgstr "Sludinājumu skaits"
+
+msgid "Number of public users"
+msgstr "Lietotāju skaits"
+
+msgid "Number of administrators"
+msgstr "Administrātoru skaits"
+
+msgid "Commented on item"
+msgstr "Komentēts sludinājumā"
+
+msgid "There aren't any comments yet"
+msgstr "Nav neviena komentāra"
+
+msgid "new"
+msgstr "jauns"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Nevaru saņemt ziņojumus no OpenSourceClassifieds. Lūdzu mēģiniet vēlreiz"
+
+msgid "File"
+msgstr "Fails"
+
+msgid "Attached to"
+msgstr "Pievienots"
+
+msgid "Edit page"
+msgstr "Labot lapu"
+
+msgid "Add page"
+msgstr "Pievienot lapu"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr " Iekšējais nosaukums (vārds un viegli noteikt šī lapa)"
+
+msgid "View page"
+msgstr "Parādīt lapu"
+
+msgid "Add a new plugin"
+msgstr "Pievienot jaunu plugin"
+
+msgid "Plugin package"
+msgstr "Plugin mape"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Plugin mape %s nav aktivizēta"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds nevarēja augšuplādē plugin no administrācijas paneļa"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Lūdzu pārkopējiet spraudņa pakotni ar FTP vai SSH, vai piešķirat spraudņa mapei rakstīšanas tiesības"
+
+msgid "Preset categories"
+msgstr "Preset kategorijām"
+
+msgid "Check all"
+msgstr "Izvēlēties visus"
+
+msgid "Uncheck all"
+msgstr "Noņemt izvēles"
+
+msgid "Configure"
+msgstr "Iestatījumi"
+
+msgid "There's a new version. You should update!"
+msgstr " Ir jauna versija. Jums vajadzētu update!"
+
+msgid "Uninstall"
+msgstr "Dzēst"
+
+msgid "Install"
+msgstr "Instalēt"
+
+msgid "Create currency"
+msgstr "Izveidot valūtu"
+
+msgid "Code"
+msgstr "Kods"
+
+msgid "It should be a three-character code"
+msgstr "Būtu trīs zīmju kodu"
+
+msgid "Comments settings"
+msgstr "Komentāru iestātījumi"
+
+msgid "Comments enabled"
+msgstr "Komentāri iespējoti"
+
+msgid "Moderate comments"
+msgstr "Moderēt komentārus"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr " Komentāru skaits no paša autora, kas ir jāapstiprina pirms izlaižot validācijas (0 vienmēr moderēšanu)"
+
+msgid "Notifications"
+msgstr "Paziņojumi"
+
+msgid "Contact settings"
+msgstr "Kontaktu iestātījumi"
+
+msgid "Attachment enabled"
+msgstr "Pievienošana ieslēgta"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto - cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr " Daži OpenSourceClassifieds funkcijas nepieciešams cron, lai strādātu. Pārbaudiet, vai jūsu mītnes nespēj darīt tiem. Noņemiet atzīmi, ja vēlaties izveidot savu cron manuāli. Atsaucas uz rokasgrāmatu, lai uzzinātu vairāk par OpenSourceClassifieds cron sistēmu."
+
+msgid "Edit currency"
+msgstr "Labot valūtu"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Kad tas ir izveidota, tā nevar modificēt"
+
+msgid "Page title"
+msgstr "Lapas nosaukums"
+
+msgid "Page description"
+msgstr "Lapas apraksts"
+
+msgid "Admin e-mail"
+msgstr "Administrātora epasts"
+
+msgid "Default language"
+msgstr "Galvenā valoda"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Default currency"
+msgstr "Galvenā valūta"
+
+msgid "Week starts on"
+msgstr "Nedēļa sākas"
+
+msgid "Sunday"
+msgstr "Svētdiena"
+
+msgid "Monday"
+msgstr "Pirmdiena"
+
+msgid "Tuesday"
+msgstr "Otrdiena"
+
+msgid "Wednesday"
+msgstr "Trešdiena"
+
+msgid "Thursday"
+msgstr "Ceturtdiena"
+
+msgid "Friday"
+msgstr "Piektdiena"
+
+msgid "Saturday"
+msgstr "Sestdiena"
+
+msgid "Time format"
+msgstr "Laika formāts"
+
+msgid "Number of items in the RSS"
+msgstr "Vienību skaitu RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Iespejot reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Iespējot postenis validācijas lietotāji"
+
+msgid "Logged users don't need to validate items"
+msgstr "Pieteicies lietotājiem nav nepieciešams, lai apstiprinātu preces"
+
+msgid "Only allow registered users to post items"
+msgstr "Tikai reģistrēti lietotāji var publicēt sludinājumus"
+
+msgid "Notify admin of new items"
+msgstr " Paziņot admin jaunus sludinājumus"
+
+msgid "Notify admin of contact items"
+msgstr "Paziņot admin kontaktu preces"
+
+msgid "Notify admin of share"
+msgstr "Paziņot admin akciju"
+
+msgid "Optional fields"
+msgstr "Izvēles laukos"
+
+msgid "Enable price"
+msgstr "Atļaut cenu"
+
+msgid "Enable images"
+msgstr "Atļaut fotogrāfijas"
+
+msgid "Close"
+msgstr "Aizvērt"
+
+msgid "View more"
+msgstr "Parādīt visus"
+
+msgid "Countries"
+msgstr "Valstis"
+
+msgid "Add new"
+msgstr "Pievienot jaunu"
+
+msgid "Regions"
+msgstr "Reģions"
+
+msgid "Cities"
+msgstr "Pilsētas"
+
+msgid "Add new country"
+msgstr "Pievienot jaunu valsti"
+
+msgid "Country code"
+msgstr "Valsts kods"
+
+msgid "Country code should have two characters"
+msgstr " Valsts kods būtu jāsastāv no divām rakstzīmēm"
+
+msgid "Edit country"
+msgstr "Labot valsti"
+
+msgid "Add new region"
+msgstr "Pievienot jaunu reģionu"
+
+msgid "Edit region"
+msgstr "Labot reģionu"
+
+msgid "Add new city"
+msgstr "Pievienot jaunu pilsētu"
+
+msgid "Edit city"
+msgstr "Labot pilsētu"
+
+msgid "Mail server"
+msgstr "Epasta sistēma"
+
+msgid "Configuration"
+msgstr "Iestātījumi"
+
+msgid "Server type"
+msgstr "Servera veids"
+
+msgid "Custom Server"
+msgstr "Savs serveris"
+
+msgid "GMail Server"
+msgstr "GMail serveris"
+
+msgid "Hostname"
+msgstr "Hosta vārds"
+
+msgid "Server port"
+msgstr "Servera ports"
+
+msgid "Encryption"
+msgstr "Šifrēšana"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Opcijas: blank, SSL vai TLS"
+
+msgid "Enable SMTP authentication"
+msgstr "Iespējot SMTP autentifikāciju"
+
+msgid "Enter your e-mail server configuration"
+msgstr " Ievadiet savu e-pasta servera konfigurāciju"
+
+msgid "Media settings"
+msgstr " Media uzstādījumi"
+
+msgid "Configure media"
+msgstr "Konfigurēt medijiem"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr " Lūdzu, norādiet vēlamo izmēru visiem vietnē attēlus. (Formāts: WIDTHxHEIGHT, piemēram, 640x480)"
+
+msgid "Restrictions"
+msgstr "Ierobežojumi"
+
+msgid "Maximum size, in KB"
+msgstr "Maksimālais izmēŗs, KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Atļautie formāti (piem: png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Izmēri"
+
+msgid "Thumbnail dimensions"
+msgstr "Thumbnail izmēri"
+
+msgid "Preview dimensions"
+msgstr "Parādīt izmērus"
+
+msgid "Normal dimensions"
+msgstr "Normāli izmēri"
+
+msgid "Keep original image"
+msgstr "Saglabāt oriģinālu zīmējumu"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr " Turot oriģinālo attēlu failus prasa papildu glabāšanai. Šī opcija nodrošina, ka sākotnējo kvalitāti fails ir ANO izmainīta. Esiet uzmanīgi, izmantojot šo opciju."
+
+msgid "Permalinks settings"
+msgstr "Permalinks uzstādījumi"
+
+msgid "Friendly urls"
+msgstr "Draudzīgas saites"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr " Pēc noklusējuma OpenSourceClassifieds izmanto interneta adreses, kas ir jautājuma zīmes un daudz skaitļu tiem. Tomēr, OpenSourceClassifieds piedāvā draudzīgu URL. Tas var uzlabot estētiku, lietojamību un uz priekšu saderību jūsu saites"
+
+msgid "Enable friendly urls"
+msgstr "Iespējot draudzīgs URL"
+
+msgid ".htaccess file"
+msgstr ".htaccess fails"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr " Modulis <em>mod_rewrite tika konstatēts uz servera."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr " Kļūda. Mēs varētu ne rakstīt. Htaccess failu uz jūsu serveri. Lūdzu, izveidojiet failu sauc. Htaccess ir saknes jūsu OpenSourceClassifieds uzstādīšana ar šādu saturu."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr " Fails. Htaccess jau pastāv. Lūdzu, pārbaudiet,. Htaccess fails ir šādu saturu."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr " Mēs esam izveidojuši. Htaccess failu saknes jūsu OpenSourceClassifieds uzstādīšana."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr " . Saturs htaccess failu, būtu jāizskatās šādi:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "ašreizējais saturu jūsu htaccess failu.:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet taustiņš (tāpat kā Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr " Ja lauks ir tukšs, tas ir tāpēc Akismet pakalpojums ir atspējota"
+
+msgid "Get your free key at"
+msgstr "Saņemiet savu kodu "
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr " Ja lauks ir tukšs, tas ir tāpēc reCAPTCHA pakalpojums ir atspējota"
+
+msgid "Get your free keys at"
+msgstr "Saņemiet savu kodu"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA privātais kods"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA publiskais kods"
+
+msgid "Users settings"
+msgstr "Lietotāja iestātījumi"
+
+msgid "Users enabled"
+msgstr "Lietotāji iespejoti"
+
+msgid "User validation enabled"
+msgstr "Lietotāja epasta pārbaude iespejota"
+
+msgid "User registration enabled"
+msgstr "Lietotāja reģistrācija iespejota"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "You're offline! Please check your connection"
+msgstr "Jūs neesat online! Pārbaudiet savienojumu"
+
+msgid "Requested URL not found"
+msgstr "Pieprasītā saite nav atrasta"
+
+msgid "Internal server error"
+msgstr "Internal servera kļūda"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Kļūda. Parsējot JSON"
+
+msgid "Request timeout"
+msgstr "Pieprasījuma laiks beidzies"
+
+msgid "Unknown error"
+msgstr "Nezināma kļūda"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Backup OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr " Jūs varat dublēt OpenSourceClassifieds šeit. BRĪDINĀJUMS: Ja jums nav jānorāda dublējuma mapi, backup faili tiks izveidots saknes jūsu OpenSourceClassifieds uzstādīšana"
+
+msgid "Backup folder"
+msgstr "Backup mapes"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr " Tā ir mape, kurā jūsu backups tiks izveidots. Mēs iesakām izvēlēties nav publiski ceļu. Lai iegūtu vairāk informācijas, lūdzu, skatiet OpenSourceClassifieds \"dokumentācija"
+
+msgid "Back up database"
+msgstr "Backup datubāzi"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Back up OpenSourceClassifieds instalāciju"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr " Jūs varat atjaunot jūsu sīktēlus un priekšskatījumu attēlus šeit. Tas ir noderīgi, ja esat mainījuši savu tēmu un attēli nav redzamas pareizi. Lūdzu, pārbaudiet lielumu vērtībām, kas definēti uzstādījumi / media sadaļu"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr " Jūs varat mainīt savu datu bāzi, pievienot, noņemt vai mainīt tās datu šeit. Tas parasti izmanto, lai importētu valstīm, reģioniem un pilsētām"
+
+msgid "Data"
+msgstr "Dati"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr " Apmierinot lietotāju ar awesome un ērtu auto-jauninājums: Gatavs!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Nederīgs OpenSourceClassifieds pieprasījumu."
+
+msgid "Upgrade"
+msgstr "Atjaunot"
+
+msgid "Re-type the password"
+msgstr "Atkārtojiet paroli"
+
+msgid "Additional information"
+msgstr "Papildus informācija"
+
+msgid "Activate user"
+msgstr "Aktivizēt lietotāju"
+
+msgid "Deactivate user"
+msgstr "Deaktivizēt lietotāju"
+
+msgid "Update Date"
+msgstr "Atjaunošanas datums"
+
+msgid "Add a new user"
+msgstr "Pievienot jaunu lietotāju"
+
+msgid "Anonymous"
+msgstr "Anonīms"
+
+msgid "Admin mail system"
+msgstr "Administrācijas epasta sistēma"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Plugin %s trūkst index.php failu %s"
+
+msgid "Enter your e-mail"
+msgstr "Ievadiet savu epastu"
+
+msgid "Select a country..."
+msgstr "Izvēlieties valsti..."
+
+msgid "Select a region..."
+msgstr "Izvēlieties reģionu..."
+
+msgid "Select a city..."
+msgstr "Izvēlieties pilsētu..."
+
+msgid "No results"
+msgstr "Nav rezultātu"
+
+msgid "Description: needs to be longer"
+msgstr "Aprakstam : jābūt garākam"
+
+msgid "Choose one category"
+msgstr "Izvēlieties vienu kategoriju"
+
+msgid "Currency: make your selection"
+msgstr "Valūta: izvēlaties savu valūtu"
+
+msgid "Photo: must be %s"
+msgstr "Fotogrāfijai jābūt %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Vārds: vismaz 3 simboli"
+
+msgid "Name: no more than 35 characters"
+msgstr "Vārds: nevairāk kā 35 simboli"
+
+msgid "Email: this field is required"
+msgstr "Epasts: šis lauks ir obligāts"
+
+msgid "Select a region"
+msgstr "Izvēlieties reģionu"
+
+msgid "Select a city"
+msgstr "Izvēlieties pilsētu"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Pilsēta: ievadiet vismas 3 simbolus"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr " Šo darbību nevar atsaukt. Vai tiešām vēlaties turpināt?"
+
+msgid "Remove"
+msgstr "Dzēst"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "User Description"
+msgstr "Lietotāja apraksts"
+
+msgid "Company"
+msgstr "Kompānija"
+
+msgid "Check with seller"
+msgstr "Sazinieties ar pārdevēju"
+
+msgid "Newly listed"
+msgstr "Jaunākie"
+
+msgid "Lower price first"
+msgstr "Lētākie vispirms"
+
+msgid "Higher price first"
+msgstr "Dārgākie vispirms"
+
+msgid "Manage your items"
+msgstr "Labot savus sludinājumus"
+
+msgid "Manage your alerts"
+msgstr "Labot savus paziņojumus"
+
+msgid "%s in"
+msgstr "%s "
+
+msgid "There's no description available in your language"
+msgstr "Nav apraksta pieejama jūsu valodā"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Atvainojamies par sagādātajām neērtībām. %s tiek uzturēšanas režīmā"
+
+msgid "Error removing file: %s"
+msgstr "Kļūda dzēšot failu : %s"
+
+msgid "Some error ocurred"
+msgstr "Radās kļūda"
+
+msgid "Order saved"
+msgstr "Saglabāts"
+
+msgid "Error while deleting"
+msgstr "Kļūda dzēšot"
+
+msgid "Error while updating."
+msgstr "Kļūda atjaunojot"
+
+msgid "Saved"
+msgstr "Saglabāts"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Viss ir kārtībā! Jūsu OpenSourceClassifieds instalācija ir atjaunota"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Gandrīz viss bija OK! Jūsu OpenSourceClassifieds uzstādīšana ir atjaunināta, bet tur bija dažas kļūdas, noņemot pagaidu failus. Lūdzu, noņemiet manuāli \\ \"oc temp \\\" mapē"
+
+msgid "Problems upgrading the database"
+msgstr "Problēmas modernizāciju datubāze"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Problēmas ar failu kopēšanu. Varbūt atļaujas nav pareizi"
+
+msgid "Download failed"
+msgstr "Lejuplāde neizdevās"
+
+msgid "Missing download URL"
+msgstr "Trūkst download URL"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Mums bija dažas kļūdas, noņemot failus, tie nav super reģistrjutīga kļūdas, tāpēc mēs turpinājām uzlabot savu instalāciju. Lūdzu, noņemiet šādus failus (jums jau ir OpenSourceClassifieds modernizētas, bet gan nodrošināt maximun sniegumu)"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr " Mums bija dažas kļūdas, uzlabot savu datu bāzi. Follwing vaicājumi neizdevās"
+
+msgid "Clear"
+msgstr "Tīrīt"
+
+msgid "Forums"
+msgstr "Forums"
+
+msgid "Add new theme"
+msgstr "Pievienot jaunu dizainu"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr " Tēmu mapi %s nav rakstāms uz servera, <span class=\"\\\"OpenSourceClassifieds\\\"\">OpenSourceClassifieds nevar augšupielādēt tēmas no administrācijas paneļa. Lūdzu, nokopējiet theme iepakojuma, izmantojot FTP vai SSH, vai padarīt minētās tēmas mapi rakstāms."
+
+msgid "Ajax error, try again."
+msgstr "Ajax kļūda, mēģiniet vēlreiz."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr " BRĪDINĀJUMS: Šī būs arī izdzēst posteņiem saskaņā ar šīs kategorijas. Šī darbība Cann nevarēs atsaukt. Vai tiešām vēlaties turpināt?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Velciet un nometiet kategorijas pārkārtot tos kā vēlaties. Noklikšķiniet uz saites rediģēt, rediģēt kategorijas"
+
+msgid "Add new category"
+msgstr "Pievienot jaunu kategoriju"
+
+msgid "Categories settings"
+msgstr "Kategorijas iestātījumi"
+
+msgid "Selectable parent categories"
+msgstr "Izvēles mātes kategorijām"
+
+msgid "ACTIVE"
+msgstr "AKTĪVS"
+
+msgid "INACTIVE"
+msgstr "NEAKTĪVS"
+
+msgid "ENABLED"
+msgstr "IESPEJOTS"
+
+msgid "DISABLED"
+msgstr "ATSPEJOTS"
+
+msgid "Last Searches"
+msgstr "Pēdējo reizi meklēja"
+
+msgid "Maintenance mode"
+msgstr "Apkopes režīmā"
+
+msgid "Reports"
+msgstr "Atskaites"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Vienību skaits no paša autora, kas ir jāapstiprina pirms izlaižot validācijas (0 vienmēr moderēšanu)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Sekunžu skaitu, lietotājam ir jāgaida, pirms publicēt citā postenī (0 ne gaidīt)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Tikai reģistrēti lietotāji var sazināties ar pārdevēju"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr " Maksimālais attēlu skaits vienība (0 neierobežots)"
+
+msgid "Download more languages at %s"
+msgstr "Lejuplādējiet vairāk valodas %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Šo darbību nevar atsaukt. Spraudņa noņemšana var būt par celoni neatgriezeniskam datu zudumam. Vai tiešām vēlaties turpināt?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Komentāru skaits vienā lapā. Jūs varētu ierobežot komentāru skaitu uzrāda pēc laika posteņa detail lapā. Citas piezīmes būs pieejami, izmantojot lappušu numerāciju sistēmu. (0, lai parādītu visus komentārus tajā pašā laikā)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Tikai reģistrēi lietotāji var atstāt komentārus"
+
+msgid "Number of recent items displayed at home"
+msgstr "Pēdējo vienumu skaits kuri attēloti  sākumlapā"
+
+msgid "Save latest searches"
+msgstr "Saglabāt pēdējās meklēšanas"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds varētu ietaupīt jaunākajiem meklēšanas lietotāji jūsu vietnē. Jūs varētu būt ideja par to, ko jūsu lietotāji meklē un parādīt tos uz vietas kā \\ \"karsto tēmu \\\"."
+
+msgid "Keep last searches"
+msgstr "Saglabāt pēdējās meklēšanas"
+
+msgid "One hour"
+msgstr "Stundas laikā"
+
+msgid "One day"
+msgstr "Viena diena"
+
+msgid "One week"
+msgstr "Viena nedēļa"
+
+msgid "Forever (never delete)"
+msgstr "Vienmēr (nekad nedzēst)"
+
+msgid "Keep last 1000 searches"
+msgstr "Saglabāt pēdējos 1000 meklēšanas"
+
+msgid "Number of files to keep"
+msgstr "Failu skaits, lai saglabātu"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr " Jaunākās meklēšanas funkcionalitāti varētu radīt daudz datu. Tas ir ieteicams, Jums purge šiem datiem. Jūs varētu izdzēst vienu stundu vecs, vienu dienu vai vienu nedēļu vecs, jūs varētu arī norādīt skaitu meklēšanu, lai saglabātu vai nekad izdzēst."
+
+msgid "Last 10 days"
+msgstr "Pēdējās 10 dienas"
+
+msgid "Last 10 weeks"
+msgstr "Pēdējās 10 nedēļas"
+
+msgid "Last 10 months"
+msgstr "Pēdējos 10 mēnešus"
+
+msgid "There're no statistics yet"
+msgstr "Vēl nav statistikas"
+
+msgid "Latest comments on the web"
+msgstr "Pēdējie komentāri"
+
+msgid "New items"
+msgstr "Jauns sludinājums"
+
+msgid "Total number of items' views"
+msgstr "Pavisam apskatīts"
+
+msgid "Latest items on the web"
+msgstr "Jaunākās preces tīmeklī"
+
+msgid "Active"
+msgstr "Aktīvs"
+
+msgid "Inactive"
+msgstr "Neaktīvs"
+
+msgid "Views"
+msgstr "Apskatīts"
+
+msgid "Total number of reports"
+msgstr "Kopējais ziņojumu skaits"
+
+msgid "Repeated"
+msgstr "Atkārtoti"
+
+msgid "Bad category"
+msgstr "Nepareiza kategorija"
+
+msgid "Latest users on the web"
+msgstr "Pēdējie lietotāji mājas lapā"
+
+msgid "Avg. items per user"
+msgstr "Vid. vienības uz vienu lietotāju"
+
+msgid "items per user"
+msgstr "sludinājumi no lietotāja"
+
+msgid "New users"
+msgstr "Jauns lietotājs"
+
+msgid "Users per country"
+msgstr "Lietotāji pēc valsts"
+
+msgid "Unknown"
+msgstr "Nezināmi"
+
+msgid "Users per region"
+msgstr "Lietotāji pēc reģiona"
+
+msgid "Theme"
+msgstr "Dizains"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Kaut uzturēšanas režīmā, lietotāji nevar piekļūt jūsu mājas lapā. Noderīgi, ja Jums nepieciešams veikt dažas izmaiņas jūsu mājas lapā. Izmantot šādu pogu lai ieslēgtu ON / OFF uzturēšanas režīmā"
+
+msgid "Maintenance mode is:"
+msgstr "Atjaunošanas režīms ir:"
+
+msgid "ON"
+msgstr "Ieslēgts"
+
+msgid "OFF"
+msgstr "Izslēgts"
+
+msgid "Disable maintenance mode"
+msgstr "Disable apkopes režīmā"
+
+msgid "Enable maintenance mode"
+msgstr "Enable apkopes režīmā"
+
+msgid "Checking for updates"
+msgstr "Pārbaudīt atjauninājumus"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Urā! Jūsu spraudnis instalācija ir aktuāli!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr " Apsveicam! Jūsu OpenSourceClassifieds instalācija ir aktuāli!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr " Upgrading jūsu OpenSourceClassifieds instalācija (tas var aizņemt kādu laiciņu):"
+
+msgid "Enable user"
+msgstr "Iespejot lietotāju"
+
+msgid "Disable user"
+msgstr "Atspejot lietotāju"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds » Kļūda darbībā"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr " Mums bija dažas problēmas, atjauninot datu bāzes struktūru. Šādus vaicājumus neizdevās:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Šīs kļūdas var būt kļūdaini pozitīvi kļūdas. Ja esat pārliecināts, ka ir lietas, jūs varētu <a href=\"%5C%22%s%5C%22\">turpināt modernizēt , vai jautājiet mūsu forumos ."
+
+msgid "Name: this field is required"
+msgstr "Vārds: šis lauks ir obligāts"
+
+msgid "Message: this field is required"
+msgstr "Ziņojums: šis lauks ir obligāts"
+
+msgid "City area: no more than 50 characters"
+msgstr "City area: ne vairāk kā 50 rakstzīmēm"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Adrese: ievadiet vismaz 3 simbolus"
+
+msgid "Address: no more than 100 characters"
+msgstr "Adrese: ne vairāk kā 100 rakstu zīmes"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr " Atvainojiet, jūs esat sasniedzis maksimālo attēlu skaitu katrā reklāmā"
+
+msgid "Your name: this field is required"
+msgstr "Jūsu vārds : šis lauks ir obligāts"
+
+msgid "Friend's name: this field is required"
+msgstr "Drauga vārds: šis lauks ir obligāts"
+
+msgid "Friend's email: this field is required"
+msgstr "Drauga epasts: šis lauks ir obligāts"
+
+msgid "Invalid friend's email address"
+msgstr "Nekorekts drauga epasts"
+
+msgid "Name: no more than 50 characters"
+msgstr "Vārds: nevairāk par 50 simboliem"
+
+msgid "Password: this field is required"
+msgstr "Parole : šis lauks ir obligāts"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Parole: vismaz 5 simboli"
+
+msgid "No file selected"
+msgstr "Neviens fails nav izvēlēts"
+
+msgid "Choose File"
+msgstr "Izvēlēties failu"
+
+msgid "The website is currently under maintenance mode"
+msgstr "Mājas lapa pašlaik tiek pārveidota"
+
+msgid "Sorry, you already have one field with that name"
+msgstr " Atvainojiet, jums jau ir viena joma, ar minēto nosaukuma"
+
+msgid "The custom field have been deleted"
+msgstr "Pielāgotu lauku ir izdzēsts"
+
+msgid "Unmark as spam"
+msgstr "Izņemt no spama"
+
+msgid "Mark as spam"
+msgstr "Atzīmēt kā spamu"
+
+msgid "Field's name"
+msgstr "Lauka nosaukums"
+
+msgid "This field is required"
+msgstr "Šis lauks ir obligāts"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Izvēlieties kategoriju, kur Jūs vēlaties izmantot šos atribūtus"
+
+msgid "Advanced options"
+msgstr "Iestātījumi"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr " Identifikators nosaukums (tikai burtciparu rakstzīmes ir atļauts (-z0-9_-)"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "BRĪDINĀJUMS: Šī būs arī izdzēst informāciju, kas saistīta ar šo jomu. Šī darbība Cann nevarēs atsaukt. Vai tiešām vēlaties turpināt?"
+
+msgid "Custom Fields"
+msgstr "Pielāgotie lauki"
+
+msgid "Add new field"
+msgstr "Pievienot jaunu lauku"
+
+msgid "Add new custom field"
+msgstr "Pievienot jaunu lauku"
+
+msgid "Type"
+msgstr "Veids"
+
+msgid "You don't have any custom fields yet"
+msgstr "Jums nav kādu custom fields vēl"
+
+msgid "Manage custom fields"
+msgstr "Pārvaldīt pielāgotos laukus"
+
+msgid "County"
+msgstr "Valsts"
+
+msgid "Show filters"
+msgstr "Parādīt filtrus"
+
+msgid "Title and Description"
+msgstr "Nosaukums un apraksts"
+
+msgid "Premium"
+msgstr "Sponsorēts"
+
+msgid "ALL"
+msgstr "VISI"
+
+msgid "Reset filters"
+msgstr "Noņemt filtrus"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr " Izvēlieties kategoriju, kurā vēlaties lietot šos atribūtus (klikšķiniet uz to nosaukumiem, lai paplašinātu tās)"
+
+msgid "Watermark settings"
+msgstr "Ūdenszīmes iestātījumi"
+
+msgid "Watermark color"
+msgstr "Ūdenszīmes krāsa"
+
+msgid "Watermark text"
+msgstr "Ūdenszīmes teksts"
+
+msgid "Watermark place"
+msgstr "Ūdenszīmes atrašanās vieta"
+
+msgid "Centre"
+msgstr "Centrs"
+
+msgid "Top Left"
+msgstr "Augšā pa kreisi"
+
+msgid "Top Right"
+msgstr "Augšā pa labi"
+
+msgid "Bottom Left"
+msgstr "Apakšā pa kreisi"
+
+msgid "Bottom Right"
+msgstr "Apakšā pa labi"
+
+msgid "Watermark image"
+msgstr "Ūdenszīmes fotogrāfija"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr " Ievērojiet, ka OpenSourceClassifieds nerūpējas par izmēru ūdenszīmi attēlu"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr " Ir ļoti ieteicams ir \"Saglabāt oriģinālu image\" opciju aktīvs, ja vēlaties ūdenszīmes."
+
+msgid "New version to update:"
+msgstr "Jauna versija atjaunošanai:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr " Jūsu OpenSourceClassifieds uzstādīšanu var auto-uzlabots. Lūdzu, backup savu datu bāzi un mapju OC-saturu, pirms mēģināt jaunināt jūsu OpenSourceClassifieds uzstādīšana. Varat arī uzlabot OpenSourceClassifieds manaully, vairāk informācijas %s"
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Jūsu OpenSourceClassifieds instalēšanu nevar būt auto-uzlabots. Faili un mapes ir jābūt rakstāms. Jūs varētu pieteikties 644 atļaujas, izmantojot SSH ar komandu \\ \"chmod-R 644 * \\\" (bez pēdiņām) vai caur FTP klientu, tas ir atkarīgs no programmu, tāpēc mēs nevaram sniegt vairāk informācijas. Jūs varētu arī uzlabot OpenSourceClassifieds lejupielādēt jauninājums paketi, unzip to un aizstāt failus uz sava servera ar uz iepakojuma ones."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "Kategorija ar id: %d neeksistē"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "Kategorija un tas apakškategorijas ir iespējotas"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "Kategorija un tas apakškategorijas ir atspējotas"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "Virskategorija ir atspējota jūs nevart iespējot šo kategoriju"
+
+msgid "The subcategory has been enabled"
+msgstr "Apakškategorija ir iespējota"
+
+msgid "The subcategory has been disabled"
+msgstr "Apakškategorija ir atspējota"
+
+msgid "Category updated correctly"
+msgstr "Kategorija atjaunināta korekti"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "Kategorija atjaunināta korekti, tomēr daži nosaukumi bija tukši"
+
+msgid "Sorry, at least a title is needed"
+msgstr "Piedodiet, vismaz nosaukuma ir jābūt"
+
+msgid "Error while updating"
+msgstr "Kļuda atjauninot"
+
+msgid "Test email"
+msgstr "Testa epasts"
+
+msgid "Email sent successfully"
+msgstr "epasts nosūtīts veiksmīgi"
+
+msgid "An error has occurred while sending email"
+msgstr "Radās kļūda nosūtot epastu"
+
+msgid "Field's type"
+msgstr "Lauka tips"
+
+msgid "Field's options (separated by commas)"
+msgstr "Lauka iespējas (atdalīt ar komatu)"
+
+msgid "Options (separeted by commas)"
+msgstr "Iespējas (atdalīt ar komatu)"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "Atļaut pievienot failus kontaktā vienuma pārdevējam"
+
+msgid "Number of decimals"
+msgstr "Daļskaitļu daudzums"
+
+msgid "Decimal point"
+msgstr "Daļskaitļa atdalītājs"
+
+msgid "Thousands separator"
+msgstr "Tūkstošu atdalītājs"
+
+msgid "Action"
+msgstr "Darbības"
+
+msgid "Notify admin when there's a new comment"
+msgstr "Informēt administratoru par jauniem komentāriem"
+
+msgid "Notify user when there's a new comment"
+msgstr "Informēt leitotājus par jauniem komentāriem"
+
+msgid "Timezone"
+msgstr "Laika josla"
+
+msgid "Select a timezone..."
+msgstr "Izvēlieties laika joslu..."
+
+msgid "Number of item displayed in search results"
+msgstr "Vienumu daudzums ko attēlot meklēšanas rezultātos"
+
+msgid "Use a POP before SMTP"
+msgstr "Lietot POP pirms SMTP"
+
+msgid "not found"
+msgstr "nav atrasts"
+
+msgid "Test configuration"
+msgstr "Testa konfigurācija"
+
+msgid "The email will be sent to contact email"
+msgstr "Epasts tiks nosūtīts uz kontakta epastu"
+
+msgid "Send email"
+msgstr "Sūitīt epastu"
+
+msgid "Use imagick instead of GD"
+msgstr "Lietot imagick GD vietā"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "Tas ir ātrāks un tērē mazāk resursus kā GD biblitekas"
+
+msgid "Freetype library is required. How to"
+msgstr "Freetype bibliotekas ir nepiecieāmas. Kā to"
+
+msgid "install/configure"
+msgstr "instalēt/konfigurēt"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Brīdinājums! Rewrite modulis netika atras serverī. Tas nozīmē ka tas nav iespējots, vai arī jūs izmatojat PHP ka CGI (vai fastCGI). Gadijumā ja jums nav mod_rewrite jūs joprojām varat izmatot draudzīgās saites, ja AccepPathInfo opcija ir jūs Apache servera konfigurācijā (nav iespējams noteikt vai opcija ir iespējota vai nē, bet parasti tā ir) \\\"index.php\\\" būs daļa no saites (piem. http://www.example.com/index.php/nice/url)."
+
+msgid "Notify admin when a new user registers"
+msgstr "Informēt administratoru kad reģistrējas jauns lietotājs"
+
+msgid "Price: no more than 50 characters"
+msgstr "Cena: ne vairāk par 50 rakstzīmēm"
+

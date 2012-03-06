@@ -1,0 +1,1708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "versi saat ini:"
+
+msgid "Downloading update file:"
+msgstr "Men-download file update:"
+
+msgid "Unzipping file:"
+msgstr "Membongkar file:"
+
+msgid "Copying old files:"
+msgstr "Menggandakan file lama:"
+
+msgid "Removing new files:"
+msgstr "Menghapus file baru:"
+
+msgid "Executing SQL:"
+msgstr "Eksekusi SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Eksekusi tambahan tindakan:"
+
+msgid "Cleaning all the mess:"
+msgstr "Membersihkan semua yang gagal:"
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "My account"
+msgstr "Akun ku"
+
+msgid "Logout"
+msgstr "Keluar"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Remember me"
+msgstr "Ingatkan saya"
+
+msgid "Log in"
+msgstr "Masuk"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Select a category"
+msgstr "Pilih kategori"
+
+msgid "Item"
+msgstr "Barang"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Photos"
+msgstr "Foto"
+
+msgid "Add new photo"
+msgstr "Tambah foto baru"
+
+msgid "Location"
+msgstr "Lokasi"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Region"
+msgstr "Regional"
+
+msgid "City"
+msgstr "Kota"
+
+msgid "City area"
+msgstr "Kota area"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "Update"
+msgstr "memperbarui"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "City Area"
+msgstr "Kota Area"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Comments"
+msgstr "Komentar"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Apply"
+msgstr "Terapkan"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Apakah Anda yakin ingin melanjutkan?"
+
+msgid "Current password"
+msgstr "Password sekarang"
+
+msgid "New password"
+msgstr "Password baru"
+
+msgid "New pasword"
+msgstr "Password baru"
+
+msgid "Repeat new pasword"
+msgstr "Ketik ulang password baru"
+
+msgid "Change password"
+msgstr "Ganti password"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Anda yakin mau melanjutkan?"
+
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+msgid "User type"
+msgstr "Jenis Pengguna"
+
+msgid "Cell phone"
+msgstr "Telepon selular"
+
+msgid "Phone"
+msgstr "telepon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Passwords don't match"
+msgstr "Password tidak cocok"
+
+msgid "Create"
+msgstr "membuat"
+
+msgid "The categories have been deleted"
+msgstr "Kategori telah dihapus"
+
+msgid "The category has been enabled"
+msgstr "Kategori telah diaktifkan"
+
+msgid "The category has been disabled"
+msgstr "Kategori telah dinonaktifkan"
+
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr "Ada masalah dengan halaman ini. ID untuk kategori belum di set"
+
+msgid "Invalid email address"
+msgstr "alama email salah"
+
+msgid "no action defined"
+msgstr "Tidak ada tindakan yang ditetapkan"
+
+msgid "Contact form"
+msgstr "Form kontak"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Latest items added"
+msgstr "Item terbaru ditambahkan"
+
+msgid "Latest items added in"
+msgstr "Item terbaru dimasukkan"
+
+msgid "Checking for update files."
+msgstr "Memeriksa pembaruan file."
+
+msgid "File downloaded correctly"
+msgstr "File berhasil diunduh"
+
+msgid "Missing filename"
+msgstr "Nama file hilang"
+
+msgid "Removing temp-directory"
+msgstr "Menghapus direktori temp"
+
+msgid "Archiving is sucessful!"
+msgstr "Pengarsipan sukses!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Gagal, tidak bisa membuat file zip!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Unzip gagal"
+
+msgid "Filename incorrect"
+msgstr "Nama file salah"
+
+msgid "Files removed"
+msgstr "File telah dihapus"
+
+msgid "No files to remove"
+msgstr "Tidak ada file yang dihapus"
+
+msgid "There were problems copying files"
+msgstr "Terdapat masalah saat mencopy file"
+
+msgid "Nothing to copy"
+msgstr "Tidak ada yang dicopy"
+
+msgid "Files copied"
+msgstr "File telah tercopy"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql dieksekusi"
+
+msgid "No SQL to execute"
+msgstr "tidak ada SQL yang dieksekusi"
+
+msgid "Custom actions executed"
+msgstr "Tindakan Custom dieksekusi"
+
+msgid "No action to execute"
+msgstr "Tidak ada tindakan eksekusi"
+
+msgid "Checking for update files"
+msgstr "Memeriksa pembaruan file"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Terdapat masalah dalam menyalin file. Mungkin hak akses file tidak diatur dengan benar"
+
+msgid "Tables updated correctly"
+msgstr "Table telah sukses diperbaharui"
+
+msgid "No tables update to execute"
+msgstr "Tidak ada table yang dieksekusi"
+
+msgid "View comments"
+msgstr "Melihat komentar"
+
+msgid "View media"
+msgstr "Melihat media"
+
+msgid "Deactivate"
+msgstr "menonaktifkan"
+
+msgid "Unmark as premium"
+msgstr "Menghapus tanda sebagai premium"
+
+msgid "Mark as premium"
+msgstr "Tandai sebagai premium"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds admin panel login"
+
+msgid "Type your new password"
+msgstr "Ketik password baru and"
+
+msgid "Back to"
+msgstr "Kembali ke"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Forgot your password?"
+msgstr "Lupa password?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Silahkan isi username atau alamat e-mail anda"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Anda akan menerima password baru via e-mail"
+
+msgid "Get new password"
+msgstr "Dapatkan password baru"
+
+msgid "Thank you for using"
+msgstr "Terima kasih telah menggunakan"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgid "Feedback"
+msgstr "Umpan balik"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Admin Panel"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s telah tersedia!"
+
+msgid "Please upgrade now"
+msgstr "Silahkan upgrade sekarang"
+
+msgid "Visit website"
+msgstr "Kunjungi website"
+
+msgid "Hi"
+msgstr "Hai"
+
+msgid "Your profile"
+msgstr "Profil anda"
+
+msgid "Log Out"
+msgstr "Keluar"
+
+msgid "Admins"
+msgstr "Admin"
+
+msgid "Add new admin"
+msgstr "Tambah admin baru"
+
+msgid "Real name"
+msgstr "Nama asli"
+
+msgid "required"
+msgstr "wajib"
+
+msgid "User name"
+msgstr "User name"
+
+msgid "Edit admin"
+msgstr "Edit admin"
+
+msgid "Re-type new password"
+msgstr "Ketik ulang password baru"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Tidak perlu diisi jika anda tidak ingin merubah password"
+
+msgid "Processing"
+msgstr "Proses"
+
+msgid "Show _MENU_ entries"
+msgstr "Tampilkan _MENU_entri"
+
+msgid "No matching records found"
+msgstr "Tidak ada catatan yang cocok"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Menampilkan _START_ untuk _END_ entri _TOTAL_"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Menampilkan 0 sampai 0 dari 0 entries"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "disaring dari entri Total _MAX_"
+
+msgid "First"
+msgstr "Pertama"
+
+msgid "Previous"
+msgstr "Sebelumnya"
+
+msgid "Next"
+msgstr "Selanjutnya"
+
+msgid "Last"
+msgstr "Terakhir"
+
+msgid "Show"
+msgstr "Tampilkan"
+
+msgid "entries"
+msgstr "entri"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Apakah Anda yakin ingin melanjutkan?"
+
+msgid "Bulk actions"
+msgstr "Tindakan massal"
+
+msgid "Appearance"
+msgstr "Penampilan"
+
+msgid "Theme package"
+msgstr "Paket tema"
+
+msgid "Upload"
+msgstr "Unggah"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Untuk membuat sebuah direktori dapat ditulis di bawah UNIX, eksekusi perintah ini dari shell"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Meja Kendali - Tambahkan Widget Baru"
+
+msgid "Create widget in %s"
+msgstr "Membuat widget di %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Deskripsi (hanya untuk tujuan internal)"
+
+msgid "HTML Code for the Widget"
+msgstr "Kode HTML untuk Widget"
+
+msgid "Publish widget"
+msgstr "Terbitkan widget"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Apakah anda yakin untuk membatalkan?"
+
+msgid "Add a new theme"
+msgstr "Tambah tema baru"
+
+msgid "Current theme"
+msgstr "Tema sekarang"
+
+msgid "Author"
+msgstr "Penulis"
+
+msgid "Available themes"
+msgstr "Tema yang tersedia"
+
+msgid "Preview"
+msgstr "Tampilan sementara"
+
+msgid "Widgets"
+msgstr "Widget"
+
+msgid "Add HTML widget"
+msgstr "Tambahkan HTML widget"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Expirations days"
+msgstr "Masa akhir hari"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = tidak ada masa akhir)"
+
+msgid "Enabled"
+msgstr "Mengaktifkan"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Disable"
+msgstr "Menonaktifkan"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Enable"
+msgstr "Mengaktifkan"
+
+msgid "Edit comment"
+msgstr "Edit komentar"
+
+msgid "Add a comment"
+msgstr "Tambah komentar"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "You have to write a title."
+msgstr "Anda harus menulis judul."
+
+msgid "You have to write a comment."
+msgstr "Anda harus menulis komentar."
+
+msgid "Author's name can not be empty."
+msgstr "Nama penulis tidak boleh kosong"
+
+msgid "Author's email can not be empty."
+msgstr "Email penulis tidak boleh kosong."
+
+msgid "Edit a comment on item:"
+msgstr "Perbaiki komentar pada item:"
+
+msgid "View"
+msgstr "Lihat"
+
+msgid "It's a registered user"
+msgstr "Ini adalah pengguna terdaftar"
+
+msgid "Edit user"
+msgstr "Edit user"
+
+msgid "Author's e-mail"
+msgstr "E-mail penulis"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "De-activate"
+msgstr "Dinonaktifkan"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Manage Comments"
+msgstr "Mengelola komentar"
+
+msgid "Edit email/alert"
+msgstr "Edit email/tanda"
+
+msgid "Add an email/alert"
+msgstr "Tambah email/tanda"
+
+msgid "Emails & Alerts"
+msgstr "Email &amp; Tanda"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Internal nama (nama untuk memudahkan mengidentifikasi email ini / tanda)"
+
+msgid "Emails & alerts"
+msgstr "Email &amp; Tanda"
+
+msgid "Items"
+msgstr "Beberapa item"
+
+msgid "Manage items"
+msgstr "Mengelola beberapa item"
+
+msgid "Add new item"
+msgstr "Tambahkan item baru"
+
+msgid "Manage media"
+msgstr "Mengelola media"
+
+msgid "Manage categories"
+msgstr "Mengelola kategori"
+
+msgid "Pages"
+msgstr "Halaman"
+
+msgid "Manage pages"
+msgstr "Mengelola halaman"
+
+msgid "Create page"
+msgstr "Membuat halaman"
+
+msgid "Manage emails & alerts"
+msgstr "Mengelola email &amp; tanda"
+
+msgid "Manage themes"
+msgstr "Mengelola tema"
+
+msgid "Add or remove widgets"
+msgstr "Menambahkan atau menghapus widgets"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Manage plugins"
+msgstr "Mengelola plugins"
+
+msgid "Add new plugin"
+msgstr "Menambahkan plugin baru"
+
+msgid "Languages"
+msgstr "Bahasa"
+
+msgid "Manage languages"
+msgstr "Mengelola bahasa"
+
+msgid "Add a language"
+msgstr "Menambahkan bahasa"
+
+msgid "General settings"
+msgstr "Seting umum"
+
+msgid "Users"
+msgstr "User"
+
+msgid "Locations"
+msgstr "Lokasi"
+
+msgid "Permalinks"
+msgstr "Permalinks"
+
+msgid "Spam and bots"
+msgstr "Spam dan bots"
+
+msgid "Currencies"
+msgstr "Mata uang"
+
+msgid "Mail Server"
+msgstr "Mail Server"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Cron system"
+msgstr "Sistem cron"
+
+msgid "Tools"
+msgstr "Perangkat"
+
+msgid "Import data"
+msgstr "Mengimport data"
+
+msgid "Backup data"
+msgstr "Backup data"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Upgrae OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Regernasi thumbnails"
+
+msgid "Manage users"
+msgstr "Mengelola user"
+
+msgid "Add new user"
+msgstr "Tambahkan user baru"
+
+msgid "Administrators"
+msgstr "Administrator"
+
+msgid "List administrators"
+msgstr "Daftar administrator"
+
+msgid "Add new administrator"
+msgstr "Tambahkan administrator baru"
+
+msgid "Edit Your Profile"
+msgstr "Edit profil anda"
+
+msgid "New item"
+msgstr "Item baru"
+
+msgid "Edit item"
+msgstr "Edit item"
+
+msgid "User"
+msgstr "User"
+
+msgid "Item posted by"
+msgstr "Item ditulis oleh"
+
+msgid "Non-registered user"
+msgstr "User non-pendaftar"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "General information"
+msgstr "Informasi umum"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Add item"
+msgstr "Tambahkan item"
+
+msgid "Count"
+msgstr "Hitung"
+
+msgid "Filter by"
+msgstr "Difilter oleh"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Pending"
+msgstr "Menunggu"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Diduplikasi"
+
+msgid "Misclassified"
+msgstr "Belum terkelompokan"
+
+msgid "Offensive"
+msgstr "Ofensif"
+
+msgid "Expired"
+msgstr "Berakhir"
+
+msgid "Language package"
+msgstr "Paket bahasa"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Folder terjemahan tidak dapat ditulis pada server Anda dan Anda tidak dapat meng-upload terjemahan dari panel administrasi. Silahkan membuat folder terjemahan ditulis"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Untuk membuat direktori dapat ditulis di bawah UNIX, eksekusi perintah ini dari shell:"
+
+msgid "Short name"
+msgstr "Nama panggilan"
+
+msgid "Currency format"
+msgstr "Format mata uang"
+
+msgid "Date format"
+msgstr "Format tanggal"
+
+msgid "Stopwords"
+msgstr "Stopwords"
+
+msgid "Enabled for the public website"
+msgstr "Mengaktifkan untuk mempublikasi website"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Mengaktifkan untuk backoffice (oc-admin)"
+
+msgid "Disable (website)"
+msgstr "Menonaktifkan (website)"
+
+msgid "Disable (oc-admin)"
+msgstr "Menonaktifkan (oc-admin)"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "Enabled (website)"
+msgstr "Mengaktifkan (website)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Mengaktifkan (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Tindakan massal"
+
+msgid "Enable (Website)"
+msgstr "Mengaktifkan (Website)"
+
+msgid "Disable (Website)"
+msgstr "Menonaktifkan (Website)"
+
+msgid "Enable (oc-admin)"
+msgstr "Mengaktifkan (oc-admin)"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Bagian mana berikut ini yang ingin ditampilkan di meja kendali anda"
+
+msgid "Latest items"
+msgstr "Item terbaru"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Latest comments"
+msgstr "Komentar terbaru"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Berita terbaru dari OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Item menurut kategori"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Belum ada satupun item yang di upload"
+
+msgid "Number of items"
+msgstr "Jumlah item"
+
+msgid "Number of public users"
+msgstr "Jumlah user publik"
+
+msgid "Number of administrators"
+msgstr "Jumlah administrator"
+
+msgid "Commented on item"
+msgstr "Komentar di item"
+
+msgid "There aren't any comments yet"
+msgstr "Belum ada satupun komentar"
+
+msgid "new"
+msgstr "baru"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Tidak dapat mengambil berita dari OpenSourceClassifieds. Silahkan coba lagi nanti"
+
+msgid "File"
+msgstr "File"
+
+msgid "Attached to"
+msgstr "Melampirkan"
+
+msgid "Edit page"
+msgstr "Edit halaman"
+
+msgid "Add page"
+msgstr "Tambah halaman"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Internal nama (nama untuk memudahkan identifikasi halaman ini)"
+
+msgid "View page"
+msgstr "Tampilan halaman"
+
+msgid "Add a new plugin"
+msgstr "Tambahkan plugin baru"
+
+msgid "Plugin package"
+msgstr "Paket plugin"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Folder plugin %s tidak dapat ditulis di server anda"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds tidak dapat meng-upload plugin dari panel administrasi"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Silahkan salin paket plugin menggunakan FTP atau SSH, atau buat folder plugin tersebut dapat ditulis"
+
+msgid "Select the categories where you want to apply these attributes"
+msgstr "Pilih kategori dimana anda ingin menggunakan atribut"
+
+msgid "Preset categories"
+msgstr "Tetapkan kategori"
+
+msgid "Check all"
+msgstr "Cek semua"
+
+msgid "Uncheck all"
+msgstr "Tidak cek semua"
+
+msgid "Configure"
+msgstr "Konfigurasi"
+
+msgid "There's a new version. You should update!"
+msgstr "Ada versi baru. Anda harus update!"
+
+msgid "Uninstall"
+msgstr "Uninstall"
+
+msgid "Install"
+msgstr "Install"
+
+msgid "Create currency"
+msgstr "Membuat mata uang"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "It should be a three-character code"
+msgstr "Kode harus tiga karakter"
+
+msgid "Comments settings"
+msgstr "Pengaturan komentar"
+
+msgid "Comments enabled"
+msgstr "Mengaktifkan komentar"
+
+msgid "Moderate comments"
+msgstr "Memoderasi komentar"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Jumlah komentar dari penulis yang sama yang harus divalidasi sebelum melewatkan validasi (0 untuk selalu moderasi)"
+
+msgid "Notifications"
+msgstr "Pemberitahuan"
+
+msgid "Notify when there's a new comment"
+msgstr "Beritahu ketika ada komentar baru"
+
+msgid "Contact settings"
+msgstr "Pengaturan kontak"
+
+msgid "Attachment enabled"
+msgstr "Mengaktifkan lampiran"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Beberapa fungsi memerlukan cron OpenSourceClassifieds agar dapat bekerja. Periksa apakah host anda tidak mampu melakukannya. Hapus tanda centang jika Anda ingin mengatur cron Anda secara manual. Lihat manual untuk tahu lebih banyak tentang sistem cron OpenSourceClassifieds."
+
+msgid "Edit currency"
+msgstr "Edit mata uang"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Selesai dibuat, dapat dimodifikasi"
+
+msgid "Page title"
+msgstr "Judul halaman"
+
+msgid "Page description"
+msgstr "Deskripsi halaman"
+
+msgid "Admin e-mail"
+msgstr "E-mail admin"
+
+msgid "Default language"
+msgstr "Bahasa standar"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Default currency"
+msgstr "Mata uang standar"
+
+msgid "Week starts on"
+msgstr "Statistik mingguan"
+
+msgid "Sunday"
+msgstr "Minggu"
+
+msgid "Monday"
+msgstr "Senin"
+
+msgid "Tuesday"
+msgstr "Selasa"
+
+msgid "Wednesday"
+msgstr "Rabu"
+
+msgid "Thursday"
+msgstr "Kamis"
+
+msgid "Friday"
+msgstr "Jum\\'at"
+
+msgid "Saturday"
+msgstr "Sabtu"
+
+msgid "Time format"
+msgstr "Format waktu"
+
+msgid "Number of items in the RSS"
+msgstr "Jumlah item pada RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Mengaktifkan reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Mengaktifkan item validari oleh users"
+
+msgid "Logged users don't need to validate items"
+msgstr "User yang telah masuk tidak perlu validasi items"
+
+msgid "Only allow registered users to post items"
+msgstr "Hanya user terdaftar yang boleh menulis item"
+
+msgid "Notify admin of new items"
+msgstr "Beritahu admin tentang items baru"
+
+msgid "Notify admin of contact items"
+msgstr "Beritahu admin item kontak"
+
+msgid "Notify admin of share"
+msgstr "Beritahu admin untuk sharing"
+
+msgid "Optional fields"
+msgstr "Bidang opsional"
+
+msgid "Enable price"
+msgstr "Mengaktifkan harga"
+
+msgid "Enable images"
+msgstr "Mengaktifkan gambar"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "View more"
+msgstr "Tampilkan lebih"
+
+msgid "Countries"
+msgstr "Negara"
+
+msgid "Add new"
+msgstr "Tambah baru"
+
+msgid "Regions"
+msgstr "Daerah"
+
+msgid "Cities"
+msgstr "Kota"
+
+msgid "Add new country"
+msgstr "Tambahkan negara baru"
+
+msgid "Country code"
+msgstr "Kode negara"
+
+msgid "Country code should have two characters"
+msgstr "Kode negara harus memiliki dua karakter"
+
+msgid "Edit country"
+msgstr "Edit negara"
+
+msgid "Add new region"
+msgstr "Tambahkan daerah baru"
+
+msgid "Edit region"
+msgstr "Edit daerah"
+
+msgid "Add new city"
+msgstr "Tambahkan kota baru"
+
+msgid "Edit city"
+msgstr "Edit kota"
+
+msgid "Mail server"
+msgstr "Mail server"
+
+msgid "Configuration"
+msgstr "Konfigurasi"
+
+msgid "Server type"
+msgstr "Tipe server"
+
+msgid "Custom Server"
+msgstr "Server kustom"
+
+msgid "GMail Server"
+msgstr "Server gmail"
+
+msgid "Hostname"
+msgstr "Nama host"
+
+msgid "Server port"
+msgstr "Port server"
+
+msgid "Encryption"
+msgstr "Enkripsi"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Optional: kosong, ssl atau tls"
+
+msgid "Enable SMTP authentication"
+msgstr "Mengaktifkan otentisitas SMTP"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Masukkan konfigurasi server e-mail anda "
+
+msgid "Media settings"
+msgstr "Seting media"
+
+msgid "Configure media"
+msgstr "Konfigurasi media"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Silakan set dimensi yang cocok untuk semua gambar di website. (format: WIDTHxHEIGHT, misalnya: 640x480)"
+
+msgid "Restrictions"
+msgstr "Pembatasan"
+
+msgid "Maximum size, in KB"
+msgstr "Ukuran maksimal, dalam KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Format ekstensi yang dibolehkan (misal: png, jp, gif)"
+
+msgid "Dimensions"
+msgstr "Dimensi"
+
+msgid "Thumbnail dimensions"
+msgstr "Dimensi thumbnail"
+
+msgid "Preview dimensions"
+msgstr "Dimensi tampilan sementara"
+
+msgid "Normal dimensions"
+msgstr "Dimensi normal"
+
+msgid "Keep original image"
+msgstr "Tetap  gambar asli"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Menjaga file gambar asli memerlukan penyimpanan ekstra. Pilihan ini menjamin bahwa kualitas asli dari file tidak dapat diubah. Hati-hati ketika menggunakan opsi ini."
+
+msgid "Permalinks settings"
+msgstr "Seting permalinks"
+
+msgid "Friendly urls"
+msgstr "Urls ramah"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "Secara default OpenSourceClassifieds menggunakan URL web yang memiliki tanda tanya dan banyak nomor di dalamnya. Namun, OpenSourceClassifieds menawarkan url ramah. Hal ini dapat meningkatkan estetika, kegunaan, dan cocok dengan link Anda"
+
+msgid "Enable friendly urls"
+msgstr "Mengaktifkan urls ramah"
+
+msgid ".htaccess file"
+msgstr "File .htaccess"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Modul <em>mod_rewrite</em> telah ada di server"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Peringatan! Modul rewrite tidak ditemukan pada server. Ini berarti Anda belum mengaktifkan atau Anda menjalankan PHP sebagai CGI (atau FastCGI). Jika Anda tidak mengaktifkan mod_rewrite Anda masih bisa menggunakan url ramah jika pilihan AllowPathInfo aktif pada konfigurasi Apache Anda (kami tidak bisa memastikan apakah telah diaktifkan atau tidak, tetapi biasanya diaktifkan). \\\"Index.php\\\" akan muncul sebagai bagian dari URL and (mis. http://www.example.com/index.php)."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Salah. Kami tidak bisa menulis file. htaccess pada server Anda. Silahkan buat file dengan nama. htaccess di root instalasi OpenSourceClassifieds Anda beserta konten."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "File .htaccesss ada. Silahkan cek file .htaccess beserta konten."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Kami selesai membuat sebuah file .htaccess di root instalasi OpenSourceClassifieds anda"
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Konten file .htaccess harus tampak seperti berikut:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Kontent file .htaccess anda saat ini:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Kunci Akismet (sama seperti Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Jika bidang ini kosong itu karena layanan Akismet dinonaktifkan"
+
+msgid "Get your free key at"
+msgstr "Dapatkan kunci secara gratis di"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Jika bidang ini kosong itu karena layanan reCAPTCHA dinonaktifkan"
+
+msgid "Get your free keys at"
+msgstr "Dapatkan kunci secara gratis di"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA Private Key"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA Public Key"
+
+msgid "Users settings"
+msgstr "Seting users"
+
+msgid "Users enabled"
+msgstr "Mengaktifkan users"
+
+msgid "User validation enabled"
+msgstr "Mengaktifkan validasi user"
+
+msgid "User registration enabled"
+msgstr "Mengaktifkan registrasi user"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "You're offline! Please check your connection"
+msgstr "Anda terputus! Silahkan cek koneksi anda"
+
+msgid "Requested URL not found"
+msgstr "URL yang diminta tidak ditemukan"
+
+msgid "Internal server error"
+msgstr "Server internal salah"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Salah. Permintaan Parsing JSON gagal"
+
+msgid "Request timeout"
+msgstr "Permintaan melebihi batas waktu"
+
+msgid "Unknown error"
+msgstr "Kesalahan tidak diketahui"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Backup OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Anda dapat membackup OpenSourceClassifieds disini. PERINGATAN: Jika Anda tidak menentukan folder backup, file backup akan dibuat di root instalasi OpenSourceClassifieds Anda"
+
+msgid "Backup folder"
+msgstr "Backup folder"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Ini adalah folder di mana backup anda akan dibuat. Kami menyarankan anda memilih jalur non-publik. Untuk informasi lebih lanjut, silakan lihat dokumentasi OpenSourceClassifieds \\'"
+
+msgid "Back up database"
+msgstr "Back up database"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Back up instalasi OpenSourceClassifieds"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Anda dapat meregenerasi thumbnails anda dan tampilkan sementara gambar thumbnail disini. Ini berguna jika tema dan gambar yang anda regenerasi tidak muncul dengan benar. Silakan, periksa nilai ukuran dalam pengaturan / bagian media"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Anda dapat memodifikasi database anda untuk menambah, menghapus atau memodifikasi data di sini. Ini biasanya digunakan untuk mengimpor negara, wilayah dan kota"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Memuaskan pengguna dengan mengagumkan dan mudah meng-upgrade otomatis: Selesai!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Permintaan OpenSourceClassifieds tidak valid"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Re-type the password"
+msgstr "Ketik ulang password"
+
+msgid "Additional information"
+msgstr "Informasi tambahan"
+
+msgid "Activate user"
+msgstr "Mengaktifkan user"
+
+msgid "Deactivate user"
+msgstr "Menonaktifkan user"
+
+msgid "Update Date"
+msgstr "Update tanggal"
+
+msgid "Add a new user"
+msgstr "Menambah user baru"
+
+msgid "Anonymous"
+msgstr "Tak dikenal"
+
+msgid "Admin mail system"
+msgstr "Sistem mail admin"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "File %s index.php pada plugin% s tidak ada"
+
+msgid "Plugin %s is missing its main file"
+msgstr "File utama pada pulgin %s tidak ada"
+
+msgid "Enter your e-mail"
+msgstr "Masukkan e-mail anda"
+
+msgid "Select a country..."
+msgstr "Pilih negara..."
+
+msgid "Select a region..."
+msgstr "Pilih daerah..."
+
+msgid "Select a city..."
+msgstr "Pilih kota..."
+
+msgid "No results"
+msgstr "Tidak ada hasil"
+
+msgid "Description: needs to be longer"
+msgstr "Deskripsi: perlu waktu lebih lama"
+
+msgid "Title: this field is required"
+msgstr "Judul: bidang ini diperlukan"
+
+msgid "Title: enter at least 9 characters"
+msgstr "Judul: paling sedikit 9 karakter"
+
+msgid "Title: no more than 80 characters"
+msgstr "Judul: tidak boleh lebih 80 karakter"
+
+msgid "Description: this field is required"
+msgstr "Deskripsi: bidang ini diperlukan"
+
+msgid "Description: no more than 5000 characters"
+msgstr "Deskripsi: tidak boleh lebih 5000 karakter"
+
+msgid "Choose one category"
+msgstr "Pilih satu kategori"
+
+msgid "Price: enter a valid number"
+msgstr "Harga: masukkan jumlah pasti"
+
+msgid "Price: no more than 15 characters"
+msgstr "Harga: tidak boleh lebih 50 karakter"
+
+msgid "Currency: make your selection"
+msgstr "Mata uang: sesuai pilihan anda"
+
+msgid "Photo: must be %s"
+msgstr "Foto: harus %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Nama: masukkan paling sedikit 3 karakter"
+
+msgid "Name: no more than 35 characters"
+msgstr "Nama: tidak boleh lebih 35 karakter"
+
+msgid "Email: this field is required"
+msgstr "Email: bidang ini diperlukan"
+
+msgid "Select a region"
+msgstr "Pilih daerah"
+
+msgid "Select a city"
+msgstr "Pilih kota"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Daerah kota: masukkan paling sedikit 3 karakter"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Anda yakin mau melanjutkan?"
+
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Body"
+msgstr "Isi"
+
+msgid "User Description"
+msgstr "Deskripsi user"
+
+msgid "Company"
+msgstr "Perusahaan"
+
+msgid "Check with seller"
+msgstr "Cek ke penjual"
+
+msgid "Newly listed"
+msgstr "Daftar terbaru"
+
+msgid "Lower price first"
+msgstr "Harga paling rendah"
+
+msgid "Higher price first"
+msgstr "Harga paling tinggi"
+
+msgid "Manage your items"
+msgstr "Mengelola items anda"
+
+msgid "Manage your alerts"
+msgstr "Mengelola tanda anda"
+
+msgid "%s in"
+msgstr "%s masuk"
+
+msgid "There's no description available in your language"
+msgstr "Tidak ada deskripsi dalam bahasa anda"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Kami minta maaf atas ketidaknyamanan ini. %s sedang dalam mode pemeliharaan"
+
+msgid "Your website is currently under maintenance mode"
+msgstr "Website anda saat ini dibawah mode pemeliharaan"
+
+msgid "Error removing file: %s"
+msgstr "Gagal menghapus file: %s"
+
+msgid "Some error ocurred"
+msgstr "Terdapat beberapa kegagalan"
+
+msgid "Order saved"
+msgstr "Pesanan disimpan"
+
+msgid "The subcategories has been enabled"
+msgstr "Subkategori telah diaktifkan"
+
+msgid "The subcategories has been disabled"
+msgstr "Subkategori telah dinonaktifkan"
+
+msgid "Error: %s"
+msgstr "Gagal: %s"
+
+msgid "Error while deleting"
+msgstr "Gagal sewaktu penghapusan"
+
+msgid "All titles are required"
+msgstr "Semua judul diperlukan"
+
+msgid "Error while updating."
+msgstr "Gagal sewaktu update"
+
+msgid "Saved"
+msgstr "Disimpan"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Semuanya OK! Instalasi OpenSourceClassifieds anda telah di update"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Hampir semuanya OK! Instalasi OpenSourceClassifieds anda diperbarui, tapi ada beberapa kesalahan menghapus file sementara. Silahkan, menghapus secara manual \\\"oc-temp\\\" folder"
+
+msgid "Problems upgrading the database"
+msgstr "Upgrading database bermasalah"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Penggandaan file bermasalah. Mungkin permission tidak tepat"
+
+msgid "Download failed"
+msgstr "Download gagal"
+
+msgid "Missing download URL"
+msgstr "URL download hilang"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Beberapa file gagal dihapus, file tersebut tidak super-sensitif gagal, jadi instalasi upgrade anda dilanjutkan. Silahkan hapus file berikut (OpenSourceClassifieds anda telah berhasil upgrade, namun pastikan untuk performance dalam kondisi maksimal)"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Kami memiliki beberapa kesalahan upgrade database anda. Query berikut gagal"
+
+msgid "Clear"
+msgstr "Jelas"
+
+msgid "Forums"
+msgstr "Forums"
+
+msgid "Add new theme"
+msgstr "Tambah tema baru"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Folde tema %s tidak dapat ditulis di server anda, (span class=\\\"OpenSourceClassifieds\\\">OpenSourceClassifieds</span> tidak dapat mengupload tema dari panel administrasi. Silahkan kopi paket tema menggunakan FTP atau SSH, atau buat folder tema tersebut dapat ditulis"
+
+msgid "Ajax error, try again."
+msgstr "Ajax gagal, coba lagi."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "PERINGATAN: Ini juga menghapus item kategori dibawahnya. Tindakan ini tidak dapat dibatalkan. Anda yakin mau melanjutkan?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Drag&amp;drop kategori untuk menyusun ulang dengan cara yang Anda suka. Klik link edit untuk mengedit kategori"
+
+msgid "Add new category"
+msgstr "Tambah kategori baru"
+
+msgid "Categories settings"
+msgstr "Seting kategori"
+
+msgid "Selectable parent categories"
+msgstr "Pilih tabel parent kategori "
+
+msgid "ACTIVE"
+msgstr "AKTIF"
+
+msgid "INACTIVE"
+msgstr "TIDAK AKTIF"
+
+msgid "ENABLED"
+msgstr "DIAKTIFKAN"
+
+msgid "DISABLED"
+msgstr "DINONAKTIFKAN"
+
+msgid "Last Searches"
+msgstr "Pencarian terakhir"
+
+msgid "Maintenance mode"
+msgstr "Mode pemeliharaan"
+
+msgid "Reports"
+msgstr "Laporan"
+
+msgid "Disabled"
+msgstr "Dinonaktifkan"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Jumlah item dari penulis yang sama yang harus divalidasi sebelum melewatkan validasi (0 untuk selalu moderasi)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Jumlah detik seorang pengguna harus menunggu sebelum penerbitan item lain (0 untuk tidak menunggu)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Hanya users terdaftar yang diperbolehkan menghubungi seller"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Jumlah maksimal gambar per item (0 untuk tak terbatas)"
+
+msgid "Download more languages at %s"
+msgstr "Download bahasa lagi sebanyak %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Meng-uninstall plugins dapat menghilangkan data secara permanen. Anda yakin mau melanjutkan?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Jumlah komentar per halaman. Anda dapat membatasi jumlah komentar yang ditampilkan pada waktu di halaman detail item. Komentar lain akan tersedia melalui sistem pagination. (0 untuk menampilkan semua komentar pada saat yang sama)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Hanya users terdaftar yang diperbolehkan menulis komentar"
+
+msgid "Number of recent items displayed at home"
+msgstr "Jumlah item terbaru yang ditampilkan di awal"
+
+msgid "Save latest searches"
+msgstr "Simpan pencarian terbaru"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds dapat menyimpan pencarian terbaru yang dilakukan user di situs anda. Jadikan item yang dicari oleh users sesuai ide anda atau jadikan pencarian user tersebut di situs sebagai \\\"hot topics\\\"."
+
+msgid "Keep last searches"
+msgstr "Pelihara pencarian terakhir"
+
+msgid "One hour"
+msgstr "Satu jam"
+
+msgid "One day"
+msgstr "Satu hari"
+
+msgid "One week"
+msgstr "Satu minggu"
+
+msgid "Forever (never delete)"
+msgstr "Selamanya (tidak pernah dihapus)"
+
+msgid "Keep last 1000 searches"
+msgstr "Perlihara 1000 pencarian terakhir"
+
+msgid "Number of files to keep"
+msgstr "Jumlah file yang dipelihara"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Fungsi pencarian terakhir bisa menghasilkan banyak data. Disarankan anda membersihkan data. Anda bisa menghapus satu jam lamanya, satu hari atau satu minggu lama lama, anda juga bisa menentukan jumlah pencarian untuk menyimpan atau untuk tidak pernah menghapusnya."
+
+msgid "Last 10 days"
+msgstr "10 hari terakhir"
+
+msgid "Last 10 weeks"
+msgstr "10 minggu terakhir"
+
+msgid "Last 10 months"
+msgstr "10 bulan terakhir"
+
+msgid "There're no statistics yet"
+msgstr "Belum ada statistik"
+
+msgid "Latest comments on the web"
+msgstr "Komentar terbaru di web"
+
+msgid "New items"
+msgstr "Item baru"
+
+msgid "Total number of items' views"
+msgstr "Jumlah total item yang dilihat"
+
+msgid "Latest items on the web"
+msgstr "Item terbaru di web"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Inactive"
+msgstr "Tidak aktif"
+
+msgid "Views"
+msgstr "Dilihat"
+
+msgid "Total number of reports"
+msgstr "Jumlah total laporan"
+
+msgid "Repeated"
+msgstr "Ulangi kembali"
+
+msgid "Bad category"
+msgstr "Kategori jelek"
+
+msgid "Latest users on the web"
+msgstr "User terbaru di web"
+
+msgid "Avg. items per user"
+msgstr "Rata-rata item per user"
+
+msgid "items per user"
+msgstr "Item per user"
+
+msgid "New users"
+msgstr "User baru"
+
+msgid "Users per country"
+msgstr "User per negara"
+
+msgid "Unknown"
+msgstr "Tak dikenal"
+
+msgid "Users per region"
+msgstr "user per daerah"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Sementara di modus pemeliharaan, pengguna tidak dapat mengakses website backup anda. Berguna jika anda perlu untuk membuat beberapa perubahan pada website anda. Gunakan tombol berikut untuk beralih ON / OFF modus pemeliharaan"
+
+msgid "Maintenance mode is:"
+msgstr "Mode pemeliharaan is:"
+
+msgid "ON"
+msgstr "ON"
+
+msgid "OFF"
+msgstr "OFF"
+
+msgid "Disable maintenance mode"
+msgstr "Menonaktifkan mode pemeliharaan"
+
+msgid "Enable maintenance mode"
+msgstr "Mengaktifkan mode pemeliharaan"
+
+msgid "Checking for updates"
+msgstr "Cek untuk updates"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Hore! Instalasi pulgin anda up to date!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Selamat! Instalasi OpenSourceClassifieds anda up to date!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Upgrade instalasi OpenSourceClassifieds anda (tunggu sesaat):"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Instalasi OpenSourceClassifieds anda dapat auto upgrade. Silahkan, backup database dan folder oc konten anda sebelum mencoba untuk meng-upgrade instalasi OpenSourceClassifieds anda. Anda juga bisa meng-upgrade OpenSourceClassifieds dengan cara men-download paket upgrade, unzip dan mengganti file pada server anda dengan paket lainnya."
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 666 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Instalasi OpenSourceClassifieds anda tidak dapat otomatis upgrade. File dan folder harus diseting dapat ditulis. Anda bisa menerapkan permissions 644 melalui SSH dengan perintah \\\"chmod R 666 *\\\" (tanpa tanda kutip) atau melalui klien FTP, ini tergantung pada program sehingga kami tidak dapat memberikan informasi lebih. Anda juga bisa meng-upgrade OpenSourceClassifieds dengan cara men-download paket upgrade, unzip dan mengganti file pada server anda dengan paket lainnya."
+
+msgid "Enable user"
+msgstr "Mengaktifkan user"
+
+msgid "Disable user"
+msgstr "Menonaktifkan user"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds >> Beberapa ada yang gagal"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Kami mengalami beberapa masalah memperbarui struktur database. Query berikut gagal:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Kesalahan ini bisa terjadi sebagai kesalahan tidak penting. Jika anda yakin bahwa ini terjadi, anda bisa melanjutkan dengan href=\\\"%s\\\"&gt; <a upgrade=\\\"\\\" <=\\\"\\\" a=\\\"\\\">, atau href=\\\"http://forums.opensourceclassifieds.org/\\\"&gt; </a><a bertanya=\\\"\\\" di=\\\"\\\" forum=\\\"\\\" kami=\\\"\\\" <=\\\"\\\" a=\\\"\\\">.</a>"
+
+msgid "Name: this field is required"
+msgstr "Name: bidang ini diperlukan"
+
+msgid "Message: this field is required"
+msgstr "Pesan: bidang ini diperlukan"
+
+msgid "City area: no more than 50 characters"
+msgstr "Area kota: tidak boleh lebih 50 karakter"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Alamat: masukkan paling sedikit 3 karakter"
+
+msgid "Address: no more than 100 characters"
+msgstr "Alamat: tidka boleh lebih dari 100 karakter"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Maaf, anda telah melebihi jumlah maksimal gambar per iklan"
+
+msgid "Your name: this field is required"
+msgstr "Nama anda: bidang ini diperlukan"
+
+msgid "Friend's name: this field is required"
+msgstr "Nama teman: bidang ini diperlukan"
+
+msgid "Friend's email: this field is required"
+msgstr "E-mail teman: bidang ini diperlukan"
+
+msgid "Invalid friend's email address"
+msgstr "Alamat e-mail teman cacat"
+
+msgid "Name: no more than 50 characters"
+msgstr "Name: tidak boleh lebih 50 karakter"
+
+msgid "Password: this field is required"
+msgstr "Password: bidang ini diperlukan"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Password: masukkan paling sedikit 5 karakter"
+

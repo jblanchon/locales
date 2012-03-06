@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Stranica nije pronađena"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Uspješno ste se prijavili za obavijesti"
+
+msgid "There was a problem with the alert"
+msgstr "Dogodio se problem sa obavijesti"
+
+msgid "Subscribe to this search"
+msgstr "Prijavite/pretplatite se za ovu pretragu"
+
+msgid "Subscribe now"
+msgstr "Prijavite/pretplatite se!"
+
+msgid "Subject"
+msgstr "Naslov"
+
+msgid "Message"
+msgstr "Tekst"
+
+msgid "Your name"
+msgstr "Vaše ime"
+
+msgid "Your e-mail address"
+msgstr "Vaša e-mail adresa"
+
+msgid "Send"
+msgstr "Pošalji"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Ovu stranicu pokreće <a title=\\\"OpenSourceClassifieds web\\\" href=\\\"http://www.opensourceclassifieds.org/\\\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+
+msgid "Publish an item"
+msgstr "Objavi oglas"
+
+msgid "Edit your item"
+msgstr "Uredi oglas"
+
+msgid "Send to a friend"
+msgstr "Pošalji prijatelju"
+
+msgid "Contact seller"
+msgstr "Kontaktiraj ponuditelja"
+
+msgid "page"
+msgstr "stranica"
+
+msgid "Show all items"
+msgstr "Prikaži sve oglase"
+
+msgid "Search"
+msgstr "Traži"
+
+msgid "Recover your password"
+msgstr "POvrati lozinku"
+
+msgid "Login"
+msgstr "Prijavite se"
+
+msgid "Create a new account"
+msgstr "Napravi novi nalog"
+
+msgid "Dashboard"
+msgstr "Upravljačka ploča"
+
+msgid "Manage my items"
+msgstr "Upravljanje oglasima"
+
+msgid "Manage my alerts"
+msgstr "Upravljanje obavijestima"
+
+msgid "Update my profile"
+msgstr "Ažuriraj moj profil"
+
+msgid "Change my email"
+msgstr "Promijeni e-mail"
+
+msgid "Change my password"
+msgstr "Promijeni lozinku"
+
+msgid "Recover my password"
+msgstr "Povrati lozinku"
+
+msgid "Hi %s"
+msgstr "Dobar dan %s"
+
+msgid "My account"
+msgstr "Moj nalog"
+
+msgid "Logout"
+msgstr "Odjava"
+
+msgid "Register for a free account"
+msgstr "Registrirajte se"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Lozinka"
+
+msgid "Remember me"
+msgstr "Zapamti me"
+
+msgid "Log in"
+msgstr "Prijava"
+
+msgid "Forgot password?"
+msgstr "Zaboravili ste lozinku?"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Publish your ad for free"
+msgstr "Besplatno objavite vaš oglas"
+
+msgid "ie. PHP Programmer"
+msgstr "traženi pojam"
+
+msgid "Select a category"
+msgstr "Odaberi kategoriju"
+
+msgid "To (seller)"
+msgstr "Za (ponuditelja)"
+
+msgid "Item"
+msgstr "Oglas"
+
+msgid "Phone number"
+msgstr "Broj telefona"
+
+msgid "Send message"
+msgstr "Pošaljite poruku"
+
+msgid "Update your item"
+msgstr "Ažurirajte vaš oglas"
+
+msgid "General Information"
+msgstr "Opće informacije"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Price"
+msgstr "Cijena"
+
+msgid "Photos"
+msgstr "Fotografije"
+
+msgid "Add new photo"
+msgstr "Dodaj novu fotografiju"
+
+msgid "Location"
+msgstr "Lokacija"
+
+msgid "Country"
+msgstr "Zemlja"
+
+msgid "Region"
+msgstr "Županija"
+
+msgid "City"
+msgstr "Grad"
+
+msgid "City area"
+msgstr "Gradsko područje"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Update"
+msgstr "Ažuriraj"
+
+msgid "Cancel"
+msgstr "Otkaži"
+
+msgid "Item Location"
+msgstr "Lokacija oglasa"
+
+msgid "City Area"
+msgstr "Gradsko područje"
+
+msgid "Seller's information"
+msgstr "Informacije o ponuditelju"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Show e-mail on the item page"
+msgstr "Prikazati e-mail na stranici sa oglasom"
+
+msgid "Publish"
+msgstr "Objavite"
+
+msgid "Your friend's name"
+msgstr "Ime vašeg prijatelja"
+
+msgid "Your friend's e-mail address"
+msgstr "E-mail adresa vašeg prijatelja"
+
+msgid "Mark as"
+msgstr "Označi kao"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "pogrešan oglas"
+
+msgid "duplicated"
+msgstr "duplikat oglasa"
+
+msgid "expired"
+msgstr "istekao"
+
+msgid "offensive"
+msgstr "uvredljiv"
+
+msgid "Share"
+msgstr "Podijeli"
+
+msgid "Useful information"
+msgstr "Korisne informacije"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Pripazite na lažne ponude i provjerite što kupujete"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Nikad ne plaćajte Western Unionom, Moneygramom ili nekim drugim anonimnim servisom"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Ne kupujte i prodavajte izvan svoje države. Ne prihvaćajte čekove iz drugih država."
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Ova stranica nikad nije direktno umiješana u bilo koju transakciju, i ne obavlja isplate i uplate, ne dostavlja predmete, i ne nudi \\\"zaštitu kupaca\\\" ili ˇ\\\"potvrde o prodavačima\\\""
+
+msgid "Comments"
+msgstr "Komentari"
+
+msgid "by"
+msgstr "od"
+
+msgid "Delete your comment"
+msgstr "Izbrišite komentar"
+
+msgid "Delete"
+msgstr "Obrisati"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Ostavite komentar (spam i uvredljive poruke nisu dozvoljene)"
+
+msgid "Your e-mail"
+msgstr "Vaš e-mail"
+
+msgid "Title"
+msgstr "Naslov"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Contact publisher"
+msgstr "Konataktirajte ponuditelja"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Your name (optional)"
+msgstr "Vaše ime (nije obavezno)"
+
+msgid "Enter the words above"
+msgstr "Upišite gornje riječi"
+
+msgid "Help"
+msgstr "Pomoć"
+
+msgid "Latest Items"
+msgstr "Najnoviji oglasi"
+
+msgid "No Latest Items"
+msgstr "Nema novih oglasa"
+
+msgid "See all offers"
+msgstr "Pogledajte sve ponuditelje"
+
+msgid "Search results"
+msgstr "Rezultati pretrage"
+
+msgid "Sort by"
+msgstr "Sortirati po"
+
+msgid "There are no results matching \"%s\""
+msgstr "Nema odgovarajućih rezultata za \\\"%s\\\""
+
+msgid "Your search"
+msgstr "Vaša pretraga"
+
+msgid "Show only"
+msgstr "Prikazati samo"
+
+msgid "Show only items with pictures"
+msgstr "Prikazati samo oglase sa slikom"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Primjeni"
+
+msgid "Selected"
+msgstr "Izabrati"
+
+msgid "Nothing selected, input was"
+msgstr "Ništa nije izabrano, unos je bio"
+
+msgid "User account manager"
+msgstr "Korisnička upravljačka ploča"
+
+msgid "Your alerts"
+msgstr "Vaše obavijesti"
+
+msgid "You do not have any alerts yet"
+msgstr "Još uvijek nemate obavijesti"
+
+msgid "Alert"
+msgstr "Obavijest"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Ova radnja se ne može poništiti. Želite li nastaviti? "
+
+msgid "Delete this alert"
+msgstr "Obrisati ovu obavijest"
+
+msgid "Publication date"
+msgstr "Datum objave"
+
+msgid "Change your e-mail"
+msgstr "Izmijenite vaš e-mail"
+
+msgid "Current e-mail"
+msgstr "Trenutni e-mail"
+
+msgid "New e-mail"
+msgstr "Novi e-mail"
+
+msgid "Change your password"
+msgstr "Izmijenite vašu lozinku"
+
+msgid "Current password"
+msgstr "Trenutna lozinka"
+
+msgid "New password"
+msgstr "Nova lozinka"
+
+msgid "Repeat new password"
+msgstr "Ponovite novu lozinku"
+
+msgid "Items from %s"
+msgstr "Oglasi od %s"
+
+msgid "No items have been added yet"
+msgstr "Nema vaših oglasa"
+
+msgid "New pasword"
+msgstr "Nova lozinka"
+
+msgid "Repeat new pasword"
+msgstr "Ponovi novu lozinku"
+
+msgid "Change password"
+msgstr "Promijeni lozinku"
+
+msgid "Your items"
+msgstr "Vaši oglasi"
+
+msgid "Post a new item"
+msgstr "Objavite vaš oglas"
+
+msgid "You don't have any items yet"
+msgstr "Nema vaših oglasa"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Ova radnja se ne može poništiti. Želite li nastaviti? "
+
+msgid "Activate"
+msgstr "Aktiviraj"
+
+msgid "Access to your account"
+msgstr "Pristup vašem nalogu"
+
+msgid "Update your profile"
+msgstr "Ažurirajte vaš profil"
+
+msgid "Modify e-mail"
+msgstr "Izmijenite vaš e-mail"
+
+msgid "Modify password"
+msgstr "Izmijenite lozinku"
+
+msgid "User type"
+msgstr "Vrsta korisnika"
+
+msgid "Cell phone"
+msgstr "Mobitel"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Stranica"
+
+msgid "Send me a new password"
+msgstr "Poslati novu lozinku"
+
+msgid "Register an account for free"
+msgstr "Registrirajte se besplatno"
+
+msgid "Re-type password"
+msgstr "Ponovite lozinku"
+
+msgid "Passwords don't match"
+msgstr "Lozinke se ne podudaraju"
+
+msgid "Create"
+msgstr "Stvori"
+
+msgid "Invalid email address"
+msgstr "Pogrešna e-mail adresa"
+
+msgid "Upload"
+msgstr "Pošalji"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Da biste u mapi omogućili zapisivanje, izvršite sljedeću UNIX naredbu iz ljuske"
+
+msgid "optional"
+msgstr "neobavezno"
+
+msgid "Modern theme"
+msgstr "Moderna tema"
+
+msgid "Settings theme"
+msgstr "Postavke teme"
+
+msgid "Image"
+msgstr "Slika"
+
+msgid "Published date"
+msgstr "Datum objave"
+
+msgid "Modified date"
+msgstr "Datum izmjene"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "Preferirana veličina logoa je 600x100"
+
+msgid "Logo image"
+msgstr "Slika logoa"
+
+msgid "Remove logo"
+msgstr "Ukloni logo"
+
+msgid "Has not uploaded any logo image"
+msgstr "Logo ne postoji"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Mapa slika %s nije writeable"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "OpenSourceClassifieds ne može postaviti slike iz upravljačke ploče."
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Učinite mapu slika writeable"
+
+msgid "Contact us"
+msgstr "Konataktirajte nas"
+
+msgid "Error"
+msgstr "Greška"
+
+msgid "No file selected"
+msgstr "Nijedna datoteka nije odabrana"
+
+msgid "Choose File"
+msgstr "Odaberi datoteku"
+
+msgid "Sponsored ad"
+msgstr "Plaćeni oglas"
+
+msgid "View item"
+msgstr "Pogledaj oglas"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "Obavijest: Postavljanje novog logoa će izbrisati stari"
+

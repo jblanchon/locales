@@ -1,0 +1,868 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Passwords don't match"
+msgstr "Heslá sa nezhodujú"
+
+msgid "The Recaptcha code is wrong"
+msgstr "Recaptcha kód nebol zadaný správne"
+
+msgid "You have to introduce a correct e-mail"
+msgstr "Musíte zadať správny e-mail"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "Váš e-mail bol odoslaný. Ďakujeme že ste nás kontaktovali!"
+
+msgid "Users not enabled"
+msgstr "Nepovolení užívatelia"
+
+msgid "Only registered users are allowed to post items"
+msgstr "Len registrovaní užívatelia môžu vkladať inzeráty"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "Ospravedlňujeme sa, ale žiadna položka so zadaným ID neexistuje"
+
+msgid "Great! We've just updated your item"
+msgstr "Výborne! Práve ste aktualizovali Váš inzerát"
+
+msgid "The item has been validated"
+msgstr "Predmet bol schválený"
+
+msgid "The item can't be validated"
+msgstr "Predmet nemôže byť schválený"
+
+msgid "The item has already been validated"
+msgstr "Predmet už bol schválený"
+
+msgid "Your item has been deleted"
+msgstr "Váš predmet bol vymazaný"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "Predmet, ktorý sa snažíte odstrániť nemôže byť zmazaný"
+
+msgid "The selected photo couldn't be deleted, the url doesn't exist"
+msgstr "Vybraná fotografia nemôže byť vymazaná. URL adresa neexistuje"
+
+msgid "The item doesn't exist"
+msgstr "Inzerát neexistuje"
+
+msgid "The item doesn't belong to you"
+msgstr "Inzerát nebol vložený Vami"
+
+msgid "The selected photo has been successfully deleted"
+msgstr "Vybraná fotografia bola úspešne vymazaná"
+
+msgid "The selected photo couldn't be deleted"
+msgstr "Vybraná fotografia nemôže byť vymazaná"
+
+msgid "Thanks! That's very helpful"
+msgstr "Ďakujeme, bolo to veľmi nápomocné"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "Ľutujeme, ale inzerát expiroval. Nie je možné kontaktovať predajcu"
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "Práve sme odoslali predajcovi e-mail"
+
+msgid "Sorry, we could not save your comment. Try again later"
+msgstr "Ospravedlňujeme sa, ale nemôžeme uložiť Váš komentár. Skúste to neskôr prosím"
+
+msgid "Your comment is awaiting moderation"
+msgstr "Váš komentár čaká na schválenie"
+
+msgid "Your comment has been approved"
+msgstr "Váš komentár bol schválený"
+
+msgid "Please fill the required fields (name, email)"
+msgstr "Prosím vyplňte povinné polia (meno, e-mail)"
+
+msgid "Please type a comment"
+msgstr "Prosím napíšte komentár"
+
+msgid "Your comment has been marked as spam"
+msgstr "Váš komentár bol označený ako spam"
+
+msgid "This item doesn't exist"
+msgstr "Tento inzerát neexistuje"
+
+msgid "The comment doesn't exist"
+msgstr "Komentár neexistuje"
+
+msgid "The comment is not active, you cannot delete it"
+msgstr "Komentár nie je aktívny, takže nemôže byť vymazaný"
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "Inzerát nebol potvrdený. Prosím potvrďte inzerát, aby sa zobrazoval ostatným uživateľom"
+
+msgid "This item hasn't been validated"
+msgstr "Inzerát nebol potvrdený"
+
+msgid "The username doesn't exist"
+msgstr "Užívateľské meno neexistuje"
+
+msgid "The user has not been validated yet"
+msgstr "Užívateľ zatiaľ nebol potvrdený"
+
+msgid "The password is incorrect"
+msgstr "Nesprávne heslo"
+
+msgid "We have sent you an email with the instructions to reset your password"
+msgstr "Poslali sme Vám e-mail s inštrukciami pre obnovenie Vášho hesla"
+
+msgid "Sorry, the link is not valid"
+msgstr "Ľutujeme, odkaz nie je platný"
+
+msgid "The password has been changed"
+msgstr "Heslo bolo zmenené"
+
+msgid "Error, the password don't match"
+msgstr "Chyba, heslo nesúhlasí"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "Užívateľ bol vytvorený. Aktivačný e-mail bol odoslaný"
+
+msgid "Your account has been created successfully"
+msgstr "Váš účet bol úspešne vytvorený"
+
+msgid "The specified e-mail is already in use"
+msgstr "Zvolený e-mail už v našej databáze existuje"
+
+msgid "The reCAPTCHA was not introduced correctly"
+msgstr "Kontrolný kód nebol odpísaný správne"
+
+msgid "Your account has been validated"
+msgstr "Váš účet bol potvrdený"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "Odkaz nie je naďalej platný. Ospravedlňujeme sa za spôsobené komplikácie!"
+
+msgid "Your email has been changed successfully"
+msgstr "Váš e-mail bol úspešne zmenený"
+
+msgid "Your profile has been updated successfully"
+msgstr "Váš profil bol úspešne aktualizovaný"
+
+msgid "The specified e-mail is not valid"
+msgstr "Zadaný email nie je platný"
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "Poslali sme Vám e-mail. Postupujte podla inštrukcií pre potvrdenie zmien"
+
+msgid "We tried to sent you an e-mail, but it failed. Please, contact the administrator"
+msgstr "Pokúsili sme sa Vám odoslať e-mail, ale akcia zlyhala. Kontaktujte prosím administrátora"
+
+msgid "Current password doesn't match"
+msgstr "Súčasné heslo nesúhlasí"
+
+msgid "Passwords can't be empty"
+msgstr "Heslá nesmú byť prázdne"
+
+msgid "Password has been changed"
+msgstr "Heslo bolo zmenené"
+
+msgid "Email invalid"
+msgstr "Neplatný e-mail"
+
+msgid "Username invalid"
+msgstr "Neplatné užívateľské meno"
+
+msgid "Password invalid"
+msgstr "Neplatné heslo"
+
+msgid "Email already in use"
+msgstr "E-mail je používaný iným užívateľom"
+
+msgid "Username already in use"
+msgstr "Užívateľské meno už existuje"
+
+msgid "The admin has been added"
+msgstr "Administrátor bol pridaný"
+
+msgid "There have been an error adding a new admin"
+msgstr "Vyskytla sa chyba pri vytváraní nového administrátora"
+
+msgid "There is no admin admin with this id"
+msgstr "Admin s uvedeným ID neexistuje"
+
+msgid "This admin doesn't exist"
+msgstr "Administrátor neexistuje"
+
+msgid "Existing email"
+msgstr "Existujúci email"
+
+msgid "Existing username"
+msgstr "Existujúce užívateľské meno"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "Nepodarilo sa aktualizovať heslo. Heslá nesúhlasia"
+
+msgid "The admin has been updated"
+msgstr "Administrátor bol aktualizovaný"
+
+msgid "The admin id isn't in the correct format"
+msgstr "ID administrátora nie je v správnom formáte"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "Operácia nebola dokončená, pokúšate sa odstrániť sám seba!"
+
+msgid "The admin has been deleted correctly"
+msgstr "Administrátor úspešne vymazaný"
+
+msgid "The admin couldn't be deleted"
+msgstr "Administrátor nemôže byť vymazaný"
+
+msgid "The theme folder is not writable"
+msgstr "Do adresára tém sa nedá zapisovať"
+
+msgid "The theme has been installed correctly"
+msgstr "Téma bola nainštalovaná správne"
+
+msgid "The zip file is not valid"
+msgstr "Súbor zip nie je platný"
+
+msgid "There was a problem adding the theme"
+msgstr "Objavila sa chyba počas pridávania témy"
+
+msgid "Widget removed correctly"
+msgstr "Widget odstránený"
+
+msgid "Widget added correctly"
+msgstr "Widget úspešne pridaný"
+
+msgid "Theme activated correctly"
+msgstr "Téma úspešne nainštalovaná"
+
+msgid "The comments have been deleted"
+msgstr "Komentáre boli vymazané"
+
+msgid "The comments have been approved"
+msgstr "Komentáre boli schválené"
+
+msgid "The comments have been disapproved"
+msgstr "Komentáre neboli schválené"
+
+msgid "The comment has been approved"
+msgstr "Komentár bol schválený"
+
+msgid "The comment has been disapproved"
+msgstr "Komentár nebol schválený"
+
+msgid "Great! We just updated your comment"
+msgstr "Výborne! Práve ste aktualizovali Váš komentár"
+
+msgid "The comment have been deleted"
+msgstr "Komentár bol vymazaný"
+
+msgid "The email/alert has been updated"
+msgstr "E-mail/upozornenie bolo aktualizované"
+
+msgid "You can't repeat internal name"
+msgstr "Nemôžete zopakovať interné meno"
+
+msgid "The email couldn't be updated, at least one title should not be empty"
+msgstr "E-mail nemohol byť aktualizovaný, aspoň jeden názov by nemal byť prázdny"
+
+msgid "The items have been activated"
+msgstr "Inzeráty boli aktivované"
+
+msgid "The items have been deactivated"
+msgstr "Inzeráty boli deaktivované"
+
+msgid "The items have been marked as premium"
+msgstr "Inzeráty boli označené ako prémiové"
+
+msgid "The changes have been made"
+msgstr "Zmeny boli vykonané"
+
+msgid "The item has been deleted"
+msgstr "Inzerát bol vymazaný"
+
+msgid "The item couldn't be deleted"
+msgstr "Inzerát nemôže byť vymazaný"
+
+msgid "The item has been activated"
+msgstr "Inzerát bol aktivovaný"
+
+msgid "The item has been deactivated"
+msgstr "Inzerát bol deaktivovaný"
+
+msgid "Changes have been applied"
+msgstr "Zmeny boli použité"
+
+msgid "Changes saved correctly"
+msgstr "Zmeny uložené"
+
+msgid "Resource deleted"
+msgstr "Zdroj vymazaný"
+
+msgid "A new item has been added"
+msgstr "Nový inzerát bol pridaný"
+
+msgid "The translation folder is not writable"
+msgstr "Do zložky prekladu nie je možné zapisovať"
+
+msgid "The language has been installed correctly"
+msgstr "Jazyk bol nainštalovaný správne"
+
+msgid "There was a problem adding the language"
+msgstr "Vyskytla sa chyba počas pridávania jazyka"
+
+msgid "Language id isn't in the correct format"
+msgstr "ID jazyka nie je v správnom formáte"
+
+msgid "Language id doesn't exist"
+msgstr "ID jazyka neexistuje"
+
+msgid "Language name can't be empty"
+msgstr "Názov jazyka nemôže byť prázdny"
+
+msgid "Language short name can't be empty"
+msgstr "Skratka jazyka nemôže byť prázdna"
+
+msgid "Language description can't be empty"
+msgstr "Popis jazyka nemôže byť prázdny"
+
+msgid "%s has been updated"
+msgstr "%s bol aktualizovaný"
+
+msgid "The language has been enabled for the public website"
+msgstr "Jazyk bol povolený pre verejnú web stránku"
+
+msgid "The language has been disabled for the public website"
+msgstr "Jazyk bol zakázaný pre verejnú web stránku"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "Jazyk bol povolený pre administráciu (oc-admin)"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "Jazyk bol zakázaný pre administráciu (oc-admin)"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "Vyskytol sa problém pri aktualizácii jazyka. ID jazyka bolo stratené"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "Vybrané jazyky boli povolené pre web stránku"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "Vyskytol sa problém pri aktualizácii jazykov. ID jazykov boli stratené"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "Zvolené jazyky boli zakázané pre web stránku"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "Zvolené jazyky boli povolené pre administráciu (oc-admin)"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "Zvolené jazyky boli zakázané pre administráciu (oc-admin)"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "Adresár \\\"%s\\\" nemohol byť odstránený"
+
+msgid "Directory \"%s\" has been successfully removed"
+msgstr "Adresár \\\"%s\\\" bol úspešne odstránený"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "Adresár \\\"%s\\\" nemohol byť odstránený pretože sa jedná o východzí jazyk. Najprv nastavte iný jazyk jako východzí a potom akciu opakujte."
+
+msgid "That username does not exist"
+msgstr "Užívateľské meno neexistuje"
+
+msgid "A new password has been sent to your e-mail"
+msgstr "Nové heslo bolo zaslané na Váš email"
+
+msgid "The page has been updated"
+msgstr "Stránka bola aktualizovaná"
+
+msgid "The page couldn't be updated, at least one title should not be empty"
+msgstr "Stránka nemúže byť aktializovaná. najmenej jeden názov musí byť vyplnený"
+
+msgid "You have to set an internal name"
+msgstr "Musíte nastaviť interné meno"
+
+msgid "The page has been added"
+msgstr "Stránka bola pridaná"
+
+msgid "The page couldn't be added, at least one title should not be empty"
+msgstr "Stránka nemôže byť pridaná, aspoň jeden názov musí byť vyplnený"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "Chups! interné meno už existuje. Zmeny nie je možné vykonať"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "Jedna stránka nemôže byť vymazaná pretože je neodstrániteľná"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "stránok nemohlo byť zmazaných, pretože sú neodstrániteľné"
+
+msgid "One page couldn't be deleted"
+msgstr "Jedna stránka nemôže byť vymazaná"
+
+msgid "pages couldn't be deleted"
+msgstr "stránok nemohlo byť zmazaných"
+
+msgid "One page has been deleted correctly"
+msgstr "Jedna stránka bola úspešne vymazaná"
+
+msgid "pages have been deleted correctly"
+msgstr "stránok bol úspešne zmazaných"
+
+msgid "The plugin folder is not writable"
+msgstr "Do priečinku pluginu sa nedá zapisovať"
+
+msgid "The plugin has been uploaded correctly"
+msgstr "Plugin bol úspešne nahraný"
+
+msgid "There was a problem adding the plugin"
+msgstr "Vyskytla sa chyba počas pridávania pluginu"
+
+msgid "Plugin installed"
+msgstr "Plugin nainštalovaný"
+
+msgid "Plugin uninstalled"
+msgstr "Plugin odinštalovaný"
+
+msgid "No plugin selected"
+msgstr "Nebol vybraný žiadny plugin"
+
+msgid "Configuration was saved"
+msgstr "Konfigurácia bola uložená"
+
+msgid "Items' settings have been updated"
+msgstr "Nastavenie inzerátov bolo aktualizované"
+
+msgid "Comments' settings have been updated"
+msgstr "Nastavenie komentárov bolo aktualizované"
+
+msgid "Users' settings have been updated"
+msgstr "Užívateľské nastavenie bolo aktualizované"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Nastavenie Akismet a reCAPTCHA aktualizované"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "Chyba. Kód meny nie je v správnom formáte"
+
+msgid "New currency has been added"
+msgstr "Nová mena bola pridaná"
+
+msgid "Error: currency couldn't be added"
+msgstr "Chyba. Menu sa nepodarilo pridať"
+
+msgid "Error: the currency doesn't exist"
+msgstr "Chyba. Mena neexistuje"
+
+msgid "Currency has been updated"
+msgstr "Mena bola aktualizovaná"
+
+msgid "Mail server type is incorrect"
+msgstr "Typ mailového serveru je neplatný"
+
+msgid "Mail server configuration has changed"
+msgstr "Nastavenie mailového serveru bolo zmenené"
+
+msgid "Media config has been updated"
+msgstr "Konfigurácia médií aktualizovaná"
+
+msgid "Contact configuration has been updated"
+msgstr "Konfigurácia kontaktu bola aktualizovaná"
+
+msgid "Cron config has been updated"
+msgstr "Konfigurácia funkcie Cron aktualizovaná"
+
+msgid "General settings have been updated"
+msgstr "Hlavné nastavenie bolo aktualizované"
+
+msgid "Import complete"
+msgstr "Import dokončený"
+
+msgid "There was a problem importing data to the database"
+msgstr "Vyskytla sa chyba počas importovania dát do databázy"
+
+msgid "Re-generation complete"
+msgstr "Obnova dokončená"
+
+msgid "Path is empty"
+msgstr "Cesta je prázdna"
+
+msgid "There are no tables to back up"
+msgstr "Tabuľky pre zálohu nie sú k dispozícii"
+
+msgid "The folder is not writable"
+msgstr "Do priečinka sa nedá zapisovať"
+
+msgid "Backup has been done properly"
+msgstr "Záloha prebehla úspešne"
+
+msgid "Archiving successful!"
+msgstr "Archivovanie prebehlo úspešne!"
+
+msgid "Error, the zip file was not created at the specified directory"
+msgstr "Chyba, súbor zip nebol vytvorený v uvedenom adresári"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "Užívateľ bol vytvorený. Aktivačný e-mail odslaný"
+
+msgid "The user has been created and activated"
+msgstr "Užívateľ bol vytvorený a aktivovaný"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "Ľutujeme, ale uvedený e-mail už bol použitý"
+
+msgid "The user has been updated and activated"
+msgstr "Užívatel bol aktualizovaný a aktivovaný"
+
+msgid "The user has been updated"
+msgstr "Užívateľ bol aktualizovaný"
+
+msgid "User id isn't in the correct format"
+msgstr "ID uživateľa nie je v správnom formáte"
+
+msgid "No user has been activated"
+msgstr "Žiadny užívateľ nebol aktivovaný"
+
+msgid "One user has been activated"
+msgstr "Jeden užívateľ bol aktivovaný"
+
+msgid "%s users have been activated"
+msgstr "%s užívateľov bolo aktivovaných"
+
+msgid "No user has been deactivated"
+msgstr "Žiadny užívatelia neboli deaktivovaní"
+
+msgid "One user has been deactivated"
+msgstr "Jeden užívateľ bol deaktivovaný"
+
+msgid "%s users have been deactivated"
+msgstr "%s užívateľov bolo deaktivovaných"
+
+msgid "No user has been deleted"
+msgstr "Žiadny užívateľ nebol vymazaný"
+
+msgid "One user has been deleted"
+msgstr "Jeden užívateľ bol vymazaný"
+
+msgid "%s users have been deleted"
+msgstr "%s užívateľov bolo vymazaných"
+
+msgid "We are very sorry but we could not deliver your message to your friend. Try again later"
+msgstr "Ľutujeme, ale nepodarilo sa doručiť Vašu správu priateľovi. Skúste to neskôr prosím."
+
+msgid "There has been some errors sending the message"
+msgstr "Vyskytli sa chyby počas odosielania správy"
+
+msgid "Invalid email address"
+msgstr "Neplatná e-mailová adresa"
+
+msgid "One of the files you tried to upload exceeds the maximum size"
+msgstr "Jeden zo súborov, ktorý sa snažíte nahrať, prekračuje maximálnu veľkosť"
+
+msgid "The file you tried to upload does not have an allowed extension"
+msgstr "Súbor ktorý sa pokúšate nahrať, nemá povolené rozšírenie"
+
+msgid "Error: Plugin already installed"
+msgstr "Chyba: Plugin je už nainštalovaný"
+
+msgid "%s has been added as a new country"
+msgstr "%s bolo pridané ako nová krajina"
+
+msgid "%s already was in the database"
+msgstr "%s už bolo v databáze"
+
+msgid "%s has been edited"
+msgstr "%s bolo editované"
+
+msgid "%s has been deleted"
+msgstr "%s bolo vymazané"
+
+msgid "%s can not be deleted, some items are located in it"
+msgstr "%s nemôže byť vymazaný, niektoré položky sú v ňom umiestnené"
+
+msgid "%s has been added as a new region"
+msgstr "%s bol pridaný ako nový Kraj"
+
+msgid "%s has been added as a new city"
+msgstr "%s bola pridaná ako nové mesto"
+
+msgid "No currencies have been deleted"
+msgstr "Žiadne meny neboli vymazané"
+
+msgid "One currency has been deleted"
+msgstr "Jedna mena bola vymazaná"
+
+msgid "%s currencies have been deleted"
+msgstr "%s mien bolo vymazaných"
+
+msgid "%s cannot be added"
+msgstr "%s nemôže byť pridané"
+
+msgid "%s has been added as a region of %s"
+msgstr "%s bolo pridané ako Kraj"
+
+msgid "Error: %s"
+msgstr "Chyba: %s"
+
+msgid "INACTIVE"
+msgstr "NEAKTÍVNY"
+
+msgid "DISABLED"
+msgstr "NEPOVOLENÉ"
+
+msgid "Check your inbox to verify your email address"
+msgstr "Skontrolujte si prijatú poštu pre potvrdenie e-mailovej adresy"
+
+msgid "Your item has been published"
+msgstr "Váš inzerát bol uverejnený"
+
+msgid "You can't contact the seller, only registered users can"
+msgstr "Nemôžete kontaktovať predajcu, túto možnosť majú len registrovaný užívatelia"
+
+msgid "You must be logged in to delete a comment"
+msgstr "Ak chcete vymazať komentár, musíte sa prihlásiť"
+
+msgid "The comment was not added by you, you cannot delete it"
+msgstr "Komentár nebol pridaný Vami, preto ho nemôžete odstrániť"
+
+msgid "The comment has been deleted"
+msgstr "Komentár bol vymazaný"
+
+msgid "The item has been suspended"
+msgstr "Inzerát bol pozastavený"
+
+msgid "The user has been suspended"
+msgstr "Užívateľ bol pozastavený"
+
+msgid "This should never happens"
+msgstr "Toto by sa nemalo stávať"
+
+msgid "We were not able to identify you given the information provided"
+msgstr "Nepodarilo sa Vás identifikovať na základe informácií, ktoré ste poskytli"
+
+msgid "The recaptcha code is wrong"
+msgstr "Kontrolný kód je nesprávny"
+
+msgid "The email is not valid"
+msgstr "E-mail je neplatný"
+
+msgid "Your account has already been validated"
+msgstr "Váš účet už bol potvrdený"
+
+msgid "Alert activated"
+msgstr "Upozornenie aktivované"
+
+msgid "Ops! There was a problem trying to activate alert. Please contact the administrator"
+msgstr "Ups! Vyskytol sa problém pri pokuse o aktiváciu upozornenia. Prosím kontaktujte administrátora"
+
+msgid "Unsubscribed correctly"
+msgstr "Zrušenie odberu prebehlo v poriadku"
+
+msgid "Ops! There was a problem trying to unsubscribe you. Please contact the administrator"
+msgstr "Ups! Vyskytol sa problém pri pokuse o zrušenie odberu. Prosím kontakujte administrátora"
+
+msgid "Real Name invalid"
+msgstr "Skutočné meno je neplatné"
+
+msgid "Categories' settings have been updated"
+msgstr "Nastavenie kategórií bolo aktualizované"
+
+msgid "The comment has been enabled"
+msgstr "Komentár bol povolený"
+
+msgid "The comment has been disabled"
+msgstr "Komentár bol zakázaný"
+
+msgid "The items have been enabled"
+msgstr "Inzeráty boli povolené"
+
+msgid "The items have been disabled"
+msgstr "Inzeráty boli zakázané"
+
+msgid "The item has been enabled"
+msgstr "Inzerát bol povolený"
+
+msgid "The item has been disabled"
+msgstr "Inzerát bol zakázaný"
+
+msgid "The item has been unmarked as"
+msgstr "Inzerát bol odznačený ako"
+
+msgid "The item hasn't been unmarked as"
+msgstr "Inzerát nebol odznačený ako"
+
+msgid "The language can't be disabled because it's the default language. You can change modify it in General Settings"
+msgstr "Jazyk nemôže byť odstránený, nakoľko sa jedná o predvolený východzí jazyk. Môžete to zmeniť v Hlavných nastaveniach"
+
+msgid "There was a fatal error and the plugin was not installed.<br />Error: \"%s\" Line: %s<br/>File: %s"
+msgstr "Vyskytla sa fatálna chyba, plugin nebol nainštalovaný <br>Error: \\\"%s\\\" Line: %s<br>File: %s"
+
+msgid "Country has been edited"
+msgstr "Krajina bola upravená"
+
+msgid "There were some problems editing the country"
+msgstr "Vyskytli sa problémy počas úpravy krajiny"
+
+msgid "%s could not be deleted because it's the default currency"
+msgstr "%s nemôže byť vymazaná, pretože sa jedná o východziu menu"
+
+msgid "Settings have been updated"
+msgstr "Nastavenia boli aktualizované"
+
+msgid "Could not connect with the database. Error: %s"
+msgstr "Nepodarilo sa spojiť s databázou. Chyba: %s"
+
+msgid "Could not select the database. Error: %s"
+msgstr "Nepodarilo sa vybrať databázu. Chyba %s"
+
+msgid "Maintenance mode is ON"
+msgstr "Mód údržby je ZAPNUTÝ"
+
+msgid "Maintenance mode is OFF"
+msgstr "Mód údržby je VYPNUTÝ"
+
+msgid "No user has been enabled"
+msgstr "Žiadny užívateľ nebol povolený"
+
+msgid "One user has been enabled"
+msgstr "Jeden užívatel bol povolený"
+
+msgid "%s users have been enabled"
+msgstr "%s užívateľov bolo povolených"
+
+msgid "No user has been disabled"
+msgstr "Žiadny užívateľ nebol zakázaný"
+
+msgid "One user has been disabled"
+msgstr "Jeden užívateľ bol zakázaný"
+
+msgid "%s users have been disabled"
+msgstr "%s užívateľov bolo zakázaných"
+
+msgid "Image with incorrect extension."
+msgstr "Obrázok s nesprávnou príponou"
+
+msgid "Images too big. Max. size"
+msgstr "Obrázok je priveľký. Max veľkosť"
+
+msgid "Title too short."
+msgstr "Názov je príliš krátky"
+
+msgid "Title too long."
+msgstr "Názov je príliš dlhý"
+
+msgid "Description too short."
+msgstr "Popis je príliš krátky"
+
+msgid "Description too long."
+msgstr "Popis je príliš dlhý"
+
+msgid "Category invalid."
+msgstr "Neplatná kategória"
+
+msgid "Price must be number."
+msgstr "Cena musí byť číslo"
+
+msgid "Price too long."
+msgstr "Cena je príliš dlhá"
+
+msgid "Name too long."
+msgstr "Meno je príliš dlhé"
+
+msgid "Email invalid."
+msgstr "Neplatný e-mail"
+
+msgid "Municipality too short."
+msgstr "Príliš krátke"
+
+msgid "Municipality too long."
+msgstr "Príliš dlhé"
+
+msgid "Address too short."
+msgstr "Adresa je príliš krátka"
+
+msgid "Address too long."
+msgstr "Adresa je príliš dlhá"
+
+msgid "Too fast. You should wait a little to publish your ad."
+msgstr "Prirýchlo. Mali by ste trošku vydržať kým bude možné uverejniť Váš inzerát"
+
+msgid "We just send your message to %s"
+msgstr "Práve sme Vám poslali správu na %s"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Ľutujeme, jedno pole s týmto menom už máte vyplnené"
+
+msgid "User registration is not enabled"
+msgstr "Registrácia užívateľov nie je povolená"
+
+msgid "No file was uploaded"
+msgstr "Žiadny súbor nebol nahraný"
+
+msgid "Widget updated correctly"
+msgstr "Widget updatnutý v poriadku"
+
+msgid "Widget cannot be updated correctly"
+msgstr "Widget nemôže byť korektne updatnutý "
+
+msgid "New custom field added"
+msgstr "Nové voliteľné pole pridané"
+
+msgid "Name can not be mepty"
+msgstr "Názov nesmie byť prázdny"
+
+msgid "The items have been marked as spam"
+msgstr "Inzeráty boli označené ako spam"
+
+msgid "The language can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "Tento jazyk nie je možné zakázať pretože je nastavený ako predvoľený. Predvolený jazyk môžete zmeniť v Hlavných nastaveniach"
+
+msgid "There was an error creating .maintenance file, please create it manually at the root folder"
+msgstr "Pri vatváraní súboru údržby sa vyskytla chyba, prosím vytvorte ho mauálne v koreňovom adresári"
+
+msgid "There was an error removing .maintenance file, please remove it manually from the root folder"
+msgstr "Pri odstraňovaní súboru údržby sa vyskytla chyba, prosím odstránte ho manuálne v koreňovom adresári"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "Obrázok loga bol úspešne nahraný"
+
+msgid "An error has occurred, please try again"
+msgstr "Vyskytla sa chyba, skuste to neskôr prosím"
+
+msgid "The logo image has been removed"
+msgstr "Obrázok loga bol vymazaný"
+
+msgid "Image not found"
+msgstr "Obrázok sa nenašiel"
+
+msgid "Country too short."
+msgstr "Názov krajiny je príliš krátky"
+
+msgid "Country too long."
+msgstr "Názov krajiny je príliš dlhý"
+
+msgid "Region too short."
+msgstr "Názov kraja je príliš krátky"
+
+msgid "Region too long."
+msgstr "Názov kraja je príliš dlhý"
+
+msgid "City too short."
+msgstr "Názov mesta je príliš krátky"
+
+msgid "City too long."
+msgstr "Názov mesta je príliš dlhý"
+
+msgid "%s field is required."
+msgstr "%s toto pole je nutné vyplniť"
+

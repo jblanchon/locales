@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "صفحه مورد نظر پیدا نشد"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "اشتراک شما در این اعلامیه با موفقیت انجام شد"
+
+msgid "There was a problem with the alert"
+msgstr "! پیغام خطا"
+
+msgid "Subscribe to this search"
+msgstr "مشترک شدن در این جستجو"
+
+msgid "Subscribe now"
+msgstr "مشترک شوید"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "Your name"
+msgstr "نام شما"
+
+msgid "Your e-mail address"
+msgstr "آدرس ایمیل شما"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Contact"
+msgstr "تماس با ما"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "  درج آگهي در این سايت رايگان است و مسئوليت آن با آگهي دهنده مي‌باشد.   با افتخار نیرو گرفته از <strong><a title=\"\\&quot;OpenSourceClassifieds\" web\\\"=\"\" href=\"%5C%22http://www.opensourceclassifieds.org/%5C%22\">OpenSourceClassifieds</a></strong>  <a title=\"امین بهشتی\" web\\\"=\"\" href=\"http://www.aminbeheshti.com\">ترجمه سایت توسط امین بهشتی</a>"
+
+msgid "Publish an item"
+msgstr "انتشار یک آگهی"
+
+msgid "Edit your item"
+msgstr "ویرایش آگهی"
+
+msgid "Send to a friend"
+msgstr "ارسال به دوست"
+
+msgid "Contact seller"
+msgstr "تماس با آگهی دهنده"
+
+msgid "page"
+msgstr "صفحه"
+
+msgid "Show all items"
+msgstr "نمایش تمام آگهی ها"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Recover your password"
+msgstr "بازیابی رمزعبور شما"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Create a new account"
+msgstr "ساخت یک حساب جدید"
+
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+msgid "Manage my items"
+msgstr "مدیریت آگهی های من "
+
+msgid "Manage my alerts"
+msgstr "مدیریت پیغام های من"
+
+msgid "Update my profile"
+msgstr "بروزرسانی پروفایل"
+
+msgid "Change my email"
+msgstr "تغییر آدرس ایمیل"
+
+msgid "Change my password"
+msgstr "تغییر رمزعبور"
+
+msgid "Recover my password"
+msgstr "بازیابی رمزعبور من"
+
+msgid "Hi %s"
+msgstr " %s سلام"
+
+msgid "My account"
+msgstr "حساب کاربری من"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "Register for a free account"
+msgstr "ثبت نام رایگان"
+
+msgid "E-mail"
+msgstr "ایمیل"
+
+msgid "Password"
+msgstr "رمزعبور"
+
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "Log in"
+msgstr "ورود"
+
+msgid "Forgot password?"
+msgstr "رمزعبور را فراموش کرده اید؟"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Publish your ad for free"
+msgstr "ارسال رایگان آگهی"
+
+msgid "ie. PHP Programmer"
+msgstr "جستجو در سایت. مثال: طراح وب سایت"
+
+msgid "Select a category"
+msgstr "انتخاب یک دسته"
+
+msgid "To (seller)"
+msgstr "(به (آگهی دهنده"
+
+msgid "Item"
+msgstr "آگهی"
+
+msgid "Phone number"
+msgstr "شماره تلفن"
+
+msgid "Send message"
+msgstr "ارسال پیام"
+
+msgid "Update your item"
+msgstr "بروزرسانی آگهی"
+
+msgid "General Information"
+msgstr "اطلاعات عمومی"
+
+msgid "Category"
+msgstr "دسته"
+
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Photos"
+msgstr "تصاویر"
+
+msgid "Add new photo"
+msgstr "افزودن تصویر جدید"
+
+msgid "Location"
+msgstr "موقعیت جغرافیایی"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Region"
+msgstr "منطقه"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "City area"
+msgstr "منطقه شهری"
+
+msgid "Address"
+msgstr "آدرس"
+
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Item Location"
+msgstr "مکان آگهی"
+
+msgid "City Area"
+msgstr "ناحیه شهر"
+
+msgid "Seller's information"
+msgstr "اطلاعات آگهی دهنده"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Show e-mail on the item page"
+msgstr "نمایش ایمیل در صفحه آگهی"
+
+msgid "Publish"
+msgstr "انتشار"
+
+msgid "Your friend's name"
+msgstr "نام دوست شما"
+
+msgid "Your friend's e-mail address"
+msgstr "ایمیل دوست شما"
+
+msgid "Mark as"
+msgstr "علامتگذاری با عنوان"
+
+msgid "spam"
+msgstr "هرزنامه"
+
+msgid "misclassified"
+msgstr "فوق العاده"
+
+msgid "duplicated"
+msgstr "تکراری"
+
+msgid "expired"
+msgstr "منقضی شده"
+
+msgid "offensive"
+msgstr "توهین آمیز"
+
+msgid "Share"
+msgstr "ارسال این آگهی به دوستان"
+
+msgid "Useful information"
+msgstr "اطلاعات مفید"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "شما می توانید با عضویت در سایت به صورت رایگان آگهی منتشر کنید"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "شما می توانید به رایگان در این سایت با نقشه های گوگل مکان جغرافیایی آگهی خود را مشخص کنید"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "شما می توانید آگهی خود را به رایگان به زبان های مورد پشتیبانی سایت به طور جداگانه منتشر کنید"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "درج آگهي در این سایت رايگان است و مسئوليت آن با آگهي دهنده مي‌باشد"
+
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+msgid "by"
+msgstr "توسط"
+
+msgid "Delete your comment"
+msgstr "حذف دیدگاه شما"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "(دیدگاه خود را بنویسید (پیام های هرزنامه ها و توهین آمیز حذف خواهند شد"
+
+msgid "Your e-mail"
+msgstr "ایمیل شما"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Comment"
+msgstr "دیدگاه"
+
+msgid "Contact publisher"
+msgstr "تماس با آگهی دهنده"
+
+msgid "Tel"
+msgstr "تلفن تماس"
+
+msgid "Enter the words above"
+msgstr "کلمات بالا را وارد کنید"
+
+msgid "Help"
+msgstr "راهنما"
+
+msgid "Latest Items"
+msgstr "آخرین آگهی ها"
+
+msgid "No Latest Items"
+msgstr "آگهی نیست هنوز"
+
+msgid "See all offers"
+msgstr "همه پیشنهادها را ببینید"
+
+msgid "Search results"
+msgstr "نتایج جستجو"
+
+msgid "Sort by"
+msgstr "مرتب کردن بر اساس"
+
+msgid "There are no results matching \"%s\""
+msgstr "%s:موردی مطابق با جستجوی شما وجود نداشت"
+
+msgid "Your search"
+msgstr "جستجوی شما"
+
+msgid "Show only"
+msgstr "نمایش فقط"
+
+msgid "Show only items with pictures"
+msgstr "فقط نمایش آگهی های عکسدار"
+
+msgid "Min"
+msgstr "حداقل"
+
+msgid "Max"
+msgstr "حداکثر"
+
+msgid "Apply"
+msgstr "اعمال کردن"
+
+msgid "Selected"
+msgstr "منتخب"
+
+msgid "Nothing selected, input was"
+msgstr "هیچ چیز انتخاب نشده، ورودی بود"
+
+msgid "User account manager"
+msgstr "مدیریت حساب کاربری"
+
+msgid "Your alerts"
+msgstr "پیام های شما"
+
+msgid "You do not have any alerts yet"
+msgstr "شما هنوز هیچ پیامی ندارید"
+
+msgid "Alert"
+msgstr "پیام"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "این اقدام قابل بازگرداندن نیست. آیا مطمئن هستید که می خواهید ادامه دهید؟"
+
+msgid "Delete this alert"
+msgstr "حذف این پیام"
+
+msgid "Publication date"
+msgstr "تاریخ انتشار"
+
+msgid "Change your e-mail"
+msgstr "تغییر ایمیل شما"
+
+msgid "Current e-mail"
+msgstr "ایمیل فعلی"
+
+msgid "New e-mail"
+msgstr "ایمیل جدید"
+
+msgid "Change your password"
+msgstr "تغییر رمزعبور شما"
+
+msgid "Current password"
+msgstr "رمز فعلی"
+
+msgid "New password"
+msgstr "رمز جدید"
+
+msgid "Repeat new password"
+msgstr "تکرار رمز جدید"
+
+msgid "Items from %s"
+msgstr "%s آگهی ها از"
+
+msgid "No items have been added yet"
+msgstr " هنوز هیچ آگهی اضافه نشده است"
+
+msgid "New pasword"
+msgstr "رمز جدید"
+
+msgid "Repeat new pasword"
+msgstr "تکرار رمز جدید"
+
+msgid "Change password"
+msgstr "تغییر رمز"
+
+msgid "Your items"
+msgstr "آگهی های شما"
+
+msgid "Post a new item"
+msgstr "ارسال آگهی جدید"
+
+msgid "You don't have any items yet"
+msgstr "شما هنوز هیچ آگهی ندارید"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "این اقدام قابل بازگرداندن نیست. آیا مطمئن هستید که می خواهید ادامه دهید؟"
+
+msgid "Activate"
+msgstr "فعال کردن"
+
+msgid "Access to your account"
+msgstr "دسترسی به حساب کاربری خود"
+
+msgid "Update your profile"
+msgstr "بروزرسانی مشخصات شما"
+
+msgid "Modify e-mail"
+msgstr "تصحیح ایمیل"
+
+msgid "Modify password"
+msgstr "تغییر رمزعبور"
+
+msgid "User type"
+msgstr "نوع کاربر"
+
+msgid "Cell phone"
+msgstr "تلفن همراه"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "Website"
+msgstr "وبسایت"
+
+msgid "Send me a new password"
+msgstr "رمزعبور جدیدی برایم ارسال کن"
+
+msgid "Register an account for free"
+msgstr "ثبت نام رایگان کاربر جدید"
+
+msgid "Re-type password"
+msgstr "نوشتن دوباره رمزعبور"
+
+msgid "Passwords don't match"
+msgstr "رمز ها مطابقت ندارند"
+
+msgid "Create"
+msgstr "ساختن"
+
+msgid "Invalid email address"
+msgstr "ایمیل نامعتبر است"
+
+msgid "Upload"
+msgstr "آپلود"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "برای اینکه یک دایرکتوری را قابل نوشتن کنید در UNIX این دستور را از شل اجرا کنید"
+
+msgid "optional"
+msgstr "اختیاری"
+
+msgid "Latest items"
+msgstr "آخرین آگهی ها"
+
+msgid "Modern theme"
+msgstr "پوسته مدرن"
+
+msgid "Settings theme"
+msgstr "تنظیمات پوسته"
+
+msgid "Image"
+msgstr "عکس"
+
+msgid "Published date"
+msgstr "تاریخ انتشار"
+
+msgid "Modified date"
+msgstr "تاریخ انجام تصحیح"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "اندازه مناسب برای لوگو 600 در 100 می باشد"
+
+msgid "Logo image"
+msgstr "(عکس لوگو(آرم"
+
+msgid "Remove logo"
+msgstr "پاک کردن لوگو"
+
+msgid "Has not uploaded any logo image"
+msgstr "هیچ عکسی برای لوگو آپلود نشده است"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "در سرورتان قابل نوشتن نیست %s پوشه عکس"
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "نمی تواند عکس لوگو را از صفحه مدیریت آپلود کند OpenSourceClassifieds"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "لطفا پوشه تصاویر ذکر شده را قابل نوشتن کنید"
+
+msgid "Contact us"
+msgstr "ارتباط با ما"
+
+msgid "Error"
+msgstr "خطا"
+
+msgid "No file selected"
+msgstr "فایلی انتخاب نشده"
+
+msgid "Choose File"
+msgstr "انتخاب فایل"
+
+msgid "Sponsored ad"
+msgstr "آگهی تحت حمایت"
+
+msgid "View item"
+msgstr "نمایش آگهی"
+
+msgid "Note: Uploading another logo will overwrite current logo"
+msgstr "نکته:آپلود کردن عکس جدید برای لوگو به جای عکس لوگوی کنونی می نشیند."
+
+msgid "The item is expired. You cannot contact the publisher."
+msgstr "آگهی منقضی شده است. شما نمی توانید با منتشر کننده تماس بگیرید."
+
+msgid "It's your own item, you cannot contact the publisher."
+msgstr "این آگهی خود شماست، شما نمی توانید با منتشر کننده تماس بگیرید"
+
+msgid "You must login or register a new free account in order to contact the advertiser"
+msgstr "برای تماس با شخص تبلیغ کننده بایستی وارد سیستم شوید یا اینکه یک حساب کاربری جدید باز کنید."
+
+msgid "%s's profile"
+msgstr "%s پروفایل"
+
+msgid "Profile"
+msgstr "پروفایل"
+
+msgid "Full name"
+msgstr "نام کامل"
+

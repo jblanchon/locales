@@ -1,0 +1,1708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "当前版本："
+
+msgid "Downloading update file:"
+msgstr "下载更新文件："
+
+msgid "Unzipping file:"
+msgstr "解压文件："
+
+msgid "Copying old files:"
+msgstr "复制就文件："
+
+msgid "Removing new files:"
+msgstr "删除新文件"
+
+msgid "Executing SQL:"
+msgstr "执行SQL："
+
+msgid "Executing additional actions:"
+msgstr "执行附加动作："
+
+msgid "Cleaning all the mess:"
+msgstr "删除所有信息："
+
+msgid "Contact"
+msgstr "联系人"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Dashboard"
+msgstr "控制面板"
+
+msgid "My account"
+msgstr "我的账户"
+
+msgid "Logout"
+msgstr "退出"
+
+msgid "E-mail"
+msgstr "邮箱"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Remember me"
+msgstr "记住我"
+
+msgid "Log in"
+msgstr "登陆"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Select a category"
+msgstr "选择分类"
+
+msgid "Item"
+msgstr "条目"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Photos"
+msgstr "图片"
+
+msgid "Add new photo"
+msgstr "添加图片"
+
+msgid "Location"
+msgstr "定位"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "City"
+msgstr "城市"
+
+msgid "City area"
+msgstr "城市地区"
+
+msgid "Address"
+msgstr "地质"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "City Area"
+msgstr "城市地区"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Comments"
+msgstr "留言"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Comment"
+msgstr "留言"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Apply"
+msgstr "保存"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "刚才的动作没有完成.您确定要继续吗？"
+
+msgid "Current password"
+msgstr "当前密码"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "New pasword"
+msgstr "新密码"
+
+msgid "Repeat new pasword"
+msgstr "重新新密码"
+
+msgid "Change password"
+msgstr "修改密码"
+
+msgid "Edit"
+msgstr "修改"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "刚才的动作没有完成.您确定要继续吗？"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "User type"
+msgstr "用户类型"
+
+msgid "Cell phone"
+msgstr "个人电话"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Passwords don't match"
+msgstr "密码不符"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "The categories have been deleted"
+msgstr "改分类已被删除"
+
+msgid "The category has been enabled"
+msgstr "该分类有效"
+
+msgid "The category has been disabled"
+msgstr "该分类无效"
+
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr "该分类还未被设置"
+
+msgid "Invalid email address"
+msgstr "无效的邮箱地址"
+
+msgid "no action defined"
+msgstr "未定义动作"
+
+msgid "Contact form"
+msgstr "联系表单"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Latest items added"
+msgstr "近期添加记录"
+
+msgid "Latest items added in"
+msgstr "近期添加地记录"
+
+msgid "Checking for update files."
+msgstr "检查文件更新"
+
+msgid "File downloaded correctly"
+msgstr "文件已被正确的下载"
+
+msgid "Missing filename"
+msgstr "错误得文件名"
+
+msgid "Removing temp-directory"
+msgstr "删除临时文件"
+
+msgid "Archiving is sucessful!"
+msgstr "存档成功"
+
+msgid "Error, can't create a zip file!"
+msgstr "错误，不能创建ZIP文件"
+
+msgid "OK"
+msgstr "好"
+
+msgid "Unzip failed"
+msgstr "解压失败"
+
+msgid "Filename incorrect"
+msgstr "文件名错误"
+
+msgid "Files removed"
+msgstr "文件删除"
+
+msgid "No files to remove"
+msgstr "没有文件删除"
+
+msgid "There were problems copying files"
+msgstr "复制出现错误"
+
+msgid "Nothing to copy"
+msgstr "没有文件可复制"
+
+msgid "Files copied"
+msgstr "文件已被复制"
+
+msgid "upgrade.sql executed"
+msgstr "更新语句已执行"
+
+msgid "No SQL to execute"
+msgstr "没有SQL语句可执行"
+
+msgid "Custom actions executed"
+msgstr "自定义动作已执行"
+
+msgid "No action to execute"
+msgstr "无执行动作"
+
+msgid "Checking for update files"
+msgstr "检查更新文件"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "复制文件错误，可能权限设置错误"
+
+msgid "Tables updated correctly"
+msgstr "表更新完成"
+
+msgid "No tables update to execute"
+msgstr "没有表格去执行"
+
+msgid "View comments"
+msgstr "查看留言"
+
+msgid "View media"
+msgstr "查看媒体"
+
+msgid "Deactivate"
+msgstr "取消激活"
+
+msgid "Unmark as premium"
+msgstr "取消优质标记"
+
+msgid "Mark as premium"
+msgstr "标记为优质"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds 管理面板登陆"
+
+msgid "Type your new password"
+msgstr "输入您的新密码"
+
+msgid "Back to"
+msgstr "回到"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+msgid "Please enter your username or e-mail address"
+msgstr "请输入您的用户名或者邮箱地址"
+
+msgid "You will receive a new password via e-mail"
+msgstr "您将会收到重置密码的邮箱"
+
+msgid "Get new password"
+msgstr "获取新密码"
+
+msgid "Thank you for using"
+msgstr "感谢使用"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Feedback"
+msgstr "反馈"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds控制面板"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s 可用！"
+
+msgid "Please upgrade now"
+msgstr "现在升级"
+
+msgid "Visit website"
+msgstr "访问网站"
+
+msgid "Hi"
+msgstr "您好"
+
+msgid "Your profile"
+msgstr "您的配置文件"
+
+msgid "Log Out"
+msgstr "退出"
+
+msgid "Admins"
+msgstr "管理员"
+
+msgid "Add new admin"
+msgstr "添加新管理员"
+
+msgid "Real name"
+msgstr "真实姓名"
+
+msgid "required"
+msgstr "必须"
+
+msgid "User name"
+msgstr "用户名"
+
+msgid "Edit admin"
+msgstr "编辑 admin"
+
+msgid "Re-type new password"
+msgstr "重复新密码"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "如您不想修改密码请留空"
+
+msgid "Processing"
+msgstr "处理中"
+
+msgid "Show _MENU_ entries"
+msgstr ""
+
+msgid "No matching records found"
+msgstr "没有匹配的记录"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "显示0项的0到0记录"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "筛选from _MAX_ total entries"
+
+msgid "First"
+msgstr "第一页"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "Last"
+msgstr "最后一条"
+
+msgid "Show"
+msgstr "现实"
+
+msgid "entries"
+msgstr "页"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "该动作没有完成。您确定要继续？"
+
+msgid "Bulk actions"
+msgstr "批动作"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Theme package"
+msgstr "主题包"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "如果是UNIX主机请在命令行下执行命令以确保目录可写"
+
+msgid "Dashboard - Add New Widget"
+msgstr "控制面板 - 添加新插件"
+
+msgid "Create widget in %s"
+msgstr "在%s中创建插件"
+
+msgid "Description (only for internal purposes)"
+msgstr "描述"
+
+msgid "HTML Code for the Widget"
+msgstr "插件的HTML代码"
+
+msgid "Publish widget"
+msgstr "发布插件"
+
+msgid "Are you sure you want to cancel?"
+msgstr "您确定要取消？"
+
+msgid "Add a new theme"
+msgstr "添加新主题"
+
+msgid "Current theme"
+msgstr "当前主题"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Available themes"
+msgstr "有效得主题"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Widgets"
+msgstr "插件"
+
+msgid "Add HTML widget"
+msgstr "添加HTML插件"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Expirations days"
+msgstr "有效期"
+
+msgid "(0 = no expiration)"
+msgstr "（0表示没有限制）"
+
+msgid "Enabled"
+msgstr "有效"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Disable"
+msgstr "无效"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Enable"
+msgstr "有效"
+
+msgid "Edit comment"
+msgstr "编辑留言"
+
+msgid "Add a comment"
+msgstr "添加留言"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "You have to write a title."
+msgstr "必须填写标题"
+
+msgid "You have to write a comment."
+msgstr "必须填写留言"
+
+msgid "Author's name can not be empty."
+msgstr "作者名称不能为空"
+
+msgid "Author's email can not be empty."
+msgstr "作者的邮箱不能为空."
+
+msgid "Edit a comment on item:"
+msgstr "编辑该留言"
+
+msgid "View"
+msgstr "查看"
+
+msgid "It's a registered user"
+msgstr "他是一个注册用户"
+
+msgid "Edit user"
+msgstr "编辑用户"
+
+msgid "Author's e-mail"
+msgstr "作者的邮箱"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "De-activate"
+msgstr "取消激活"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Manage Comments"
+msgstr "管理留言"
+
+msgid "Edit email/alert"
+msgstr "编辑邮件/通知"
+
+msgid "Add an email/alert"
+msgstr "添加新邮箱/通知"
+
+msgid "Emails & Alerts"
+msgstr "邮件 & 通知"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "网名（名字更易识别）"
+
+msgid "Emails & alerts"
+msgstr "邮件通知"
+
+msgid "Items"
+msgstr "记录"
+
+msgid "Manage items"
+msgstr "记录管理"
+
+msgid "Add new item"
+msgstr "添加新记录"
+
+msgid "Manage media"
+msgstr "管理媒体"
+
+msgid "Manage categories"
+msgstr "管理分类"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "Manage pages"
+msgstr "管理页面"
+
+msgid "Create page"
+msgstr "创建新页"
+
+msgid "Manage emails & alerts"
+msgstr "邮件/通知管理"
+
+msgid "Manage themes"
+msgstr "管理主题"
+
+msgid "Add or remove widgets"
+msgstr "添加/删除插件"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Manage plugins"
+msgstr "管理插件"
+
+msgid "Add new plugin"
+msgstr "添加插件"
+
+msgid "Languages"
+msgstr "语言"
+
+msgid "Manage languages"
+msgstr "管理语言"
+
+msgid "Add a language"
+msgstr "添加语言"
+
+msgid "General settings"
+msgstr "常规设置"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Locations"
+msgstr "定位"
+
+msgid "Permalinks"
+msgstr "永久链接"
+
+msgid "Spam and bots"
+msgstr "垃圾信息和机器人"
+
+msgid "Currencies"
+msgstr "货币"
+
+msgid "Mail Server"
+msgstr "邮件服务器"
+
+msgid "Media"
+msgstr "媒体"
+
+msgid "Cron system"
+msgstr "计划任务系统"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Import data"
+msgstr "输入日期"
+
+msgid "Backup data"
+msgstr "返回日期"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "更新OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "新生缩略图"
+
+msgid "Manage users"
+msgstr "管理用户"
+
+msgid "Add new user"
+msgstr "添加新用户"
+
+msgid "Administrators"
+msgstr "管理员"
+
+msgid "List administrators"
+msgstr "列出管理员"
+
+msgid "Add new administrator"
+msgstr "添加管理员"
+
+msgid "Edit Your Profile"
+msgstr "编辑您的配置资料"
+
+msgid "New item"
+msgstr "新记录"
+
+msgid "Edit item"
+msgstr "编辑记录"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Item posted by"
+msgstr "该记录发表人"
+
+msgid "Non-registered user"
+msgstr "没有注册用户"
+
+msgid "E-Mail"
+msgstr "邮箱"
+
+msgid "General information"
+msgstr "常规信息"
+
+msgid "optional"
+msgstr "可选"
+
+msgid "Add item"
+msgstr "添加记录"
+
+msgid "Count"
+msgstr "统计"
+
+msgid "Filter by"
+msgstr "过滤"
+
+msgid "All"
+msgstr "所有"
+
+msgid "Pending"
+msgstr "挂起"
+
+msgid "Spam"
+msgstr "垃圾箱"
+
+msgid "Duplicated"
+msgstr "重复的"
+
+msgid "Misclassified"
+msgstr "错漏的"
+
+msgid "Offensive"
+msgstr "攻击性的"
+
+msgid "Expired"
+msgstr "过期的"
+
+msgid "Language package"
+msgstr "语言包"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "翻译文件夹不可被写，您不能从控制面板上传翻译包。请确保翻译包文件夹可写。"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "如果是UNIX主机请在命令行确保文件夹可写"
+
+msgid "Short name"
+msgstr "缩写"
+
+msgid "Currency format"
+msgstr "当前格式"
+
+msgid "Date format"
+msgstr "日期格式"
+
+msgid "Stopwords"
+msgstr "断词"
+
+msgid "Enabled for the public website"
+msgstr "公网有效"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "后台有效"
+
+msgid "Disable (website)"
+msgstr "无效（网站）"
+
+msgid "Disable (oc-admin)"
+msgstr "无效（后台）"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Enabled (website)"
+msgstr "有效（网站）"
+
+msgid "Enabled (oc-admin)"
+msgstr "有效（后台）"
+
+msgid "Bulk Actions"
+msgstr "批动作"
+
+msgid "Enable (Website)"
+msgstr "有效（站点）"
+
+msgid "Disable (Website)"
+msgstr "无效（站点）"
+
+msgid "Enable (oc-admin)"
+msgstr "有效（后台）"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "您想在控制面板看到哪个选项？"
+
+msgid "Latest items"
+msgstr "最新记录"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Latest comments"
+msgstr "最新留言"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds最新资讯"
+
+msgid "Items by category"
+msgstr "分类记录"
+
+msgid "There aren't any uploaded items yet"
+msgstr "还没有上传任何记录"
+
+msgid "Number of items"
+msgstr "记录条数"
+
+msgid "Number of public users"
+msgstr "公共用户数"
+
+msgid "Number of administrators"
+msgstr "管理员用户数"
+
+msgid "Commented on item"
+msgstr "留言记录"
+
+msgid "There aren't any comments yet"
+msgstr "还没有任何留言"
+
+msgid "new"
+msgstr "新的"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "不能从OpenSourceClassifieds获取新的,请稍后再试"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Attached to"
+msgstr "附件到"
+
+msgid "Edit page"
+msgstr "编辑页面"
+
+msgid "Add page"
+msgstr "添加页面"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "网名（更容易被识别）"
+
+msgid "View page"
+msgstr "查看页面"
+
+msgid "Add a new plugin"
+msgstr "添加插件"
+
+msgid "Plugin package"
+msgstr "插件包"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "服务器上的插件文件夹%s不可写"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds 不能从控制面板上传插件"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "请通过FTP或终端连接拷贝插件包,请确保涉及的插件文件夹可写"
+
+msgid "Select the categories where you want to apply these attributes"
+msgstr "选择分类修改属性"
+
+msgid "Preset categories"
+msgstr "初始化分类"
+
+msgid "Check all"
+msgstr "全选"
+
+msgid "Uncheck all"
+msgstr "取消全选"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "There's a new version. You should update!"
+msgstr "有新版本.请更新！"
+
+msgid "Uninstall"
+msgstr "卸载"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Create currency"
+msgstr "创建货币"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "It should be a three-character code"
+msgstr "至少三个字符"
+
+msgid "Comments settings"
+msgstr "留言设置"
+
+msgid "Comments enabled"
+msgstr "留言有效"
+
+msgid "Moderate comments"
+msgstr "适度地留言"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "有过成功留言的作者不需要验证（0：总是手动验证）"
+
+msgid "Notifications"
+msgstr "通告消息"
+
+msgid "Notify when there's a new comment"
+msgstr "有新消息时通知"
+
+msgid "Contact settings"
+msgstr "联系人设置"
+
+msgid "Attachment enabled"
+msgstr "附件有效"
+
+msgid "Cron"
+msgstr "计划任务"
+
+msgid "Auto-cron"
+msgstr "自动计划任务"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "一些OpenSourceClassifieds方法需要计划任务才能工作。选择主机是否支持他们。不选则不设置。更多请查看OpenSourceClassifieds计划任务系统"
+
+msgid "Edit currency"
+msgstr "编辑货币"
+
+msgid "Once it's created, it can't be modified"
+msgstr "一旦被创立就不能被修改"
+
+msgid "Page title"
+msgstr "页面标题"
+
+msgid "Page description"
+msgstr "页面描述"
+
+msgid "Admin e-mail"
+msgstr "管理员邮箱"
+
+msgid "Default language"
+msgstr "默认语言"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Default currency"
+msgstr "默认货币"
+
+msgid "Week starts on"
+msgstr "每周开始于"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Time format"
+msgstr "时间格式"
+
+msgid "Number of items in the RSS"
+msgstr "RSS中的记录条数"
+
+msgid "Enable reCAPTCHA"
+msgstr "防垃圾有效"
+
+msgid "Enable item validation by users"
+msgstr "根据用户查找有效记录"
+
+msgid "Logged users don't need to validate items"
+msgstr "登录用户不验证记录正确性"
+
+msgid "Only allow registered users to post items"
+msgstr "只有注册用户可以发表记录"
+
+msgid "Notify admin of new items"
+msgstr "管理员通知的新记录"
+
+msgid "Notify admin of contact items"
+msgstr "管理员联系记录"
+
+msgid "Notify admin of share"
+msgstr "管理员通知的分享"
+
+msgid "Optional fields"
+msgstr "选填字段"
+
+msgid "Enable price"
+msgstr "有效价格"
+
+msgid "Enable images"
+msgstr "有效图片"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "View more"
+msgstr "查看更多"
+
+msgid "Countries"
+msgstr "国家"
+
+msgid "Add new"
+msgstr "新增"
+
+msgid "Regions"
+msgstr "地区"
+
+msgid "Cities"
+msgstr "城市"
+
+msgid "Add new country"
+msgstr "添加新国家"
+
+msgid "Country code"
+msgstr "国家代号"
+
+msgid "Country code should have two characters"
+msgstr "国家代号必须有2个字"
+
+msgid "Edit country"
+msgstr "编辑国家"
+
+msgid "Add new region"
+msgstr "添加新地区"
+
+msgid "Edit region"
+msgstr "编辑地区"
+
+msgid "Add new city"
+msgstr "添加新城市"
+
+msgid "Edit city"
+msgstr "编辑城市"
+
+msgid "Mail server"
+msgstr "邮件服务器"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Server type"
+msgstr "主机类型"
+
+msgid "Custom Server"
+msgstr "自定义服务器"
+
+msgid "GMail Server"
+msgstr "GMail服务"
+
+msgid "Hostname"
+msgstr "主机名"
+
+msgid "Server port"
+msgstr "端口"
+
+msgid "Encryption"
+msgstr "机密"
+
+msgid "Options: blank, ssl or tls"
+msgstr "选项：空,ssl或tls"
+
+msgid "Enable SMTP authentication"
+msgstr "SMTP认证有效"
+
+msgid "Enter your e-mail server configuration"
+msgstr "输入邮件服务器配置"
+
+msgid "Media settings"
+msgstr "媒体设置"
+
+msgid "Configure media"
+msgstr "媒体配置"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "请在网站上设置图片首选尺寸（格式：宽*高 ，如：640x480）"
+
+msgid "Restrictions"
+msgstr "常规方法"
+
+msgid "Maximum size, in KB"
+msgstr "最大大小（KB）"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "允许的后缀（如：png,jpg,gif）"
+
+msgid "Dimensions"
+msgstr "尺寸"
+
+msgid "Thumbnail dimensions"
+msgstr "缩略图尺寸"
+
+msgid "Preview dimensions"
+msgstr "预览尺寸"
+
+msgid "Normal dimensions"
+msgstr "正常尺寸"
+
+msgid "Keep original image"
+msgstr "保持最初的图像"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr ""
+
+msgid "Permalinks settings"
+msgstr "永久链接设置"
+
+msgid "Friendly urls"
+msgstr "邮箱链接"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr ""
+
+msgid "Enable friendly urls"
+msgstr "友情链接有效"
+
+msgid ".htaccess file"
+msgstr ".htaccess 文件"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "服务器没有找到<em>mod_rewrite</em>模块"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr ""
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "错误，服务器.htaccess文件不可写。请在OpenSourceClassifieds系统安装目录创建名为.htaccess的文件，并写入以下内容。"
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr ".htaccess 文件已存在。请检查.htaccess文件有以下内容"
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "我们在OpenSourceClassifieds的安装根目录创建了.htaccess"
+
+msgid "Content of .htaccess file should look like this:"
+msgstr ".htaccess文件内容看上去像这样："
+
+msgid "Current content of your .htaccess file:"
+msgstr "当前.htaccess文件内容："
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet 密匙（跟worpress.com相同）"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "如果此项为空表示Akismet服务无效"
+
+msgid "Get your free key at"
+msgstr "免费获取密匙在"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "如果此项为空表示reCAPTCHA 服务无效"
+
+msgid "Get your free keys at"
+msgstr "免费获取密匙在"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA私密"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA公密"
+
+msgid "Users settings"
+msgstr "用户设置"
+
+msgid "Users enabled"
+msgstr "用户有效"
+
+msgid "User validation enabled"
+msgstr "用户验证有效"
+
+msgid "User registration enabled"
+msgstr "用户注册有效"
+
+msgid "Backup"
+msgstr "备份"
+
+msgid "You're offline! Please check your connection"
+msgstr "您不在线！请确保链接"
+
+msgid "Requested URL not found"
+msgstr "请求路径未找到"
+
+msgid "Internal server error"
+msgstr "网络服务器错误"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "错误.JSON解析请求失败"
+
+msgid "Request timeout"
+msgstr "请求超时"
+
+msgid "Unknown error"
+msgstr "不知名错误"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "备份OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "这里可以备份OpenSourceClassifieds。警告：如果您不指定备份文件夹，备份文件将会放到安装系统的根目录"
+
+msgid "Backup folder"
+msgstr "备份文件夹"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "将会创建备份文件夹。推荐您选择非公用的路径。更多请查看OpenSourceClassifieds文档"
+
+msgid "Back up database"
+msgstr "备份数据库"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "备份OpenSourceClassifieds安装"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr ""
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "如果您这里能对数据库进行添加，删除，修改操作。可以正常使用国家，地区，城市的导入功能"
+
+msgid "Data"
+msgstr "日期"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "令人满意的自动升级完成！"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "无效的OpenSourceClassifieds 请求"
+
+msgid "Upgrade"
+msgstr "升级"
+
+msgid "Re-type the password"
+msgstr "在输入一次密码"
+
+msgid "Additional information"
+msgstr "附加信息"
+
+msgid "Activate user"
+msgstr "激活用户"
+
+msgid "Deactivate user"
+msgstr "未激活用户"
+
+msgid "Update Date"
+msgstr "更新日期"
+
+msgid "Add a new user"
+msgstr "添加用户"
+
+msgid "Anonymous"
+msgstr "匿名"
+
+msgid "Admin mail system"
+msgstr "管理员邮件系统"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "插件%s丢失index.php文件%s"
+
+msgid "Plugin %s is missing its main file"
+msgstr "插件%s丢失主文件"
+
+msgid "Enter your e-mail"
+msgstr "输入邮箱"
+
+msgid "Select a country..."
+msgstr "选择国家"
+
+msgid "Select a region..."
+msgstr "选择地区"
+
+msgid "Select a city..."
+msgstr "选择城市"
+
+msgid "No results"
+msgstr "无结果"
+
+msgid "Description: needs to be longer"
+msgstr "描述需要更长"
+
+msgid "Title: this field is required"
+msgstr "标题：必填项"
+
+msgid "Title: enter at least 9 characters"
+msgstr "标题：至少9个字符"
+
+msgid "Title: no more than 80 characters"
+msgstr "标题：不能超过80个字符"
+
+msgid "Description: this field is required"
+msgstr "描述：必填项"
+
+msgid "Description: no more than 5000 characters"
+msgstr "描述：不能超过5000个字符"
+
+msgid "Choose one category"
+msgstr "选择一个分类"
+
+msgid "Price: enter a valid number"
+msgstr "价格：输入有效地数字"
+
+msgid "Price: no more than 15 characters"
+msgstr "价格：不能超过15个字符"
+
+msgid "Currency: make your selection"
+msgstr "货币：确认您的选择"
+
+msgid "Photo: must be %s"
+msgstr "图片：必须为%s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "名称：至少3个字符"
+
+msgid "Name: no more than 35 characters"
+msgstr "名称：不能超过35个字符"
+
+msgid "Email: this field is required"
+msgstr "邮件：必填项"
+
+msgid "Select a region"
+msgstr "选择地区"
+
+msgid "Select a city"
+msgstr "选择城市"
+
+msgid "City area: enter at least 3 characters"
+msgstr "城市：必须3个字符以上"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "该动作不能被完成。您确定要继续？"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Body"
+msgstr "主体"
+
+msgid "User Description"
+msgstr "用户描述"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Check with seller"
+msgstr "核对卖家"
+
+msgid "Newly listed"
+msgstr "最新的"
+
+msgid "Lower price first"
+msgstr "低价优先"
+
+msgid "Higher price first"
+msgstr "高价优先"
+
+msgid "Manage your items"
+msgstr "管理您的记录"
+
+msgid "Manage your alerts"
+msgstr "管理通知"
+
+msgid "%s in"
+msgstr "%s在"
+
+msgid "There's no description available in your language"
+msgstr "您的语言描述不可用"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "抱歉给您带来不便.%s正在维护"
+
+msgid "Your website is currently under maintenance mode"
+msgstr "您的网站正在维护模式下运作"
+
+msgid "Error removing file: %s"
+msgstr "删除文件错误：%s"
+
+msgid "Some error ocurred"
+msgstr "发生一些错误"
+
+msgid "Order saved"
+msgstr "订单保存"
+
+msgid "The subcategories has been enabled"
+msgstr "上级分类有效"
+
+msgid "The subcategories has been disabled"
+msgstr "上级分类无效"
+
+msgid "Error: %s"
+msgstr "错误：%s"
+
+msgid "Error while deleting"
+msgstr "删除时发生错误"
+
+msgid "All titles are required"
+msgstr "标题为必填项"
+
+msgid "Error while updating."
+msgstr "更新时发生错误"
+
+msgid "Saved"
+msgstr "保存"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "您的OpenSourceClassifieds安装文件已更新"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr ""
+
+msgid "Problems upgrading the database"
+msgstr "升级数据库是发生错误"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "复制文件错误。可能是权限问题"
+
+msgid "Download failed"
+msgstr "下载失败"
+
+msgid "Missing download URL"
+msgstr "下载URL丢失"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr ""
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "升级数据库是发生错误。发生以下查询错误"
+
+msgid "Clear"
+msgstr "清空"
+
+msgid "Forums"
+msgstr "论坛"
+
+msgid "Add new theme"
+msgstr "添加主题"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr ""
+
+msgid "Ajax error, try again."
+msgstr "ajax错误，稍后再试。"
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "警告：这样会删除该分类的全部记录。操作还未完成。确定继续？"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "拖拽您喜欢的分类。点击链接编辑分类"
+
+msgid "Add new category"
+msgstr "添加分类"
+
+msgid "Categories settings"
+msgstr "分类设置"
+
+msgid "Selectable parent categories"
+msgstr "可选父类"
+
+msgid "ACTIVE"
+msgstr "有效"
+
+msgid "INACTIVE"
+msgstr "失效"
+
+msgid "ENABLED"
+msgstr "激活"
+
+msgid "DISABLED"
+msgstr "禁用"
+
+msgid "Last Searches"
+msgstr "最近的搜索"
+
+msgid "Maintenance mode"
+msgstr "维护模式"
+
+msgid "Reports"
+msgstr "报告"
+
+msgid "Disabled"
+msgstr "无效"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "审核过的用户不用审核条数（0：永远手动审核）"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "发布间隔秒数（0：不需要等待）"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "只有注册用户可以联系卖家"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "每条记录图片个数（0：不限制）"
+
+msgid "Download more languages at %s"
+msgstr "在%s下载更多语言包"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "操作未完成，删除插件会对永久链接造成丢失。确定要继续?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "每页留言条数。您可以显示每页显示的留言条数。（0：同一页面显示所有留言）"
+
+msgid "Only allow registered users to post comments"
+msgstr "只允许注册用户发表留言"
+
+msgid "Number of recent items displayed at home"
+msgstr "家目录最近显示条数"
+
+msgid "Save latest searches"
+msgstr "保存近期搜索"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds不能保存用户最近的搜索。你可以使用“hot topics”查看他们"
+
+msgid "Keep last searches"
+msgstr "保持最近搜索"
+
+msgid "One hour"
+msgstr "一个小时"
+
+msgid "One day"
+msgstr "一天"
+
+msgid "One week"
+msgstr "一个星期"
+
+msgid "Forever (never delete)"
+msgstr "永久（不删除）"
+
+msgid "Keep last 1000 searches"
+msgstr "至少1000次搜索"
+
+msgid "Number of files to keep"
+msgstr "保存的文件数"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr ""
+
+msgid "Last 10 days"
+msgstr "最后10天"
+
+msgid "Last 10 weeks"
+msgstr "最后10星期"
+
+msgid "Last 10 months"
+msgstr "最后10个约"
+
+msgid "There're no statistics yet"
+msgstr "没有任何统计"
+
+msgid "Latest comments on the web"
+msgstr "网站得最新留言"
+
+msgid "New items"
+msgstr "新记录"
+
+msgid "Total number of items' views"
+msgstr "记录查看数"
+
+msgid "Latest items on the web"
+msgstr "网站近期记录"
+
+msgid "Active"
+msgstr "激活"
+
+msgid "Inactive"
+msgstr "禁用"
+
+msgid "Views"
+msgstr "查看"
+
+msgid "Total number of reports"
+msgstr "报告总数"
+
+msgid "Repeated"
+msgstr "重复"
+
+msgid "Bad category"
+msgstr "错误分类"
+
+msgid "Latest users on the web"
+msgstr "网站最近用户"
+
+msgid "Avg. items per user"
+msgstr "用户平均记录"
+
+msgid "items per user"
+msgstr "每用户记录"
+
+msgid "New users"
+msgstr "新用户"
+
+msgid "Users per country"
+msgstr "每个国家用户数"
+
+msgid "Unknown"
+msgstr "不知名"
+
+msgid "Users per region"
+msgstr "每地区用户数"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "当维护状态开始时，用户不能访问网站。请使用如下按钮打开/关闭维护按钮"
+
+msgid "Maintenance mode is:"
+msgstr "维护模式状态为："
+
+msgid "ON"
+msgstr "打开"
+
+msgid "OFF"
+msgstr "关闭"
+
+msgid "Disable maintenance mode"
+msgstr "关闭维护模式"
+
+msgid "Enable maintenance mode"
+msgstr "打开维护模式"
+
+msgid "Checking for updates"
+msgstr "检查更新"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "恭喜，您的插件安装更新完成！"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "恭喜，OpenSourceClassifieds 系统安装更新完成！"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "更新OpenSourceClassifieds 安装（可能话费一些时间）："
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr ""
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 666 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr ""
+
+msgid "Enable user"
+msgstr "有效用户"
+
+msgid "Disable user"
+msgstr "无效用户"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds >> 发生一些错误"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "更新数据库是发生以下错误："
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr ""
+
+msgid "Name: this field is required"
+msgstr "名字：必填项"
+
+msgid "Message: this field is required"
+msgstr "信息：必填项"
+
+msgid "City area: no more than 50 characters"
+msgstr "城市：50个字符以上"
+
+msgid "Address: enter at least 3 characters"
+msgstr "地址：至少3个字符"
+
+msgid "Address: no more than 100 characters"
+msgstr "地址：不能超过100个字符"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "抱歉，已达到最大图片广告数"
+
+msgid "Your name: this field is required"
+msgstr "名字：必填项"
+
+msgid "Friend's name: this field is required"
+msgstr "朋友名：必填项"
+
+msgid "Friend's email: this field is required"
+msgstr "朋友邮箱：必填项"
+
+msgid "Invalid friend's email address"
+msgstr "朋友邮箱不合法"
+
+msgid "Name: no more than 50 characters"
+msgstr "名字：不能超过50个字符"
+
+msgid "Password: this field is required"
+msgstr "密码：必填项"
+
+msgid "Password: enter at least 5 characters"
+msgstr "密码：至少5个字符"
+

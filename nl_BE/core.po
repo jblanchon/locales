@@ -1,0 +1,1708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "huidige versie:"
+
+msgid "Downloading update file:"
+msgstr "Downloaden update bestand:"
+
+msgid "Unzipping file:"
+msgstr "Unzippen bestand:"
+
+msgid "Copying old files:"
+msgstr "Kopieren oude bestanden:"
+
+msgid "Removing new files:"
+msgstr "Verwijderen nieuwe bestanden:"
+
+msgid "Executing SQL:"
+msgstr "Uitvoeren SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Uitvoeren aanvullende acties:"
+
+msgid "Cleaning all the mess:"
+msgstr "Alles opschonen:"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "My account"
+msgstr "Mijn account"
+
+msgid "Logout"
+msgstr "Afmelden"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Log in"
+msgstr "Aanmelden"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Select a category"
+msgstr "Kies een categorie"
+
+msgid "Search"
+msgstr "Zoek"
+
+msgid "Item"
+msgstr "Artikel"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Photos"
+msgstr "Foto's"
+
+msgid "optional"
+msgstr "optioneel"
+
+msgid "Add new photo"
+msgstr "Voeg een nieuwe foto toe"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Provincie"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "City area"
+msgstr "Wijk"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "City Area"
+msgstr "Wijk"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Comments"
+msgstr "Opmerking"
+
+msgid "Title"
+msgstr "Onderwerp"
+
+msgid "Comment"
+msgstr "Opmerking"
+
+msgid "Apply"
+msgstr "Pas toe"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Deze handeling kan niet ongedaan worden gemaakt. Weet je zeker dat je door wilt gaan?"
+
+msgid "Current password"
+msgstr "Huidig wachtwoord"
+
+msgid "New pasword"
+msgstr "Nieuw wachtwoord"
+
+msgid "Repeat new pasword"
+msgstr "Herhaal nieuw wachtwoord"
+
+msgid "Edit"
+msgstr "Bewerk"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Activate"
+msgstr "Activeer"
+
+msgid "Remember me"
+msgstr "Onthoudt mij"
+
+msgid "Cell phone"
+msgstr "Mobiele telefoon"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Passwords don't match"
+msgstr "Wachtwoorden komen niet overeen"
+
+msgid "Create"
+msgstr "Creëer"
+
+msgid "The categories have been deleted"
+msgstr "De categorieën zijn verwijderd"
+
+msgid "The category has been enabled"
+msgstr "De categorie is ingeschakeld"
+
+msgid "The category has been disabled"
+msgstr "De categorie is uitgeschakeld"
+
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr "Er was een probleem met deze pagina. Het ID voor de categorie is niet ingesteld"
+
+msgid "no action defined"
+msgstr "Geen actie aangegeven"
+
+msgid "Contact form"
+msgstr "Contact formulier"
+
+msgid "Administrator"
+msgstr "Beheerder"
+
+msgid "Checking for update files."
+msgstr "Checking voor vernieuwing van bestanden."
+
+msgid "File downloaded correctly"
+msgstr "Bestand succesvol gedownload"
+
+msgid "Missing filename"
+msgstr "Bestandsnaam mist"
+
+msgid "Removing temp-directory"
+msgstr "Verwijderen van temp-directory"
+
+msgid "Archiving is sucessful!"
+msgstr "Archivering is gelukt!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Foutmelding: zip file is niet gecreëerd kunnen worden!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Unzip mislukt"
+
+msgid "Filename incorrect"
+msgstr "Bestandsnaam onjuist"
+
+msgid "Files removed"
+msgstr "Bestanden verwijderd"
+
+msgid "No files to remove"
+msgstr "Er zijn geen bestanden om te verwijderen"
+
+msgid "There were problems copying files"
+msgstr "Er deden zich problemen voor tijdens het kopiëren van de bestanden"
+
+msgid "Nothing to copy"
+msgstr "Er is niks om te kopiëren"
+
+msgid "Files copied"
+msgstr "Bestanden gekopiëerd"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql uitgevoerd"
+
+msgid "No SQL to execute"
+msgstr "Geen SQL om uit te voeren"
+
+msgid "Custom actions executed"
+msgstr "Custom handeling uitgevoerd"
+
+msgid "No action to execute"
+msgstr "Geen handeling om uit te voeren"
+
+msgid "Checking for update files"
+msgstr "Checken om bestanden te vernieuwen"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Er deden zich problemen voor tijdens het kopiëren van de bestanden. Misschien zijn is de toegang tot de bestanden niet goed ingesteld"
+
+msgid "Tables updated correctly"
+msgstr "Tabellen zijn succesvol vernieuwd"
+
+msgid "No tables update to execute"
+msgstr "Er zijn geen tabel vernieuwingen om uit te voeren"
+
+msgid "View comments"
+msgstr "Bekijk opmerkingen"
+
+msgid "View media"
+msgstr "Bekijk media"
+
+msgid "Deactivate"
+msgstr "deactiveren"
+
+msgid "Unmark as premium"
+msgstr "Deselecteer als Premium"
+
+msgid "Mark as premium"
+msgstr "Selecteer als Premium"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds beheerders panel login"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Forgot your password?"
+msgstr "Ben je je wachtwoord vergeten?"
+
+msgid "Back to"
+msgstr "Ga terug naar"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Voer je gebruikersnaam of email adres in"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Je zal een nieuw wachtwoord via de mail ontvangen"
+
+msgid "Get new password"
+msgstr "Verkrijg een nieuw wachtwoord"
+
+msgid "Thank you for using"
+msgstr "Bedankt voor het gebruiken van"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Documentatie"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Beheerders Panel"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s is nu verkrijgbaar!"
+
+msgid "Please upgrade now"
+msgstr "Upgrade nu"
+
+msgid "Visit website"
+msgstr "Bezoek website"
+
+msgid "Hi"
+msgstr "Hallo"
+
+msgid "Your profile"
+msgstr "Je profiel"
+
+msgid "Log Out"
+msgstr "Afmelden"
+
+msgid "Admins"
+msgstr "Beheerders"
+
+msgid "Add new admin"
+msgstr "Voeg nieuwe beheerder toe"
+
+msgid "Real name"
+msgstr "Echte naam"
+
+msgid "required"
+msgstr "vereist"
+
+msgid "User name"
+msgstr "Gebruikers naam"
+
+msgid "Edit admin"
+msgstr "Pas beheerder aan"
+
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+msgid "Re-type new password"
+msgstr "Type nieuwe wachtwoord nogmaals"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Laat open als je je wachtwoord niet wilt veranderen"
+
+msgid "Processing"
+msgstr "Verwerken"
+
+msgid "Show _MENU_ entries"
+msgstr "Toon_MENU_inschrijvingen"
+
+msgid "No matching records found"
+msgstr "Geen overeenkomende records gevonden"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Tonen_BEGIN_tot_EIND_van_ALLE_inschrijvingen"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Tonen 0 tot 0 van de 0 inschrijving"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "gefilterd van_MAX_totaal inschrijvingen"
+
+msgid "First"
+msgstr "Eerste"
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Last"
+msgstr "Laatste"
+
+msgid "Show"
+msgstr "Toon"
+
+msgid "entries"
+msgstr "inschrijvingen"
+
+msgid "Bulk actions"
+msgstr "Massa actie"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Theme package"
+msgstr "Thema package"
+
+msgid "Upload"
+msgstr "Uploaden"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Om een map beschrijfbaar te maken onder UNIX, voer deze opdracht vanuit de shell uit"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Dashboard - Voeg een nieuwe Widget toe"
+
+msgid "Create widget in %s"
+msgstr "Creëer widget in %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Beschrijving (alleen voor intern gebruik)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML Code voor de Widget"
+
+msgid "Publish widget"
+msgstr "Publiceer widget"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Weet je zeker dat je dit wilt annuleren?"
+
+msgid "Appearance"
+msgstr "Verschijning"
+
+msgid "Add a new theme"
+msgstr "Voeg een nieuw thema toe"
+
+msgid "Current theme"
+msgstr "Huidig thema"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Available themes"
+msgstr "Beschikbare thema's"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Add HTML widget"
+msgstr "Voeg HTML Widget toe"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Expirations days"
+msgstr "Verval dagen"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = geen vervaltijd)"
+
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+msgid "Save"
+msgstr "Bewaren"
+
+msgid "Disable"
+msgstr "Uitschakelen"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Enable"
+msgstr "Inschakelen"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Ongeldige OpenSourceClassifieds aanvraag."
+
+msgid "Edit comment"
+msgstr "Bewerk opmerking"
+
+msgid "Add a comment"
+msgstr "Voeg een opmerking toe"
+
+msgid "Add"
+msgstr "Voeg toe"
+
+msgid "You have to write a title."
+msgstr "Je moet een titel invullen."
+
+msgid "You have to write a comment."
+msgstr "Je moet een opmerking invullen."
+
+msgid "Author's name can not be empty."
+msgstr "Auteurs naam mag niet leeg zijn."
+
+msgid "Author's email can not be empty."
+msgstr "Auteurs email mag niet leeg zijn."
+
+msgid "Edit a comment on item:"
+msgstr "Bewerk een opmerking over artikel:"
+
+msgid "View"
+msgstr "Bekijk"
+
+msgid "Edit user"
+msgstr "Bewerk gebruiker"
+
+msgid "Author's e-mail"
+msgstr "Auteurs email"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "De-activate"
+msgstr "Deactiveer"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Manage Comments"
+msgstr "Beheer opmerkingen"
+
+msgid "Edit email/alert"
+msgstr "Bewerk email/melding"
+
+msgid "Add an email/alert"
+msgstr "Voeg een email/melding toe"
+
+msgid "Emails & Alerts"
+msgstr "Emails &amp; Meldingen"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Interne naam (geef een naam waarmee je gemakkelijk deze email/melding kan herkennen)"
+
+msgid "Emails & alerts"
+msgstr "Emails &amp; meldingen"
+
+msgid "Items"
+msgstr "Artikelen"
+
+msgid "Manage items"
+msgstr "Beheer artikelen"
+
+msgid "Add new item"
+msgstr "Voeg een nieuw artikel toe"
+
+msgid "Manage media"
+msgstr "Beheer media"
+
+msgid "Manage categories"
+msgstr "Beheer categorieën"
+
+msgid "Pages"
+msgstr "Pagina's"
+
+msgid "Manage pages"
+msgstr "Beheer pagina's"
+
+msgid "Create page"
+msgstr "Maak pagina aan"
+
+msgid "Manage emails & alerts"
+msgstr "Beheer emails &amp; meldingen"
+
+msgid "Manage themes"
+msgstr "Beheer thema's"
+
+msgid "Add or remove widgets"
+msgstr "Verwijder of voeg nieuwe widgets toe"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Manage plugins"
+msgstr "Beheer plugins"
+
+msgid "Add new plugin"
+msgstr "Voeg nieuwe plugin toe"
+
+msgid "Languages"
+msgstr "Talen"
+
+msgid "Manage languages"
+msgstr "Beheer talen"
+
+msgid "Add a language"
+msgstr "Voeg taal toe"
+
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+msgid "Users"
+msgstr "Gebruikers"
+
+msgid "Locations"
+msgstr "Locaties"
+
+msgid "Permalinks"
+msgstr "Permalinks"
+
+msgid "Spam and bots"
+msgstr "Spam en bots"
+
+msgid "Currencies"
+msgstr "Valuta's"
+
+msgid "Mail Server"
+msgstr "Mail Server"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Cron system"
+msgstr "Cron systeem"
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "Import data"
+msgstr "Importeer data"
+
+msgid "Backup data"
+msgstr "Maak een data backup"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Upgrade OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Regenereer miniaturen"
+
+msgid "Manage users"
+msgstr "Beheer gebruikers"
+
+msgid "Add new user"
+msgstr "Voeg nieuwe gebruiker toe"
+
+msgid "Administrators"
+msgstr "Beheerders"
+
+msgid "List administrators"
+msgstr "Toon lijst beheerders"
+
+msgid "Add new administrator"
+msgstr "Voeg nieuwe beheerder toe"
+
+msgid "Edit Your Profile"
+msgstr "Bewerk je Profiel"
+
+msgid "New item"
+msgstr "Nieuw artikel"
+
+msgid "Edit item"
+msgstr "Bewerk artikel"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "Item posted by"
+msgstr "Artikel geplaatst door"
+
+msgid "Non-registered user"
+msgstr "Niet geregistreerde gebruiker"
+
+msgid "E-Mail"
+msgstr "Email"
+
+msgid "General information"
+msgstr "Algemene informatie"
+
+msgid "Remove"
+msgstr "Verwijder"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Deze handeling kan niet ongedaan worden gemaakt. Weet je zeker dat je door wilt gaan?"
+
+msgid "Add item"
+msgstr "Voeg artikel toe"
+
+msgid "Count"
+msgstr "Tel"
+
+msgid "Filter by"
+msgstr "Filter op"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Pending"
+msgstr "Onafgedaan"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Duplicated"
+
+msgid "Misclassified"
+msgstr "Fout ingedeeld"
+
+msgid "Offensive"
+msgstr "Beledigend"
+
+msgid "Expired"
+msgstr "Vervallen"
+
+msgid "Language package"
+msgstr "Talen package"
+
+msgid "Short name"
+msgstr "Korte naam"
+
+msgid "Currency format"
+msgstr "Valuta indeling"
+
+msgid "Date format"
+msgstr "Datum indeling"
+
+msgid "Stopwords"
+msgstr "Stopwoorden"
+
+msgid "Enabled for the public website"
+msgstr "Geactiveerd voor publieke website"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Geactiveerd voor backoffice (oc-admin)"
+
+msgid "Disable (website)"
+msgstr "Deactiveren (website)"
+
+msgid "Disable (oc-admin)"
+msgstr "Deactiveren (oc-admin)"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Enabled (website)"
+msgstr "Geactiveerd (website)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Geactiveerd (oc-admin)"
+
+msgid "Bulk Actions"
+msgstr "Bulkacties"
+
+msgid "Enable (Website)"
+msgstr "Activeren (website)"
+
+msgid "Disable (Website)"
+msgstr "Deactiveren (website)"
+
+msgid "Enable (oc-admin)"
+msgstr "Activeren (oc-admin)"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Kies wat u wenst te zien op de dashboard"
+
+msgid "Latest items"
+msgstr "Laatste zoekertjes"
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "Latest comments"
+msgstr "Laaste commentaar"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Laatste nieuws van OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Advertenties bij categorie"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Er zijn nog geen items geüpload"
+
+msgid "Number of items"
+msgstr "Aantal items"
+
+msgid "Number of public users"
+msgstr "Aantal gebruikers"
+
+msgid "Number of administrators"
+msgstr "Aantal administrators"
+
+msgid "Commented on item"
+msgstr "Commentaar op item"
+
+msgid "There aren't any comments yet"
+msgstr "Er is nog geen commentaar"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "Attached to"
+msgstr "Bijgevoegd aan"
+
+msgid "Edit page"
+msgstr "Pagina wijzigen"
+
+msgid "Add page"
+msgstr "Pagina toevoegen"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Interne naam (naam om deze pagina makkelijk te herkennen)"
+
+msgid "Add a new plugin"
+msgstr "Voeg nieuwe plugin toe"
+
+msgid "Plugin package"
+msgstr "Plugin package"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "De plugin map %s is niet beschrijfbaar op uw server"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds can keen plugins uploaden vanaf de administratie"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Kopieer de plugin pakket via FTP of SSH, of maak de genoemde plugins map schrijfbaar "
+
+msgid "Preset categories"
+msgstr "Stel categorieën van te voren in"
+
+msgid "Check all"
+msgstr "Selecteer alles"
+
+msgid "Uncheck all"
+msgstr "Deselecteer alles"
+
+msgid "Configure"
+msgstr "Configureren"
+
+msgid "There's a new version. You should update!"
+msgstr "Er is een nieuwe versie beschikbaar. U zou moeten updaten!"
+
+msgid "Uninstall"
+msgstr "Verwijderen"
+
+msgid "Install"
+msgstr "Installeren"
+
+msgid "Create currency"
+msgstr "Valuta maken"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "It should be a three-character code"
+msgstr "Het moet een 3-talig code zijn"
+
+msgid "Comments settings"
+msgstr "Commentaar instellingen"
+
+msgid "Comments enabled"
+msgstr "Commentaar geactiveerd"
+
+msgid "Moderate comments"
+msgstr "Commentaar beheren"
+
+msgid "Notifications"
+msgstr "Notificaties"
+
+msgid "Notify when there's a new comment"
+msgstr "Notificeren bij nieuw commentaar"
+
+msgid "Contact settings"
+msgstr "Contact instellingen"
+
+msgid "Attachment enabled"
+msgstr "Bijlagen geactiveerd"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Sommige OpenSourceClassifieds functies eisen een cron om te kunnen werken. Controleer of je host dit toestaat. Deselecteer als je je cron handmatig in wilt stellen. Raadpleeg de handleiding als je meer over het OpenSourceClassifieds cron systeem wilt weten."
+
+msgid "Edit currency"
+msgstr "Valuta wijzigen"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Eenmaal aangemaakt, kan het niet meer worden gewijzigd"
+
+msgid "Page title"
+msgstr "Pagina's title"
+
+msgid "Page description"
+msgstr "Pagina's beschrijving"
+
+msgid "Admin e-mail"
+msgstr "Beheerders email"
+
+msgid "Default language"
+msgstr "Standaard taal"
+
+msgid "Custom"
+msgstr "Aangepaste"
+
+msgid "Default currency"
+msgstr "Standaard valuta"
+
+msgid "Week starts on"
+msgstr "Week begint op"
+
+msgid "Sunday"
+msgstr "Zondag"
+
+msgid "Monday"
+msgstr "Maandag"
+
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+msgid "Wednesday"
+msgstr "Woensdag"
+
+msgid "Thursday"
+msgstr "Donderdag"
+
+msgid "Friday"
+msgstr "Vrijdag"
+
+msgid "Saturday"
+msgstr "Zaterdag"
+
+msgid "Time format"
+msgstr "Tijd formaat"
+
+msgid "Number of items in the RSS"
+msgstr "Aantal artikelen in de RSS"
+
+msgid "Only allow registered users to post items"
+msgstr "Sta alleen geregistreerde gebruikers toe om artikelen te plaatsen"
+
+msgid "Notify admin of new items"
+msgstr "Licht beheerder in bij een nieuw artikel"
+
+msgid "Notify admin of contact items"
+msgstr "Licht beheerder in voor contact artikelen"
+
+msgid "Notify admin of share"
+msgstr "Licht beheerder in bij delen"
+
+msgid "Optional fields"
+msgstr "Optionele velden"
+
+msgid "Enable price"
+msgstr "Schakel prijs in"
+
+msgid "Enable images"
+msgstr "Schakel afbeeldingen in"
+
+msgid "Close"
+msgstr "Sluit"
+
+msgid "View more"
+msgstr "Bekijk meer"
+
+msgid "Countries"
+msgstr "Landen"
+
+msgid "Add new"
+msgstr "Nieuwe toevoegen"
+
+msgid "Regions"
+msgstr "Regios"
+
+msgid "Cities"
+msgstr "Steden"
+
+msgid "Add new country"
+msgstr "Nieuwe land toevoegen"
+
+msgid "Country code"
+msgstr "Land code"
+
+msgid "Country code should have two characters"
+msgstr "Land code moet twee leestekens bevatten"
+
+msgid "Edit country"
+msgstr "Pas land aan"
+
+msgid "Add new region"
+msgstr "Voeg nieuwe provincie toe"
+
+msgid "Edit region"
+msgstr "Pas provincie aan"
+
+msgid "Add new city"
+msgstr "Voeg nieuwe stad toe"
+
+msgid "Edit city"
+msgstr "Pas stad aan"
+
+msgid "Mail server"
+msgstr "Mail server"
+
+msgid "Configuration"
+msgstr "Configuratie"
+
+msgid "Server type"
+msgstr "Server type"
+
+msgid "Custom Server"
+msgstr "Aangepaste server"
+
+msgid "GMail Server"
+msgstr "GMail server"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "Server port"
+msgstr "Server port"
+
+msgid "Encryption"
+msgstr "Encryptie"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Opties: blank, ssl of tls"
+
+msgid "Enable SMTP authentication"
+msgstr "Schakel SMTP certificatie in"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Media settings"
+msgstr "Media instellingen"
+
+msgid "Configure media"
+msgstr "Configureer media"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Stel de voorkeurs dimensie voor alle afbeeldingen op de website in. (formaat: BREEDTExHOOGTE, vb: 640x480)"
+
+msgid "Restrictions"
+msgstr "Beperkingen"
+
+msgid "Maximum size, in KB"
+msgstr "Maximum afmeting, in KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Toegestane formaat extensies (eg: png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+msgid "Thumbnail dimensions"
+msgstr "Miniatuur afmetingen"
+
+msgid "Preview dimensions"
+msgstr "Preview afmetingen"
+
+msgid "Normal dimensions"
+msgstr "Normale afmetingen"
+
+msgid "Keep original image"
+msgstr "Behoud de originele afbeelding"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Het behouden van de originele afbeeldingen vereist extra opslagruimte. Deze optie zorgt ervoor dat de kwaliteit van de originele afbeelding onaangetast blijft. Wees voorzichtig bij het gebruiken van deze optie."
+
+msgid "Permalinks settings"
+msgstr "Permalinks instellingen"
+
+msgid "Friendly urls"
+msgstr "Vriendelijke url's"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "OpenSourceClassifieds gebruikt standaard web URL's die vraagtekens en veel nummers bevatten. Echter biedt OpenSourceClassifieds je ook vriendelijke URL's. Dit kan de esthetiek, gebruikers vriendelijkheid en doorstuur-compatilbiliteit van je links verbeteren"
+
+msgid "Enable friendly urls"
+msgstr "Schakel vriendelijke URL's in"
+
+msgid ".htaccess file"
+msgstr ".htaccess bestand"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Module <em>mod_rewrite</em> was op de server gevonden."
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Waarschuwing! Herschrijf module is niet op de server gevonden, Dit houdt in dat je deze niet hebt ingeschakeld of dat je PHP als CGI (of fastCGI) hebt lopen. In het geval dat je geen mod_rewrite hebt dan kan je alsnog vriendelijke url's gebruiken wanneer de AllowPathInfo optie in je Apache configuratie is (wij kunnen niet weten of deze is ingeschakeld, maar meestal is dit wel zo). \"Index.php\" zal te zien zijn in je URL (bv. http://www.voorbeeld.com/index.php/goede/url)."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Foutmelding. We konden het .htaccess bestand niet op je server schrijven. Maak een bestand aan met de naam .htaccess in de root van je OpenSourceClassifieds installatie met de volgende inhoud."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "File .htaccess bestaat al. Check of de .htaccess bestand de volgende inhoud bevat."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "We hebben het .htaccess bestand op de root van je OpenSourceClassifieds installatie aangemaakt."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "De inhoud van het .htaccess bestand hoort er als volgt uit te zien:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Huidige inhoud van je .htaccess bestand:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet sleutel (zelfde als Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Als dit veld leeg is komt dat omdat de Akismet dienst uitgeschakeld is"
+
+msgid "Get your free key at"
+msgstr "Verkrijg je gratis sleutel bij"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Als dit veld leeg is komt dat omdat de reCAPTCHA dienst uitgeschakeld is"
+
+msgid "Get your free keys at"
+msgstr "Verkrijg je gratis sleutels via"
+
+msgid "reCAPTCHA private key"
+msgstr "reCPATCHA privé sleutel"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA publieke sleutel"
+
+msgid "Users settings"
+msgstr "Gebruikers instellingen"
+
+msgid "User validation enabled"
+msgstr "Gebruikers bevestiging ingeschakeld"
+
+msgid "User registration enabled"
+msgstr "Gebruikers inschrijving ingeschakeld"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "You're offline! Please check your connection"
+msgstr "Je bent offline! Check je internetverbinding"
+
+msgid "Requested URL not found"
+msgstr "Aangevraagde URL niet gevonden"
+
+msgid "Internal server error"
+msgstr "Interne server fout"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Foutmelding. Parsing JSON aanvraag mislukt"
+
+msgid "Request timeout"
+msgstr "Timeout aanvraag"
+
+msgid "Unknown error"
+msgstr "Onbekende fout"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Backup OpenSourceClassifieds"
+
+msgid "Backup folder"
+msgstr "Backup bestand"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Dit is de folder waarin je backups gemaakt worden. We raden je aan om een niet-publiek path te kiezen. Voor meer informatie raadpleeg de OpenSourceClassifieds handleiding"
+
+msgid "Back up database"
+msgstr "Database backup"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "OpenSourceClassifieds instellingen backup"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Je kan hier je miniaturen en je afbeeldingen previews regenereren. Dit is handig als je aanpassingen in je thema en afbeeldingen niet juist te zien zijn. Check de richtlijnen van de afmetingen in de instellingen/media sectie"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Re-type the password"
+msgstr "Voeg wachtwoord nogmaals in"
+
+msgid "Additional information"
+msgstr "Aanvullende informatie"
+
+msgid "Activate user"
+msgstr "Activeer gebruiker"
+
+msgid "Deactivate user"
+msgstr "Deactiveer gebruiker"
+
+msgid "Update Date"
+msgstr "Update Datum"
+
+msgid "Add a new user"
+msgstr "Nieuwe gebruiker toevoegen"
+
+msgid "Admin mail system"
+msgstr "Beheerders mail systeem"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Plugin %s mist het index.php bestand %s"
+
+msgid "Plugin %s is missing its main file"
+msgstr "Plugin %s mist het hoofd bestand"
+
+msgid "Enter your e-mail"
+msgstr "voer je email in"
+
+msgid "Select a country..."
+msgstr "Selecteer een land..."
+
+msgid "Select a region..."
+msgstr "Selecteer een regio..."
+
+msgid "Select a city..."
+msgstr "Selecteer een stad..."
+
+msgid "No results"
+msgstr "Geen resultaten"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "User Description"
+msgstr "Gebruikers Beschrijving"
+
+msgid "Check with seller"
+msgstr "Controleer met verkoper"
+
+msgid "Newly listed"
+msgstr "Nieuwe advertentie"
+
+msgid "Lower price first"
+msgstr "Laagste prijs eerst"
+
+msgid "Higher price first"
+msgstr "Hoogste prijs eerst"
+
+msgid "Manage your items"
+msgstr "Beheer je artikelen"
+
+msgid "Manage your alerts"
+msgstr "Beheer je meldingen"
+
+msgid "%s in"
+msgstr "%s in"
+
+msgid "There's no description available in your language"
+msgstr "Er is geen beschrijving beschikbaar in jouw taal"
+
+msgid "Change password"
+msgstr "Wijzig wachtwoord"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Deze actie kan niet ongedaan worden gemaakt. Weet u zeker dat u door wilt gaan?"
+
+msgid "User type"
+msgstr "Type gebruiker"
+
+msgid "Invalid email address"
+msgstr "Ongeldig emailadres"
+
+msgid "Latest items added"
+msgstr "Laatste toegevoegde items"
+
+msgid "Latest items added in"
+msgstr "Laatste items toegevoegd in"
+
+msgid "Type your new password"
+msgstr "Voer uw nieuwe wachtwoord in"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Deze actie kan niet ongedaan worden gemaakt. Weet u zeker dat u door wilt gaan?"
+
+msgid "It's a registered user"
+msgstr "Het is een geregistreerde gebruiker"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "De vertaal map heeft geen schrijfrechten. U kunt geen vertalingen uploaden vanuit het administratie panel. Geef de map schrijfrechten"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Om de map schrijfrechten te geven onder UNIX, voer deze commandoregel vanuit de shell:"
+
+msgid "new"
+msgstr "nieuw"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Nieuws verkrijgen van OpenSourceClassifieds is niet mogelijk. Probeer het later opnieuw."
+
+msgid "View page"
+msgstr "Toon pagina"
+
+msgid "Select the categories where you want to apply these attributes"
+msgstr "Selecteer de categorien waarvan u de wijzigingen wilt doorvoeren"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Aantal opmerkingen van dezelfde auteur die moeten worden gevalideerd voordat validatie overgeslagen kan worden (0 = altijd valideren)"
+
+msgid "Enable reCAPTCHA"
+msgstr "reCAPTCHA aan"
+
+msgid "Enable item validation by users"
+msgstr "Zet item validatie door gebruikers aan"
+
+msgid "Logged users don't need to validate items"
+msgstr "Ingelogte gebruikers hoeven items niet te valideren"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Voer uw email server configuratie in"
+
+msgid "Users enabled"
+msgstr "Gebruikers aan"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "U kunt OpenSourceClassifieds hier backuppen. WAARSCHUWING: Als u geen backupmap specificeert dan worden de bestanden in de root van OpenSourceClassifieds geplaatst"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "U kunt uw database wijzigen om data toe te voegen, te verwijderen of aan te passen. Het wordt meestal gebruikt om landen, regio\\'s en plaatsen te importeren"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Stel de gebruiker tevreden met automatische updates: Klaar!"
+
+msgid "Anonymous"
+msgstr "Anoniem"
+
+msgid "Description: needs to be longer"
+msgstr "Omschrijving: moet langer zijn"
+
+msgid "Title: this field is required"
+msgstr "Titel: dit veld moet ingevuld worden"
+
+msgid "Title: enter at least 9 characters"
+msgstr "Titel: voer tenminste 9 karakters in"
+
+msgid "Title: no more than 80 characters"
+msgstr "Titel: maximaal 80 karakters"
+
+msgid "Description: this field is required"
+msgstr "Omschrijving: dit veld moet ingevuld worden"
+
+msgid "Description: no more than 5000 characters"
+msgstr "Omschrijving: niet meer dan 5000 karakters"
+
+msgid "Choose one category"
+msgstr "Kies een categorie"
+
+msgid "Price: enter a valid number"
+msgstr "Prijs: voer een correct bedrag in"
+
+msgid "Price: no more than 15 characters"
+msgstr "Prijs: niet meer dan 15 karakters"
+
+msgid "Currency: make your selection"
+msgstr "Valuta: selecteer"
+
+msgid "Photo: must be %s"
+msgstr "Afbeelding: moet %s zijn"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Naam: minimaal 3 karakters"
+
+msgid "Name: no more than 35 characters"
+msgstr "Naam:  niet meer dan 35 karaters"
+
+msgid "Email: this field is required"
+msgstr "Email: dit veld moet ingevuld worden"
+
+msgid "Select a region"
+msgstr "Selecteer een regio"
+
+msgid "Select a city"
+msgstr "Selecteer een plaats"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Plaats: voer minimaal 3 karakters in"
+
+msgid "Company"
+msgstr "Bedrijf"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Sorry voor het ongemak. %s is in onderhoud"
+
+msgid "Your website is currently under maintenance mode"
+msgstr "Uw website is momenteel is onderhoudsmodus"
+
+msgid "Error removing file: %s"
+msgstr "Foutmelding verwijderen bestand: %s"
+
+msgid "Some error ocurred"
+msgstr "Er zijn fouten geconstateerd"
+
+msgid "Order saved"
+msgstr "Opdracht opgeslagen"
+
+msgid "The subcategories has been enabled"
+msgstr "De subcategorien zijn ingeschakeld"
+
+msgid "The subcategories has been disabled"
+msgstr "De subcategorien zijn uitgeschakeld"
+
+msgid "Error: %s"
+msgstr "Foutmelding: %s"
+
+msgid "Error while deleting"
+msgstr "Fout tijdens verwijderen"
+
+msgid "All titles are required"
+msgstr "Alle titels zijn noodzakelijk"
+
+msgid "Error while updating."
+msgstr "Foutmelding tijdens updaten"
+
+msgid "Saved"
+msgstr "Opgeslagen"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Alles is geslaagd! Uw OpenSourceClassifieds installatie is up-to-date"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Bijna alles is geslaagd! Uw OpenSourceClassifieds installatie is up-to-date maar er zijn foutmeldingen ontstaan bij het verwijderen van tijdelijke bestanden. Verwijder de \\\"oc-temp\\\" map handmatig."
+
+msgid "Problems upgrading the database"
+msgstr "Foutmeldingen tijdens het updaten van de database"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Foutmeldingen bij het kopieren van bestanden. Waarschijnlijk zijn de schrijfrechten niet goed."
+
+msgid "Download failed"
+msgstr "Downloaden mislukt"
+
+msgid "Missing download URL"
+msgstr "Download URL ontbreekt"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Er zijn foutmeldingen tijdens het verwijderen van bestanden. Dit zijn geen kritieke fouten dus de installatie is afgerond. Verwijder de volgende bestanden"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Foutmeldingen tijdens upgraden database. De volgende queries zijn mislukt"
+
+msgid "Clear"
+msgstr "Wis"
+
+msgid "Forums"
+msgstr "Forums"
+
+msgid "Add new theme"
+msgstr "Voeg nieuw thema toe"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "De thema map %s heeft geen schrijfrechten, <span class=\\\"OpenSourceClassifieds\\\">OpenSourceClassifieds</span> kan de thema\\'s niet uploaden. Kopieer het thema m.b.v. FTP of SSH of geef de map schrijfrechten"
+
+msgid "Ajax error, try again."
+msgstr "Ajax foutmelding, probeer het opnieuw"
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "Waarschuwing: Alle items van deze categorie worden verwijderd. Deze actie kan niet worden hersteld. Wilt u doorgaan?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Sleep&amp;en verplaats de categorien in de gewenste volgorde. Klik op wijzigen om de categorie te wijzigen "
+
+msgid "Add new category"
+msgstr "Voeg een categorie toe"
+
+msgid "Categories settings"
+msgstr "Categorie instellingen"
+
+msgid "Selectable parent categories"
+msgstr "Seleceteerbare hoofdcategorieen"
+
+msgid "ACTIVE"
+msgstr "Actief"
+
+msgid "INACTIVE"
+msgstr "Inactief"
+
+msgid "ENABLED"
+msgstr "Ingechakeld"
+
+msgid "DISABLED"
+msgstr "Uitgeschakeld"
+
+msgid "Last Searches"
+msgstr "Laatste zoekacties"
+
+msgid "Maintenance mode"
+msgstr "Onderhoudsmodus"
+
+msgid "Reports"
+msgstr "Verslag"
+
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Aantal items van dezelfde adverteerder dat gevalideerd moet worden (0=altijd valideren)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Aantal seconden dat een gebruiker moet wachten voor een nieuwe advertentie geplaatst kan worden (0=niet wachten)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Sta alleen geregistreerde gebruikers toe om contact op te nemen met een adverteerder"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Maximum aantal afbeeldingen per advertentie (0=geen maximum)"
+
+msgid "Download more languages at %s"
+msgstr "Download meer talen bij %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Deze actie kan niet ongedaan worden gemaakt. Verwijderen van plugins kan resulteren in permanent verlies van data. Weet u zeker dat u door wilt gaan?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Aantal reacties per pagina. U kunt het aantal reacties per detailpagina beperken. Andere reacties zijn beschikbaar door een pagineersysteem. (0=toon alle reacties)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Sta alleen geregistreerde gebruikers toe om een reactie te geven"
+
+msgid "Number of recent items displayed at home"
+msgstr "Aantal recente items weergeven op homepage"
+
+msgid "Save latest searches"
+msgstr "Bewaar laatste zoekacties"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds kan de laatste zoekacties van gebruikers opslaan. Hiermee krijgt u een idee wat gebruikers zoeken. Dit kan ook weergegeven worden op de site als \\\"veel gevraagd\\\""
+
+msgid "Keep last searches"
+msgstr "Bewaar laatste zoekacties"
+
+msgid "One hour"
+msgstr "Een uur"
+
+msgid "One day"
+msgstr "Een dag"
+
+msgid "One week"
+msgstr "Een week"
+
+msgid "Forever (never delete)"
+msgstr "Altijd (nooit verwijderen)"
+
+msgid "Keep last 1000 searches"
+msgstr "Bewaar laatste 1000 zoekacties"
+
+msgid "Number of files to keep"
+msgstr "Aantal te bewaren bestanden"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Het bewaren van zoekacties kan veel data genereren. Het wordt aanbevolen om deze data  op te schonen. U kunt zoakacties ouder dan een huur, een dag of een week verwijderen een aantal ingeven om te bewaren of alle zoekacties bewaren"
+
+msgid "Last 10 days"
+msgstr "Laatste 10 dagen"
+
+msgid "Last 10 weeks"
+msgstr "Laatste 10 weken"
+
+msgid "Last 10 months"
+msgstr "Laatste 10 maanden"
+
+msgid "There're no statistics yet"
+msgstr "Er zijn nog geen statistische gegevens"
+
+msgid "Latest comments on the web"
+msgstr "Laatste reactie op de site"
+
+msgid "New items"
+msgstr "Nieuwe items"
+
+msgid "Total number of items' views"
+msgstr "Total aantal items bekeken"
+
+msgid "Latest items on the web"
+msgstr "Laatste items op de site"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Inactive"
+msgstr "Inactief"
+
+msgid "Views"
+msgstr "Bekeken"
+
+msgid "Total number of reports"
+msgstr "Totaal aantal meldingen"
+
+msgid "Repeated"
+msgstr "Herhaald"
+
+msgid "Bad category"
+msgstr "Foute categorie"
+
+msgid "Latest users on the web"
+msgstr "Laatste gebruikers"
+
+msgid "Avg. items per user"
+msgstr "Gemiddeld aantal items per gebruiker"
+
+msgid "items per user"
+msgstr "Items per gebruiker"
+
+msgid "New users"
+msgstr "Nieuwe gebruikers"
+
+msgid "Users per country"
+msgstr "Gebruikers per land"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "Users per region"
+msgstr "Gebruikers per regio"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "In onderhoudsmodus kunnen gebruikers geen gebruik maken van de site. Het is handig om veranderingen door te voeren. Gebruik de volgende button om de onderhoudsmodus IN/UIT te schakelen"
+
+msgid "Maintenance mode is:"
+msgstr "Onderhoudsmodus is:"
+
+msgid "ON"
+msgstr "ingeschakeld"
+
+msgid "OFF"
+msgstr "uitgeschakeld"
+
+msgid "Disable maintenance mode"
+msgstr "Onderhuidsmodus uitschakelen"
+
+msgid "Enable maintenance mode"
+msgstr "Onderhoudsmodus inschakelen"
+
+msgid "Checking for updates"
+msgstr "Controleer op updates"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Installatie van plugin geslaagd!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "OpenSourceClassifieds installatie is up-to-date"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "OpenSourceClassifieds installatie wordt geupdate (dit kan even duren):"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Uw OpenSourceClassifieds installatie kan niet automatisch worden ge-upgraded. Backup uw database en de map oc-content voor u verder gaat. U kunt ook upgraden door de upgrade-package te downloaden, te unzippen en de bestanden op de server te vervangen door de bestanden uit het upgrade bestand"
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 666 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "UW OpenSourceClassifieds installatie kan niet automatisch geupgrade worden. Bestanden en mappen moeten schrijfbaar zijn. U kunt de permissies 644 via SSH met het commando \\\"chmod -R 666*\\\" (zonder aanhalingstekens) geven of via FTP. U kunt ook upgraden door de upgrade-package te downloaden, te unzippen en de bestanden op de server te vervangen door de bestanden uit het upgrade bestand"
+
+msgid "Enable user"
+msgstr "Gebruiker inschakelen"
+
+msgid "Disable user"
+msgstr "Gebruiker uitschakelen"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds » heeft foutmeldingen"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Er zijn foutmeldingen met het updaten van de database. De volgende queries mislukten:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Deze foutmeldingen zijn wellicht niet correct. Als u er zeker van bent dat dit het geval is kunt u <a href=\\\"%s\\\">doorgaan met de upgrade</a>, of <a href=\\\"http://forums.opensourceclassifieds.org/\\\">raad vragen in ons forum</a>."
+
+msgid "Name: this field is required"
+msgstr "Naam: dit veld moet ingevuld worden"
+
+msgid "Message: this field is required"
+msgstr "Bericht: dit veld moet ingevuld worden"
+
+msgid "City area: no more than 50 characters"
+msgstr "Plaats: niet meer dan 50 karakters"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Adres: minimaal 3 karakters"
+
+msgid "Address: no more than 100 characters"
+msgstr "Adres: niet meer dan 100 karakters"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Sorry, u hebt het maximum aantal afbeeldingen per advertentie bereikt"
+
+msgid "Your name: this field is required"
+msgstr "Uw naam: dit veld moet ingevuld worden"
+
+msgid "Friend's name: this field is required"
+msgstr "Naam vriend: dit veld moet ingevuld worden"
+
+msgid "Friend's email: this field is required"
+msgstr "Email vriend: dit veld moet ingevuld worden"
+
+msgid "Invalid friend's email address"
+msgstr "Email adres vriend is fout "
+
+msgid "Name: no more than 50 characters"
+msgstr "Naam: niet meer dan 50 karakters"
+
+msgid "Password: this field is required"
+msgstr "Wachtwoord: dit veld moet ingevuld worden"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Wachtwoord: voer minimaal 5 karakters in"
+

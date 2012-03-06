@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _m\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Your e-mail has been sent properly. Thank your for contacting us!"
+msgstr "Вашият email е изпратен успешно. Благодаря, че се свързахте с нас!"
+
+msgid "Passwords don't match"
+msgstr "Паролите не съвпадат"
+
+msgid "Users not enable"
+msgstr "Потребителите не са разрешени"
+
+msgid "Only registered users are allowed to post items"
+msgstr "Само регистрирани потребители могат да публикуват обяви"
+
+msgid "Users not allowed"
+msgstr "Потребителите не са позволени"
+
+msgid "Sorry, we don't have any items with that ID"
+msgstr "Съжалявам, нямаме обява с такова ID"
+
+msgid "Great! We've just updated your item"
+msgstr "Чудесно! Актуализирахме обявата ви."
+
+msgid "The item has been validated"
+msgstr "Обявата е потвърдена"
+
+msgid "The item can't be validated"
+msgstr "Обявата не може да бъде потвърдена"
+
+msgid "The item has already been validated"
+msgstr "Обявата е вече потвърдена"
+
+msgid "Your item has been deleted"
+msgstr "Обявата е изтрита"
+
+msgid "The item you are trying to delete couldn't be deleted"
+msgstr "Обявата, която се опитвате да изтриете, не може да бъде изтрита"
+
+msgid "Thanks! That's very helpful"
+msgstr "Благодаря! Това е много полезно"
+
+msgid "We're sorry, but the item has expired. You can't contact the seller"
+msgstr "Съжаляваме, но обявата е изтекла. Не можете да се свържете с продавача"
+
+msgid "We've just sent an e-mail to the seller"
+msgstr "Изпратихме email до продавача"
+
+msgid "This item doesn't exist"
+msgstr "Обявата не съществува"
+
+msgid "The item hasn't been validated. Please validate it in order to show it to the rest of users"
+msgstr "Обявата не е потвърдена. Моля, потвърдете я, за да бъде видима за останалите потребители"
+
+msgid "This item hasn't been validated"
+msgstr "Обявата не е потвърдена"
+
+msgid "The password is incorrect"
+msgstr "Грешна парола"
+
+msgid "The username doesn't exist"
+msgstr "Потребителското име не съществува"
+
+msgid "A new password has been sent to your account"
+msgstr "Нова парола е изпратена до вашия профил"
+
+msgid "The email isn't associated to a valid user. Please, try again"
+msgstr "Няма потребител с този email. Моля, опитайте отново"
+
+msgid "The user has been created. An activation email has been sent"
+msgstr "Потребителят е създаден. Изпратен е email за активиране."
+
+msgid "Your account has been created successfully"
+msgstr "Вашият профил е създаден успешно"
+
+msgid "The specified e-mail is already in use"
+msgstr "Посоченият email вече се използва"
+
+msgid "Your account has been validated"
+msgstr "Вашият профил е потвърден"
+
+msgid "Your account has already been activated"
+msgstr "Вашият профил е вече активиран"
+
+msgid "The link is not valid anymore. Sorry for the inconvenience!"
+msgstr "Връзката не е валидна вече. Извиняваме се за причиненото неудобство!"
+
+msgid "Your profile has been updated successfully"
+msgstr "Вашият профил е актуализиран успешно"
+
+msgid "We have sent you an e-mail. Follow the instructions to validate the changes"
+msgstr "Изпратихме ви email. Следвайте инструкциите, за да потвърдите промените"
+
+msgid "Your email has been changed successfully"
+msgstr "Вашият email е сменен успешно"
+
+msgid "Sorry, the link is not valid"
+msgstr "Съжалявам, връзката не е валидна"
+
+msgid "Current password doesn't match"
+msgstr "Сегашната парола не съвпада"
+
+msgid "Passwords can't be empty"
+msgstr "Паролите не могат да бъдат празни"
+
+msgid "Password has been changed"
+msgstr "Паролата е сменена"
+
+msgid "The admin has been added"
+msgstr "Добавен е администратор"
+
+msgid "There have been an error adding a new admin"
+msgstr "Възникна грешка при добавяне на администратор"
+
+msgid "It doesn't exist an admin with this id"
+msgstr "Не съществува администратор с такова ID"
+
+msgid "There admin doesn't exist"
+msgstr "Администратора не съществува"
+
+msgid "Existing username"
+msgstr "Съществуващо име"
+
+msgid "The password couldn't be updated. Passwords don't match"
+msgstr "паролата не може да бъде актуализирана. Паролите не съвпадат"
+
+msgid "The admin has been updated"
+msgstr "Администраторът е актуализиран"
+
+msgid "The admin id isn't in the correct format"
+msgstr "Администраторския ID не е в правилен формат"
+
+msgid "The operation hasn't been completed. You're trying to remove yourself!"
+msgstr "Операцията не е изпълнена. Опитвате се да премахнете себе си!"
+
+msgid "The admin has been deleted correctly"
+msgstr "Администраторът е изтрит"
+
+msgid "The admin couldn't be deleted"
+msgstr "Администраторът не може да бъде изтрит"
+
+msgid "The category has been added"
+msgstr "Категорията е добавена"
+
+msgid "Error:"
+msgstr "Грешка:"
+
+msgid "The category has been updated."
+msgstr "Категорията е актуализирана."
+
+msgid "The categories have been deleted"
+msgstr "Категориите са изтрити"
+
+msgid "The category has been enabled"
+msgstr "Категорията е активирана"
+
+msgid "The category has been disabled"
+msgstr "Категорията е деактивирана"
+
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr "Възникна грешка с тази страница. Не е поставено ID на категорията"
+
+msgid "The categories have been enabled"
+msgstr "Категориите са активирани"
+
+msgid "The selected categories have been disabled"
+msgstr "Избраните категории са деактивирани"
+
+msgid "The comments have been deleted"
+msgstr "Коментарите са изтрити"
+
+msgid "The comments have been approved"
+msgstr "Коментарите са одобрени"
+
+msgid "The comments have been unapproved"
+msgstr "Коментарите са неодобрени"
+
+msgid "The comment has been approved"
+msgstr "Коментарът е одобрен"
+
+msgid "The comment has been unapproved"
+msgstr "Коментарът е неодобрен"
+
+msgid "Great! We just updated your comment"
+msgstr "Чудесно! Актуализирахме коментара ви."
+
+msgid "The email/alert has been updated"
+msgstr "Email известието е актуализирано"
+
+msgid "You can't repeat internal name"
+msgstr "Не може да повтаряте вътрешно име"
+
+msgid "The items have been activated"
+msgstr "Обявите са активирани"
+
+msgid "The items have been deactivated"
+msgstr "Обявите са деактивирани"
+
+msgid "The items have been marked as premium"
+msgstr "Обявите са маркирани като премиум"
+
+msgid "The changes have been made"
+msgstr "Промените са извършени"
+
+msgid "The items have been deleted"
+msgstr "Обявите са изтрити"
+
+msgid "The item has been activated"
+msgstr "Обявата е активирана"
+
+msgid "Changes have been applied"
+msgstr "Промените са приложени"
+
+msgid "A new item has been added"
+msgstr "Нова обява е добавена"
+
+msgid "The item can't be added"
+msgstr "Обявата не може да бъде добавена"
+
+msgid "The language has been installed correctly"
+msgstr "Езикът е инсталиран успешно"
+
+msgid "There was a problem adding the language. Please, try again. If the problem persists, install it manually via FTP/SSH."
+msgstr "Възникна грешка при добавяне на език. Моля, опитайте отново. Ако проблемът продължава, инсталирайте го ръчно чрез FTP/SSH."
+
+msgid "Language id isn't in the correct format"
+msgstr "ID на езика не е в правилния формат"
+
+msgid "Language id doesn't exist"
+msgstr "ID на езика не съществува"
+
+msgid "Language name can't be empty"
+msgstr "Името на езикът не може да бъде празно"
+
+msgid "Language short name can't be empty"
+msgstr "Краткото име на езика не може да бъде празно"
+
+msgid "Language description can't be empty"
+msgstr "Описанието на езика не може да бъде празно"
+
+msgid "%s has been updated"
+msgstr "%s е актуализиран"
+
+msgid "%d can't be disabled because it's the default language. You can change the default language under General Settings in order to disable it"
+msgstr "%d не може да бъде деактивиран, защото е език по подразбиране. Можете да смените езика по подразбиране в менюто \"Главни Настройки\", за да го изключите"
+
+msgid "The language has been enabled for the public website"
+msgstr "Езикът е активиран за публичен достъп"
+
+msgid "The language has been disabled for the public website"
+msgstr "Езикът е деактивиран за публичен достъп"
+
+msgid "The language has been enabled for the backoffice (oc-admin)"
+msgstr "Езикът е активиран за служебен достъп (oc-admin)"
+
+msgid "The language has been disabled for the backoffice (oc-admin)"
+msgstr "Езикът е деактивиран за служебен достъп (oc-admin)"
+
+msgid "There was a problem updating the language. The language id was lost"
+msgstr "Възникна грешка при актуализирането на езика. ID на езика е изгубено"
+
+msgid "Selected languages have been enabled for the website"
+msgstr "Избраните езици са активирани за уебсайта"
+
+msgid "There was a problem updating the languages. The language ids were lost"
+msgstr "Възникна грешка при актуализирането на езиците. ID на езиците са изгубени"
+
+msgid "Selected languages have been disabled for the website"
+msgstr "Избраните езици са деактивирани за уебсайта"
+
+msgid "Selected languages have been enabled for the backoffice (oc-admin)"
+msgstr "Избраните езици са активирани за служебен достъп (oc-admin)"
+
+msgid "Selected languages have been disabled for the backoffice (oc-admin)"
+msgstr "Избраните езици са деактивирани за служебен достъп (oc-admin)"
+
+msgid "Directory \"%s\" couldn't be removed"
+msgstr "Директорията \"%s\" не може да бъде премахната"
+
+msgid "Directory \"%s\" couldn't be removed because it's the default language. Set another language as default first and try again"
+msgstr "Директорията \"%s\" не може да бъде премахната, защото там е езикът по подразбиране. Изберете друг език по подразбиране първо и опитайте отново"
+
+msgid "That username does not exist"
+msgstr "Потребителското име не съществува"
+
+msgid "A new password has been sent to your e-mail."
+msgstr "Нова парола е изпратена на вашия email"
+
+msgid "The email you have entered does not belong to a valid administrator."
+msgstr "Въведеният email не принадлежи на валиден администратор"
+
+msgid "The page has been updated"
+msgstr "Страницата е актуализирана"
+
+msgid "You have to set an internal name"
+msgstr "Трябва да въведете вътрешно име"
+
+msgid "The page has been added"
+msgstr "Страницата е добавена"
+
+msgid "Oops! That internal name is already in use. We can't made the changes"
+msgstr "Опа! Вътрешното име е заето. Не можем да извършим промените"
+
+msgid "One page can't be deleted because it is indelible"
+msgstr "Една страница не може да бъде изтрита, защото е незаличима"
+
+msgid "pages couldn't be deleted because are indelible"
+msgstr "страниците не могат да бъдат изтрити, защото са незаличими"
+
+msgid "One page couldn't be deleted"
+msgstr "Една страница не може да бъде изтрита"
+
+msgid "pages couldn't be deleted"
+msgstr "страниците не могат да бъдат изтрити"
+
+msgid "One page has been deleted correctly"
+msgstr "Една страница е изтрита"
+
+msgid "pages have been deleted correctly"
+msgstr "страниците са изтрити"
+
+msgid "Plugin installed"
+msgstr "Добавка инсталирана"
+
+msgid "Plugin uninstalled"
+msgstr "Добавка деинсталирана"
+
+msgid "No plugin selected"
+msgstr "Няма избрана добавка"
+
+msgid "Configuration was saved"
+msgstr "Конфигурацията е запаметена"
+
+msgid "Items' settings have been updated"
+msgstr "Настройките за обяви са актуализирани"
+
+msgid "Comments' settings have been updated"
+msgstr "Настройките за коментари са актуализирани"
+
+msgid "Users' settings have been updated."
+msgstr "Настройките за потребители са актуализирани"
+
+msgid "Akismet and reCAPTCHA have been updated"
+msgstr "Akismet и reCAPTCHA са актуализирани"
+
+msgid "Error: the currency code is not in the correct format"
+msgstr "Грешка: валутният код не е в правилния формат"
+
+msgid "New currency has been added"
+msgstr "Валутата е добавена"
+
+msgid "Error: currency couldn't be added"
+msgstr "Грешка: валутата не може да бъде добавена"
+
+msgid "Error: the currency code isn't in the correct format"
+msgstr "Грешка: валутният код не е в правилния формат"
+
+msgid "Error: the currency doesn't exist"
+msgstr "Грешка: валутата не съществува"
+
+msgid "Currency has been updated"
+msgstr "Валутата е актуализирана"
+
+msgid "Mail server type is incorrect"
+msgstr "Mail тип сървър е неправилен"
+
+msgid "Mail server configuration has changed"
+msgstr "Конфигурацията на mail сървъра е променена"
+
+msgid "Media config has been updated"
+msgstr "Медиа конфигурацията е актуализирана"
+
+msgid "Contact configuration has been updated"
+msgstr "Контакт конфигурацията е актуализирана"
+
+msgid "Cron config has been updated"
+msgstr "Cron конфигурацията е актуализирана"
+
+msgid "General settings have been updated"
+msgstr "Главните настройки са актуализирани"
+
+msgid "Population of the database done properly"
+msgstr "Популизирането на базата данни е успешно"
+
+msgid "Population of the database reverted"
+msgstr "Популизирането на базата данни е спряно"
+
+msgid "Re-generation complete"
+msgstr "Регенерацията завършена"
+
+msgid "The user has been created. We've sent an activation e-mail"
+msgstr "Потребителят е създаден. Изпратен е email за потвърждение."
+
+msgid "The user has been created and activated"
+msgstr "Потребителят е създаден и активиран"
+
+msgid "Sorry, but that e-mail is already in use"
+msgstr "Съжалявам, но email-a се изполва"
+
+msgid "The user has been updated and activated"
+msgstr "Потребителят е актуализиран и активиран"
+
+msgid "The user has been updated"
+msgstr "Потребителят е актуализиран"
+
+msgid "You need to input your name and email to be able to publish a new item"
+msgstr "Трябва да въведеш име и email, за да публикуваш обява"
+
+msgid "Great! You'll receive an e-mail to activate your item"
+msgstr "Чудесно! Ще получите e-mail, за да активирате обявата"
+
+msgid "Great! We've just published your item"
+msgstr "Чудесно! Публикувахме обявата"
+
+msgid "We just send your message to"
+msgstr "Изпратихме съобщението ви на"
+
+msgid "We are very sorry but we could not deliver your message to your friend. Try again later"
+msgstr "Наистина съжаляваме, но не можем да изпратим съобщението до вашия приятел. Моля, опитайте по-късно"
+
+msgid "There has been some erro sending the message"
+msgstr "Възникна грешка при изпращане на съобщението"
+
+msgid "We are very sorry but could not save your comment. Try again later"
+msgstr "Наистина съжаляваме, но не можем да запазим коментара ви. Моля, опитайте по-късно"
+

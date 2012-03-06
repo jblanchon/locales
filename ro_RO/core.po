@@ -1,0 +1,1876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "versiune curenta:"
+
+msgid "Downloading update file:"
+msgstr "Downloadez fisierul de actualizare:"
+
+msgid "Unzipping file:"
+msgstr "Dezarhivez fisierul:"
+
+msgid "Copying old files:"
+msgstr "Copiez fisierele vechi:"
+
+msgid "Removing new files:"
+msgstr "Sterg fisierele noi:"
+
+msgid "Executing SQL:"
+msgstr "Execut SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Execut actiuni aditionale:"
+
+msgid "Cleaning all the mess:"
+msgstr "Curat toata mizeria:"
+
+msgid "Free"
+msgstr "Gratuit"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Search"
+msgstr "Cautare"
+
+msgid "Dashboard"
+msgstr "Panou de bord"
+
+msgid "My account"
+msgstr "Contul meu"
+
+msgid "Logout"
+msgstr "Deconectare"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Remember me"
+msgstr "Nu ma deautentifica"
+
+msgid "Log in"
+msgstr "Autentificare"
+
+msgid "Language"
+msgstr "Limba"
+
+msgid "Select a category"
+msgstr "Selecteaza o categorie"
+
+msgid "Item"
+msgstr "Anunt"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Price"
+msgstr "Pret"
+
+msgid "Photos"
+msgstr "Imagini"
+
+msgid "Add new photo"
+msgstr "Adauga o imagine noua"
+
+msgid "Location"
+msgstr "Locatia"
+
+msgid "Country"
+msgstr "Tara"
+
+msgid "Region"
+msgstr "Judetul"
+
+msgid "City"
+msgstr "Oras"
+
+msgid "City area"
+msgstr "Judet"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Update"
+msgstr "Actualizare"
+
+msgid "Cancel"
+msgstr "Renunta"
+
+msgid "City Area"
+msgstr "Zona"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Mark as"
+msgstr "Marcheaza ca"
+
+msgid "Comments"
+msgstr "Comentarii"
+
+msgid "Delete"
+msgstr "Sterge"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Comment"
+msgstr "Comentariu"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Apply"
+msgstr "Aplica"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Aceasta actiune nu mai poate fi anulata. Sigur doriti sa continuati?"
+
+msgid "Current password"
+msgstr "Parola curenta"
+
+msgid "New password"
+msgstr "Parola noua"
+
+msgid "New pasword"
+msgstr "Parola noua"
+
+msgid "Repeat new pasword"
+msgstr "Repeta parola noua"
+
+msgid "Change password"
+msgstr "Schimba parola"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Aceasta actiune nu poate fi anulata. Esti sigur ca vrei sa continui ?"
+
+msgid "Activate"
+msgstr "Activeaza"
+
+msgid "User type"
+msgstr "Tipul de user"
+
+msgid "Cell phone"
+msgstr "Mobil"
+
+msgid "Phone"
+msgstr "Telefon fix"
+
+msgid "Website"
+msgstr "Site Web"
+
+msgid "Passwords don't match"
+msgstr "Parolele nu seamana intre ele"
+
+msgid "Create"
+msgstr "Creaza"
+
+msgid "The categories have been deleted"
+msgstr "Categoria a fost stearsa"
+
+msgid "Invalid email address"
+msgstr "Adresa de email invalida"
+
+msgid "no action defined"
+msgstr "nu exista nici o actiune"
+
+msgid "Contact form"
+msgstr "Formular contact"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Latest items added"
+msgstr "Ultimele articole adaugate"
+
+msgid "Latest items added in"
+msgstr "Ultimele articole adaugate in"
+
+msgid "Checking for update files."
+msgstr "Verificare pentru fisiere de actualizare."
+
+msgid "File downloaded correctly"
+msgstr "Fisierul s-a descarcat corect"
+
+msgid "Missing filename"
+msgstr "Lipseste numele de fisier"
+
+msgid "Removing temp-directory"
+msgstr "Se sterge directorul temporar"
+
+msgid "Archiving is sucessful!"
+msgstr "Arhivarea s-a finalizat cu success"
+
+msgid "Error, can't create a zip file!"
+msgstr "Eroare, nu s-a reusit crearea fisierului zip!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Eroare la unzip"
+
+msgid "Filename incorrect"
+msgstr "Nume de fisier gresit"
+
+msgid "Files removed"
+msgstr "Fisiere sterse"
+
+msgid "No files to remove"
+msgstr "Nu exista fisiere de sters"
+
+msgid "There were problems copying files"
+msgstr "Au fost probleme in timpul copierii fisierelor"
+
+msgid "Nothing to copy"
+msgstr "Nimic de copiat"
+
+msgid "Files copied"
+msgstr "Fisiere copiate"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql s-a executat"
+
+msgid "No SQL to execute"
+msgstr "Nu exista SQL de executat"
+
+msgid "Custom actions executed"
+msgstr "Actiunile custom s-au executat"
+
+msgid "No action to execute"
+msgstr "Nu exista actiuni de executat"
+
+msgid "Checking for update files"
+msgstr "Se verifica fisierele pentru actualizare"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Au fost probleme in timpul copierii fisierelor. Verificati daca permisiunile sunt setate corect"
+
+msgid "Tables updated correctly"
+msgstr "Tabelele au fost actualizate corect"
+
+msgid "No tables update to execute"
+msgstr "Nu exista actualizari de tabele de executat"
+
+msgid "View comments"
+msgstr "Vizualizare comentarii"
+
+msgid "View media"
+msgstr "Vizualizare continut media"
+
+msgid "Deactivate"
+msgstr "Dezactiveaza"
+
+msgid "Unmark as premium"
+msgstr "Demarcheaza ca premium"
+
+msgid "Mark as premium"
+msgstr "Marcheaza ca premium"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "Autentificare panou de administrare OpenSourceClassifieds"
+
+msgid "Type your new password"
+msgstr "Tasteaza noua parola"
+
+msgid "Back to"
+msgstr "Inapoi la"
+
+msgid "Username"
+msgstr "Nume utilizator"
+
+msgid "Forgot your password?"
+msgstr "Ai uitat parola?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Te rog completeaza numele de utilizator si adresa de email"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Vei primi o parola noua pe e-mail"
+
+msgid "Get new password"
+msgstr "Obtine o parola noua"
+
+msgid "Thank you for using"
+msgstr "Multumesc ca ai utilizat"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Documentatie"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "Panou administrare OpenSourceClassifieds"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "Este disponibil OpenSourceClassifieds %s!"
+
+msgid "Please upgrade now"
+msgstr "Te rog actualizeaza acum"
+
+msgid "Visit website"
+msgstr "Viziteaza site web"
+
+msgid "Hi"
+msgstr "Salut"
+
+msgid "Your profile"
+msgstr "Profilul tau"
+
+msgid "Log Out"
+msgstr "Deautentificare"
+
+msgid "Admins"
+msgstr "Administratori"
+
+msgid "Add new admin"
+msgstr "Adauga un administrator nou"
+
+msgid "Real name"
+msgstr "Nume real"
+
+msgid "required"
+msgstr "obligatoriu"
+
+msgid "User name"
+msgstr "Nume utilizator"
+
+msgid "Edit admin"
+msgstr "Modifica admin"
+
+msgid "Re-type new password"
+msgstr "Reintrodu parola noua"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Lasa necompletat daca nu vrei sa schimbi parola"
+
+msgid "Processing"
+msgstr "Se proceseaza"
+
+msgid "Show _MENU_ entries"
+msgstr "Afiseaza intrari _MENU_"
+
+msgid "No matching records found"
+msgstr "Nu s-au gasit inregistrari potrivite"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Afiseaza de la _START_ la _END_ din _TOTAL_ intrari"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Afiseaza de la 0 la 0 din 0 intrari"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "filtrate dintr-un total de _MAX_ intrari"
+
+msgid "First"
+msgstr "Primul"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Urmator"
+
+msgid "Last"
+msgstr "Ultimul"
+
+msgid "Show"
+msgstr "Afiseaza"
+
+msgid "entries"
+msgstr "intrari"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Aceasta actiune nu poate fi intoarsa. Esti sigur ca vrei sa continui ?"
+
+msgid "Bulk actions"
+msgstr "Actiuni in masa"
+
+msgid "Appearance"
+msgstr "Aspect"
+
+msgid "Theme package"
+msgstr "Pachetul cu tema"
+
+msgid "Upload"
+msgstr "Incarca"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Pentru a permite scrierea intr-un director, pe UNIX, executa comanda urmatoare din shell"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Panou de bord - Adauga o componenta noua"
+
+msgid "Create widget in %s"
+msgstr "Creaza componenta in %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Descriere (pentru uz intern)"
+
+msgid "HTML Code for the Widget"
+msgstr "Cod HTML pentru componenta"
+
+msgid "Publish widget"
+msgstr "Publica componenta"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Sigur doresti sa renunti?"
+
+msgid "Add a new theme"
+msgstr "Adauga o tema noua"
+
+msgid "Current theme"
+msgstr "Tema curenta"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Available themes"
+msgstr "Teme disponibile"
+
+msgid "Preview"
+msgstr "Previzualizare"
+
+msgid "Widgets"
+msgstr "Componente"
+
+msgid "Add HTML widget"
+msgstr "Adauga componenta HTML"
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Expirations days"
+msgstr "Zile pana expira"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = nu expira)"
+
+msgid "Enabled"
+msgstr "Activa"
+
+msgid "Save"
+msgstr "Salveaza"
+
+msgid "Disable"
+msgstr "Dezactiveaza"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Enable"
+msgstr "Activeaza"
+
+msgid "Edit comment"
+msgstr "Modifica comentariul"
+
+msgid "Add a comment"
+msgstr "Adauga un comentariu"
+
+msgid "Add"
+msgstr "Adauga"
+
+msgid "You have to write a title."
+msgstr "Trebuie sa scrii un titlu"
+
+msgid "You have to write a comment."
+msgstr "Trebuie sa scrii un comentariu"
+
+msgid "Author's name can not be empty."
+msgstr "Numele autorului trebuie completat"
+
+msgid "Author's email can not be empty."
+msgstr "Email-ul autorului trebuie completat"
+
+msgid "Edit a comment on item:"
+msgstr "Modifica un comentariu in anuntul"
+
+msgid "View"
+msgstr "Vizualizeaza"
+
+msgid "It's a registered user"
+msgstr "Este un user inregistrat"
+
+msgid "Edit user"
+msgstr "Modifica utilizatorul"
+
+msgid "Author's e-mail"
+msgstr "Email-ul autorului"
+
+msgid "Status"
+msgstr "Stare"
+
+msgid "De-activate"
+msgstr "Dezactiveaza"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Manage Comments"
+msgstr "Gestioneaza comentariile"
+
+msgid "Edit email/alert"
+msgstr "Modifica email/alerta"
+
+msgid "Add an email/alert"
+msgstr "Adauga un email/alerta"
+
+msgid "Emails & Alerts"
+msgstr "Email-uri si alerte"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Nume intern (pentru a identifica usor acest email/alerta)"
+
+msgid "Emails & alerts"
+msgstr "Emailuri si alerte"
+
+msgid "Items"
+msgstr "Anunturi"
+
+msgid "Manage items"
+msgstr "Gestioneaza anunturile"
+
+msgid "Add new item"
+msgstr "Adauga un anunt"
+
+msgid "Manage media"
+msgstr "Gestioneaza imaginile"
+
+msgid "Manage categories"
+msgstr "Gestioneaza categoriile"
+
+msgid "Pages"
+msgstr "Pagini"
+
+msgid "Manage pages"
+msgstr "Gestioneaza paginile"
+
+msgid "Create page"
+msgstr "Creaza pagina"
+
+msgid "Manage emails & alerts"
+msgstr "Gestioneaza emailurile si alertele"
+
+msgid "Manage themes"
+msgstr "Gestioneaza temele"
+
+msgid "Add or remove widgets"
+msgstr "Adauga sau sterge componente"
+
+msgid "Plugins"
+msgstr "Plugin-uri"
+
+msgid "Manage plugins"
+msgstr "Gestioneaza plugin-urile"
+
+msgid "Add new plugin"
+msgstr "Adauga plugin"
+
+msgid "Languages"
+msgstr "Limbi"
+
+msgid "Manage languages"
+msgstr "Gestioneaza limbile"
+
+msgid "Add a language"
+msgstr "Adauga o limba"
+
+msgid "General settings"
+msgstr "Setari generale"
+
+msgid "Users"
+msgstr "Utilizatori"
+
+msgid "Locations"
+msgstr "Locatii"
+
+msgid "Permalinks"
+msgstr "Limk-uri permanente"
+
+msgid "Spam and bots"
+msgstr "Spam si roboti"
+
+msgid "Currencies"
+msgstr "Monede"
+
+msgid "Mail Server"
+msgstr "Server email"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Cron system"
+msgstr "Sistem cron"
+
+msgid "Tools"
+msgstr "Unelte"
+
+msgid "Import data"
+msgstr "Importa date"
+
+msgid "Backup data"
+msgstr "Arhiveaza date"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Actualizeaza OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Regenereaza icoane"
+
+msgid "Manage users"
+msgstr "Gestioneaza utilizatori"
+
+msgid "Add new user"
+msgstr "Adauga utilizator"
+
+msgid "Administrators"
+msgstr "Administratori"
+
+msgid "List administrators"
+msgstr "Lista administratori"
+
+msgid "Add new administrator"
+msgstr "Adauga administrator"
+
+msgid "Edit Your Profile"
+msgstr "Modifica profilul"
+
+msgid "New item"
+msgstr "Anunt nou"
+
+msgid "Edit item"
+msgstr "Modifica anunt"
+
+msgid "User"
+msgstr "Utilizator"
+
+msgid "Item posted by"
+msgstr "Anunt adaugat de"
+
+msgid "Non-registered user"
+msgstr "Utilizator neinregistrat"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "General information"
+msgstr "Informatii generale"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Add item"
+msgstr "Adauga anunt"
+
+msgid "All"
+msgstr "Toate"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Duplicate"
+
+msgid "Misclassified"
+msgstr "Clasificate gresit"
+
+msgid "Offensive"
+msgstr "Ofensive"
+
+msgid "Expired"
+msgstr "Expirate"
+
+msgid "Language package"
+msgstr "Pachet limba"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Folderul translation nu are drept de scriere pe serverul tau si nu poti incarca translatii din panoul de administrator.  Te rog sa ii dai drepturi de scriere folderului translation"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Ca sa ii dai drepturi de scriere de pe UNIX executa urmatoarea comanda din shell:"
+
+msgid "Short name"
+msgstr "Nume scurt"
+
+msgid "Currency format"
+msgstr "Format moneda"
+
+msgid "Date format"
+msgstr "Format data"
+
+msgid "Stopwords"
+msgstr "Cuvinte de stop"
+
+msgid "Enabled for the public website"
+msgstr "Activata pentru site-ul public"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Activata pentru administrare"
+
+msgid "Disable (website)"
+msgstr "Dezactiveaza (pentru site web)"
+
+msgid "Disable (oc-admin)"
+msgstr "Desactiveaza (pentru administrare)"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "Enabled (website)"
+msgstr "Activata (website)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Activata (administrare)"
+
+msgid "Bulk Actions"
+msgstr "Actiuni in masa"
+
+msgid "Enable (Website)"
+msgstr "Activeaza (website)"
+
+msgid "Disable (Website)"
+msgstr "Dezactiveaza (website)"
+
+msgid "Enable (oc-admin)"
+msgstr "Activeaza (administrare)"
+
+msgid "Settings"
+msgstr "Setari"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Ce doriti sa vedeti pe dashboard?"
+
+msgid "Latest items"
+msgstr "Ultimele anunturi"
+
+msgid "Statistics"
+msgstr "Statistici"
+
+msgid "Latest comments"
+msgstr "Ultimele comentarii"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Ultimele noutati de la OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Anunturi pe categorii"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Nu exista anunturi incarcate"
+
+msgid "Number of items"
+msgstr "Numar de anunturi"
+
+msgid "Number of public users"
+msgstr "Numar de utilizatori publici"
+
+msgid "Number of administrators"
+msgstr "Numar de administratori"
+
+msgid "Commented on item"
+msgstr "A comentat pe anunt"
+
+msgid "There aren't any comments yet"
+msgstr "Nu exista comentarii"
+
+msgid "new"
+msgstr "nou"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Nu pot importa stiri din OpenSourceClassifieds. Incearca mai tarziu"
+
+msgid "File"
+msgstr "Fisier"
+
+msgid "Attached to"
+msgstr "Atasat la"
+
+msgid "Edit page"
+msgstr "Modifica pagina"
+
+msgid "Add page"
+msgstr "Adauga pagina"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Nume intern (pentru a identifica usor aceasta pagina)"
+
+msgid "View page"
+msgstr "Vizualizare pagina"
+
+msgid "Add a new plugin"
+msgstr "Adauga plugin"
+
+msgid "Plugin package"
+msgstr "Pachet plugin"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Nu se poate scrie in folder-ul %s pentru pluginuri"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds nu poate incarca pluginuri din panoul de administrare"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Copiaza pachetul cu plugin folosind FTP sau SSH sau modifica folderul pentru a permite scriere"
+
+msgid "Preset categories"
+msgstr "Categorii prestabilite"
+
+msgid "Check all"
+msgstr "Selecteaza tot"
+
+msgid "Uncheck all"
+msgstr "Deselecteaza tot"
+
+msgid "Configure"
+msgstr "Configureaza"
+
+msgid "There's a new version. You should update!"
+msgstr "A aparut o versiune noua, ar fi bine sa actualizezi!"
+
+msgid "Uninstall"
+msgstr "Dezinstaleaza"
+
+msgid "Install"
+msgstr "Instaleaza"
+
+msgid "Create currency"
+msgstr "Creaza moneda"
+
+msgid "Code"
+msgstr "Cod"
+
+msgid "It should be a three-character code"
+msgstr "Trebuie sa fie un cod de 3 caractere"
+
+msgid "Comments settings"
+msgstr "Setari comentarii"
+
+msgid "Comments enabled"
+msgstr "Comentarii permise"
+
+msgid "Moderate comments"
+msgstr "Modereaza comentarii"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Numar ce comentarii ale aceluiasi autor care trebuie validat inainte de evitarea validarii (0 pentru moderare intotdeauna)"
+
+msgid "Notifications"
+msgstr "Notificari"
+
+msgid "Contact settings"
+msgstr "Setari contact"
+
+msgid "Attachment enabled"
+msgstr "Atasamente activate"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Anumite functionalitati OpenSourceClassifieds necesita un cron pentru a merge. Verifica daca host-ul nu permite rularea. Deselecteaza daca doresti sa setezi cron manual."
+
+msgid "Edit currency"
+msgstr "Modifica moneda"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Odata creata nu mai poate fi modificata"
+
+msgid "Page title"
+msgstr "Titlu pagina"
+
+msgid "Page description"
+msgstr "Descriere pagina"
+
+msgid "Admin e-mail"
+msgstr "Email administrator"
+
+msgid "Default language"
+msgstr "Limba implicita"
+
+msgid "Custom"
+msgstr "Personalizat"
+
+msgid "Default currency"
+msgstr "Moenda implicita"
+
+msgid "Week starts on"
+msgstr "Saptamana incepe"
+
+msgid "Sunday"
+msgstr "duminica"
+
+msgid "Monday"
+msgstr "luni"
+
+msgid "Tuesday"
+msgstr "marti"
+
+msgid "Wednesday"
+msgstr "miercuri"
+
+msgid "Thursday"
+msgstr "joi"
+
+msgid "Friday"
+msgstr "vineri"
+
+msgid "Saturday"
+msgstr "sambata"
+
+msgid "Time format"
+msgstr "Format ora"
+
+msgid "Number of items in the RSS"
+msgstr "Numar de anunturi din RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Activeaza reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Activeaza validarea articolului de utilizatori"
+
+msgid "Logged users don't need to validate items"
+msgstr "Utilizatorii logati nu e nevoie sa valideze articole"
+
+msgid "Only allow registered users to post items"
+msgstr "Doar utilizatorii inregistrati pot adauga anunturi"
+
+msgid "Notify admin of new items"
+msgstr "Notifica admin cand apar anunturi"
+
+msgid "Notify admin of contact items"
+msgstr "Notifica admin despre informatii contact anunt"
+
+msgid "Notify admin of share"
+msgstr "Notifica admin despre share"
+
+msgid "Optional fields"
+msgstr "Campuri optionale"
+
+msgid "Enable price"
+msgstr "Activeaza pret"
+
+msgid "Enable images"
+msgstr "Activeaza imagini"
+
+msgid "Close"
+msgstr "Inchide"
+
+msgid "View more"
+msgstr "Vezi mai mult"
+
+msgid "Countries"
+msgstr "Tari"
+
+msgid "Add new"
+msgstr "Adauga"
+
+msgid "Regions"
+msgstr "Regiuni"
+
+msgid "Cities"
+msgstr "Orase"
+
+msgid "Add new country"
+msgstr "Adauga tara"
+
+msgid "Country code"
+msgstr "Cod tara"
+
+msgid "Country code should have two characters"
+msgstr "Codul de tara trebuie sa aiba 2 caractere"
+
+msgid "Edit country"
+msgstr "Modifica tara"
+
+msgid "Add new region"
+msgstr "Adauga regiune"
+
+msgid "Edit region"
+msgstr "Modifica regiune"
+
+msgid "Add new city"
+msgstr "Adauga oras"
+
+msgid "Edit city"
+msgstr "Modifica oras"
+
+msgid "Mail server"
+msgstr "Server email"
+
+msgid "Configuration"
+msgstr "Configuratie"
+
+msgid "Server type"
+msgstr "Tip server"
+
+msgid "Custom Server"
+msgstr "Server custom"
+
+msgid "GMail Server"
+msgstr "Server GMail"
+
+msgid "Hostname"
+msgstr "Nume host"
+
+msgid "Server port"
+msgstr "Port server"
+
+msgid "Encryption"
+msgstr "Criptare"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Optiuni: nimic, ssl sau tls"
+
+msgid "Enable SMTP authentication"
+msgstr "Activeaza autentificare SMTP"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Introduceti configurarea serverului de email"
+
+msgid "Media settings"
+msgstr "Setari media"
+
+msgid "Configure media"
+msgstr "Configureaza media"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Seteaza dimensiunea dorita pentru imaginile de pe site (format: LATIMExINALTIME, de ex. 640x480)"
+
+msgid "Restrictions"
+msgstr "Restrictii"
+
+msgid "Maximum size, in KB"
+msgstr "Dimensiune maxima, in KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Extensii permise (ex: png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Dimensiuni"
+
+msgid "Thumbnail dimensions"
+msgstr "Dimeniuni icoana"
+
+msgid "Preview dimensions"
+msgstr "Dimensiuni preview"
+
+msgid "Normal dimensions"
+msgstr "Dimensiuni normale"
+
+msgid "Keep original image"
+msgstr "Pastreaza imaginea originala"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Pastrarea imaginii originale necesita spatiu suplimentar. Aceasta optiune pastreaza calitatea fisierului nemodificata. Ai grija cand o folosesti."
+
+msgid "Permalinks settings"
+msgstr "Setari permalinks"
+
+msgid "Friendly urls"
+msgstr "URL prietenoase"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "Implicit OpenSourceClassifieds foloseste adrese URL cu semn de intrebare si numere."
+
+msgid "Enable friendly urls"
+msgstr "Activeaza URL prietenoase"
+
+msgid ".htaccess file"
+msgstr "Fisier .htaccess"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Modulul <em>mod_rewrite</em> a fost gasit pe server"
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Eroare. Nu s-a reusit scriere .htaccess. Creati un fisier .htaccess in radacina aplicatiei cu urmatorul continut"
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Fisierul .htaccess exista. Verificati ca are urmatorul continut"
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Am creat un fisier .htaccess in radacina aplicatie"
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Continutul .htaccess trebuie sa fie ca:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Continutul actual din .htaccess:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Cheia Akismet (aceasi ca la Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Daca nu exista continut serviciul Akismet e dezactivat"
+
+msgid "Get your free key at"
+msgstr "Obine o cheie gratuit la"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Daca nu exista continut serviciul reCAPTCHA e dezactivat"
+
+msgid "Get your free keys at"
+msgstr "Obtine o cheie gratuit la"
+
+msgid "reCAPTCHA private key"
+msgstr "Cheia privata reCAPTCHA"
+
+msgid "reCAPTCHA public key"
+msgstr "Cheia publica reCAPTCHA"
+
+msgid "Users settings"
+msgstr "Setari utilizatori"
+
+msgid "Users enabled"
+msgstr "User activat"
+
+msgid "User validation enabled"
+msgstr "Validare utilizatori activata"
+
+msgid "User registration enabled"
+msgstr "Inregistrare utilizatori activata"
+
+msgid "Backup"
+msgstr "Arhiva"
+
+msgid "You're offline! Please check your connection"
+msgstr "Esti offline! Verifica conexiunea"
+
+msgid "Requested URL not found"
+msgstr "URL cerut nu a fost gasit"
+
+msgid "Internal server error"
+msgstr "Eroare interna"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Eroare la parsare request JSON"
+
+msgid "Request timeout"
+msgstr "Request timeout"
+
+msgid "Unknown error"
+msgstr "Eroare necunoscuta"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Arhivare OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Poti face un backup la OpenSourceClassifieds aici. ATENTIE: daca nu specifi locaia pentru backup, backup-ul o sa fie creat in root unde este instalat OpenSourceClassifieds"
+
+msgid "Backup folder"
+msgstr "Folder arhiva"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Acesta e folderul unde vor fi creaza arhivele."
+
+msgid "Back up database"
+msgstr "Arhivare baza de date"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Arhivare OpenSourceClassifieds"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Se pot regenera icoanele si imaginile preview."
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Poti modifica baza de date ca sa adaugi, sterge ori modifica datele aici. Este folosit deobicei pentru a importa Tari, jugete, orase"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Satisfacem userii cu acest mod usor si cool de auto-upgrade: Reusita!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Cerere OpenSourceClassifieds invalida"
+
+msgid "Upgrade"
+msgstr "Actualizeaza"
+
+msgid "Re-type the password"
+msgstr "Reintrodu parola"
+
+msgid "Additional information"
+msgstr "Informatii aditionale"
+
+msgid "Activate user"
+msgstr "Activeaza utilizatorul"
+
+msgid "Deactivate user"
+msgstr "Deactiveaza utilizatorul"
+
+msgid "Update Date"
+msgstr "Actualizeaza data"
+
+msgid "Add a new user"
+msgstr "Adauga utilizator"
+
+msgid "Anonymous"
+msgstr "Anonim"
+
+msgid "Admin mail system"
+msgstr "Admin mail system"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Pluginul %s nu are index.php %s"
+
+msgid "Enter your e-mail"
+msgstr "E-mail"
+
+msgid "Select a country..."
+msgstr "Tara"
+
+msgid "Select a region..."
+msgstr "Regiunea"
+
+msgid "Select a city..."
+msgstr "Orasul"
+
+msgid "No results"
+msgstr "Nu sunt rezultate"
+
+msgid "Description: needs to be longer"
+msgstr "Descrierea: trebuie sa fie mai lunga"
+
+msgid "Choose one category"
+msgstr "Alege o categorie"
+
+msgid "Currency: make your selection"
+msgstr "Moneda: alege o moneda"
+
+msgid "Photo: must be %s"
+msgstr "Poze: trebuie sa fie %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Nume: introdu cel putin 3 caractere"
+
+msgid "Name: no more than 35 characters"
+msgstr "Nume: nu mai mult de 35 de caractere"
+
+msgid "Email: this field is required"
+msgstr "Email: acest camp este obligatoriu"
+
+msgid "Select a region"
+msgstr "Selecteaza un Judet"
+
+msgid "Select a city"
+msgstr "Selecteaza un Oras"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Zona/sector oras: cel putin 3 caractere"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Aceasta actiune nu poate fi refacuta. Siguri doresti sa continui?"
+
+msgid "Remove"
+msgstr "Sterge"
+
+msgid "Body"
+msgstr "Mesaj"
+
+msgid "User Description"
+msgstr "Descriere"
+
+msgid "Company"
+msgstr "Companie"
+
+msgid "Check with seller"
+msgstr "Verifica cu vanzatorul"
+
+msgid "Newly listed"
+msgstr "Nou"
+
+msgid "Lower price first"
+msgstr "Pret crescator"
+
+msgid "Higher price first"
+msgstr "Pret descrescator"
+
+msgid "Manage your items"
+msgstr "Gestioneaza anunturile"
+
+msgid "Manage your alerts"
+msgstr "Gestioneaza alertele"
+
+msgid "%s in"
+msgstr "%s in"
+
+msgid "There's no description available in your language"
+msgstr "Nu exista descriere"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Ne pare rau pentru inconveniente. %s este in modul de mentenanta."
+
+msgid "Error removing file: %s"
+msgstr "Eroare la stergerea fisierului: %s"
+
+msgid "Some error ocurred"
+msgstr "Cateva erori au aparut"
+
+msgid "Order saved"
+msgstr "Ordine salvata"
+
+msgid "Error while deleting"
+msgstr "Eroare in timpul stergerii"
+
+msgid "Error while updating."
+msgstr "Eroare in timpul incarcarii"
+
+msgid "Saved"
+msgstr "Salvat"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Totul este OK!  Instalarea OpenSourceClassifieds este actualizata"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Aproape totul a fost OK! Instalarea OpenSourceClassifieds este actualizata, dar au aparut niste eroari la stergerea temporara a unr fisiere. Te rog sa le stergi manual din folderul \\\"oc-temp\\\" "
+
+msgid "Problems upgrading the database"
+msgstr "Probleme la upgrade-ul bazei de date"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Probleme la copierea fisierelor. Poate drepturile nu sunt alocate corect"
+
+msgid "Download failed"
+msgstr "Descarcare esuata"
+
+msgid "Missing download URL"
+msgstr "Lipseste URL-ul de descarcare"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Avem niste erori la stergerea fisierelor, acestea nu sunt erori fatale deci putem continua instalarea upgrad-ului. Te rog sterge urmatoarele fisiere ( deja este upgradat OpenSourceClassifieds, dar pentru marirea performantei)"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Avem niste erori la upgrad-ul bazei de date. Urmatoarele interogari au esuat"
+
+msgid "Clear"
+msgstr "Curata"
+
+msgid "Forums"
+msgstr "Forum"
+
+msgid "Add new theme"
+msgstr "Adauga o noua tema"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Folderul pentru teme %s nu are drept de scriere pe server, <span class=\\\"OpenSourceClassifieds\\\">OpenSourceClassifieds</span> nu se pot incarca teme din panoul de administrator. Te rog copiaza pachetul temei folosind FTP sau SSH, sau modifica drepturile folderului."
+
+msgid "Ajax error, try again."
+msgstr "Eroare Ajax, incearca din nou"
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "ATENTIE: Vor fi sterse si anunturile din acea categorie. Aceasta actiune nu mai poate fi intoarsa. Doresti sa continui ?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Trage si da-i drumul categoriei pentru a o ordona asa cum vrei. Click pe edit pentru a edita categoria"
+
+msgid "Add new category"
+msgstr "Adauga o noua categorie"
+
+msgid "Categories settings"
+msgstr "Setari categorii"
+
+msgid "Selectable parent categories"
+msgstr "Selecteaza categoriile mama"
+
+msgid "ACTIVE"
+msgstr "ACTIVE"
+
+msgid "INACTIVE"
+msgstr "INACTIV"
+
+msgid "ENABLED"
+msgstr "ACTIVATE"
+
+msgid "DISABLED"
+msgstr "DEZACTIVAT"
+
+msgid "Last Searches"
+msgstr "Ultimele cautari"
+
+msgid "Maintenance mode"
+msgstr "Modul Mentenanta"
+
+msgid "Reports"
+msgstr "Rapoarte"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Numarul de anunturi de la acelasi utilizator care trebuie validate inainte de a sarii de validare (0 pentru a nu mai fi nevoie de validare)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Numarul de secunde pe care un user trebuie sa astepta pana a posta un nou anunt ( 0 pentru a nu astepta)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Doar userii inregistratori pot contacta vanzatorul"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Numarul maxim de imagini per anunt (0 pentru nelimitat)"
+
+msgid "Download more languages at %s"
+msgstr "Descarca mai multe limbi pe %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Aceasta actiune nu poate fi anulata. Dezinstaland acest plugin poate rezulta pierderea datelor. Esti sigur ca vrei sa continui ?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Numarul de comenturi per pagina. Poti limita numarul de domenturi care sa apare pe o pagina. Iar restul de comenturi o sa apara sub forma de pagina. ( 0 pentru a fi afisate toate comenturile )"
+
+msgid "Only allow registered users to post comments"
+msgstr "Doar userii inregistrati pot plasa comenturi"
+
+msgid "Number of recent items displayed at home"
+msgstr "Numarul de anunturi recente care sa apara pe prima pagina"
+
+msgid "Save latest searches"
+msgstr "Salveaza ultimele cautari"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds poate salva toate cautariile unui user facute pe siteul tau. Astfel iti poti face o idee despre ce cauta userii tai pentru a le arata pe site direct intro categorie gen \\\"cele mai cautate\\\""
+
+msgid "Keep last searches"
+msgstr "Tine ultimele cautari"
+
+msgid "One hour"
+msgstr "O ora"
+
+msgid "One day"
+msgstr "O zi"
+
+msgid "One week"
+msgstr "O saptamana"
+
+msgid "Forever (never delete)"
+msgstr "Mereu ( nu se sterg niciodata )"
+
+msgid "Keep last 1000 searches"
+msgstr "Tine ultimele 1000 de cautari"
+
+msgid "Number of files to keep"
+msgstr "Numarul de fisiere detinute"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Ultimele cautari pot genera o gramada de date. Este recomandat sa mai stergi din ele. Poti sterge mai vechi de o ora, mai vechi de o zi, mai vechi de o luna, sau poti specifica numarul de cautari care doresti sa le ti sau sa nu le stearga niciodata"
+
+msgid "Last 10 days"
+msgstr "Ultimele 10 zile"
+
+msgid "Last 10 weeks"
+msgstr "Ultimele 10 saptamani"
+
+msgid "Last 10 months"
+msgstr "Ultimele 10 luni"
+
+msgid "There're no statistics yet"
+msgstr "Nu exista inca statistici"
+
+msgid "Latest comments on the web"
+msgstr "Ultimele comenturi lasate"
+
+msgid "New items"
+msgstr "Anunturi noi"
+
+msgid "Total number of items' views"
+msgstr "Numarul total de vizualizari"
+
+msgid "Latest items on the web"
+msgstr "Ultimele anunturi pe site"
+
+msgid "Active"
+msgstr "Activ"
+
+msgid "Inactive"
+msgstr "Inactiv"
+
+msgid "Views"
+msgstr "Vizualizari"
+
+msgid "Total number of reports"
+msgstr "Numarul total de rapoarte"
+
+msgid "Repeated"
+msgstr "Repetare"
+
+msgid "Bad category"
+msgstr "Categorie \"rea\""
+
+msgid "Latest users on the web"
+msgstr "Ultimii useri pe site"
+
+msgid "Avg. items per user"
+msgstr "Media anunturilor per user"
+
+msgid "items per user"
+msgstr "Anunt pe user"
+
+msgid "New users"
+msgstr "User nou"
+
+msgid "Users per country"
+msgstr "Useri per Tara"
+
+msgid "Unknown"
+msgstr "Necunoscut"
+
+msgid "Users per region"
+msgstr "User per judet"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "In modul mentenanta, userii nu pot accesa siteul tau. Folositor atunci cand doresti sa faci modificari la site. Foloseste urmatorul button pentru a PORNII/OPRII modul MENTENANTA"
+
+msgid "Maintenance mode is:"
+msgstr "Modul mentenanta este:"
+
+msgid "ON"
+msgstr "ACTIVAT"
+
+msgid "OFF"
+msgstr "DEZACTIVAT"
+
+msgid "Disable maintenance mode"
+msgstr "Dezactiveaza modul mentenanta"
+
+msgid "Enable maintenance mode"
+msgstr "Activeaza modul mentenanta"
+
+msgid "Checking for updates"
+msgstr "Se cauta actualizari"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "FELICITARI! Pluginul este actualizat !"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Felicitari ! OpenSourceClassifieds este actualiza!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Se fac actualizari ( poate dura ceva timp )"
+
+msgid "Enable user"
+msgstr "Activeaza useri"
+
+msgid "Disable user"
+msgstr "Dezactiveaza useri"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds %raquo; Au ceva erori"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Am intampinat cateva probleme la actualizarea structurii bazei de date. Urmatoarele interogari au esuat"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Aceste erori pot fi false-positive . Daca esti sigur in acest caz, tu poti <a href=\\\"%s\\\">continue with the upgrade</a>, or <a href=\\\"http://forums.opensourceclassifieds.org/\\\">ask in our forums</a>. "
+
+msgid "Name: this field is required"
+msgstr "Nume: Acest camp este obligatoriu"
+
+msgid "Message: this field is required"
+msgstr "Mesaj: acest camp este obligatoriu"
+
+msgid "City area: no more than 50 characters"
+msgstr "Zona Oras: nu mai mult de 50 de caractere"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Adresa: nu mai putin de 3 caractere"
+
+msgid "Address: no more than 100 characters"
+msgstr "Adresa: nu mai mult de 100 de caractere"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Ne pare rau dar numarul maxim de imagini a fost atins"
+
+msgid "Your name: this field is required"
+msgstr "Numele tau: acest camp este obligatoriu"
+
+msgid "Friend's name: this field is required"
+msgstr "Numele prietenului: acest camp este obligatoriu"
+
+msgid "Friend's email: this field is required"
+msgstr "Email-ul prietenului: acest camp este obligatoriu"
+
+msgid "Invalid friend's email address"
+msgstr "Adresa de email a prietenului este invalida"
+
+msgid "Name: no more than 50 characters"
+msgstr "Nume: nu mai mult de 50 de caractere"
+
+msgid "Password: this field is required"
+msgstr "Parola: acest camp este obligatoriu"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Parola: introdu cel putin 5 caractere"
+
+msgid "No file selected"
+msgstr "Niciun fisier selectate"
+
+msgid "Choose File"
+msgstr "Alege fisier"
+
+msgid "The website is currently under maintenance mode"
+msgstr "Acest site este in modul mentenanta"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Ne pare rau, dar aveti deja un camp cu acelas nume"
+
+msgid "The custom field have been deleted"
+msgstr "Campurile au fost sterse"
+
+msgid "Unmark as spam"
+msgstr "Demarcheaza ca spam"
+
+msgid "Mark as spam"
+msgstr "Marcheaza ca spam"
+
+msgid "Field's name"
+msgstr "Nume camp"
+
+msgid "This field is required"
+msgstr "Acest camp este obligatoriu"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Selecteaza categoria unde doresti sa se aplice aceste atribute"
+
+msgid "Advanced options"
+msgstr "Optiuni avansate"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "Nume de identificare ( doar litere alfabetice si numere sunt folosite ( a-z, 0-9))"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "ATENTIE: Se vor sterge si informatiile din acest camp. Aceasta actiune nu poate fi anulata. Esti sigur ca vrei sa continui ?"
+
+msgid "Custom Fields"
+msgstr "Campuri customizabile"
+
+msgid "Add new field"
+msgstr "Adauga un nou camp"
+
+msgid "Add new custom field"
+msgstr "Adauga un nou camp customizabil"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "You don't have any custom fields yet"
+msgstr "Nu aveti inca campuri customizabile"
+
+msgid "Manage custom fields"
+msgstr "Administreaza campurile customizabile"
+
+msgid "County"
+msgstr "Tara"
+
+msgid "Show filters"
+msgstr "Arata campuri"
+
+msgid "Title and Description"
+msgstr "Titlu si Descrierea"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "ALL"
+msgstr "TOATE"
+
+msgid "Reset filters"
+msgstr "Reseteaza filtre"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "Selecteaza categoriile unde doresti sa se aplice aceste atribute ( click pe numele lor ca sa se se extinda )"
+
+msgid "Watermark settings"
+msgstr "Setari insemne"
+
+msgid "Watermark color"
+msgstr "Culoare insemn"
+
+msgid "Watermark text"
+msgstr "Textul inscriptionat"
+
+msgid "Watermark place"
+msgstr "Plasarea insemnului"
+
+msgid "Centre"
+msgstr "Centru"
+
+msgid "Top Left"
+msgstr "Top stanga"
+
+msgid "Top Right"
+msgstr "Top dreapta"
+
+msgid "Bottom Left"
+msgstr "Jos stanga"
+
+msgid "Bottom Right"
+msgstr "Jos dreapta"
+
+msgid "Watermark image"
+msgstr "Imaginea insemnului"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "OpenSourceClassifieds nu tine cont de marimea imaginii insemnului"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Este recomanda sa \"Pastrezi imaginea originala\" activata cand folosesti insemne"
+
+msgid "New version to update:"
+msgstr "A aparut o noua versiune:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "OpenSourceClassifieds se poate auto actualiza. Te rog fa un backup al bazei de date si a folderului oc-content inainte de a actualiza. De altfel poti actualiza OpenSourceClassifieds manual, mai multe informatii pe : %s"
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "OpenSourceClassifieds nu se poate auto actualiza. Folderele si fisierele nu au drepturi de scriere. Poti aplica permisii 644 prin SSH cu comanda \\\"chmod -R 644 *\\\" (fara ghilimere) sau prin FTP . Poti face update de altfel download-and fisierul de pe site, apoi trebuie dezarhivat si inlocuite fisierele de pe server cu cele dezarhivate."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "Nu exista o categorie cu acest id: %d"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "Categoria si subcategoria au fost activate"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "Categoria si subcategoria au fost dezactivate"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "Categoria mama a fost dezactivata, nu poti activa aceasta categorie"
+
+msgid "The subcategory has been enabled"
+msgstr "Subcategoria a fost activata"
+
+msgid "The subcategory has been disabled"
+msgstr "Subcategoria a fost dezactivata"
+
+msgid "Category updated correctly"
+msgstr "Categorie actualizata corect"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "Categorie actualizata corect, dar cateva titluri erau goale"
+
+msgid "Sorry, at least a title is needed"
+msgstr "Ne pare rau, cel putin un titlu este necesar"
+
+msgid "Error while updating"
+msgstr "Eroare in timpul actualizarii"
+
+msgid "Test email"
+msgstr "Email de test"
+
+msgid "Email sent successfully"
+msgstr "Email trimis cu succes"
+
+msgid "An error has occurred while sending email"
+msgstr "A aparut o eroare la trimiterea unui email"
+
+msgid "Field's type"
+msgstr "Tipul Campului"
+
+msgid "Field's options (separated by commas)"
+msgstr "Optiune Camp ( separate prin virgule )"
+
+msgid "Options (separeted by commas)"
+msgstr "Optiune ( separate prin virgule )"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "Poate atasa fisiere la contactarea unui vanzator"
+
+msgid "Number of decimals"
+msgstr "Numarul decimalelor"
+
+msgid "Decimal point"
+msgstr "Despartire decimale"
+
+msgid "Thousands separator"
+msgstr "Separator mii"
+
+msgid "Action"
+msgstr "Actiune"
+
+msgid "Notify admin when there's a new comment"
+msgstr "Notificare admin cand apare un nou coment"
+
+msgid "Notify user when there's a new comment"
+msgstr "Notica userul cand apare un nou coment"
+
+msgid "Timezone"
+msgstr "Timpul zonei"
+
+msgid "Select a timezone..."
+msgstr "Selecteaza timpul zonei..."
+
+msgid "Number of item displayed in search results"
+msgstr "Numarul de anunturi care sa apare la rezultatul unei cautari"
+
+msgid "Use a POP before SMTP"
+msgstr "Foloseste POP inainte de SMTP"
+
+msgid "not found"
+msgstr "nu a fost gasit"
+
+msgid "Test configuration"
+msgstr "Test pentru configurari"
+
+msgid "The email will be sent to contact email"
+msgstr "Acest email va fi trimis catre emailul contactat"
+
+msgid "Send email"
+msgstr "Trimite email"
+
+msgid "Use imagick instead of GD"
+msgstr "Foloseste imagick in loc de GD"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "E mai rapid si consuma mai putine resurse fata de libraria GD"
+
+msgid "Freetype library is required. How to"
+msgstr "Libraria necesara Freetype: Cum sa"
+
+msgid "install/configure"
+msgstr "instaleaza/configureaza"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Atentie! Drepturile de scriere nu au fost gasite pe server. Asta inseamna ca nu este activat sau folosesti PHP ca CGI (sau fastCGI). In caz ca nu ai modul:  mod_rewrite poti folosii \" friendly urls \" daca optiunile AcceptPathInfo  sunt pornite in configurarile Apache (nu putem sti daca sunt sau nu pornite, dar deobicei sunt). \\\"Index.php\\\" o sa apara ca o parte din URL. http://www.example.com/index.php/nice/url)."
+
+msgid "Notify admin when a new user registers"
+msgstr "Notifica admin-ul cand se inregistreaza un nou user"
+
+msgid "Price: no more than 50 characters"
+msgstr "Pret: nu mai mult de 50 de caractere"
+

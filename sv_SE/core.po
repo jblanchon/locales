@@ -1,0 +1,1876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "current version:"
+msgstr "aktuell version:"
+
+msgid "Downloading update file:"
+msgstr "Hämtar uppdaterad fil:"
+
+msgid "Unzipping file:"
+msgstr "Packar upp fil:"
+
+msgid "Copying old files:"
+msgstr "Kopierar gamla filer:"
+
+msgid "Removing new files:"
+msgstr "Tar bort nya filer:"
+
+msgid "Executing SQL:"
+msgstr "Exekverar SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Exekverar ytterligare åtgärder:"
+
+msgid "Cleaning all the mess:"
+msgstr "Städar upp:"
+
+msgid "Free"
+msgstr "Gratis"
+
+msgid "Contact"
+msgstr "Kontakta"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+msgid "My account"
+msgstr "Mitt konto"
+
+msgid "Logout"
+msgstr "Logga ut"
+
+msgid "E-mail"
+msgstr "email"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Remember me"
+msgstr "Kom ihåg mig"
+
+msgid "Log in"
+msgstr "Logga in"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Select a category"
+msgstr "Välj en kategori"
+
+msgid "Item"
+msgstr "Annons"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Photos"
+msgstr "Bilder"
+
+msgid "Add new photo"
+msgstr "Lägg till en bild"
+
+msgid "Location"
+msgstr "Plats"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Län"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "City area"
+msgstr "Stadsområde"
+
+msgid "Address"
+msgstr "Adress"
+
+msgid "Update"
+msgstr "Uppdatera"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "City Area"
+msgstr "Stadsområde"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Mark as"
+msgstr "Markera som"
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "Title"
+msgstr "Rubrik"
+
+msgid "Comment"
+msgstr "Kommentera"
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Apply"
+msgstr "Anpassa"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Denna åtgärd kan inte ångras. Är du säker på att du vill fortsätta?"
+
+msgid "Current password"
+msgstr "Nuvarande lösenord"
+
+msgid "New password"
+msgstr "Nytt lösenord"
+
+msgid "New pasword"
+msgstr "Nytt lösenord"
+
+msgid "Repeat new pasword"
+msgstr "Upprepa nytt lösenord"
+
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Detta kan inte ångras. Är du säker på att du vill fortsätta?"
+
+msgid "Activate"
+msgstr "Aktivera"
+
+msgid "User type"
+msgstr "Användartyp"
+
+msgid "Cell phone"
+msgstr "Mobiltelefon"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Webbplats"
+
+msgid "Passwords don't match"
+msgstr "Lösenorden matchar inte"
+
+msgid "Create"
+msgstr "Skapa"
+
+msgid "The categories have been deleted"
+msgstr "Kategorierna har raderats"
+
+msgid "Invalid email address"
+msgstr "Ogiltig mailadress"
+
+msgid "no action defined"
+msgstr "Inga åtgärder markerade"
+
+msgid "Contact form"
+msgstr "Kontaktformulär"
+
+msgid "Administrator"
+msgstr "Administratör"
+
+msgid "Latest items added"
+msgstr "Senaste annonser tillagda"
+
+msgid "Latest items added in"
+msgstr "Senaste annonser tillagda i"
+
+msgid "Checking for update files."
+msgstr "Söker efter uppdatering"
+
+msgid "File downloaded correctly"
+msgstr "Filen är nedladdad"
+
+msgid "Missing filename"
+msgstr "Saknat filnamn"
+
+msgid "Removing temp-directory"
+msgstr "Tar bort temp-katalog"
+
+msgid "Archiving is sucessful!"
+msgstr "Arkivering lyckades!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Fel, kan inte skapa en zip-fil!"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Unzip failed"
+msgstr "Uppackning misslyckades"
+
+msgid "Filename incorrect"
+msgstr "Filnamn felaktig"
+
+msgid "Files removed"
+msgstr "Filer tas bort"
+
+msgid "No files to remove"
+msgstr "Inga filer att ta bort"
+
+msgid "There were problems copying files"
+msgstr "Det uppstod problem vid kopiering av filer"
+
+msgid "Nothing to copy"
+msgstr "Det finns inget att kopiera"
+
+msgid "Files copied"
+msgstr "Kopierade filer"
+
+msgid "upgrade.sql executed"
+msgstr "upgrade.sql verkställd"
+
+msgid "No SQL to execute"
+msgstr "Ingen SQL att verkställa"
+
+msgid "Custom actions executed"
+msgstr "Anpassade åtgärder utförda"
+
+msgid "No action to execute"
+msgstr "Ingen åtgärd att utföra"
+
+msgid "Checking for update files"
+msgstr "Kontrollerar om uppdateringsfiler existerar"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Det uppstod problem vid kopiering av filer. Kanske filrättigheterna inte är korrekt inställda"
+
+msgid "Tables updated correctly"
+msgstr "Tabeller uppdaterades korrekt"
+
+msgid "No tables update to execute"
+msgstr "Inga tabeller att uppdatera finns"
+
+msgid "View comments"
+msgstr "Visa kommentarer"
+
+msgid "View media"
+msgstr "Visa media"
+
+msgid "Deactivate"
+msgstr "Avaktivera"
+
+msgid "Unmark as premium"
+msgstr "Avmarkera som premie"
+
+msgid "Mark as premium"
+msgstr "Markera som premie"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds admin inloggning"
+
+msgid "Type your new password"
+msgstr "Skriv ditt nya lösenord"
+
+msgid "Back to"
+msgstr "Tillbaka till"
+
+msgid "Username"
+msgstr "Användarnamn"
+
+msgid "Forgot your password?"
+msgstr "Har du glömt ditt lösenord?"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Ange ditt användarnamn eller din e-postadress"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Du kommer att få ett nytt lösenord via email"
+
+msgid "Get new password"
+msgstr "Skaffa nytt lösenord"
+
+msgid "Thank you for using"
+msgstr "Tack för att du använder"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Admin Panel"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "OpenSourceClassifieds %s är tillgänglig!"
+
+msgid "Please upgrade now"
+msgstr "Vänligen uppgradera nu"
+
+msgid "Visit website"
+msgstr "Besök webbsidan"
+
+msgid "Hi"
+msgstr "Hej"
+
+msgid "Your profile"
+msgstr "Din profil"
+
+msgid "Log Out"
+msgstr "Logga ut"
+
+msgid "Admins"
+msgstr "Administratörer"
+
+msgid "Add new admin"
+msgstr "Lägg till ny administratör"
+
+msgid "Real name"
+msgstr "Riktigt namn"
+
+msgid "required"
+msgstr "Krävs"
+
+msgid "User name"
+msgstr "Användarnamn"
+
+msgid "Edit admin"
+msgstr "Redigera administratör"
+
+msgid "Re-type new password"
+msgstr "Upprepa det nya lösenordet"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Lämna det blankt om du inte vill ändra ditt lösenord"
+
+msgid "Processing"
+msgstr "Bearbetning"
+
+msgid "Show _MENU_ entries"
+msgstr "Visa _MENU_ poster"
+
+msgid "No matching records found"
+msgstr "Inga matchande poster hittades"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Visar _START_ till _END_ av _TOTAL_ poster"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Visar 0 till 0 av 0 poster"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "filtreras bort från _MAX_ total poster"
+
+msgid "First"
+msgstr "Först"
+
+msgid "Previous"
+msgstr "Föregående"
+
+msgid "Next"
+msgstr "Nästa"
+
+msgid "Last"
+msgstr "Sista"
+
+msgid "Show"
+msgstr "Visa"
+
+msgid "entries"
+msgstr "Poster"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Denna åtgärd kan inte göras ogjord. Är du säker på att du vill fortsätta?"
+
+msgid "Bulk actions"
+msgstr "Massåtgärder"
+
+msgid "Appearance"
+msgstr "Utseende"
+
+msgid "Theme package"
+msgstr "Tema paket"
+
+msgid "Upload"
+msgstr "Ladda upp"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "För att göra en katalog skrivbar under UNIX utför detta kommando från skalet"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Kontrollpanel - Lägg till ny Widget"
+
+msgid "Create widget in %s"
+msgstr "Skapa widget i %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Beskrivning (endast för internt bruk)"
+
+msgid "HTML Code for the Widget"
+msgstr "HTML-koden för Widget"
+
+msgid "Publish widget"
+msgstr "Publicera widget"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Är du säker på att du vill avbryta?"
+
+msgid "Add a new theme"
+msgstr "Lägg till ett nytt tema"
+
+msgid "Current theme"
+msgstr "Aktuellt tema"
+
+msgid "Author"
+msgstr "Säljare"
+
+msgid "Available themes"
+msgstr "Tillgängliga teman"
+
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Add HTML widget"
+msgstr "Lägg till HTML widget"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Expirations days"
+msgstr "Utgångsdatum dagar"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = inget utgångsdatum)"
+
+msgid "Enabled"
+msgstr "Aktiverad"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Disable"
+msgstr "Inaktivera"
+
+msgid "Description"
+msgstr "Beskrivning"
+
+msgid "Enable"
+msgstr "Aktivera"
+
+msgid "Edit comment"
+msgstr "Redigera kommentar"
+
+msgid "Add a comment"
+msgstr "Lägg till en kommentar"
+
+msgid "Add"
+msgstr "Lägg till"
+
+msgid "You have to write a title."
+msgstr "Du måste skriva en titel."
+
+msgid "You have to write a comment."
+msgstr "Du måste skriva en kommentar."
+
+msgid "Author's name can not be empty."
+msgstr "Författarens namn kan inte vara tom."
+
+msgid "Author's email can not be empty."
+msgstr "Författarens e-post kan inte vara tom."
+
+msgid "Edit a comment on item:"
+msgstr "Redigera en kommentar på annons:"
+
+msgid "View"
+msgstr "Visa"
+
+msgid "It's a registered user"
+msgstr "Är en registrerad användare"
+
+msgid "Edit user"
+msgstr "Redigera användare"
+
+msgid "Author's e-mail"
+msgstr "Författarens e-post"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "De-activate"
+msgstr "Inaktivera"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Manage Comments"
+msgstr "Hantera kommentarer"
+
+msgid "Edit email/alert"
+msgstr "Redigera e-post/prenumeration"
+
+msgid "Add an email/alert"
+msgstr "Lägg till en e-post/prenumeration"
+
+msgid "Emails & Alerts"
+msgstr "E-postmeddelanden och varningar"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Interna namn (namn för att enkelt identifiera denna e-post/registrering)"
+
+msgid "Emails & alerts"
+msgstr "E-post & prenumerationer"
+
+msgid "Items"
+msgstr "Annonser"
+
+msgid "Manage items"
+msgstr "Hantera annonser"
+
+msgid "Add new item"
+msgstr "Lägg till ny annons"
+
+msgid "Manage media"
+msgstr "Hantera media"
+
+msgid "Manage categories"
+msgstr "Hantera kategorier"
+
+msgid "Pages"
+msgstr "Sidor"
+
+msgid "Manage pages"
+msgstr "Hantera sidor"
+
+msgid "Create page"
+msgstr "Skapa sida"
+
+msgid "Manage emails & alerts"
+msgstr "Hantera mail och larm"
+
+msgid "Manage themes"
+msgstr "Hantera teman"
+
+msgid "Add or remove widgets"
+msgstr "Lägg till eller ta bort widgets"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Manage plugins"
+msgstr "Hantera plugins"
+
+msgid "Add new plugin"
+msgstr "Lägg till nya plugin"
+
+msgid "Languages"
+msgstr "Språk"
+
+msgid "Manage languages"
+msgstr "Hantera språk"
+
+msgid "Add a language"
+msgstr "Lägg till ett språk"
+
+msgid "General settings"
+msgstr "Allmänna inställningar"
+
+msgid "Users"
+msgstr "Användare"
+
+msgid "Locations"
+msgstr "Platser"
+
+msgid "Permalinks"
+msgstr "Permalänkar"
+
+msgid "Spam and bots"
+msgstr "Spam och bots"
+
+msgid "Currencies"
+msgstr "Valutor"
+
+msgid "Mail Server"
+msgstr "E-post Server"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Cron system"
+msgstr "Cron system"
+
+msgid "Tools"
+msgstr "Verktyg"
+
+msgid "Import data"
+msgstr "Importera data"
+
+msgid "Backup data"
+msgstr "Säkerhetskopiera data"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Uppgradera OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Generera miniatyrbilder"
+
+msgid "Manage users"
+msgstr "Hantera användare"
+
+msgid "Add new user"
+msgstr "Lägg till ny användare"
+
+msgid "Administrators"
+msgstr "Administratörer"
+
+msgid "List administrators"
+msgstr "Lista administratörer"
+
+msgid "Add new administrator"
+msgstr "Lägg till ny administratör"
+
+msgid "Edit Your Profile"
+msgstr "Redigera din profil"
+
+msgid "New item"
+msgstr "Ny annons"
+
+msgid "Edit item"
+msgstr "Redigera annons"
+
+msgid "User"
+msgstr "Användare"
+
+msgid "Item posted by"
+msgstr "Annons upplagd av"
+
+msgid "Non-registered user"
+msgstr "Ej registrerad användare"
+
+msgid "E-Mail"
+msgstr "E-post"
+
+msgid "General information"
+msgstr "Allmän information"
+
+msgid "optional"
+msgstr "Valfritt"
+
+msgid "Add item"
+msgstr "Lägg till annons"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Dubblet"
+
+msgid "Misclassified"
+msgstr "Missvisande"
+
+msgid "Offensive"
+msgstr "Kränkade"
+
+msgid "Expired"
+msgstr "Utgången"
+
+msgid "Language package"
+msgstr "Språkpaket"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Översättningsmappen är inte skrivbar på din server så du kan inte ladda upp översättningar ifrån adminpanelen. Du måste göra översättningsmappen skrivbar."
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "För att göra katalogen skrivbar under UNIX verkställ detta kommando från skalet:"
+
+msgid "Short name"
+msgstr "Förkortning"
+
+msgid "Currency format"
+msgstr "Valutaformat"
+
+msgid "Date format"
+msgstr "Datumformat"
+
+msgid "Stopwords"
+msgstr "Stoppord"
+
+msgid "Enabled for the public website"
+msgstr "Aktiverat för den offentliga webbplatsen"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Aktiverat för BackOffice (OC-admin)"
+
+msgid "Disable (website)"
+msgstr "Inaktivera (hemsida)"
+
+msgid "Disable (oc-admin)"
+msgstr "Inaktivera (OC-administratör)"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "Enabled (website)"
+msgstr "Aktiverad (hemsida)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Aktiverad (OC-administratör)"
+
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+msgid "Enable (Website)"
+msgstr "Aktivera (Webbsida)"
+
+msgid "Disable (Website)"
+msgstr "Avaktivera (Webbsida)"
+
+msgid "Enable (oc-admin)"
+msgstr "Aktivera (OC-administratör)"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Vilket av följande vill du se på din kontrollpanel"
+
+msgid "Latest items"
+msgstr "Senaste annonserna"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Latest comments"
+msgstr "Senaste kommentarer"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Senaste nytt från OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Annonser efter kategori"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Det finns inga uppladdade annonser än"
+
+msgid "Number of items"
+msgstr "Antal annonser"
+
+msgid "Number of public users"
+msgstr "Antal offentliga användare"
+
+msgid "Number of administrators"
+msgstr "Antal administratörer"
+
+msgid "Commented on item"
+msgstr "Kommentarer på annons"
+
+msgid "There aren't any comments yet"
+msgstr "Det finns inga kommentarer ännu"
+
+msgid "new"
+msgstr "ny"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Kunde inte hämta nyheter från OpenSourceClassifieds. Försök senare"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "Attached to"
+msgstr "Bifogat till"
+
+msgid "Edit page"
+msgstr "Redigera sida"
+
+msgid "Add page"
+msgstr "Lägg till sida"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Interna namn (namn för att enkelt identifiera den här sidan)"
+
+msgid "View page"
+msgstr "Gå till sidan"
+
+msgid "Add a new plugin"
+msgstr "Lägg till en ny plugin"
+
+msgid "Plugin package"
+msgstr "Pluginpaketet"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Pluginmappen %s är inte skrivbar på din server"
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "OpenSourceClassifieds kan inte ladda pluginen från adminpanelen"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Kopiera pluginpaketet med FTP/SSH eller gör den nämnda pluginmappen skrivbar"
+
+msgid "Preset categories"
+msgstr "Förinställda kategorier"
+
+msgid "Check all"
+msgstr "Markera alla"
+
+msgid "Uncheck all"
+msgstr "Avmarkera alla"
+
+msgid "Configure"
+msgstr "Konfigurera"
+
+msgid "There's a new version. You should update!"
+msgstr "Det finns en ny version. Du bör uppdatera!"
+
+msgid "Uninstall"
+msgstr "Avinstallera"
+
+msgid "Install"
+msgstr "Installera"
+
+msgid "Create currency"
+msgstr "Skapa valuta"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "It should be a three-character code"
+msgstr "Det bör vara en tre-teckenkod"
+
+msgid "Comments settings"
+msgstr "Kommentarernas inställningar"
+
+msgid "Comments enabled"
+msgstr "Kommentarer aktiverat"
+
+msgid "Moderate comments"
+msgstr "Moderera kommentarer"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Antal kommentarer från samma upphovsman som skall valideras innan validering läggs ner (0 för konstant moderering)"
+
+msgid "Notifications"
+msgstr "Notifieringar"
+
+msgid "Contact settings"
+msgstr "Kontaktinställningar"
+
+msgid "Attachment enabled"
+msgstr "Bifogad fil aktiverat"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Auto-cron"
+msgstr "Auto-cron"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Vissa OpenSourceClassifieds funktioner kräver en cron för att arbeta. Kontrollera om din värd inte kan göra dem. Avmarkera om du vill ställa in cron manuellt. Se manualen att veta mer om OpenSourceClassifieds cron systemet."
+
+msgid "Edit currency"
+msgstr "Redigera valuta"
+
+msgid "Once it's created, it can't be modified"
+msgstr "När det är skapat, kan det inte ändras"
+
+msgid "Page title"
+msgstr "Sidrubrik"
+
+msgid "Page description"
+msgstr "Sidbeskrivning"
+
+msgid "Admin e-mail"
+msgstr "Administratörens e-post"
+
+msgid "Default language"
+msgstr "Standardspråk"
+
+msgid "Custom"
+msgstr "Anpassad"
+
+msgid "Default currency"
+msgstr "Standard valuta"
+
+msgid "Week starts on"
+msgstr "Veckan börjar på"
+
+msgid "Sunday"
+msgstr "Söndag"
+
+msgid "Monday"
+msgstr "Måndag"
+
+msgid "Tuesday"
+msgstr "Tisdag"
+
+msgid "Wednesday"
+msgstr "Onsdag"
+
+msgid "Thursday"
+msgstr "Torsdag"
+
+msgid "Friday"
+msgstr "Fredag"
+
+msgid "Saturday"
+msgstr "Lördag"
+
+msgid "Time format"
+msgstr "Tidsformat"
+
+msgid "Number of items in the RSS"
+msgstr "Antal annonser i RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Aktivera reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Aktivera annonsvalidering av användare"
+
+msgid "Logged users don't need to validate items"
+msgstr "Inloggade användare behöver inte validera annonser"
+
+msgid "Only allow registered users to post items"
+msgstr "Tillåt endast registrerade användare att posta annonser"
+
+msgid "Notify admin of new items"
+msgstr "Underrätta administratören om nya annonser"
+
+msgid "Notify admin of contact items"
+msgstr "Underrätta administratören vid kontakt på annonser"
+
+msgid "Notify admin of share"
+msgstr "Underrätta administratören vid delning"
+
+msgid "Optional fields"
+msgstr "Valfria fält"
+
+msgid "Enable price"
+msgstr "Aktivera pris"
+
+msgid "Enable images"
+msgstr "Aktivera bilder"
+
+msgid "Close"
+msgstr "Stäng"
+
+msgid "View more"
+msgstr "Visa mer"
+
+msgid "Countries"
+msgstr "Länder"
+
+msgid "Add new"
+msgstr "Lägg till ny"
+
+msgid "Regions"
+msgstr "Län"
+
+msgid "Cities"
+msgstr "Städer"
+
+msgid "Add new country"
+msgstr "Lägg till nytt land"
+
+msgid "Country code"
+msgstr "Landskod"
+
+msgid "Country code should have two characters"
+msgstr "Landskod bör ha två tecken"
+
+msgid "Edit country"
+msgstr "Redigera land"
+
+msgid "Add new region"
+msgstr "Lägg till nytt län"
+
+msgid "Edit region"
+msgstr "Redigera län"
+
+msgid "Add new city"
+msgstr "Lägg till ny stad"
+
+msgid "Edit city"
+msgstr "Redigera stad"
+
+msgid "Mail server"
+msgstr "e-post server"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Server type"
+msgstr "Servertyp"
+
+msgid "Custom Server"
+msgstr "Anpassad server"
+
+msgid "GMail Server"
+msgstr "GMail server"
+
+msgid "Hostname"
+msgstr "Värdnamn"
+
+msgid "Server port"
+msgstr "Server port"
+
+msgid "Encryption"
+msgstr "Kryptering"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Alternativ: blank, SSL eller TLS"
+
+msgid "Enable SMTP authentication"
+msgstr "Aktivera SMTP-autentisering"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Skriv in din e-mail server konfiguration"
+
+msgid "Media settings"
+msgstr "Mediainställningar"
+
+msgid "Configure media"
+msgstr "Konfigurera media"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Vänligen ange önskad storlek för alla bilder på hemsidan. (format: LÄNGDxHÖJD, t.ex.: 640x480)"
+
+msgid "Restrictions"
+msgstr "Begränsningar"
+
+msgid "Maximum size, in KB"
+msgstr "Maximal storlek, i KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Tillåtna filformat (t.ex. png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Mått"
+
+msgid "Thumbnail dimensions"
+msgstr "Miniatyrbildernas dimensioner"
+
+msgid "Preview dimensions"
+msgstr "Förhandsgranska dimensioner"
+
+msgid "Normal dimensions"
+msgstr "Normala dimensioner"
+
+msgid "Keep original image"
+msgstr "Behåll originalbild"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Att spara de ursprungliga bildfilerna kräver extra lagring. Detta alternativ garanterar att den ursprungliga kvaliteten på bilderna är oförändrad. Var försiktig när du använder detta alternativ."
+
+msgid "Permalinks settings"
+msgstr "Inställningar för permalänkar"
+
+msgid "Friendly urls"
+msgstr "sökmotorvänliga URL: er"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "Som standard används webbadresser som har frågetecken och många siffror i dem. Men OpenSourceClassifieds erbjuder dig möjligheten att använda \\\"friendly url:s\\\". Detta kan förbättra det estetiska samt användarvänlighet och kompatibilitet i dina länkar"
+
+msgid "Enable friendly urls"
+msgstr "Aktivera sökmotorvänliga URL: er"
+
+msgid ".htaccess file"
+msgstr ".htaccess Fil"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Modul <em>mod_rewrite</em> hittades på servern."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Error. Vi kunde inte skriva. htaccess-fil på din server. Vänligen skapa en fil som heter. htaccess i roten på din OpenSourceClassifieds installation med följande innehåll."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Fil .htaccess finns redan. Kontrollera att .htaccess-filen har följande innehåll."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Vi har skapat en .htaccess-fil i roten på din OpenSourceClassifieds installation."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Innehållet i .htaccess filen bör se ut så här:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Nuvarande innehållet i din .htaccess fil:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Akismet nyckel (samma som Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Om fältet är tomt beror det på att Akismet tjänsten är inaktiverad"
+
+msgid "Get your free key at"
+msgstr "Få din fria nyckel hos"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Om fältet är tomt beror det Recaptcha tjänsten är inaktiverad"
+
+msgid "Get your free keys at"
+msgstr "Få dina gratis nycklar hos"
+
+msgid "reCAPTCHA private key"
+msgstr "Recaptcha privata nyckel"
+
+msgid "reCAPTCHA public key"
+msgstr "Recaptcha publika nyckel"
+
+msgid "Users settings"
+msgstr "Användarinställningar"
+
+msgid "Users enabled"
+msgstr "Användare aktiverad"
+
+msgid "User validation enabled"
+msgstr "Användarvalidering aktiverad"
+
+msgid "User registration enabled"
+msgstr "Registrering av användare aktiverad"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "You're offline! Please check your connection"
+msgstr "Du är offline! Kontrollera anslutningen"
+
+msgid "Requested URL not found"
+msgstr "Begärd webbadress  hittades inte"
+
+msgid "Internal server error"
+msgstr "Internt serverfel"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Error. Parsning JSON begäran misslyckades"
+
+msgid "Request timeout"
+msgstr "Begär timeout"
+
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Backup OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Du kan backa upp OpenSourceClassifieds här. VARNING: Om du inte specifierar en backupfolder, så kommer backupfilerna att skapas i rooten av din OpenSourceClassifieds installation"
+
+msgid "Backup folder"
+msgstr "Backup mapp"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Detta är den mapp där dina säkerhetskopior ska skapas. Vi rekommenderar att du väljer en icke-offentlig väg. För mer information, se OpenSourceClassifieds dokumentation"
+
+msgid "Back up database"
+msgstr "Säkerhetskopiera databasen"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Säkerhetskopiera OpenSourceClassifieds installationen"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Du kan omgenerera dina miniatyrbilder och förhandsgranskningar här. Detta är användbart om du ändrat ditt tema och bilderna inte visas korrekt. Vänligen kontrollera storleksvärdena som definierats i inställningarna / media sektionen"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Du kan modifiera din databas till att ta emot, radera eller modifiera inkommande data. Detta används vanligen till import av länder, regioner och städer"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Autouppgraderingen är genomförd!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Ogiltig OpenSourceClassifieds begäran."
+
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+msgid "Re-type the password"
+msgstr "Upprepa lösenordet"
+
+msgid "Additional information"
+msgstr "Ytterligare information"
+
+msgid "Activate user"
+msgstr "Aktivera användare"
+
+msgid "Deactivate user"
+msgstr "Avaktivera användare"
+
+msgid "Update Date"
+msgstr "Uppdateringsdatum"
+
+msgid "Add a new user"
+msgstr "Lägg till en ny användare"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Admin mail system"
+msgstr "Administratörens e-postsystem"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Plugin %s saknar index.php file %s"
+
+msgid "Enter your e-mail"
+msgstr "Fyll i din email"
+
+msgid "Select a country..."
+msgstr "Välj ett land ..."
+
+msgid "Select a region..."
+msgstr "Välj en region ..."
+
+msgid "Select a city..."
+msgstr "Välj en stad ..."
+
+msgid "No results"
+msgstr "Inga resultat"
+
+msgid "Description: needs to be longer"
+msgstr "Beskrivning: måste vara längre"
+
+msgid "Choose one category"
+msgstr "Välj en kategori"
+
+msgid "Currency: make your selection"
+msgstr "Valuta: gör ditt val"
+
+msgid "Photo: must be %s"
+msgstr "Foto: måste vara %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Namn: skriv in minst 3 bokstäver"
+
+msgid "Name: no more than 35 characters"
+msgstr "Namn: inte mer än 35 bokstäver"
+
+msgid "Email: this field is required"
+msgstr "Email: detta fält måste fyllas i"
+
+msgid "Select a region"
+msgstr "Välj en region"
+
+msgid "Select a city"
+msgstr "Välj en stad"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Stadsdel: skriv in minst 3 bokstäver"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Denna åtgärd kan inte göras ogjord. Är du säker på att du vill fortsätta?"
+
+msgid "Remove"
+msgstr "Ta bort"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "User Description"
+msgstr "Användar beskrivning"
+
+msgid "Company"
+msgstr "Bolag"
+
+msgid "Check with seller"
+msgstr "Kontrollera med säljaren"
+
+msgid "Newly listed"
+msgstr "Nyast först"
+
+msgid "Lower price first"
+msgstr "Lägre pris först"
+
+msgid "Higher price first"
+msgstr "Högre pris först"
+
+msgid "Manage your items"
+msgstr "Hantera dina annonser"
+
+msgid "Manage your alerts"
+msgstr "Hantera dina prenumerationer"
+
+msgid "%s in"
+msgstr "%s in"
+
+msgid "There's no description available in your language"
+msgstr "Det finns ingen beskrivning tillgänglig på ditt språk"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "För närvarande är %s stängd för underhåll"
+
+msgid "Error removing file: %s"
+msgstr "Fel vid radering av fil: %s"
+
+msgid "Some error ocurred"
+msgstr "Ett fel uppstod"
+
+msgid "Order saved"
+msgstr "Din order är sparad"
+
+msgid "Error while deleting"
+msgstr "Fel vid radering"
+
+msgid "Error while updating."
+msgstr "Fel vid uppdatering"
+
+msgid "Saved"
+msgstr "Sparad"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Din OpenSourceClassifieds installation är nu uppdaterad!"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Din OpenSourceClassifieds installation är nu uppdaterad, men problem uppstod vid radering av temporära filer. Du måste manuellt radera \\\"oc-temp\\\" foldern"
+
+msgid "Problems upgrading the database"
+msgstr "Problem uppstod vid uppdatering av databasen"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Det uppstod ett problem vid kopiering av filer. Kanske \\\"file-permissions\\\" är felaktigt inställda?"
+
+msgid "Download failed"
+msgstr "Nedladdning misslyckades"
+
+msgid "Missing download URL"
+msgstr "Nedladdnings URL saknas"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Några fel uppstod vid radering av filer, dessa fel är inte något att oroa sig över så uppdateringen slutfördes korrekt. Du måste manuellt radera följande filer:"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Några fel uppstod vid uppgraderingen av databasen. Följande queries misslyckades:"
+
+msgid "Clear"
+msgstr "Rensa"
+
+msgid "Forums"
+msgstr "Forums"
+
+msgid "Add new theme"
+msgstr "Lägg till nytt tema"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Tema foldern %s är inte skrivbar på din server. OpenSourceClassifieds kan inte ladda upp teman från adminpanelen. Kopiera temafilerna och ladda upp dem manuellt eller gör temafoldern skrivbar."
+
+msgid "Ajax error, try again."
+msgstr "Ajax fel, försök igen."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "VARNING!: Detta kommer också att radera annonserna under den kategorin. Detta kan inte göras ogjort. Är du säker på att du vill fortsätta?"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Drag &amp; släpp kategorierna i den ordning du vill ha dom. Klicka på \\\"redigera\\\" för att redigera kategorin"
+
+msgid "Add new category"
+msgstr "Lägg till en kategori"
+
+msgid "Categories settings"
+msgstr "Kategoriernas inställningar"
+
+msgid "Selectable parent categories"
+msgstr "Valbara huvudkategorier"
+
+msgid "ACTIVE"
+msgstr "AKTIV"
+
+msgid "INACTIVE"
+msgstr "INAKTIV"
+
+msgid "ENABLED"
+msgstr "AKTIVERAD"
+
+msgid "DISABLED"
+msgstr "AVAKTIVERAD"
+
+msgid "Last Searches"
+msgstr "Senaste sökningar"
+
+msgid "Maintenance mode"
+msgstr "Underhållsläge"
+
+msgid "Reports"
+msgstr "Rapporter"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Antal annonser från samma användare som skall valideras innan valideringen kan upphöra. (0 för alltid validering)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Antal sekunder en användare måste vänta innan nästa annons kan publiceras. (0 för ingen väntetid)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Tillåt endast registrerade användare att kontakta säljare"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Max antal bilder per annons. (0 för obegränsat antal)"
+
+msgid "Download more languages at %s"
+msgstr "Ladda ned fler språk här %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Detta kan inte göras ogjort! Att avinstallera plugins kan resultera i permanent förlust av data. Är du säker på att du vill fortsätta?"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Antal kommentarer per sida. Du kan begränsa antalet kommentarer som visas på en annons detaljsida. Övriga kommentarer kommer att visas på följdsidor. (0 för att visa alla kommentarer på en sida)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Tillåt endast registrerade användare att posta kommentarer"
+
+msgid "Number of recent items displayed at home"
+msgstr "Antal senaste annonser på front/hem sidan"
+
+msgid "Save latest searches"
+msgstr "Spara senaste sökningar"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "OpenSourceClassifieds kan spara de senaste sökningarna användarna gör på din site. Detta kan ge info om vad dina användare söker efter eller så kan du använda denna info till \\\"hot topics\\\"."
+
+msgid "Keep last searches"
+msgstr "Lagra senaste sökningar"
+
+msgid "One hour"
+msgstr "En Timme"
+
+msgid "One day"
+msgstr "En dag"
+
+msgid "One week"
+msgstr "En vecka"
+
+msgid "Forever (never delete)"
+msgstr "För alltid (radera aldrig)"
+
+msgid "Keep last 1000 searches"
+msgstr "Spara de senaste 1000 sökningarna"
+
+msgid "Number of files to keep"
+msgstr "Antal filer att spara"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Funktionen \\\"Senaste sökningar\\\" kan generera stora mängder data. Vi rekomenderar att du rensar dessa data regelbundet. Du kan rensa 1 timme, 1 dag eller 1 vecka gammal data. Du kan även specificera antalet sökningar att spara eller att aldrig radera dem. "
+
+msgid "Last 10 days"
+msgstr "Senaste 10 dagar"
+
+msgid "Last 10 weeks"
+msgstr "Senaste 10 veckor"
+
+msgid "Last 10 months"
+msgstr "Senaste 10 månader"
+
+msgid "There're no statistics yet"
+msgstr "Det finns ingen statistik än"
+
+msgid "Latest comments on the web"
+msgstr "Senaste kommentarerna på webben"
+
+msgid "New items"
+msgstr "Nya annonser"
+
+msgid "Total number of items' views"
+msgstr "Totalt antal visningar av annonsen"
+
+msgid "Latest items on the web"
+msgstr "Senaste annonser på webben"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Views"
+msgstr "Visningar"
+
+msgid "Total number of reports"
+msgstr "Totalt antal rapporter"
+
+msgid "Repeated"
+msgstr "Upprepad"
+
+msgid "Bad category"
+msgstr "Fel på kategorin"
+
+msgid "Latest users on the web"
+msgstr "Senaste användare på sidan"
+
+msgid "Avg. items per user"
+msgstr "Genomsnitt antal annonser per användare"
+
+msgid "items per user"
+msgstr "antal annonser per användare"
+
+msgid "New users"
+msgstr "Nya användare"
+
+msgid "Users per country"
+msgstr "Användare per land"
+
+msgid "Unknown"
+msgstr "Okänd"
+
+msgid "Users per region"
+msgstr "Användare per region"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "I underhållsläget kan inte dina besökare/användare komma in på din sida. Detta är användbart om du behöver göra förändringar på din sida. Använd följande knapp för att skifta underhållsläget mellan PÅ eller AV"
+
+msgid "Maintenance mode is:"
+msgstr "Underhållsläge är:"
+
+msgid "ON"
+msgstr "PÅ"
+
+msgid "OFF"
+msgstr "AV"
+
+msgid "Disable maintenance mode"
+msgstr "Avaktivera underhållsläge"
+
+msgid "Enable maintenance mode"
+msgstr "Aktivera underhållsläge"
+
+msgid "Checking for updates"
+msgstr "Kollar efter uppdateringar"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Din plugin är den senaste!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Din OpenSourceClassifieds är den senaste!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Uppgraderar din OpenSourceClassifieds installation (detta kan ta ett tag):"
+
+msgid "Enable user"
+msgstr "Aktivera användare"
+
+msgid "Disable user"
+msgstr "Avaktivera användare"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds har en del fel"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Det uppstod problem vid uppdatering av databas strukturen. Följande queries misslyckades:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Dessa fel kan vara falska fel. Om du är säker på att så är fallet, så kan du <A href=\\\"%s\\\">fortsätta med uppgraderingen</A>, eller <A href=\\\"http://forums.opensourceclassifieds.org/\\\">fråga i våra forum</A>."
+
+msgid "Name: this field is required"
+msgstr "Namn: Detta fält måste fyllas i"
+
+msgid "Message: this field is required"
+msgstr "Meddelande: detta fält måste fyllas i"
+
+msgid "City area: no more than 50 characters"
+msgstr "Stadsdel: inte mer än 50 bokstäver får användas"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Adress: minst 3 bokstäver måste fyllas i"
+
+msgid "Address: no more than 100 characters"
+msgstr "Adress: inte mer än 100 bokstäver får användas"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Du har använt max antal bilder per annons"
+
+msgid "Your name: this field is required"
+msgstr "Ditt namn: Detta fält måste fyllas i"
+
+msgid "Friend's name: this field is required"
+msgstr "Din väns namn: Detta fält måste fyllas i"
+
+msgid "Friend's email: this field is required"
+msgstr "Din väns email: Detta fält måste fyllas i"
+
+msgid "Invalid friend's email address"
+msgstr "Din väns email är ogiltig"
+
+msgid "Name: no more than 50 characters"
+msgstr "Namn: inte mer än 50 bokstäver får användas"
+
+msgid "Password: this field is required"
+msgstr "Lösenord: detta fält måste fyllas i"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Lösenord: minst 5 bokstäver måste fyllas i"
+
+msgid "No file selected"
+msgstr "Ingen fil är vald"
+
+msgid "Choose File"
+msgstr "Välj fil"
+
+msgid "The website is currently under maintenance mode"
+msgstr "Websidan är för närvarande stängd för underhåll"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Du har redan ett fält med detta namn"
+
+msgid "The custom field have been deleted"
+msgstr "Extrafältet har raderats"
+
+msgid "Unmark as spam"
+msgstr "Avmarkera som spam"
+
+msgid "Mark as spam"
+msgstr "Markera som spam"
+
+msgid "Field's name"
+msgstr "Fältets namn"
+
+msgid "This field is required"
+msgstr "Detta fält måste fyllas i"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Välj de kategorier du vill applicera dessa attribut på"
+
+msgid "Advanced options"
+msgstr "Ytterligare valmöjligheter"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "Identifieringsnamn (endast alfanumreriska karaktärer är tillåtna (a-ö, A-Ö, 0-9))"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "VARNING: Detta kommer också att radera all information relaterad till detta fält. Detta kan inte göras ogjort. Är du säker på att du vill fortsätta?"
+
+msgid "Custom Fields"
+msgstr "Extrafält"
+
+msgid "Add new field"
+msgstr "Lägg till ett nytt fält"
+
+msgid "Add new custom field"
+msgstr "Lägg till ett nytt extrafält"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "You don't have any custom fields yet"
+msgstr "Du har inga extrafält än"
+
+msgid "Manage custom fields"
+msgstr "Hantera extrafälten"
+
+msgid "County"
+msgstr "Kommun"
+
+msgid "Show filters"
+msgstr "Visa filter"
+
+msgid "Title and Description"
+msgstr "Titel och Beskrivning"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "ALL"
+msgstr "ALLA"
+
+msgid "Reset filters"
+msgstr "Återställ filtren"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "Väl kategorierna du vill applicera dessa attribut på (klicka på deras namn för att expandera dem)"
+
+msgid "Watermark settings"
+msgstr "Inställningar för vattenmärke"
+
+msgid "Watermark color"
+msgstr "Färg för vattenmärke"
+
+msgid "Watermark text"
+msgstr "Text för vattenmärke"
+
+msgid "Watermark place"
+msgstr "Placering av vattenmärke"
+
+msgid "Centre"
+msgstr "Mitten"
+
+msgid "Top Left"
+msgstr "Övre vänster"
+
+msgid "Top Right"
+msgstr "Övre höger"
+
+msgid "Bottom Left"
+msgstr "Nedre vänster"
+
+msgid "Bottom Right"
+msgstr "Nedre höger"
+
+msgid "Watermark image"
+msgstr "Bild för vattenmärke"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "Notera att OpenSourceClassifieds inte förminskar/förstorar bildstorleken på bilden som används som vattenmärke"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Du bör ha 'spara originalbild' vald när du vill använda bild för vattenmärke"
+
+msgid "New version to update:"
+msgstr "Ny version för uppdatering"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "Din OpenSourceClassifieds installation kan bli auto-uppgraderad. Ta en backup av din databas och din oc-content folder före du uppgraderar. Du kan också uppgradera manuellt, mer information i %s "
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Din OpenSourceClassifieds installation kan inte auto-uppgraderas. Filer och mappar måste vara skrivbara. Du kan applicera 644 permissioner via SSH med kommandot \\cmod -R 664 *\\ eller via en ftp klient. Du kan också uppgradera OpenSourceClassifieds genom att ladda ner uppgraderingspaketet, packa upp det och sen skriva över filerna på din server med de nya filerna du nyss packat upp."
+
+msgid "It doesn't exist a category with this id: %d"
+msgstr "Det existerar ingen kategori med detta namn: %d"
+
+msgid "The category and its subcategories have been enabled"
+msgstr "Kategorin och dess underkategorier har aktiverats"
+
+msgid "The category and its subcategories have been disabled"
+msgstr "Kategorin och dess underkategorier har avaktiverats"
+
+msgid "Parent category is disabled, you can not enable that category"
+msgstr "Huvudkategorin är avaktiverad, du kan inte aktivera denna kategori"
+
+msgid "The subcategory has been enabled"
+msgstr "Underkategorin har aktiverats"
+
+msgid "The subcategory has been disabled"
+msgstr "Underkategorin har avaktiverats"
+
+msgid "Category updated correctly"
+msgstr "Kategorin uppdaterad korrekt"
+
+msgid "Category updated correctly, but some titles were empty"
+msgstr "Kategorin uppdaterad korrekt, men några titlar var tomma"
+
+msgid "Sorry, at least a title is needed"
+msgstr "Åtminstone en titel måste anges"
+
+msgid "Error while updating"
+msgstr "Fel under uppdatering"
+
+msgid "Test email"
+msgstr "Testa email"
+
+msgid "Email sent successfully"
+msgstr "Email sändes korrekt"
+
+msgid "An error has occurred while sending email"
+msgstr "Ett fel uppstod vid sändande av email"
+
+msgid "Field's type"
+msgstr "Fälttyp"
+
+msgid "Field's options (separated by commas)"
+msgstr "Fältets alternativ (separerade med kommatecken)"
+
+msgid "Options (separeted by commas)"
+msgstr "Alternativ (separerade med kommatecken)"
+
+msgid "Allow attachment files in contact item seller"
+msgstr "Tillåt tilläggsfiler i kontakta annonsören"
+
+msgid "Number of decimals"
+msgstr "Antal decimaler"
+
+msgid "Decimal point"
+msgstr "Decimal punkt"
+
+msgid "Thousands separator"
+msgstr "Tusentalsavgränsare"
+
+msgid "Action"
+msgstr "Åtgärd"
+
+msgid "Notify admin when there's a new comment"
+msgstr "Meddela admin när det finns en ny kommentar"
+
+msgid "Notify user when there's a new comment"
+msgstr "Meddela användaren när det finns en ny kommentar"
+
+msgid "Timezone"
+msgstr "Tidszon"
+
+msgid "Select a timezone..."
+msgstr "Välj tidszon"
+
+msgid "Number of item displayed in search results"
+msgstr "Antal annonser som visas i sökresultaten"
+
+msgid "Use a POP before SMTP"
+msgstr "Använd POP för SMTP"
+
+msgid "not found"
+msgstr "kunde inte hittas"
+
+msgid "Test configuration"
+msgstr "Testkonfiguration"
+
+msgid "The email will be sent to contact email"
+msgstr "Mailet kommer att skickas till kontaktmailet"
+
+msgid "Send email"
+msgstr "Skicka mail"
+
+msgid "Use imagick instead of GD"
+msgstr "Använd imagick istället för GD"
+
+msgid "It's faster and consume less resources than GD library"
+msgstr "Det är snabbare och använder mindre resurser än GD biblioteket"
+
+msgid "Freetype library is required. How to"
+msgstr "Freetype bibliotek är ett krav. Hur du"
+
+msgid "install/configure"
+msgstr "installerar/konfigurerar"
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AcceptPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Warning! Rewritemodulen kunde inte hittas på servern. Detta betyder att du inte har den aktiverad eller så kör du PHP som CGI (eller fastCGI). Om du inte har mod_rewrite så kan du fortfarande använda friendly urls om AcceptPathinfo finns på din Apache konfiguration (vi kan inte veta om den är aktiverad eller inte, men vanligtvis så är den det). \\\"index.php\\\"  blir då en del av din URL (ie. http://www.example.com/index.php/nice/url)."
+
+msgid "Notify admin when a new user registers"
+msgstr "Meddela admin när en ny användare registrerats"
+
+msgid "Price: no more than 50 characters"
+msgstr "Pris: ej mer än 50 tecken"
+

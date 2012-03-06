@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Az oldal nem található"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Sikeresen feliratkozott az értesítésre"
+
+msgid "There was a problem with the alert"
+msgstr "Probléma adódott az érteítéssel"
+
+msgid "Subscribe to this search"
+msgstr "Feliratkozás erre a keresésre"
+
+msgid "Subscribe now"
+msgstr "Iratkozzon fel most!"
+
+msgid "Contact with us"
+msgstr "Írjon nekünk!"
+
+msgid "Subject"
+msgstr "Tárgy"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "Your name"
+msgstr "Az Ön neve"
+
+msgid "(optional)"
+msgstr "(választható)"
+
+msgid "Your e-mail address"
+msgstr "Az Ön e-mail címe"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Contact"
+msgstr "Kapcsolat"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Ez az oldal az <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> szoftvert használja <strong>OpenSourceClassifieds</strong>"
+
+msgid "Publish an item"
+msgstr "Hirdetés feladása"
+
+msgid "Edit your item"
+msgstr "Hirdetés szerkesztése"
+
+msgid "Send to a friend"
+msgstr "Küldje el egy ismerősének"
+
+msgid "Contact seller"
+msgstr "Válasz a hirdetésre"
+
+msgid "page"
+msgstr "oldal"
+
+msgid "Show all items"
+msgstr "Mutassa az összes hirdetést!"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Recover your password"
+msgstr "Jelszó emlékeztető"
+
+msgid "Login"
+msgstr "Belépés"
+
+msgid "Create a new account"
+msgstr "Új felhasználói fiók létrhozása"
+
+msgid "Dashboard"
+msgstr "Kezelői felület"
+
+msgid "Manage my items"
+msgstr "Hirdertéseim kezelése"
+
+msgid "Manage my alerts"
+msgstr "Értesítéseim kezelése"
+
+msgid "Update my profile"
+msgstr "Profilom frissítése"
+
+msgid "Change my email"
+msgstr "E-mail cím megváltoztatása"
+
+msgid "Change my password"
+msgstr "Jelszavam megváltoztatása"
+
+msgid "Recover my password"
+msgstr "Jelszavam visszaállítása"
+
+msgid "Hi %s"
+msgstr "Üdvözöljük, %s"
+
+msgid "My account"
+msgstr "Felhasználói fiókom"
+
+msgid "Logout"
+msgstr "Kilépés"
+
+msgid "Register for a free account"
+msgstr "Ingyenes regisztráció"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Remember me"
+msgstr "Emlékezzen rám"
+
+msgid "Log in"
+msgstr "Belépés"
+
+msgid "Forgot password?"
+msgstr "Elfelejtette a jelszavát?"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Publish your ad for free"
+msgstr "Adja fel a hirdetését ingyen!"
+
+msgid "ie. PHP Programmer"
+msgstr "pl. PHP programozó"
+
+msgid "Select a category"
+msgstr "Válasszon kategóriát!"
+
+msgid "To (seller)"
+msgstr "Címzett"
+
+msgid "Item"
+msgstr "Tárgy"
+
+msgid "Phone number"
+msgstr "Telefonszám"
+
+msgid "Send message"
+msgstr "Üzenet küldése"
+
+msgid "Update your item"
+msgstr "Fissítse a hirdetését!"
+
+msgid "General Information"
+msgstr "Általános információ"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Photos"
+msgstr "Fotók"
+
+msgid "Add new photo"
+msgstr "Új fotó hozzáadása"
+
+msgid "Location"
+msgstr "Helység"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Region"
+msgstr "Megye"
+
+msgid "City"
+msgstr "Város"
+
+msgid "City area"
+msgstr "Kerület"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Item Location"
+msgstr "Hirdetés helye"
+
+msgid "City Area"
+msgstr "Kerület"
+
+msgid "Seller's information"
+msgstr "Információ az eladóról"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Show e-mail on the item page"
+msgstr "Mutassa az e-mail címet az oldalon"
+
+msgid "Publish"
+msgstr "Közzétesz"
+
+msgid "Your friend's name"
+msgstr "Az ismerős neve"
+
+msgid "Your friend's e-mail address"
+msgstr "Az ismerős e-mail címe"
+
+msgid "Mark as"
+msgstr "Megjelöl, mint"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "rosszul besorolt"
+
+msgid "duplicated"
+msgstr "többször szereplő"
+
+msgid "expired"
+msgstr "lejárt"
+
+msgid "offensive"
+msgstr "sértő"
+
+msgid "Share"
+msgstr "Megosztás"
+
+msgid "Useful information"
+msgstr "Hasznos információ"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Kerülje  el a csalókat azzal, hogy országon belül kereskedik vagy PayPallal fizet"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Soha ne fizessen Western Unionnal, Moneygrammal vagy más névtelen szolgáltatókkal!"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Ne kereskedjen külfökdön. Ne fogadjon el csekket külföldről."
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Ez a honlap soha nem vesz részt semmiféle tranzakcióban, nem kezeli a kifizetéseket, szállítást, nem nyújt garanciát az ügyletre, nem nyújt zálogszolgáltatást, nem kínál védelmet a vásárlónak és nem hitelesíti az eladót"
+
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgid "by"
+msgstr "-"
+
+msgid "Delete your comment"
+msgstr "A hozzászólás törlése"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Írjon hozzászólást! (a spam-eket és a sértő megjegyzéseket töröljük)"
+
+msgid "Your e-mail"
+msgstr "Az Ön e-mail címe"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Comment"
+msgstr "Hozzászólás"
+
+msgid "Contact publisher"
+msgstr "Válaszoljon a hirdetőnek"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Your name (optional)"
+msgstr "Az Ön neve (választható)"
+
+msgid "Enter the words above"
+msgstr "Írja be a fenti szavakat"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid "Latest Items"
+msgstr "Legfrissebb hirdetések"
+
+msgid "No Latest Items"
+msgstr "Nincsenek friss hirdetések"
+
+msgid "See all offers"
+msgstr "Mutassa a teljes kínálatot"
+
+msgid "Search results"
+msgstr "Találatok"
+
+msgid "Sort by"
+msgstr "Rendezés"
+
+msgid "There are no results matching \"%s\""
+msgstr "Nincs találat erre: \"%s"
+
+msgid "Your search"
+msgstr "Részletes keresés"
+
+msgid "Show only"
+msgstr "Csak ezeket mutassa:"
+
+msgid "Show only items with pictures"
+msgstr "Csak a képes hirdetéseket mutassa"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Max"
+msgstr "Max."
+
+msgid "Apply"
+msgstr "Alkalmaz"
+
+msgid "Selected"
+msgstr "Kiválasztva"
+
+msgid "Nothing selected, input was"
+msgstr "Nincs semmi kiválasztva, a beírás a következő volt:"
+
+msgid "User account manager"
+msgstr "Felhasználói fiók"
+
+msgid "Your alerts"
+msgstr "Az Ön értesítései"
+
+msgid "You do not have any alerts yet"
+msgstr "Önnek még nincsenek értesítései"
+
+msgid "Alert"
+msgstr "Értsítés"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Ezt a lépést nem lehet visszavonni. Biztosan folytatja?"
+
+msgid "Delete this alert"
+msgstr "Törölje ezt az értesítést"
+
+msgid "Publication date"
+msgstr "A közzététel dátuma"
+
+msgid "Change your e-mail"
+msgstr "E-mail cím megváltoztatása"
+
+msgid "Current e-mail"
+msgstr "Jelenlegi e-mail cím"
+
+msgid "New e-mail"
+msgstr "Új e-mail cím"
+
+msgid "Change your password"
+msgstr "Jelszó megváltoztatása"
+
+msgid "Current password"
+msgstr "Jelenlegi jelszó"
+
+msgid "New password"
+msgstr "Új jelszó"
+
+msgid "Repeat new password"
+msgstr "Jelszó megerősítése"
+
+msgid "Items from %s"
+msgstr "Hirdetések %s -tól/től"
+
+msgid "No items have been added yet"
+msgstr "Még nincs feladott hirdetés"
+
+msgid "New pasword"
+msgstr "Új jelszó"
+
+msgid "Repeat new pasword"
+msgstr "Új jelszó megerősítése"
+
+msgid "Change password"
+msgstr "Jelszó megváltoztatása"
+
+msgid "Your items"
+msgstr "Az Ön hirdetései"
+
+msgid "Post a new item"
+msgstr "Új hirdetés feladása"
+
+msgid "You don't have any items yet"
+msgstr "Önnek még nincs hirdetése"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Ezt a lépést nem lehet visszavonni. Biztos, hogy folytatni akarja?"
+
+msgid "Activate"
+msgstr "Aktív"
+
+msgid "Access to your account"
+msgstr "Felhasználó fiók"
+
+msgid "Update your profile"
+msgstr "Adatlap frissítése"
+
+msgid "Modify e-mail"
+msgstr "E-mail cím megváltoztatása"
+
+msgid "Modify password"
+msgstr "Jelszó megváltoztatása"
+
+msgid "User type"
+msgstr "Felhasználó típusa"
+
+msgid "Cell phone"
+msgstr "Mobil telefon"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Honlap"
+
+msgid "Send me a new password"
+msgstr "Küldjön új jelszót"
+
+msgid "Register an account for free"
+msgstr "Ingyenes regisztráció"
+
+msgid "Re-type password"
+msgstr "Jelszó megerősítése"
+
+msgid "Passwords don't match"
+msgstr "A jelszavak nem egyeznek"
+
+msgid "Create"
+msgstr "Létrehozás"
+

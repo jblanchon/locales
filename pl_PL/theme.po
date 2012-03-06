@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "Nie odnaleziono strony"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Zasubskrybowałes do tego powiadomienia"
+
+msgid "There was a problem with the alert"
+msgstr "Wystąpił problem z powiadomieniem"
+
+msgid "Subscribe to this search"
+msgstr "Zasubskrybuj to wyszukiwanie"
+
+msgid "Contact with us"
+msgstr "Skontaktuj się z nami"
+
+msgid "Subject"
+msgstr "Temat"
+
+msgid "Message"
+msgstr "Wiadomość"
+
+msgid "Your name"
+msgstr "Twoje imię"
+
+msgid "(optional)"
+msgstr "(dodatkowe)"
+
+msgid "Your e-mail address"
+msgstr "Twój adres e-mail"
+
+msgid "Send"
+msgstr "Wyślij"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "Strona oparta na <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+
+msgid "Hi %s"
+msgstr "Witaj %"
+
+msgid "My account"
+msgstr "Moje konto"
+
+msgid "Logout"
+msgstr "Wyloguj"
+
+msgid "Login"
+msgstr "Zaloguj"
+
+msgid "Register for a free account"
+msgstr "Rejestruj darmowe konto"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Log in"
+msgstr "Zaloguj"
+
+msgid "Forgot password?"
+msgstr "Zapominałeś hasła?"
+
+msgid "Language"
+msgstr "Język"
+
+msgid "Publish your ad for free"
+msgstr "Opublikuj darmowe ogłoszenie"
+
+msgid "ie. PHP Programmer"
+msgstr "wpisz czego szukasz..."
+
+msgid "Select a category"
+msgstr "Wybierz kategorie"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Contact seller"
+msgstr "Skontaktuj się ze sprzedającym"
+
+msgid "To (seller)"
+msgstr "Do (sprzedawcy)"
+
+msgid "Item"
+msgstr "Rzecz"
+
+msgid "Phone number"
+msgstr "Numer telefonu"
+
+msgid "Send message"
+msgstr "Wyślij wiadomość"
+
+msgid "Update your item"
+msgstr "Aktualizuj"
+
+msgid "General Information"
+msgstr "Główne informacje"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Photos"
+msgstr "Zdjęcia"
+
+msgid "Add new photo"
+msgstr "Dodaj nowe zdjęcie"
+
+msgid "Location"
+msgstr "Lokalizacja"
+
+msgid "Country"
+msgstr "Kraj"
+
+msgid "Region"
+msgstr "Województwo"
+
+msgid "City"
+msgstr "Miasto"
+
+msgid "City area"
+msgstr "Telefon"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Update"
+msgstr "Aktualizacja"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid "Publish an item"
+msgstr "Obulikuj"
+
+msgid "Item Location"
+msgstr "Lokalizacja"
+
+msgid "City Area"
+msgstr "Telefon"
+
+msgid "Seller's information"
+msgstr "Informacje sprzedającego"
+
+msgid "Name"
+msgstr "Imię"
+
+msgid "Show e-mail on the item page"
+msgstr "Pokaż adres e-mail"
+
+msgid "Publish"
+msgstr "Opublikuj"
+
+msgid "Send to a friend"
+msgstr "Wyślij do znajomego"
+
+msgid "Your friend's name"
+msgstr "Imię znajomego"
+
+msgid "Your friend's e-mail address"
+msgstr "Adres e-mail znajomego"
+
+msgid "Mark as"
+msgstr "Zaznacz jako"
+
+msgid "spam"
+msgstr "Spam"
+
+msgid "misclassified"
+msgstr "nieprawidłowo klasyfikowane"
+
+msgid "duplicated"
+msgstr "zdublowane"
+
+msgid "expired"
+msgstr "wygasło"
+
+msgid "offensive"
+msgstr "obraźliwe"
+
+msgid "Share"
+msgstr "Podziel się"
+
+msgid "Useful information"
+msgstr "Przydatne informacje"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Unikaj oszustów używając bezpiecznych płatności PayPal lub płatności przy odbiorze."
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Nigdy nie wykonuj przelewów na anonimowe konta bankowe"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Nie kupuj ani nie sprzedawaj poza granice kraju. Czeki nie są akceptowane za granicą kraju"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Ta strona nie jest odpowiedzialna za transakcje, nie zajmuje się płatnościami, wysłką, gwarancjami, nie zapewnia serwisu escrow ani nie prowadzi ochrony kupującego."
+
+msgid "Comments"
+msgstr "Komentarze"
+
+msgid "by"
+msgstr "przez"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Zostaw komenatrz (spam i obraźliwe wiadomości będą usuwane)"
+
+msgid "Your e-mail"
+msgstr "Twój adres e-mail"
+
+msgid "Title"
+msgstr "Tytuł"
+
+msgid "Comment"
+msgstr "Komentarz"
+
+msgid "Contact publisher"
+msgstr "Skontaktuj się ze sprzedającym"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Your name (optional)"
+msgstr "Twoje imię (dodatkowe)"
+
+msgid "Latest Items"
+msgstr "Najnowsze oferty"
+
+msgid "No Latest Items"
+msgstr "Brak najnowszych ofert"
+
+msgid "See all offers"
+msgstr "Zobacz wszystkie oferty"
+
+msgid "Search results"
+msgstr "Wyniki wyszukiwania"
+
+msgid "Sort by"
+msgstr "Sortuj"
+
+msgid "There are no results matching \"%s\""
+msgstr "Wyniki nie pasują do \"%\""
+
+msgid "Your search"
+msgstr "Twoje wyszukiwanie"
+
+msgid "Show only"
+msgstr "Pokaż tylko"
+
+msgid "Show only items with pictures"
+msgstr "Pokaż tylko oferty ze zdjęciami"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Zastosuj"
+
+msgid "Selected"
+msgstr "Zaznaczone"
+
+msgid "Nothing selected, input was"
+msgstr "Nic nie zaznaczone"
+
+msgid "User account manager"
+msgstr "Manager konta użytkownika"
+
+msgid "Your alerts"
+msgstr "Twoje powiadomienia"
+
+msgid "You do not have any alerts yet"
+msgstr "Jeszcze nie otrzymałeś powiadomień"
+
+msgid "Alert"
+msgstr "Powiadomienie"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Jesteś pewny, że chcesz kontynuować?"
+
+msgid "Delete this alert"
+msgstr "Usuń to powiadomienie"
+
+msgid "Publication date"
+msgstr "Data publikacji"
+
+msgid "Change your e-mail"
+msgstr "Zmień adres e-mail"
+
+msgid "Current e-mail"
+msgstr "Aktualny adres e-mail"
+
+msgid "New e-mail"
+msgstr "Nowy adres e-mail"
+
+msgid "Change your password"
+msgstr "Zmień hasło"
+
+msgid "Current password"
+msgstr "Aktualne hasło"
+
+msgid "New pasword"
+msgstr "Nowe hasło"
+
+msgid "Repeat new pasword"
+msgstr "Powtórz hasło"
+
+msgid "Items from %s"
+msgstr "Oferty od %"
+
+msgid "No items have been added yet"
+msgstr "Brak aktualnych ofert"
+
+msgid "Your items"
+msgstr "Twoje oferty"
+
+msgid "Post a new item"
+msgstr "Dodaj nową ofertę"
+
+msgid "You don't have any items yet"
+msgstr "Jeszcze nie dodałeś ofert"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Delete"
+msgstr "Usuń"
+
+msgid "Activate"
+msgstr "Aktywuj"
+
+msgid "Access to your account"
+msgstr "Dostęp do Twojego konta"
+
+msgid "Remember me"
+msgstr "Zapamiętaj mnie"
+
+msgid "Update your profile"
+msgstr "Aktualizuj profil"
+
+msgid "Modify e-mail"
+msgstr "Zmień adres e-mail"
+
+msgid "Modify password"
+msgstr "Zmień hasło"
+
+msgid "Cell phone"
+msgstr "Telefon komórkowy"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Strona www"
+
+msgid "Recover your password"
+msgstr "Odzyskaj hasło"
+
+msgid "Send me a new password"
+msgstr "Wyślij mi nowe hasło"
+
+msgid "Register an account for free"
+msgstr "Zarejestruj darmowe konto"
+
+msgid "Re-type password"
+msgstr "Powtórz hasło"
+
+msgid "Passwords don't match"
+msgstr "Hasła nie pasują do siebie"
+
+msgid "Create"
+msgstr "Utwórz"
+
+msgid "New password"
+msgstr "Nowe hasło"
+
+msgid "Dashboard"
+msgstr "Tablica"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Subscribe now"
+msgstr "Subskrybuj"
+
+msgid "Edit your item"
+msgstr "Edytuj ogłoszenie"
+
+msgid "page"
+msgstr "strona"
+
+msgid "Show all items"
+msgstr "pokaż wszystkie"
+
+msgid "Create a new account"
+msgstr "Utwórz nowe konto"
+
+msgid "Manage my items"
+msgstr "Zarządzaj moimi ogłoszeniami"
+
+msgid "Manage my alerts"
+msgstr "Zarządzaj powiadomieniami"
+
+msgid "Update my profile"
+msgstr "Aktualizuj mój profil"
+
+msgid "Change my email"
+msgstr "Zmień mój adres email"
+
+msgid "Change my password"
+msgstr "Zmień hasło"
+
+msgid "Recover my password"
+msgstr "Odzyskaj moje hasło"
+
+msgid "Delete your comment"
+msgstr "Usuń komentarz"
+
+msgid "Enter the words above"
+msgstr "Wpisz tekst powyżej"
+
+msgid "Repeat new password"
+msgstr "Powtórz nowe hasło"
+
+msgid "Change password"
+msgstr "Zmień hasło"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Na pewno chcesz kontynuować?"
+
+msgid "User type"
+msgstr "Typ użytkownika"
+

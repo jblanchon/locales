@@ -1,0 +1,1789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+msgid "My account"
+msgstr "Ο λογαριασμός μου"
+
+msgid "Logout"
+msgstr "Έξοδος"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Κωδικός"
+
+msgid "Remember me"
+msgstr "Παραμείνετε συνδεδεμένος"
+
+msgid "Log in"
+msgstr "Είσοδος"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Item"
+msgstr "Αντικείμενο"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "Photos"
+msgstr "Εικόνες"
+
+msgid "Add new photo"
+msgstr "Προσθήκη νέας εικόνας"
+
+msgid "Location"
+msgstr "Τοποθεσία"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Region"
+msgstr "Περιοχή"
+
+msgid "City"
+msgstr "Πόλη"
+
+msgid "City area"
+msgstr "Περιοχή στην πόλη"
+
+msgid "Address"
+msgstr "Διεύθυνση"
+
+msgid "Update"
+msgstr "Ενημέρωση"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "City Area"
+msgstr "Περιοχή πόλης"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Mark as"
+msgstr "Σημείωση ως"
+
+msgid "Comments"
+msgstr "Σχόλια"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Comment"
+msgstr "Σχόλιο"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Current password"
+msgstr "Τρέχων κωδικός πρόσβασης"
+
+msgid "New password"
+msgstr "Νέος κωδικός πρόσβασης"
+
+msgid "New pasword"
+msgstr "Νέος κωδικός πρόσβασης"
+
+msgid "Repeat new pasword"
+msgstr "Επαναλάβετε τον νέο κωδικό πρόσβασης"
+
+msgid "Change password"
+msgstr "Αλλαγή του κωδικού πρόσβασης"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+msgid "User type"
+msgstr "Τύπος χρήστη"
+
+msgid "Cell phone"
+msgstr "Κινητό τηλέφωνο"
+
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+msgid "Passwords don't match"
+msgstr "Οι κωδικοί δεν ταιριάζουν"
+
+msgid "Create"
+msgstr "Δημιουργία"
+
+msgid "Invalid email address"
+msgstr "Μη έγκυρη διεύθυνση email"
+
+msgid "Upload"
+msgstr "Ανέβασμα"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Για να κάνετε μία διεύθυνση εγγράψιμη στα linux εκτελέστε σε γραμμή εντολών"
+
+msgid "optional"
+msgstr "προαιρετικό"
+
+msgid "current version:"
+msgstr "τρέχουσα έκδοση:"
+
+msgid "Downloading update file:"
+msgstr "Κατέβασμα αρχείου ενημέρωσης:"
+
+msgid "Unzipping file:"
+msgstr "Αποσυμπίεση αρχείου:"
+
+msgid "Copying old files:"
+msgstr "Αντιγραφή παλιών αρχείων:"
+
+msgid "Removing new files:"
+msgstr "Αφαίρεση νέων αρχείων:"
+
+msgid "Executing SQL:"
+msgstr "Εκτέλεση SQL:"
+
+msgid "Executing additional actions:"
+msgstr "Εκτέλεση επιπλέον ενεργειών:"
+
+msgid "Cleaning all the mess:"
+msgstr "Εκκαθάριση:"
+
+msgid "Select a category"
+msgstr "Επιλέξτε μια κατηγορία"
+
+msgid "The categories have been deleted"
+msgstr "Οι κατηγορίες έχουν διαγραφεί"
+
+msgid "The category has been enabled"
+msgstr "Η κατηγορία έχει ενεργοποιηθεί"
+
+msgid "The category has been disabled"
+msgstr "Η κατηγορία έχει απενεργοποιηθεί"
+
+msgid "There was a problem with this page. The ID for the category hasn't been set"
+msgstr "Υπήρξε ένα πρόβλημα στη σελίδα. Το ID για την κατηγορία δεν έχει οριστεί"
+
+msgid "no action defined"
+msgstr "δεν έχει οριστεί κάποια ενέργεια"
+
+msgid "Contact form"
+msgstr "Φόρμα επικοινωνίας"
+
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+msgid "Latest items added"
+msgstr "Πρόασφατα αντικείμενα που έχουν προστεθεί"
+
+msgid "Latest items added in"
+msgstr "Πρόασφατα αντικείμενα που έχουν προστεθεί σε"
+
+msgid "Checking for update files."
+msgstr "Έλεγχος για αρχεία ενημέρωσης"
+
+msgid "File downloaded correctly"
+msgstr "Το αρχείο κατέβηκε επιτυχώς"
+
+msgid "Missing filename"
+msgstr "Λείπει το όνομα αρχείου"
+
+msgid "Removing temp-directory"
+msgstr "Αφαίρεση προσωρινού-φακέλου"
+
+msgid "Archiving is sucessful!"
+msgstr "Η αρχειοθέτηση είναι επιτυχής!"
+
+msgid "Error, can't create a zip file!"
+msgstr "Σφάλμα, δεν είναι δυνατή η δημιουργία αρχείου zip!"
+
+msgid "OK"
+msgstr "ΟΚ"
+
+msgid "Unzip failed"
+msgstr "Η αποσυμπίεση απέτυχε"
+
+msgid "Filename incorrect"
+msgstr "Λάθος όνομα αρχείου"
+
+msgid "Files removed"
+msgstr "Αρχεία αφαιρέθηκαν"
+
+msgid "No files to remove"
+msgstr "Κανένα αρχείο για διαγραφή"
+
+msgid "There were problems copying files"
+msgstr "Εμφανίστηκε ένα πρόβλημα κατά την αντιγραφή των αρχείων"
+
+msgid "Nothing to copy"
+msgstr "Τίποτα για αντιγραφή"
+
+msgid "Files copied"
+msgstr "Αρχεία αντιγράφηκαν"
+
+msgid "upgrade.sql executed"
+msgstr "εκτελέσθηκε το upgrade.sql"
+
+msgid "No SQL to execute"
+msgstr "Κανένα SQL δεν εκτελέσθηκε"
+
+msgid "Custom actions executed"
+msgstr "Εκτελέσθηκαν ειδικές ενέργειες"
+
+msgid "No action to execute"
+msgstr "Καμία ενέργεια για εκτέλεση"
+
+msgid "Checking for update files"
+msgstr "Έλεγχος για αρχείο ενημέρωσης"
+
+msgid "There were problems copying files. Maybe the file permissions are not set correctly"
+msgstr "Εμφανίστηκαν προβλήματα κατά την αντιγραφή των αρχείων. Ίσως τα δικαιώματα των αρχείων να μην έχουν οριστεί σωστά"
+
+msgid "Tables updated correctly"
+msgstr "Οι πίνακες ενημερώθηκαν επιτυχώς"
+
+msgid "No tables update to execute"
+msgstr "Δεν υπάρχει ενημέρωση πινάκων για εκτέλεση"
+
+msgid "View comments"
+msgstr "Προβολή σχολίων"
+
+msgid "View media"
+msgstr "Προβολή πολυμέσων"
+
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+msgid "Unmark as premium"
+msgstr "Αναίρεση σήμανσης ως σημαντικού"
+
+msgid "Mark as premium"
+msgstr "Σήμανση ως σημαντικό"
+
+msgid "OpenSourceClassifieds admin panel login"
+msgstr "OpenSourceClassifieds είσαδος πίνακα ελέγχου"
+
+msgid "Type your new password"
+msgstr "Πληκτρολογήστε τον κκαινούριο σας κωδικό"
+
+msgid "Back to"
+msgstr "Πίσω σε"
+
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+msgid "Forgot your password?"
+msgstr "Ξεχάσατε τον κωδικό πρόσβασης;"
+
+msgid "Please enter your username or e-mail address"
+msgstr "Παρακαλούμε εισάγετε το όνομα χρήστη ή τη διεύθυνση του e-mail σας"
+
+msgid "You will receive a new password via e-mail"
+msgstr "Θα  λάβετε ένα νέο κωδικό πρόσβασης μέσω e-mail"
+
+msgid "Get new password"
+msgstr "Πάρτε ένα νέο κωδικό πρόσβασης"
+
+msgid "Thank you for using"
+msgstr "Ευχαριστούμε που χρησιμοποιείτε το"
+
+msgid "OpenSourceClassifieds"
+msgstr "OpenSourceClassifieds"
+
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+msgid "Feedback"
+msgstr "Εντυπώσεις"
+
+msgid "OpenSourceClassifieds Admin Panel"
+msgstr "OpenSourceClassifieds Πίνακας ελέγχου"
+
+msgid "OpenSourceClassifieds %s is available!"
+msgstr "Το OpenSourceClassifieds %s είναι διαθέσιμο!"
+
+msgid "Please upgrade now"
+msgstr "Παρακαλούμε αναβαθμίστε τώρα"
+
+msgid "Visit website"
+msgstr "Επίσκεψη στην ιστοσελίδα"
+
+msgid "Hi"
+msgstr "Γεια"
+
+msgid "Your profile"
+msgstr "Το προφίλ σας"
+
+msgid "Log Out"
+msgstr "Αποσύνδεση"
+
+msgid "Admins"
+msgstr "Διαχειριστές"
+
+msgid "Add new admin"
+msgstr "Προσθήκη νέου διαχειριστή"
+
+msgid "Real name"
+msgstr "Πραγματικό όνομα"
+
+msgid "required"
+msgstr "υποχρεωτικό"
+
+msgid "User name"
+msgstr "Όνομα χρήστη"
+
+msgid "Edit admin"
+msgstr "Επεξεργασία διαχειριστή"
+
+msgid "Re-type new password"
+msgstr "Επαναπληκτρολόγηση νέου κωδικού πρόσβασης"
+
+msgid "Leave it blank if you don't want to change your password"
+msgstr "Αφήστε το κενό αν δεν θέλετε να αλλάξετε τον κωδικό πρόσβασης"
+
+msgid "Processing"
+msgstr "Επεξεργασία"
+
+msgid "Show _MENU_ entries"
+msgstr "Προβολή εγγραφών _MENU_"
+
+msgid "No matching records found"
+msgstr "Δε βρέθηκαν εγγραφές που να ταιριάζουν"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Εμφανίζονται _START_ έως _END_ από _TOTAL_ εγγραφές"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Εμφανίζονται 0 έως 0 από 0 εγγραφές"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "φιλτραρίστηκαν από _MAX_ συνολικές εγγραφές"
+
+msgid "First"
+msgstr "Πρώτη"
+
+msgid "Previous"
+msgstr "Προηγούμενη"
+
+msgid "Next"
+msgstr "Επόμενη"
+
+msgid "Last"
+msgstr "Τελευταία"
+
+msgid "Show"
+msgstr "Εμφάνιση"
+
+msgid "entries"
+msgstr "εγγραφές"
+
+msgid "This action can\\\\'t be undone. Are you sure you want to continue?"
+msgstr "Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Είστε σίγουρος πως επιθυμείτε να συνεχίσετε;"
+
+msgid "Bulk actions"
+msgstr "Μαζική επεξεργασία"
+
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+msgid "Theme package"
+msgstr "Πακέτο θέματος"
+
+msgid "Dashboard - Add New Widget"
+msgstr "Πίνακας ελέγχου - Προσθήκη νέου widget"
+
+msgid "Create widget in %s"
+msgstr "Δημιουργία widget σε %s"
+
+msgid "Description (only for internal purposes)"
+msgstr "Περιγραφή (μόνο για εσωτερική χρήση)"
+
+msgid "HTML Code for the Widget"
+msgstr "Κώδικας HTML για το Widget"
+
+msgid "Publish widget"
+msgstr "Δημοσίευση widget"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Είστε σίγουρος πως θέλετε να ακυρώσετε;"
+
+msgid "Add a new theme"
+msgstr "Προσθήκη νέου θέματος"
+
+msgid "Current theme"
+msgstr "Τρέχον θέμα"
+
+msgid "Author"
+msgstr "Συντάκτης"
+
+msgid "Available themes"
+msgstr "Διαθέσιμα θέματα"
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Add HTML widget"
+msgstr "Προσθήκη HTML widget"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Expirations days"
+msgstr "Ημέρες για λήξη"
+
+msgid "(0 = no expiration)"
+msgstr "(0 = χωρίς λήξη)"
+
+msgid "Enabled"
+msgstr "Ενεργοποιημένα"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+msgid "Edit comment"
+msgstr "Επεξεργασία σχολίου"
+
+msgid "Add a comment"
+msgstr "Προσθήκη σχολίου"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "You have to write a title."
+msgstr "Πρέπει να γράψετε έναν τίτλο΄."
+
+msgid "You have to write a comment."
+msgstr "Πρέπει να γράψετε ένα σχόλιο."
+
+msgid "Author's name can not be empty."
+msgstr "Το όνομα του συντάκτη δεν μπορεί να είναι κενό."
+
+msgid "Author's email can not be empty."
+msgstr "Το e-mail του συντάκτη δεν μπορεί να είναι κενό"
+
+msgid "Edit a comment on item:"
+msgstr "Επεξεργασία ενός σχολίου στο αντικείμενο:"
+
+msgid "View"
+msgstr "Προβολή"
+
+msgid "It's a registered user"
+msgstr "Είναι εγγεγραμμένος χρήστης"
+
+msgid "Edit user"
+msgstr "Επεξεργασία χρήστη"
+
+msgid "Author's e-mail"
+msgstr "E-mail συντάκτη"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "De-activate"
+msgstr "Απενεργοποίηση"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Manage Comments"
+msgstr "Διαχείριση σχολίων"
+
+msgid "Edit email/alert"
+msgstr "Επεξεργασία e-mail/ειδοποίησης"
+
+msgid "Add an email/alert"
+msgstr "Προσθήκη e-mail/ειδοποίησης"
+
+msgid "Emails & Alerts"
+msgstr "Emails & Ειδοποιήσεις"
+
+msgid "Internal name (name to easily identify this email/alert)"
+msgstr "Εσωτερικό όνομα (όνομα για να αναγνωρίζετε εύκολα το e-mail/ειδοποίηση)"
+
+msgid "Emails & alerts"
+msgstr "Emails & ειδοποιήσεις"
+
+msgid "Items"
+msgstr "Αντικείμενα"
+
+msgid "Manage items"
+msgstr "Διαχείριση Αντικειμένων"
+
+msgid "Add new item"
+msgstr "Προσθήκη νέου αντικειμένου"
+
+msgid "Manage media"
+msgstr "Διαχείριση πολυμέσων"
+
+msgid "Manage categories"
+msgstr "Διαχείριση κατηγοριών"
+
+msgid "Pages"
+msgstr "Σελίδες"
+
+msgid "Manage pages"
+msgstr "Διαχείριση σελίδων"
+
+msgid "Create page"
+msgstr "Δημιουργία σελίδας"
+
+msgid "Manage emails & alerts"
+msgstr "Διαχείριση emails & ειδοποιήσεων"
+
+msgid "Manage themes"
+msgstr "Διαχείριση θεμάτων"
+
+msgid "Add or remove widgets"
+msgstr "Προσθαφαίρεση widgets"
+
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+msgid "Manage plugins"
+msgstr "Διαχείριση πρόσθετων"
+
+msgid "Add new plugin"
+msgstr "Προσθήκη νέου πρόσθετου"
+
+msgid "Languages"
+msgstr "Γλώσσες"
+
+msgid "Manage languages"
+msgstr "Διαχείριση γλωσσών"
+
+msgid "Add a language"
+msgstr "Προσθήκη μιας γλώσσας"
+
+msgid "General settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+msgid "Users"
+msgstr "Χρήστες"
+
+msgid "Locations"
+msgstr "Τοποθεσίες"
+
+msgid "Permalinks"
+msgstr "Μόνιμοι σύνδεσμοι"
+
+msgid "Spam and bots"
+msgstr "Spam και bots"
+
+msgid "Currencies"
+msgstr "Νομίσματα"
+
+msgid "Mail Server"
+msgstr "Διακομιστής Αλληλογραφίας"
+
+msgid "Media"
+msgstr "Πολυμέσα"
+
+msgid "Cron system"
+msgstr "Σύστημα προγραμματισμένων εργασιών"
+
+msgid "Tools"
+msgstr "Εργαλεία"
+
+msgid "Import data"
+msgstr "Εισαγωγή δεδομένων"
+
+msgid "Backup data"
+msgstr "Αντίγραφο ασφαλείας δεδομένων"
+
+msgid "Upgrade OpenSourceClassifieds"
+msgstr "Αναβάθμιση OpenSourceClassifieds"
+
+msgid "Regenerate thumbnails"
+msgstr "Επαναδημιουργία μικρογραφιών"
+
+msgid "Manage users"
+msgstr "Διαχείριση χρηστών"
+
+msgid "Add new user"
+msgstr "Προσθήκη νέου χρήστη"
+
+msgid "Administrators"
+msgstr "Διαχειριστές"
+
+msgid "List administrators"
+msgstr "Λίστα διαχειριστών"
+
+msgid "Add new administrator"
+msgstr "Προσθήκη νεόυ διαχειριστή"
+
+msgid "Edit Your Profile"
+msgstr "Επεξεργασία του προφίλ σας"
+
+msgid "New item"
+msgstr "Νέο αντικείμενο"
+
+msgid "Edit item"
+msgstr "Επεξεργασία αντικειμένου"
+
+msgid "User"
+msgstr "Χρήστης"
+
+msgid "Item posted by"
+msgstr "Αντικείμενο δημοσιεύθηκε από"
+
+msgid "Non-registered user"
+msgstr "Μη εγγεγραμμένος χρήστης"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "General information"
+msgstr "Γενικές πληροφορίες"
+
+msgid "Add item"
+msgstr "Προσθηκη αντικειμενου"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Duplicated"
+msgstr "Διπλά"
+
+msgid "Misclassified"
+msgstr "Λάθος κατηγοριοποιημένα"
+
+msgid "Offensive"
+msgstr "Προσβλητικά"
+
+msgid "Expired"
+msgstr "Ληγμένα"
+
+msgid "Language package"
+msgstr "Πακέτο γλώσσας"
+
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr "Ο φάκελος της μετάφρασης (translations) δεν είναι εγγράψιμος στον διακομιστή σας και δεν μπορείτε να ανεβάσετε μεταφράσεις από διαχειριστικό εργαλείο. Παρακαλούμε κάνετε τον φάκελο εγγράψιμο"
+
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr "Για να κάνετε τον φάκελο εγγράψιμο μέσα από UNIX εκτελέστε την παρακάτω εντολή από γαραμμή εντολών (shell)"
+
+msgid "Short name"
+msgstr "Σύντομο όνομα"
+
+msgid "Currency format"
+msgstr "Μορφή νομίσματος"
+
+msgid "Date format"
+msgstr "Μορφή ημερομηνίας"
+
+msgid "Stopwords"
+msgstr "Κοινές λέξεις"
+
+msgid "Enabled for the public website"
+msgstr "Ενεργοποιημένο για τη δημόσια ιστοσελίδα"
+
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr "Ενεργοποιημένο για το εργαλείο διαχείρισης (oc-admin)"
+
+msgid "Disable (website)"
+msgstr "Απενεργοποίηση (ιστοσελίδα)"
+
+msgid "Disable (oc-admin)"
+msgstr "Απενεργοποίηση (διαχειριστικό)"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Enabled (website)"
+msgstr "Ενεργοποιημένο (ιστοσελίδα)"
+
+msgid "Enabled (oc-admin)"
+msgstr "Ενεργοποιημένο (διαχειριστικό)"
+
+msgid "Bulk Actions"
+msgstr "Μαζική επεξεργασία"
+
+msgid "Enable (Website)"
+msgstr "Ενεργοποίηση (Ιστοσελίδα)"
+
+msgid "Disable (Website)"
+msgstr "Απενεργοποίηση (Ιστοσελίδα)"
+
+msgid "Enable (oc-admin)"
+msgstr "Ενεργοποίηση (διαχειριστιικό)"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Which of the following do you want to see on your dashboard"
+msgstr "Ποια από τα ακόλουθα θέλετα να βλέπετε στονπίνακα ελέγχου"
+
+msgid "Latest items"
+msgstr "Τελευταία αντικείμενα"
+
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgid "Latest comments"
+msgstr "Τελευταία σχόλια"
+
+msgid "Latest news from OpenSourceClassifieds"
+msgstr "Τελευταία νέα από το OpenSourceClassifieds"
+
+msgid "Items by category"
+msgstr "Αντικείμενα ανά κατηγορία"
+
+msgid "There aren't any uploaded items yet"
+msgstr "Δεν έχουν ανέβει αντικείμενα ακόμη"
+
+msgid "Number of items"
+msgstr "Αριθμός αντικειμένων"
+
+msgid "Number of public users"
+msgstr "Αριθμός δημόσιων χρηστών"
+
+msgid "Number of administrators"
+msgstr "Αριθμός διαχειριστών"
+
+msgid "Commented on item"
+msgstr "Σχολιάστηκε στο αντικείμενο"
+
+msgid "There aren't any comments yet"
+msgstr "Δεν υπάρχουν ακόμη σχόλια"
+
+msgid "new"
+msgstr "νέο"
+
+msgid "Unable to fetch news from OpenSourceClassifieds. Please try again later"
+msgstr "Δεν είναι δυνατό να ληφθούν νέα από το OpenSourceClassifieds. Παρακαλούμε δοκιμάστε ξανά αργότερα"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "Attached to"
+msgstr "Συνημμένο στο"
+
+msgid "Edit page"
+msgstr "Επεξεργασία σελίδας"
+
+msgid "Add page"
+msgstr "Προσθήκη σελίδας"
+
+msgid "Internal name (name to easily identify this page)"
+msgstr "Εσωτερικό όνομα (όνομα για να αναγνωρίζετε εύκολα τη σελίδα)"
+
+msgid "View page"
+msgstr "Προβολή σελίδας"
+
+msgid "Add a new plugin"
+msgstr "Προσθήκη ενός νέου πρόσθετου"
+
+msgid "Plugin package"
+msgstr "Πακέτο πρόσθετού"
+
+msgid "The plugin folder %s is not writable on your server"
+msgstr "Ο φάκελος του πρόσθετου %s δεν είναι εγγράψιμος στο διακομιστή σας."
+
+msgid "OpenSourceClassifieds can't upload plugins from the administration panel"
+msgstr "Το OpenSourceClassifieds δεν μπορεί να ανεβάσει πρόσθετα από τον πίνακα ελέγχου"
+
+msgid "Please copy the plugin package using FTP or SSH, or make the mentioned plugins folder writable"
+msgstr "Παρακαλούμε αντιγράψτε το πακέτο του πρόσθετου μέσω FTP ή SSH, ή κάνετε το φάκελο του πρόσθετου που αναφέρθηκε εγγράψιμο"
+
+msgid "Preset categories"
+msgstr "Προκαθορισμένες κατηγορίες"
+
+msgid "Check all"
+msgstr "Επιλογή όλων"
+
+msgid "Uncheck all"
+msgstr "Αναίρεση επιλογής όλων"
+
+msgid "Configure"
+msgstr "Παραμετροποίηση"
+
+msgid "There's a new version. You should update!"
+msgstr "Υπάρχει μια νέα έκδοση. Θα έπρεπε να αναβαθμίσετε!"
+
+msgid "Uninstall"
+msgstr "Απεγκατάσταση"
+
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+msgid "Create currency"
+msgstr "Δημιουργία νομίσματος"
+
+msgid "Code"
+msgstr "Κωδικός"
+
+msgid "It should be a three-character code"
+msgstr "Πρέπει να είναι κωδικός τριών γραμμάτων"
+
+msgid "Comments settings"
+msgstr "Ρυθμίσεις σχολίων"
+
+msgid "Comments enabled"
+msgstr "Ενεργοποιημένα σχόλια"
+
+msgid "Moderate comments"
+msgstr "Διαχείριση σχολίων"
+
+msgid "Number of comments from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Αριθμός των σχολίων του ίδιου συντάκτη που πρέπει να εγκριθούν πριν παρακαμφθεί η επιβεβαίωση (0 για να απαιτείται πάντα διαχείριση)"
+
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+msgid "Notify when there's a new comment"
+msgstr "Ειδοποίηση όταν υπάρχει ένα νέο σχόλιο"
+
+msgid "Contact settings"
+msgstr "Ρυθμίσεις επικοινωνίας"
+
+msgid "Attachment enabled"
+msgstr "Ενεργοποίηση συνημμένων"
+
+msgid "Cron"
+msgstr "Προγραμματισμένες εργασίες"
+
+msgid "Auto-cron"
+msgstr "Αυτόματες Προγραμματισμένες εργασίες"
+
+msgid "Some OpenSourceClassifieds functionalities require a cron in order to work. Check if your host isn't able to do them. Uncheck if you want to set up your cron manually. Refer to the manual to know more about the OpenSourceClassifieds cron system."
+msgstr "Κάποιες λειτουργίες του OpenSourceClassifieds απαιτούν προγραμματισμένες εργασίες (cron). Ελέγξτε αν ο πάροχος φιλοξενίας σας δεν μπορεί να τις κάνει. Αναιρέστε την επιλογή αν θέλετε να ρυθμίσετε τις προγραμματισμένες εργασίες χειροκίνητα. Ανατρέξτε στο εγχειρίδιο χρήσης για να γνωρίσετε περισσότερα σχετικά με το σύστημα προγραμματισμένων εργασιών του OpenSourceClassifieds."
+
+msgid "Edit currency"
+msgstr "Επεξεργασία νομίσματος"
+
+msgid "Once it's created, it can't be modified"
+msgstr "Από τη στιγμή που θα δημιουργηθεί δεν γίνεται να αλλάξει"
+
+msgid "Page title"
+msgstr "Τίτλος σελίδας"
+
+msgid "Page description"
+msgstr "Περιγραφή σελίδας"
+
+msgid "Admin e-mail"
+msgstr "E-mail διαχειριστή"
+
+msgid "Default language"
+msgstr "Προεπιλεγμένη γλώσσα"
+
+msgid "Custom"
+msgstr "Ειδική"
+
+msgid "Default currency"
+msgstr "Προεπιλεμένο νόμισμα"
+
+msgid "Week starts on"
+msgstr "Η εβδομάδα ξεκινά τη"
+
+msgid "Sunday"
+msgstr "Κυριακή"
+
+msgid "Monday"
+msgstr "Δευτέρα"
+
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+msgid "Friday"
+msgstr "Παρασκευή"
+
+msgid "Saturday"
+msgstr "Σάββατο"
+
+msgid "Time format"
+msgstr "Μορφή ώρας"
+
+msgid "Number of items in the RSS"
+msgstr "Αριθμός αντικειμένων στο RSS"
+
+msgid "Enable reCAPTCHA"
+msgstr "Ενεργοποίηση reCAPTCHA"
+
+msgid "Enable item validation by users"
+msgstr "Ενεργοποίηση επιβεβαίωσης αντικειμένων από τους χρήστες"
+
+msgid "Logged users don't need to validate items"
+msgstr "Οι συνδεδεμένοι χρήστες δεν χρειάζεται να επιβεβαιώνουν τα αντικείμενά τους"
+
+msgid "Only allow registered users to post items"
+msgstr "Επιτρέψτε μόνο σε εγγεγραμμένους χρήστες να δημοσιεύουν αντικείμενα"
+
+msgid "Notify admin of new items"
+msgstr "Ειδοποίηση του διαχειριστή για νέα αντικείμενα"
+
+msgid "Notify admin of contact items"
+msgstr "Ειδοποίηση του διαχειριστή για αντικείμενα επικοινωνίας"
+
+msgid "Notify admin of share"
+msgstr "Ειδοποίηση του διαχειριστή για μοίρασμα"
+
+msgid "Optional fields"
+msgstr "Προαιρετικά πεδία"
+
+msgid "Enable price"
+msgstr "Ενεργοποίηση τιμής"
+
+msgid "Enable images"
+msgstr "Ενεργοποίηση εικόνων"
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "View more"
+msgstr "Δείτε περιεσσότερα"
+
+msgid "Countries"
+msgstr "Χώρες"
+
+msgid "Add new"
+msgstr "Προσθήκη νέας"
+
+msgid "Regions"
+msgstr "Περιοχές"
+
+msgid "Cities"
+msgstr "Πόλεις"
+
+msgid "Add new country"
+msgstr "Προσθήκη νέας χώρας"
+
+msgid "Country code"
+msgstr "Κωδικός χώρας"
+
+msgid "Country code should have two characters"
+msgstr "Ο κωδικός χώρας πρέπει να έχει δυο χαρακτήρες"
+
+msgid "Edit country"
+msgstr "Επεξεργασία χώρας"
+
+msgid "Add new region"
+msgstr "Προσθήκη νέας περιοχής"
+
+msgid "Edit region"
+msgstr "Επεξεργασία περιοχής"
+
+msgid "Add new city"
+msgstr "Προσθήκη νέας πόλης"
+
+msgid "Edit city"
+msgstr "Επεξεργασία πόλης"
+
+msgid "Mail server"
+msgstr "Διακομιστής αλληλογραφίας"
+
+msgid "Configuration"
+msgstr "Παραμετροποίηση"
+
+msgid "Server type"
+msgstr "Τύπος διακομιστή"
+
+msgid "Custom Server"
+msgstr "Ειδικός διακομιστής"
+
+msgid "GMail Server"
+msgstr "GMail διακομιστής"
+
+msgid "Hostname"
+msgstr "Πάροχος"
+
+msgid "Server port"
+msgstr "Πόρτα διακομιστή"
+
+msgid "Encryption"
+msgstr "Κρυπτογράφηση"
+
+msgid "Options: blank, ssl or tls"
+msgstr "Επιλογές: κενό, ssl ή tls"
+
+msgid "Enable SMTP authentication"
+msgstr "Ενεργοποίηση πιστοποίησης SMTP"
+
+msgid "Enter your e-mail server configuration"
+msgstr "Εισάγετε την παραμετροποίηση του διακομιστή e-mail"
+
+msgid "Media settings"
+msgstr "Ρυθμίσεις πολυμέσων"
+
+msgid "Configure media"
+msgstr "Παραμετροποίηση πολυμέσων"
+
+msgid "Please set the preferred dimensions for all the images on the website. (format: WIDTHxHEIGHT, eg: 640x480)"
+msgstr "Παρακαλούμε να ορίσετε τις επιλεγμένες διαστάσεις για όλες τις εικόνες της ιστοσελίδας (μορφή: ΠΛΑΤΟΣxΥΨΟΣ. π.χ. 640x480)"
+
+msgid "Restrictions"
+msgstr "Απαγορεύσεις"
+
+msgid "Maximum size, in KB"
+msgstr "Μέγιστο μέγεθος, σε KB"
+
+msgid "Allowed format extensions (eg: png, jpg, gif)"
+msgstr "Επιτρεπόμενες μορφές καταλήξεων (π.χ.: png, jpg, gif)"
+
+msgid "Dimensions"
+msgstr "Διαστάσεις"
+
+msgid "Thumbnail dimensions"
+msgstr "Διαστάσεις μικρογραφιών"
+
+msgid "Preview dimensions"
+msgstr "Διαστάσεις προεπισκόπησης"
+
+msgid "Normal dimensions"
+msgstr "Κανονικές διαστάσεις"
+
+msgid "Keep original image"
+msgstr "Διατήρηση αρχικής εικόνας"
+
+msgid "Keeping original image files requires extra storage. This option ensures that the original quality of the file is un-altered. Be careful when using this option."
+msgstr "Η διατήρηση της αρχικής εικόνας απαιτεί περισσότερο αποθηκευτικό χώρο. Αυτή η επιλογή διασφαλίζει πως η αρχική ποιότητα του αρχείου παραμένει αμετάβλητη. Προσέξτε όταν χρησιμοποιείτε αυτή την επιλογή."
+
+msgid "Permalinks settings"
+msgstr "Ρυθμίσεις μόνιμων συνδέσμων"
+
+msgid "Friendly urls"
+msgstr "Φιλικά urls"
+
+msgid "By default OpenSourceClassifieds uses web URLs which have question marks and lots of numbers in them. However, OpenSourceClassifieds offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr "Ως προεπιλογή το OpenSourceClassifieds χρησιμοποιεί διευθύνσεις URLs που έχουν το αγγλικό ερωτηματικό και πολλούς αριθμούς. Όμως, το OpenSourceClassifieds σας δίνει τη δυνατότητα και φιλικών urls. Αυτό μπορεί να βελτιώσει την αισθητική, ευχρηστία, και μελλοντική συμβατότητα των συνδέσμων σας"
+
+msgid "Enable friendly urls"
+msgstr "Ενεργοποίηση φιλικών urls"
+
+msgid ".htaccess file"
+msgstr "αρχείο .htaccess"
+
+msgid "Module <em>mod_rewrite</em> was found on the server."
+msgstr "Το module <em>mod_rewrite</em> βρέθηκε στον εξυπηρετητή σας."
+
+msgid "Warning! Rewrite module wasn't found on the server. This means you don't have it enabled or you're running PHP as CGI (or fastCGI). In the case you don't have mod_rewrite you could still use friendly urls if AllowPathInfo option is on in your Apache configuration (we can't know if it's enabled or not, but it usually is). \"Index.php\" will appear as a part of your URL (ie. http://www.example.com/index.php/nice/url)."
+msgstr "Προσοχή! Το Rewrite module δεν βρέθηκε στον εξυπηρετητή σας. Αυτό σημαίνει πως δεν το έχετε ενεργοποιημένο ή τρέχετε την PHP ως GGI (ή fastCGI). Στην περίπτωση που δεν έχετε mod_rewrite μπορείτε να έχετε φιλικά urls αν η επιλογή AllowPathInfo βρίσκεται στην παραμετροποίηση του Apache (δεν μπορούμε να ξέρουμε αν είναι ενεργοποιημένο ή όχι, αλλά συνήθως είναι). Το \\\\\\\"Index.php\\\\\\\" θα εμφανίζεται σαν μέρος του URL (π.χ.http://www.example.com/index.php/nice/url)."
+
+msgid "Error. We couldn't write the .htaccess file on your server. Please create a file called .htaccess in the root of your OpenSourceClassifieds installation with the following content."
+msgstr "Σφάλμα. Δεν μπορέσαμε να γράψουμε το αρχείο .htaccess στον διακομιστή σας. Παρακαλούμε δημιουργήστε ένα αρχείο με το όνομα .htaccess στον αρχικό φάκελο της εγκατάστασης του OpenSourceClassifieds με το ακόλουθο περιεχόμενο."
+
+msgid "File .htaccess already exists. Please check that the .htaccess file has the following content."
+msgstr "Το αρχείο .htaccess ήδη υπάρχει. Παρακαλούμε ελέξτε αν το αρχείο .htaccessέχει το ακόλουθο περιεχόμενο."
+
+msgid "We've created a .htaccess file on the root of your OpenSourceClassifieds installation."
+msgstr "Δημιουργήσαμε ένα αρχείο .htaccess στον αρχικό φάκελο εγκατάστασης του OpenSourceClassifieds."
+
+msgid "Content of .htaccess file should look like this:"
+msgstr "Το περιεχόμενο του αρχείου .htaccess θα έπρεπε να μοιάζει έτσι:"
+
+msgid "Current content of your .htaccess file:"
+msgstr "Τρέχον περιεχόμενο το αρχείο .htaccess:"
+
+msgid "Akismet"
+msgstr "Akismet"
+
+msgid "Akismet key (same as Wordpress.com)"
+msgstr "Κλειδί Akismet (ίδιο με του Wordpress.com)"
+
+msgid "If the field is empty it's because the Akismet service is disabled"
+msgstr "Αν αυτό το πεδίο είναι κενό, είναι επειδή η υπηρεσία Akismet είναι απενεργοποιημένη"
+
+msgid "Get your free key at"
+msgstr "Πάρετε το δωρεάν κλειδί σας στο"
+
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+msgid "If the field is empty it's because the reCAPTCHA service is disabled"
+msgstr "Αν αυτό το πεδίο είναι κενό, είναι επειδή η υπηρεσία reCAPTCHA είναι απενεργοποιημένη"
+
+msgid "Get your free keys at"
+msgstr "Πάρετε τα δωρεάν κλειδιά σας στο"
+
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA ιδιωτικό κλειδί"
+
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA δημόσιο κλειδί"
+
+msgid "Users settings"
+msgstr "Ρυθμίσεις χρηστών"
+
+msgid "Users enabled"
+msgstr "Ενεργοποιημένοι χρήστες"
+
+msgid "User validation enabled"
+msgstr "Επιβεβαίωση χρηστών ενεργοποιημένη"
+
+msgid "User registration enabled"
+msgstr "Εγγραφή χρηστών ενεργοποιημένη"
+
+msgid "Backup"
+msgstr "Αντίγραφο ασφαλείας"
+
+msgid "You're offline! Please check your connection"
+msgstr "Δεν είστε συνδεδεμένος! Ελέγξτε τη σύνδεσή σας"
+
+msgid "Requested URL not found"
+msgstr "Η διεύθυνση που ζητήθηκε δεν βρέθηκε"
+
+msgid "Internal server error"
+msgstr "Εσωτερικό σφάλμα διακομιστή (Internal server error)"
+
+msgid "Error. Parsing JSON request failed"
+msgstr "Σφάλμα. Η αναλυση του αιτήματος JSON απέτυχε"
+
+msgid "Request timeout"
+msgstr "Το αίτημα έληξε"
+
+msgid "Unknown error"
+msgstr "Άγνωστο σφάλμα"
+
+msgid "Backup OpenSourceClassifieds"
+msgstr "Αντίγραφο ασφαλείας OpenSourceClassifieds"
+
+msgid "You can back up OpenSourceClassifieds here. WARNING: If you don't specify a backup folder, the backup files will be created in the root of your OpenSourceClassifieds installation"
+msgstr "Μπορείτε μέσα από εδώ να δημιουργήσετε ένα αντίγραφο ασφαλείας του OpenSourceClassifieds. ΠΡΟΣΟΧΗ: Αν δεν ορίσετε κάποιο φάκελο αντιγράφων ασφαλείας, τα αρχεία των αντιγράφων ασφαλείας θα δημιουργηθούν στον αρχικό φάκελο της εγκατάστασης του OpenSourceClassifieds"
+
+msgid "Backup folder"
+msgstr "Φάκελος αντιγράφων ασφαλείας"
+
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path. For more information, please refer to OpenSourceClassifieds' documentation"
+msgstr "Αυτός είναι ο φάκελος στον οποίο θα δημιουργούνται τα αντίγραφ ασφαλείας σας. Συνιστούμε να επιλέξετε μια διαδρομή μη δημόσια. Για περισσότερες πληροφορίες, παρακαλούμε να ανατρέξετε στην τεκμηρίωση του OpenSourceClassifieds"
+
+msgid "Back up database"
+msgstr "Αντίγραφο ασφαλείας βάσης δεδομένων"
+
+msgid "Back up OpenSourceClassifieds installation"
+msgstr "Αντίγραφο ασφαλείας εγκατάστασης OpenSourceClassifieds"
+
+msgid "You can regenerate your thumbnails and previews images here. It's useful if you changed your theme and images are not showing up correctly. Please, check the size values defined in the settings/media section"
+msgstr "Μπορείτε να επαναδημιουργήσετε τις μικρογραφίες και τις εικόνες προεπισκόπησης εδώ. Είναι χρήσιμο αν αλλάξατε το θέμα σας και οι εικόνες δεν εμφανίζονται σωστά. Παρακαλούμε ελέγξτε τις τιμές των μεγεθών που ορίζονται στο τμήμα ρυθμίσεις/πολυμέσα"
+
+msgid "You can modify your database to add, remove or modify its data here. It's usually used to import countries, regions and cities"
+msgstr "Μπορείτε να αλλάξετε τη βάση δεδομένων σας για να προσθέσετε, αφαιρέσετε ή τροποποιήσετε εδώ. Συνήθως χρησιμοποιείται για να εισάγετε χώρες, περιοχές και πόλεις"
+
+msgid "Data"
+msgstr "Δεδομένα"
+
+msgid "Satisfying user with awesome and easy auto-upgrade: Done!"
+msgstr "Ικανοποίηση χρήστη με την υπέροχη και εύκολη αυτόματη αναβάθμιση: Ολοκληρώθηκε!"
+
+msgid "Invalid OpenSourceClassifieds request."
+msgstr "Μη έγκυρο αίτημα OpenSourceClassifieds."
+
+msgid "Upgrade"
+msgstr "Αναβάθμιση"
+
+msgid "Re-type the password"
+msgstr "Ξανα-πληκτρολογήστε τον κωδικό πρόσβασης"
+
+msgid "Additional information"
+msgstr "Πρόσθετη πληροφορία"
+
+msgid "Activate user"
+msgstr "Ενεργοποίηση χρήστη"
+
+msgid "Deactivate user"
+msgstr "Απενεργοποίηση χρήστη"
+
+msgid "Update Date"
+msgstr "Ημερομηνία ενημέρωσηςς"
+
+msgid "Add a new user"
+msgstr "Προσθήκη νέου χρήστη"
+
+msgid "Anonymous"
+msgstr "Ανώνυμος"
+
+msgid "Admin mail system"
+msgstr "Σύστημα e-mail διαχειριστή"
+
+msgid "Plugin %s is missing the index.php file %s"
+msgstr "Το πρόσθετο %s δεν έχει αρχείο index.php %s"
+
+msgid "Plugin %s is missing its main file"
+msgstr "Το πρόσθετο %s δεν έχει το βασικό αρχείο"
+
+msgid "Enter your e-mail"
+msgstr "Εισαγωγή του e-mail σας"
+
+msgid "Select a country..."
+msgstr "Επιλογή μιας χώρας..."
+
+msgid "Select a region..."
+msgstr "Επιλογή μιας περιοχής..."
+
+msgid "Select a city..."
+msgstr "Επιλογή μιας πόλης..."
+
+msgid "No results"
+msgstr "Κανένα αποτέλεσμα"
+
+msgid "Description: needs to be longer"
+msgstr "Περιγραφή: πρέπει να είναι μεγαλύτερη"
+
+msgid "Choose one category"
+msgstr "Επιλέξτε μια κατηγορία"
+
+msgid "Price: enter a valid number"
+msgstr "Τιμή: εισάγετε έναν έγκυρο αριθμό"
+
+msgid "Price: no more than 15 characters"
+msgstr "Τιμή: όχι περισσότεροι από 15 χαρακτήρες"
+
+msgid "Currency: make your selection"
+msgstr "Νόμισμα: κανετε την επιλογή σας"
+
+msgid "Photo: must be %s"
+msgstr "Φωτογραφία: πρέπει να είναι %s"
+
+msgid "Name: enter at least 3 characters"
+msgstr "Όνομα: εισάγετε τουλάχιστον 3 χαρακτήρες"
+
+msgid "Name: no more than 35 characters"
+msgstr "Όνομα: όχι περισσότεροι από 35 χαρακτήρες"
+
+msgid "Email: this field is required"
+msgstr "E-mail: αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "Select a region"
+msgstr "Επιλέξτε μια περιοχή"
+
+msgid "Select a city"
+msgstr "Επιλέξτε μια πόλη"
+
+msgid "City area: enter at least 3 characters"
+msgstr "Περιοχή πόλης: εισάγετε τουλάχιστον 3 χαρακτήρες"
+
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+msgid "Body"
+msgstr "Σώμα"
+
+msgid "User Description"
+msgstr "Περιγράφή χρήστη"
+
+msgid "Company"
+msgstr "Εταιρεία"
+
+msgid "Check with seller"
+msgstr "Έλεγχος με πωλητή"
+
+msgid "Newly listed"
+msgstr "Νεότερες καταχωρήσεις"
+
+msgid "Lower price first"
+msgstr "Χαμηλότερη τιμή πρώτα"
+
+msgid "Higher price first"
+msgstr "Υψηλότερη τιμή πρώτα"
+
+msgid "Manage your items"
+msgstr "Διαχείριση των αντικειμένων"
+
+msgid "Manage your alerts"
+msgstr "Διαχείριση των ειδοποιήσεων"
+
+msgid "%s in"
+msgstr "%s σε"
+
+msgid "There's no description available in your language"
+msgstr "Δεν υπάρχει διαθέσιμη περιγραφή στη γλώσσα σας"
+
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr "Λυπούμαστε για την ταλαιπωρία. Γίνεται συντήρηση στο %s"
+
+msgid "Error removing file: %s"
+msgstr "Σφάλμα κατά την αφαίρεση αρχείου: $s"
+
+msgid "Some error ocurred"
+msgstr "Προέκυψε κάποιο σφάλμα"
+
+msgid "Order saved"
+msgstr "Η σειρά αποθηκεύθηκε"
+
+msgid "The subcategories has been enabled"
+msgstr "Οι υποκατηγορίες έχουν ενεργοποιηθεί"
+
+msgid "The subcategories has been disabled"
+msgstr "Οι υποκατηγορίες έχουν απενεργοποιηθεί"
+
+msgid "Error: %s"
+msgstr "Σφάλμα: %s"
+
+msgid "Error while deleting"
+msgstr "Σφάλμα κατά τη διαγραφή"
+
+msgid "All titles are required"
+msgstr "Όλοι οι τίτλοι είναι υποχρεωτικοί"
+
+msgid "Error while updating."
+msgstr "Σφάλμα κατά την αναβάθμιση."
+
+msgid "Saved"
+msgstr "Αποθηκεύθηκε"
+
+msgid "Everything was OK! Your OpenSourceClassifieds installation is updated"
+msgstr "Όλα πήγαν ΚΑΛΑ! Η εγκατάσταση του OpenSourceClassifieds είναι ενημερωμένη"
+
+msgid "Almost everything was OK! Your OpenSourceClassifieds installation is updated, but there were some errors removing temporary files. Please, remove manually the \"oc-temp\" folder"
+msgstr "Σχεδόν όλα πήγαν ΚΑΛΑ! Η εγκατάσταση του OpenSourceClassifieds είναι ενημερωμένη, όμως υπήρξαν κάποια σφάλματα κατά την αφαίρεση προσωρινών αρχείων. Παρακαλούμε αφαιρέστε χειροκίνητα τον φάκελο \\\\\\\"oc-temp\\\\\\\""
+
+msgid "Problems upgrading the database"
+msgstr "Προβλήματα κατά την αναβάθμιση της βάσης δεδομένων"
+
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr "Προβλήματα κατά την αντιγραφή αρχείων. Ίσως τα δικαιώματα να μην είναι σωστά"
+
+msgid "Download failed"
+msgstr "Το κατέβασμα απέτυχε"
+
+msgid "Missing download URL"
+msgstr "Λείπει η διεύθυνση για το κατέβασμα"
+
+msgid "We had some errors removing files, those are not super-sensitive errors, so we continued upgrading your installation. Please remove the following files (you already have OpenSourceClassifieds upgraded, but to ensure maximun performance)"
+msgstr "Είχαμε κάποια σφάλματα κατά την αφαίρεση αρχείων, δεν πρόκειται για πολύ σημαντικά σφάλματα, οπότε συνεχίσαμε την αναβάθμιση της εγκατάστασής σας. Παρακαλούμε αφαιρέστε τα ακόλουθα αρχεία (έχετε ήδη αναβαθμισμένο OpenSourceClassifieds, αλλά θα διασφαλιστεί η μέγιστη απόδοση)"
+
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr "Είχαμε κάποια σφάλματα κατά την αναβάθμιση της βάσης δεδομένων σας. Οι ακόλουθες εντολές απέτυχαν"
+
+msgid "Clear"
+msgstr "Εκκαθάριση"
+
+msgid "Forums"
+msgstr "Forums"
+
+msgid "Add new theme"
+msgstr "Προσθήκη νέου θέματος"
+
+msgid "The theme folder %s is not writable on your server, <span class=\"OpenSourceClassifieds\">OpenSourceClassifieds</span> can't upload themes from the administration panel. Please copy the theme package using FTP or SSH, or make the mentioned themes folder writable."
+msgstr "Ο φάκελος %s δεν είναι εγγράψιμος στο διακομιστή σας, Το <span class=\\\\\\\"OpenSourceClassifieds\\\\\\\">OpenSourceClassifieds</span> δεν μπορεί να ανεβάσει θέματα από το διαχειριστικό εργαλείο. Παρακαλούμε αντικράψτε το πακέτο του θέματος  χρησιμοποιώντας FTP ή SSH, ή κάνετε το φάκελο των θεμάτων που αναφέρθηκε εγγράψιμο."
+
+msgid "Ajax error, try again."
+msgstr "Σφάλμα ajax, δοκιμάστε ξανά."
+
+msgid "WARNING: This will also delete the items under that category. This action cann not be undone. Are you sure you want to continue?"
+msgstr "ΠΡΟΣΟΧΗ: Θα σβηστούν και τα αντικείμενα κάτω από την κατηγορία. Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr "Σύρετε τις κατηγορίες για να αλλάξετε τη σειρά όπως σας αρέσει. Επιλέξτε το σύνδεσμο επεξεργασίας για να επεξεργαστείτε την κατηγορία"
+
+msgid "Add new category"
+msgstr "Προσθήκη νέας κατηγορίας"
+
+msgid "Categories settings"
+msgstr "Ρυθμίσεις κατηγοριών"
+
+msgid "Selectable parent categories"
+msgstr "Επιλέξιμες ευρύτερες κατηγορίες"
+
+msgid "ACTIVE"
+msgstr "ΕΝΕΡΓΟ"
+
+msgid "INACTIVE"
+msgstr "ΑΝΕΝΕΡΓΟ"
+
+msgid "ENABLED"
+msgstr "ΕΝΕΡΓΟΠΟΙΗΜΕΝΟ"
+
+msgid "DISABLED"
+msgstr "ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΟ"
+
+msgid "Last Searches"
+msgstr "Τελευταίες αναζητήσεις"
+
+msgid "Maintenance mode"
+msgstr "Υπό συντήρηση"
+
+msgid "Reports"
+msgstr "Αναφορές"
+
+msgid "Number of items from same author that should be validated before skipping validation (0 for always moderation)"
+msgstr "Αριθμός αντικειμένων του ίδιου συντάκτη που θα πρέπει να επιβεβαιώνονται πριν παρακαμφθεί η επιβεβαίωση (0 για να απαιτείται πάντα διαχείριση)"
+
+msgid "Number of seconds an user should wait before publishing another item (0 for no wait)"
+msgstr "Αριθμός δευτερολέπτων που ένας χρήστης θα πρέπει να περιμένει πριν δημοσιεύσει ένα άλλο αντικείμενο (0 για να μην περιμένει)"
+
+msgid "Only allow registered users to contact to seller"
+msgstr "Να επιτρέπονται μόνο οι εγγεγραμμένοι χρήστες να επικοινωνούν με τον πωλητή"
+
+msgid "Maximum number of images per item (0 for unlimited)"
+msgstr "Μέγιστος αριθμός εικόνων ανά αντικείμενο (0 για απεριόριστο)"
+
+msgid "Download more languages at %s"
+msgstr "Κατεβάστε περισσότερες γλώσσες από %s"
+
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr "Αυτή η ενέργεια δεν γίνεται να αναιρεθεί. Η απεγκατάσταση πρόσθετων μπορεί να έχει ως συνέπεια την μόνιμη απώλεια δεδομένων. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Number of comments per page. You could limit the number of comments shown at a time at the item's detail page. Other comments will be available through a pagination system. (0 for show all comments at the same time)"
+msgstr "Αριθμός σχολίων ανά σελίδα. Θα μπορούσατε να περιορίσετε τον αριθμό των σχολίων κάθε φορά από τη σελίδα τλεπτομερειών ου αντικειμένου. Τα υπόλοιπα σχόλια θα είναι διαθέσιμα μέσα από τη σελιδοποίηση. (0 για να φαίνονται όλα τα σχόλια συγχρόνως)"
+
+msgid "Only allow registered users to post comments"
+msgstr "Να επιτρέπονται μόνο οι εγγεγραμμένοι χρήστες να στέλνουν σχόλια"
+
+msgid "Number of recent items displayed at home"
+msgstr "Αριθμός προσφάτων αντικείμενων προς εμφάνιση στην αρχική σελίδα"
+
+msgid "Save latest searches"
+msgstr "Αποθήκευση τελευταίων αναζητήσεων"
+
+msgid "OpenSourceClassifieds could save the latest searches users do on your site. You could have an idea of what your users are looking for or show them on the site as \"hot topics\"."
+msgstr "Το OpenSourceClassifieds έχει τη δυνατότητα να αποθηκεύει τις τελευταίες αναζητήσεις των χρηστών. Θα μπορούσατε να έχετε μία ιδέα για το τι ψάχνουν οι χρήστες ή να προβάλετε αυτά τα αντικείμενα στην ιστοσελίδα σαν \\\"Πιο δημοφιλή\\\"."
+
+msgid "Keep last searches"
+msgstr "Διατήρηση τελευταίων αναζητήσεων"
+
+msgid "One hour"
+msgstr "Μία ώρα"
+
+msgid "One day"
+msgstr "Μία μέρα"
+
+msgid "One week"
+msgstr "Μία εβδομάδα"
+
+msgid "Forever (never delete)"
+msgstr "Για πάντα (να μην διαγραφούν ποτέ)"
+
+msgid "Keep last 1000 searches"
+msgstr "Διατήρηση τελευταίων 1000 αναζητήσεων"
+
+msgid "Number of files to keep"
+msgstr "Αριθμός αρχείων που θα διατηρούνται"
+
+msgid "Latest searches functionality could generate a lot of data. It's recomended you purge that data. You could delete one hour old, one day old or one week old, you could also specify the number of searches to keep or to never delete them."
+msgstr "Η λειτουργικότητα των τελευταίων αναζητήσεων μπορεί να δημιουργήσει πολλά δεδομένα. Συνιστάται να καθαρίζεται αυτά τα δεδομένα. Μπορείτε να σβήσετε όσα είναι παλιότερα της μιας ώρας, μιας  μέρας, μιας εβδομάδας, ή θα μπορούσατε να καθορίσετε τον αριθμό των αναζητήσεων που θα φυλάτε, ή να μην τις σβήνετε ποτέ."
+
+msgid "Last 10 days"
+msgstr "Τελευταίες 10 μέρες"
+
+msgid "Last 10 weeks"
+msgstr "Τελευταίες 10 εβδομάδες"
+
+msgid "Last 10 months"
+msgstr "Τελευταίοι 10 μήνες"
+
+msgid "There're no statistics yet"
+msgstr "Δεν υπάρχουν ακόμη στατιστικά"
+
+msgid "Latest comments on the web"
+msgstr "Τελευταία σχόλια στο διαδίκτυο"
+
+msgid "New items"
+msgstr "Νέα αντικείμενο"
+
+msgid "Total number of items' views"
+msgstr "Συνολικός αριθμός προβολών αντικειμένων"
+
+msgid "Latest items on the web"
+msgstr "Τελευταία αντικείμενα στο διαδίκτυο"
+
+msgid "Active"
+msgstr "Ενεργά"
+
+msgid "Inactive"
+msgstr "Ανενεργά"
+
+msgid "Views"
+msgstr "Προβολές"
+
+msgid "Total number of reports"
+msgstr "Συνολικός αριθμός αναφορών"
+
+msgid "Repeated"
+msgstr "Επαναλαμβανόμενο"
+
+msgid "Bad category"
+msgstr "Κακή κατηγορία"
+
+msgid "Latest users on the web"
+msgstr "Τελευταίοι χρήστες στο διαδίκτυο"
+
+msgid "Avg. items per user"
+msgstr "Μέσα αντικείμενα ανά χρήστη"
+
+msgid "items per user"
+msgstr "Αντικείμενα ανά χρήστη"
+
+msgid "New users"
+msgstr "Νέοι χρήστες"
+
+msgid "Users per country"
+msgstr "Χρήστες ανά χώρα"
+
+msgid "Unknown"
+msgstr "Άγνωστος"
+
+msgid "Users per region"
+msgstr "Χρήστες ανά περιοχή"
+
+msgid "Theme"
+msgstr "Θέμα"
+
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode"
+msgstr "Κατά τη διάρκεια της συντήρησης, οι χρήστες δεν μπορούν να έχουν πρόσβαση στην ιστοσελίδα σας. Είναι χρήσιμη αν επιθυμείτε να κάνετε κάποιες αλλαγές στην ιστοσελίδα σας. Χρησιμοποιείστε το ακόλουθο κουμπί για να αλλάξετε ΑΝΟΙΧΤΗ/ΚΛΕΙΣΤΗ την κατάσταση συντήρησης"
+
+msgid "Maintenance mode is:"
+msgstr "Η κατάσταση συντήρησης είναι:"
+
+msgid "ON"
+msgstr "Ενεργοποιημένο"
+
+msgid "OFF"
+msgstr "Απενεργοποιημένο"
+
+msgid "Disable maintenance mode"
+msgstr "Απενεργοποίηση κατάστασης συντήρησης"
+
+msgid "Enable maintenance mode"
+msgstr "Ενεργοποίηση κατάστασης συντήρησης"
+
+msgid "Checking for updates"
+msgstr "Έλεχγος για ενημερώσεις"
+
+msgid "HOORAY! Your plugin installation is up to date!"
+msgstr "Ουάου! Η εγκατάσταση του πρόσθετου είναι ενημερωμένη!"
+
+msgid "Congratulations! Your OpenSourceClassifieds installation is up to date!"
+msgstr "Συγχαρητήρια! Η εγκατάσταση του OpenSourceClassifieds είναι ενημερωμένη!"
+
+msgid "Upgrading your OpenSourceClassifieds installation (this could take a while):"
+msgstr "Αναβάθμιση της εγκατάστασης του OpenSourceClassifieds (θα διαρκέσει λίγο χρόνο):"
+
+msgid "Enable user"
+msgstr "Ενεργοποίηση χρήστη"
+
+msgid "Disable user"
+msgstr "Απενεργοποίηση χρήστη"
+
+msgid "OpenSourceClassifieds &raquo; Has some errors"
+msgstr "OpenSourceClassifieds » Έχει κάποια σφάλματα"
+
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr "Συνατήσαμε κάποια προβλήματα κατά την αναβάθμιση της δομής της βάσης δεδομένων. Οι ακόλουθες εντολές απέτυχαν:"
+
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.opensourceclassifieds.org/\">ask in our forums</a>."
+msgstr "Αυτά τα σφάλματα μπορεί να είναι ψευδή σφάλματα. Αν είστε σίγουροι για αυτό, μπορείτε <a href=\\\\\\\"%s\\\\\\\">να συνεχίσετε με την αναβάθμιση</a>, ή <a href=\\\\\\\"http://forums.opensourceclassifieds.org/\\\\\\\">να ρωτήσετε στα forums μας</a>."
+
+msgid "Name: this field is required"
+msgstr "Όνομα: αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "Message: this field is required"
+msgstr "Μήνυμα: αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "City area: no more than 50 characters"
+msgstr "Περιοχή πόλης: όχι περισσότεροι από 50 χαρακτήρες"
+
+msgid "Address: enter at least 3 characters"
+msgstr "Διεύθυνση: εισάγετε τουλάχιστον 3 χαρακτήρες"
+
+msgid "Address: no more than 100 characters"
+msgstr "Διεύθυνση: όχι περισσότεροι από 100 χαρακτήρες"
+
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr "Λυπούμαστε, έχετε φτάσει το μέγιστο αριθμό εικόνων ανά αγγελία"
+
+msgid "Your name: this field is required"
+msgstr "Το όνομά σας: αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "Friend's name: this field is required"
+msgstr "Το όνομα του φίλου σας: αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "Friend's email: this field is required"
+msgstr "Το e-mail του φίλου σας: αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "Invalid friend's email address"
+msgstr "Μη έγκυρη διεύθυνση e-mail του φίλου σας"
+
+msgid "Name: no more than 50 characters"
+msgstr "Όνομα: όχι περισσότεροι από 50 χαρακτήρες"
+
+msgid "Password: this field is required"
+msgstr "Κωδικός πρόσβασης: αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "Password: enter at least 5 characters"
+msgstr "Κωδικός πρόσβασης: εισαάγετε τουλάχτιστον 5 χαρακτήρες"
+
+msgid "The website is currently under maintenance mode"
+msgstr "Η ιστοσελίδα βρίσκεται σε συντήρηση"
+
+msgid "Sorry, you already have one field with that name"
+msgstr "Λυπούμαστε, έχετε ήδη ένα πεδίο με αυτό το όνομα"
+
+msgid "The custom field have been deleted"
+msgstr "Το πεδίο έχει διαγραφεί"
+
+msgid "Unmark as spam"
+msgstr "Όχι spam"
+
+msgid "Mark as spam"
+msgstr "Σημείωση ως spam"
+
+msgid "Field's name"
+msgstr "Όνομα πεδίου"
+
+msgid "This field is required"
+msgstr "Το πεδίο είναι υποχρεωτικό"
+
+msgid "Select the categories where you want to apply these attribute"
+msgstr "Επιλέξτε τις κατηγορίες που θέλετε να εφαρμόσετε το πεδίο"
+
+msgid "Advanced options"
+msgstr "Προηγμένες ρυθμίσεις"
+
+msgid "Identifier name (only alphanumeric characters are allowed (a-z0-9_-)"
+msgstr "Αναγνωριστικό (μόνο αγγλικά γράμματα και αριθμοί)"
+
+msgid "WARNING: This will also delete the information related to this field. This action cann not be undone. Are you sure you want to continue?"
+msgstr "ΠΡΟΣΟΧΗ: Θα σβηστεί και όποια πληροφορία σχετικά με το πεδίο. Αυτή η ενέργεια δεν αντιστρέφεται. Είστε σίγουρος πως θέλετε να συνεχίσετε;"
+
+msgid "Custom Fields"
+msgstr "Επιπλέον Πεδία"
+
+msgid "Add new field"
+msgstr "Προσθήκη νέου πεδίου"
+
+msgid "Add new custom field"
+msgstr "Προσθήκη νέου επιπλέον πεδίου"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "You don't have any custom fields yet"
+msgstr "Δεν έχετε επιπλέον πεδία ακόμη"
+
+msgid "Manage custom fields"
+msgstr "Διαχείριση επιπλέον πεδίων"
+
+msgid "County"
+msgstr "County"
+
+msgid "Show filters"
+msgstr "Προβολή φίλτρων"
+
+msgid "Title and Description"
+msgstr "Τίτλος και περιγραφή"
+
+msgid "Premium"
+msgstr "Προβεβλημένη"
+
+msgid "ALL"
+msgstr "ΟΛΕΣ"
+
+msgid "Reset filters"
+msgstr "Μηδενισμός φίλτρων"
+
+msgid "Select the categories where you want to apply these attributes (click on their names to expand them)"
+msgstr "Επιλέξτε τις κατηγορίες στις οποίες θέλετε να εφαρμόσετε αυτά τα χαρακτηριστικά (κάντε κλικ στα ονόματά τους για να ανοίξουν)"
+
+msgid "Watermark settings"
+msgstr "Ρυθμίσεις υδατογραφήματος"
+
+msgid "Watermark color"
+msgstr "Χρώμα υδατογραφήματος"
+
+msgid "Watermark text"
+msgstr "Κείμενο υδατογραφήματος"
+
+msgid "Watermark place"
+msgstr "Θέση υδατογραφήματος"
+
+msgid "Centre"
+msgstr "Κέντρο"
+
+msgid "Top Left"
+msgstr "Πάνω Αριστερά"
+
+msgid "Top Right"
+msgstr "Πάνω Δεξιά"
+
+msgid "Bottom Left"
+msgstr "Κάτω Αριστερά"
+
+msgid "Bottom Right"
+msgstr "Κάτω Δεξιά"
+
+msgid "Watermark image"
+msgstr "Εικόνα υδατογραφήματος"
+
+msgid "Notice that OpenSourceClassifieds don't take care about size of watermark image"
+msgstr "Δεν έχει σημασία το μέγεθος της εικόνας υδατογραφήματος"
+
+msgid "Is highly recommended to have 'Keep original image' option active when you want watermarks."
+msgstr "Συστήνεται να έχετε επιλεγμένη την επιλογή 'Διατήρηση της αρχικής εικόνας' όταν χρησιμοποιήσετε υδατογραφήματα."
+
+msgid "New version to update:"
+msgstr "Νέα έκδοση για ενημέρωση:"
+
+msgid "Your OpenSourceClassifieds installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OpenSourceClassifieds installation. You can also upgrade OpenSourceClassifieds manaully, more information in the %s"
+msgstr "Η εγκατάσταση του OpenSourceClassifieds μπορεί να αναβαθμιστεί. Παρακαλούμε κάντε βackup τη βάση δεδομένων και τον φάκελο oc-content πριν επιχειρήσετε να αναβαθμίσετε την εγκατάσταση. Μπορείτε επίσης να κάνετε την αναβάθμιση χειροκίνητα, περισσότερες πληροφορίες στο %s"
+
+msgid "Your OpenSourceClassifieds installation can not be auto-upgraded. Files and folders need to be writable. You could apply 644 permissions via SSH with the command \"chmod -R 644 *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OpenSourceClassifieds downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr "Η εγκατάσταση του OpenSourceClassifieds δεν γίνεται να αναβαθμιστεί αυτόματα. Οι φάκελοι και τα αρχεία πρέπει να είναι εγγράψιμοι. Μπορείτε να εφαρμόσετε δικαιώματα 644 μέσω SSH εκτελώντας την εντολή \\\"chmod -R 644 *\\\"  (χωρίς τα εισαγωγικά) ή μέσω FTP, όπου εξαρτάται από το πρόγραμμα, οπότε δεν μπορούμε να σας δώσουμε περισσότερες πληροφορίες. Μπορείτε επίσης να αναβαθμίσετε το OpenSourceClassifieds κατεβάζοντας το πακέτο ανανέωσης, αποσυμπιέζοντας και αντικαθιστώντας τα αρχεία του server με αυτά του πακέτου."
+

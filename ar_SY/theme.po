@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSourceClassifieds 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Admin <admin@opensourceclassifieds.org>\n"
+"Language-Team: OpenSourceClassifieds <info@opensourceclassifieds.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Page not found"
+msgstr "لم يتم العثور على الصفحة"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "لقد قمت بالاشتراك في الإعلامات بنجاح"
+
+msgid "There was a problem with the alert"
+msgstr "هناك مشكلة في الإعلام"
+
+msgid "Subscribe to this search"
+msgstr "اشترك في هذا البحث"
+
+msgid "Subscribe now"
+msgstr "إشترك الأن"
+
+msgid "Contact with us"
+msgstr "اتصل بنا"
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "Your name"
+msgstr "اسمك"
+
+msgid "Your e-mail address"
+msgstr "البريد الإلكتروني"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "Contact"
+msgstr "اتصل"
+
+msgid "This website is proudly using the <a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong>"
+msgstr "<a title=\"OpenSourceClassifieds web\" href=\"http://www.opensourceclassifieds.org/\">open source classifieds</a> software <strong>OpenSourceClassifieds</strong> هذا الموقع يستخدم بفخر"
+
+msgid "Publish an item"
+msgstr "إنشر إعلان"
+
+msgid "Edit your item"
+msgstr "تحرير إعلانك"
+
+msgid "Send to a friend"
+msgstr "أرسل إلى صديق"
+
+msgid "Contact seller"
+msgstr "راسل الناشر"
+
+msgid "page"
+msgstr "صفحة"
+
+msgid "Show all items"
+msgstr "عرض كافة الإعلانات"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Recover your password"
+msgstr "استعادة كلمة السر"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Create a new account"
+msgstr "إنشاء حساب"
+
+msgid "Dashboard"
+msgstr "لوحة الإدارة"
+
+msgid "Manage my items"
+msgstr "إدارة الإعلانات"
+
+msgid "Manage my alerts"
+msgstr "إدارة الإعلامات"
+
+msgid "Update my profile"
+msgstr "تحديث الحساب"
+
+msgid "Change my email"
+msgstr "تغيير البريد الإلكتروني"
+
+msgid "Change my password"
+msgstr "تغيير كلمة السر"
+
+msgid "Recover my password"
+msgstr "استعادة كلمة السر"
+
+msgid "Hi %s"
+msgstr "%s  مرحبا"
+
+msgid "My account"
+msgstr "حسابي"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "Register for a free account"
+msgstr "تسجيل حساب مجاني"
+
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+msgid "Password"
+msgstr "كلمة السر"
+
+msgid "Remember me"
+msgstr "تذكرني"
+
+msgid "Log in"
+msgstr "تسجيل دخول"
+
+msgid "Forgot password?"
+msgstr "نسيت كلمة المرور؟"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Publish your ad for free"
+msgstr "إنشر إعلانك مجاناَ"
+
+msgid "ie. PHP Programmer"
+msgstr "حرفين على الأقل"
+
+msgid "To (seller)"
+msgstr "(إلى (ناشر الإعلان"
+
+msgid "Item"
+msgstr "الإعلان"
+
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+msgid "Send message"
+msgstr "إرسال رسالة"
+
+msgid "Update your item"
+msgstr "تحديث إعلانك"
+
+msgid "General Information"
+msgstr "معلومات عامة"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Photos"
+msgstr "الصور"
+
+msgid "Add new photo"
+msgstr "إضافة صورة جديدة"
+
+msgid "Location"
+msgstr "الموقع"
+
+msgid "Country"
+msgstr "البلد"
+
+msgid "Region"
+msgstr "المحافظة"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "City area"
+msgstr "الحي"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Item Location"
+msgstr "موقع الإعلان"
+
+msgid "City Area"
+msgstr "الحي"
+
+msgid "Seller's information"
+msgstr "بيانات ناشر الإعلان"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "Show e-mail on the item page"
+msgstr "عرض البريد الإلكتروني على صفحة الإعلان"
+
+msgid "Publish"
+msgstr "إنشر إعلانك"
+
+msgid "Your friend's name"
+msgstr "اسم صديقك"
+
+msgid "Your friend's e-mail address"
+msgstr "عنوان بريد صديقك الإلكتروني"
+
+msgid "Mark as"
+msgstr "وضع علامة"
+
+msgid "spam"
+msgstr "مزعج"
+
+msgid "misclassified"
+msgstr "تصنيف سئ"
+
+msgid "duplicated"
+msgstr "مكرر"
+
+msgid "expired"
+msgstr "منتهي"
+
+msgid "offensive"
+msgstr "إعتداء"
+
+msgid "Share"
+msgstr "مشترك"
+
+msgid "Useful information"
+msgstr "معلومات مفيدة"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "PayPal تجنب عمليات الاحتيال من خلال التعاملات المحلية أو الدفع لمجهول بواسطة "
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "لا تقوم بالدفع أبدا عن طريق ويسترن يونيون, أو غيرها من خدمات الدفع, إلى مجهول"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr ".لا تشتري أو تبيع خارج بلدك. و لا تقبل شيكات الصرف من خارج بلدك"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr ".هذا الموقع غير مشارك في عمليات التحويل أو أي معاملة, ولا معالجة المدفوعات, ولا النقل البحري, ولا ضمان المعاملات, ولا تقديم خدمات الضمان, أو حماية المشتري"
+
+msgid "Comments"
+msgstr "التعليقات"
+
+msgid "by"
+msgstr "بواسطة"
+
+msgid "Delete your comment"
+msgstr "حذف التعليق"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "(اترك تعليقك (ستتم إزالة الرسائل الغير مرغوب فيها و الرسائل المهينة"
+
+msgid "Your e-mail"
+msgstr "البريد الإلكتروني"
+
+msgid "Title"
+msgstr "عنوان الإعلان"
+
+msgid "Comment"
+msgstr "التعليق"
+
+msgid "Contact publisher"
+msgstr "اتصل بالناشر"
+
+msgid "Tel"
+msgstr "هاتف"
+
+msgid "Your name (optional)"
+msgstr "(اسمك (اختياري"
+
+msgid "Enter the words above"
+msgstr "ادخل الكلمة الموجودة أعلى"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid "Latest Items"
+msgstr "آخر الإعلانات"
+
+msgid "No Latest Items"
+msgstr "لا يوجد إعلانات"
+
+msgid "See all offers"
+msgstr "شاهد جميع العروض"
+
+msgid "Search results"
+msgstr "نتائج البحث"
+
+msgid "Sort by"
+msgstr "الترتيب بحسب"
+
+msgid "There are no results matching \"%s\""
+msgstr "\"%s\" لا توجد نتائج مطابقة"
+
+msgid "Your search"
+msgstr "بحثك"
+
+msgid "Show only"
+msgstr "إعرض فقط"
+
+msgid "Show only items with pictures"
+msgstr "اظهار الإعلانات مع الصور فقط"
+
+msgid "Min"
+msgstr "أقل"
+
+msgid "Max"
+msgstr "أكثر"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Selected"
+msgstr "المحددة"
+
+msgid "Nothing selected, input was"
+msgstr "لا شيء محدد،  كان الإدخال"
+
+msgid "User account manager"
+msgstr "إدارة حساب المستخدم"
+
+msgid "Your alerts"
+msgstr "الإعلامات"
+
+msgid "You do not have any alerts yet"
+msgstr "ليس لديك أي إعلام بعد"
+
+msgid "Alert"
+msgstr "تنبيه"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "هذا الإجراء لن يمكنك التراجع عنه. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Delete this alert"
+msgstr "حذف هذا الإعلام"
+
+msgid "Publication date"
+msgstr "تاريخ النشر"
+
+msgid "Change your e-mail"
+msgstr "تغيير البريد الإلكتروني"
+
+msgid "Current e-mail"
+msgstr "البريد الإلكتروني الحالي"
+
+msgid "New e-mail"
+msgstr "البريد الإلكتروني الجديد"
+
+msgid "Change your password"
+msgstr "تغيير كلمة السر"
+
+msgid "Passwords don't match"
+msgstr "كلمات المرور لا تتطابق"
+
+msgid "Current password"
+msgstr "كلمة المرور الحالية"
+
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "Repeat new password"
+msgstr "اعد كتابة كلمة المرور الجديدة"
+
+msgid "Items from %s"
+msgstr "%s البنود من"
+
+msgid "No items have been added yet"
+msgstr "لم تتم إضافة أي إعلان بعد"
+
+msgid "New pasword"
+msgstr "كلمة السر الجديدة"
+
+msgid "Repeat new pasword"
+msgstr "اعد كتابة كلمة السر الجديدة"
+
+msgid "Change password"
+msgstr "تغيير كلمة السر"
+
+msgid "Your items"
+msgstr "الإعلانات"
+
+msgid "Post a new item"
+msgstr "أضف إعلان جديد"
+
+msgid "You don't have any items yet"
+msgstr "ليس لديك أي إعلان بعد"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "هذا الإجراء لن يمكنك التراجع عنه. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Activate"
+msgstr "تفعيل"
+
+msgid "Access to your account"
+msgstr "الوصول إلى حسابك"
+
+msgid "Update your profile"
+msgstr "تحديث بياناتك الشخصية"
+
+msgid "Modify e-mail"
+msgstr "تعديل البريد الإلكتروني"
+
+msgid "Modify password"
+msgstr "تعديل كلمة السر"
+
+msgid "User type"
+msgstr "نوع المستخدم"
+
+msgid "Cell phone"
+msgstr "الهاتف الخليوي"
+
+msgid "Phone"
+msgstr "الهاتف"
+
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+msgid "Send me a new password"
+msgstr "ارسل لي كلمة سر جديدة"
+
+msgid "Register an account for free"
+msgstr "سجل حساب مجانا"
+
+msgid "Re-type password"
+msgstr "إعادة كتابة كلمة السر"
+
+msgid "Create"
+msgstr "إنشاء"
+
+msgid "Invalid email address"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+msgid "Upload"
+msgstr "تحميل"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "UNIX لجعل المجلد قابل للكتابة في نظام ال ,shell قم بتنفيذ هذا الأمر من"
+
+msgid "optional"
+msgstr "اختياري"
+
+msgid "Modern theme"
+msgstr "موضوع عصري"
+
+msgid "Settings theme"
+msgstr "إعدادات الموضوع"
+
+msgid "Image"
+msgstr "صورة"
+
+msgid "Published date"
+msgstr "تاريخ النشر"
+
+msgid "Modified date"
+msgstr "تاريخ التعديل"
+
+msgid "The preferred size of the logo is 600x100"
+msgstr "600x100 الحجم المفضل لصورة اللوغو"
+
+msgid "Note: There is a logo if you upload a logo image will be replaced"
+msgstr "ملاحظة: إذا قمت بتحميل صورة لوغو جديدة, سيتم إزالة اللوغو الموجود حالياَ"
+
+msgid "Logo image"
+msgstr "صورة اللوغو"
+
+msgid "Remove logo"
+msgstr "إزالة اللوغو"
+
+msgid "Has not uploaded any logo image"
+msgstr "لم يتم تحميل صورة اللوغو"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "غير قابل للكتابة على السيرفر %s مجلد الصور "
+
+msgid "OpenSourceClassifieds can't upload logo image from the administration panel"
+msgstr "لا يمكن تحميل صورة اللوغو من لوحة الإدارة"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "الرجاء جعل مجلد الصور المحدد قابل للكتابة"
+
